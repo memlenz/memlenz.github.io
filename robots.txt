@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://memlenz.github.io/sitemap.xml
