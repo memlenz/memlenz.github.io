@@ -9,7 +9,37 @@
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <atom:link href="https://memlenz.github.io/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 03:36:29 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Expérience Personnelle</title>
+      <link>https://memlenz.github.io/fr/categories/exp%C3%A9rience-personnelle/</link>
+      <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/exp%C3%A9rience-personnelle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Informatique</title>
+      <link>https://memlenz.github.io/fr/categories/informatique/</link>
+      <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/informatique/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux &amp; Open Source</title>
+      <link>https://memlenz.github.io/fr/categories/linux--open-source/</link>
+      <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/linux--open-source/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
