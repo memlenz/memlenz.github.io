@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on </title>
+    <title>Cours on </title>
     <link>https://memlenz.github.io/fr/courses/</link>
-    <description>Recent content in Blog on </description>
+    <description>Recent content in Cours on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
     <lastBuildDate>Sat, 15 Feb 2025 02:55:22 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bienvenue dans le cours python</title>
+      <link>https://memlenz.github.io/fr/courses/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/courses/python/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

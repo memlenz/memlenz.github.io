@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course on </title>
+    <link>http://localhost:1313/tags/course/</link>
+    <description>Recent content in Course on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 15 Feb 2025 15:02:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/course/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🐍 Python: Syntax and Basic Conventions</title>
+      <link>http://localhost:1313/courses/python/syntax-and-conventions/</link>
+      <pubDate>Sat, 15 Feb 2025 15:02:02 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>http://localhost:1313/courses/python/syntax-and-conventions/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

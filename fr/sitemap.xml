@@ -4,7 +4,7 @@
 
   <url>
     <loc>https://memlenz.github.io/fr/</loc>
-    <lastmod>2025-02-15T03:36:29+01:00</lastmod>
+    <lastmod>2025-02-15T14:23:20+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,38 @@
       rel="alternate"
       hreflang="fr"
       href="https://memlenz.github.io/fr/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/blog/langage/python/why-python-is-excelent/</loc>
+    <lastmod>2025-02-15T13:39:54+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/blog/langage/python/why-python-is-excelent/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/blog/langage/python/why-python-is-excelent/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/blog/langage/</loc>
+    <lastmod>2025-02-15T13:39:44+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/blog/langage/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/blog/langage/"
     />
   </url>
   <url>
@@ -176,6 +208,21 @@
       rel="alternate"
       hreflang="fr"
       href="https://memlenz.github.io/fr/courses/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/"
     />
   </url>
 </urlset>
