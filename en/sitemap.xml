@@ -3,8 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://memlenz.github.io/courses/python/syntax-and-conventions/</loc>
+    <lastmod>2025-02-15T15:02:02+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/syntax-and-conventions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/syntax-and-conventions/"
+    />
+  </url>
+  <url>
     <loc>https://memlenz.github.io/</loc>
-    <lastmod>2025-02-15T14:21:14+01:00</lastmod>
+    <lastmod>2025-02-15T15:02:02+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -191,22 +207,6 @@
     />
   </url>
   <url>
-    <loc>https://memlenz.github.io/blog/dsa-guide/</loc>
-    <lastmod>2025-02-15T02:54:28+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://memlenz.github.io/fr/blog/dsa-guide/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://memlenz.github.io/blog/dsa-guide/"
-    />
-  </url>
-  <url>
     <loc>https://memlenz.github.io/courses/</loc>
     <lastmod>2025-02-15T02:54:28+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -223,18 +223,19 @@
     />
   </url>
   <url>
-    <loc>https://memlenz.github.io/courses/python/</loc>
+    <loc>https://memlenz.github.io/blog/dsa-guide/</loc>
+    <lastmod>2025-02-15T02:54:28+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://memlenz.github.io/fr/courses/python/"
+      href="https://memlenz.github.io/fr/blog/dsa-guide/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://memlenz.github.io/courses/python/"
+      href="https://memlenz.github.io/blog/dsa-guide/"
     />
   </url>
 </urlset>
