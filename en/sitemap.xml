@@ -238,4 +238,19 @@
       href="https://memlenz.github.io/blog/dsa-guide/"
     />
   </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/conditions/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/conditions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/conditions/"
+    />
+  </url>
 </urlset>

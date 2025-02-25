@@ -21,5 +21,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://memlenz.github.io/courses/python/syntax-and-conventions/featured.jpg" />
     </item>
     
+    <item>
+      <title></title>
+      <link>https://memlenz.github.io/courses/python/conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/courses/python/conditions/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://memlenz.github.io/courses/python/conditions/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>
