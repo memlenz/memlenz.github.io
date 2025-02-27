@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/cours/</link>
     <description>Recent content in Cours on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>fr</language>
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
@@ -18,7 +18,17 @@
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
       <guid>http://localhost:1313/courses/python/syntax-and-conventions/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/courses/python/syntax-and-conventions/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Pourquoi Python est un excellent premier langage ?</title>
+      <link>http://localhost:1313/blog/langage/python/why-python-is-excelent/</link>
+      <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>http://localhost:1313/blog/langage/python/why-python-is-excelent/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/langage/python/why-python-is-excelent/featured.jpg" />
     </item>
     
   </channel>

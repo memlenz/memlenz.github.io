@@ -12,23 +12,33 @@
     <lastBuildDate>Sat, 15 Feb 2025 02:55:22 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/courses/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>🐍 Python : Syntaxe et Conventions de Base</title>
-      <link>https://memlenz.github.io/fr/courses/python/syntax-and-conventions/</link>
-      <pubDate>Sat, 15 Feb 2025 15:02:02 +0100</pubDate>
+      <title>Opérations et expressions en Python</title>
+      <link>https://memlenz.github.io/fr/courses/python/operations-et-expression/</link>
+      <pubDate>Thu, 27 Feb 2025 02:30:39 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/courses/python/syntax-and-conventions/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/operations-et-expression/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://memlenz.github.io/courses/python/syntax-and-conventions/featured.jpg" />
+      
     </item>
     
     <item>
-      <title></title>
-      <link>https://memlenz.github.io/fr/courses/python/conditions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Syntaxe et bases du langage Python</title>
+      <link>https://memlenz.github.io/fr/courses/python/syntaxe-et-base/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/courses/python/conditions/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/syntaxe-et-base/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://memlenz.github.io/courses/python/conditions/featured.jpg" />
+      
+    </item>
+    
+    <item>
+      <title>Introduction à Python</title>
+      <link>https://memlenz.github.io/fr/courses/python/introduction/</link>
+      <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/courses/python/introduction/</guid>
+      <description></description>
+      
     </item>
     
   </channel>

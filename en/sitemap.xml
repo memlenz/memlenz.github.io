@@ -3,24 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://memlenz.github.io/courses/python/syntax-and-conventions/</loc>
-    <lastmod>2025-02-15T15:02:02+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://memlenz.github.io/fr/courses/python/syntax-and-conventions/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://memlenz.github.io/courses/python/syntax-and-conventions/"
-    />
-  </url>
-  <url>
     <loc>https://memlenz.github.io/</loc>
-    <lastmod>2025-02-15T15:02:02+01:00</lastmod>
+    <lastmod>2025-02-27T02:30:39+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -32,6 +16,70 @@
       rel="alternate"
       hreflang="en"
       href="https://memlenz.github.io/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/operations-et-expression/</loc>
+    <lastmod>2025-02-27T02:30:39+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/operations-et-expression/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/operations-et-expression/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/syntaxe-et-base/</loc>
+    <lastmod>2025-02-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/syntaxe-et-base/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/syntaxe-et-base/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/blog/langage/python/what-is-python/</loc>
+    <lastmod>2025-02-26T14:28:48+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/blog/langage/python/what-is-python/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/blog/langage/python/what-is-python/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/introduction/</loc>
+    <lastmod>2025-02-25T01:59:02+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/introduction/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/introduction/"
     />
   </url>
   <url>
@@ -236,21 +284,6 @@
       rel="alternate"
       hreflang="en"
       href="https://memlenz.github.io/blog/dsa-guide/"
-    />
-  </url>
-  <url>
-    <loc>https://memlenz.github.io/courses/python/conditions/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://memlenz.github.io/fr/courses/python/conditions/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://memlenz.github.io/courses/python/conditions/"
     />
   </url>
 </urlset>
