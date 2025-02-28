@@ -9,34 +9,14 @@
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 02:30:39 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 19:57:54 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Arithmétique</title>
-      <link>https://memlenz.github.io/fr/tags/arithm%C3%A9tique/</link>
-      <pubDate>Thu, 27 Feb 2025 02:30:39 +0100</pubDate>
+      <title>Lambda</title>
+      <link>https://memlenz.github.io/fr/tags/lambda/</link>
+      <pubDate>Thu, 27 Feb 2025 19:57:54 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/tags/arithm%C3%A9tique/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Chaînes</title>
-      <link>https://memlenz.github.io/fr/tags/cha%C3%AEnes/</link>
-      <pubDate>Thu, 27 Feb 2025 02:30:39 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/tags/cha%C3%AEnes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Opérations</title>
-      <link>https://memlenz.github.io/fr/tags/op%C3%A9rations/</link>
-      <pubDate>Thu, 27 Feb 2025 02:30:39 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/tags/op%C3%A9rations/</guid>
+      <guid>https://memlenz.github.io/fr/tags/lambda/</guid>
       <description></description>
       
     </item>
@@ -44,7 +24,7 @@
     <item>
       <title>Python</title>
       <link>https://memlenz.github.io/fr/tags/python/</link>
-      <pubDate>Thu, 27 Feb 2025 02:30:39 +0100</pubDate>
+      <pubDate>Thu, 27 Feb 2025 19:57:54 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
       <guid>https://memlenz.github.io/fr/tags/python/</guid>
       <description></description>
@@ -52,9 +32,179 @@
     </item>
     
     <item>
+      <title>Fonctions</title>
+      <link>https://memlenz.github.io/fr/tags/fonctions/</link>
+      <pubDate>Thu, 27 Feb 2025 19:54:14 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/fonctions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>For</title>
+      <link>https://memlenz.github.io/fr/tags/for/</link>
+      <pubDate>Thu, 27 Feb 2025 19:47:35 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/for/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>While</title>
+      <link>https://memlenz.github.io/fr/tags/while/</link>
+      <pubDate>Thu, 27 Feb 2025 19:47:35 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/while/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Conditions</title>
+      <link>https://memlenz.github.io/fr/tags/conditions/</link>
+      <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/conditions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Elif</title>
+      <link>https://memlenz.github.io/fr/tags/elif/</link>
+      <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/elif/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Else</title>
+      <link>https://memlenz.github.io/fr/tags/else/</link>
+      <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/else/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>If</title>
+      <link>https://memlenz.github.io/fr/tags/if/</link>
+      <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/if/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dictionnaires</title>
+      <link>https://memlenz.github.io/fr/tags/dictionnaires/</link>
+      <pubDate>Thu, 27 Feb 2025 19:30:48 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/dictionnaires/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sets</title>
+      <link>https://memlenz.github.io/fr/tags/sets/</link>
+      <pubDate>Thu, 27 Feb 2025 19:27:26 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/sets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tuples</title>
+      <link>https://memlenz.github.io/fr/tags/tuples/</link>
+      <pubDate>Thu, 27 Feb 2025 18:50:12 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/tuples/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Listes</title>
+      <link>https://memlenz.github.io/fr/tags/listes/</link>
+      <pubDate>Thu, 27 Feb 2025 18:47:13 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/listes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Opérateurs</title>
+      <link>https://memlenz.github.io/fr/tags/op%C3%A9rateurs/</link>
+      <pubDate>Thu, 27 Feb 2025 18:44:01 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/op%C3%A9rateurs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Booléen</title>
+      <link>https://memlenz.github.io/fr/tags/bool%C3%A9en/</link>
+      <pubDate>Thu, 27 Feb 2025 18:38:35 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/bool%C3%A9en/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chaînes</title>
+      <link>https://memlenz.github.io/fr/tags/cha%C3%AEnes/</link>
+      <pubDate>Thu, 27 Feb 2025 17:50:25 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/cha%C3%AEnes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Casting</title>
+      <link>https://memlenz.github.io/fr/tags/casting/</link>
+      <pubDate>Thu, 27 Feb 2025 14:34:02 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/casting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nombres</title>
+      <link>https://memlenz.github.io/fr/tags/nombres/</link>
+      <pubDate>Thu, 27 Feb 2025 12:30:01 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/nombres/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Type De Donnée</title>
+      <link>https://memlenz.github.io/fr/tags/type-de-donn%C3%A9e/</link>
+      <pubDate>Thu, 27 Feb 2025 10:22:53 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/type-de-donn%C3%A9e/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Syntaxe</title>
       <link>https://memlenz.github.io/fr/tags/syntaxe/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2025 02:29:44 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
       <guid>https://memlenz.github.io/fr/tags/syntaxe/</guid>
       <description></description>
@@ -64,7 +214,7 @@
     <item>
       <title>Variables</title>
       <link>https://memlenz.github.io/fr/tags/variables/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2025 02:26:44 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
       <guid>https://memlenz.github.io/fr/tags/variables/</guid>
       <description></description>

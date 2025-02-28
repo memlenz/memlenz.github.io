@@ -9,24 +9,14 @@
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 02:30:39 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Operations and Expressions in Python</title>
-      <link>https://memlenz.github.io/courses/python/operations-et-expression/</link>
-      <pubDate>Thu, 27 Feb 2025 02:30:39 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/courses/python/operations-et-expression/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://memlenz.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Syntax and Basics of Python Language</title>
-      <link>https://memlenz.github.io/courses/python/syntaxe-et-base/</link>
+      <link>https://memlenz.github.io/courses/python/syntaxe/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/courses/python/syntaxe-et-base/</guid>
+      <guid>https://memlenz.github.io/courses/python/syntaxe/</guid>
       <description></description>
       
     </item>

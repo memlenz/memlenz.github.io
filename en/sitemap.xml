@@ -3,8 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://memlenz.github.io/courses/python/lambda/</loc>
+    <lastmod>2025-02-27T19:57:51+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/lambda/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/lambda/"
+    />
+  </url>
+  <url>
     <loc>https://memlenz.github.io/</loc>
-    <lastmod>2025-02-27T02:30:39+01:00</lastmod>
+    <lastmod>2025-02-27T19:57:51+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,35 +35,243 @@
     />
   </url>
   <url>
-    <loc>https://memlenz.github.io/courses/python/operations-et-expression/</loc>
-    <lastmod>2025-02-27T02:30:39+01:00</lastmod>
+    <loc>https://memlenz.github.io/courses/python/fonction/</loc>
+    <lastmod>2025-02-27T19:54:18+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://memlenz.github.io/fr/courses/python/operations-et-expression/"
+      href="https://memlenz.github.io/fr/courses/python/fonction/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://memlenz.github.io/courses/python/operations-et-expression/"
+      href="https://memlenz.github.io/courses/python/fonction/"
     />
   </url>
   <url>
-    <loc>https://memlenz.github.io/courses/python/syntaxe-et-base/</loc>
+    <loc>https://memlenz.github.io/courses/python/boucles/</loc>
+    <lastmod>2025-02-27T19:47:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/boucles/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/boucles/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/conditions/</loc>
+    <lastmod>2025-02-27T19:39:33+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/conditions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/conditions/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/dictionnaires/</loc>
+    <lastmod>2025-02-27T19:30:45+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/dictionnaires/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/dictionnaires/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/sets/</loc>
+    <lastmod>2025-02-27T19:27:29+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/sets/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/sets/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/tuples/</loc>
+    <lastmod>2025-02-27T18:50:08+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/tuples/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/tuples/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/list/</loc>
+    <lastmod>2025-02-27T18:47:16+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/list/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/list/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/operateurs/</loc>
+    <lastmod>2025-02-27T18:43:57+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/operateurs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/operateurs/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/booleen/</loc>
+    <lastmod>2025-02-27T18:38:38+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/booleen/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/booleen/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/casting/</loc>
+    <lastmod>2025-02-27T18:33:58+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/casting/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/casting/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/nombres/</loc>
+    <lastmod>2025-02-27T18:30:04+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/nombres/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/nombres/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/type-donnee/</loc>
+    <lastmod>2025-02-27T18:22:48+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/type-donnee/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/type-donnee/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/variables/</loc>
+    <lastmod>2025-02-27T18:05:06+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/variables/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/variables/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/strings/</loc>
+    <lastmod>2025-02-27T17:50:20+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/strings/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/strings/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/courses/python/syntaxe/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://memlenz.github.io/fr/courses/python/syntaxe-et-base/"
+      href="https://memlenz.github.io/fr/courses/python/syntaxe/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://memlenz.github.io/courses/python/syntaxe-et-base/"
+      href="https://memlenz.github.io/courses/python/syntaxe/"
     />
   </url>
   <url>
