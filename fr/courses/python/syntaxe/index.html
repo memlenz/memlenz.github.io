@@ -108,7 +108,7 @@
     "keywords": ["python","syntaxe"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "923"
+    "wordCount": "900"
   }]
   </script>
 
@@ -580,7 +580,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span>923 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">5 mins</span><span class="px-2 text-primary-500">&middot;</span>
+  <span>900 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">5 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/js/zen-mode.min.eea5245cf9244ecbdf2c150d1c8833226c1541cadf6e98f63a7c9192b1a3676df2c3ec603b14f4cfaaa53971fd9d8955640c0f405bf3de2b43ee7a5fb29ae721.js" integrity="sha512-7qUkXPkkTsvfLBUNHIgzImwVQcrfbpj2OnyRkrGjZ23yw&#43;xgOxT0z6qlOXH9nYlVZAwPQFvz3itD7npfsprnIQ=="></script>
@@ -813,7 +813,7 @@
         <li><a href="#3-les-structures-de-contrôle--if-elif-et-else">3. <strong>Les Structures de Contrôle : If, Elif et Else</strong></a></li>
         <li><a href="#4-les-boucles--for-et-while">4. <strong>Les Boucles : For et While</strong></a></li>
         <li><a href="#5-les-fonctions--comment-ça-marche">5. <strong>Les Fonctions : Comment Ça Marche</strong></a></li>
-        <li><a href="#6-les-listes--une-syntaxe-très-pythonic">6. <strong>Les Listes : Une Syntaxe Très Pythonic</strong></a></li>
+        <li><a href="#6-les-listes-">6. **Les Listes **</a></li>
         <li><a href="#7-les-dictionnaires--manipuler-des-paires-clévaleur">7. <strong>Les Dictionnaires : Manipuler des Paires Clé/Valeur</strong></a></li>
         <li><a href="#8-les-classes-et-objets--un-petit-voyage-en-poo">8. <strong>Les Classes et Objets : Un Petit Voyage en POO</strong></a></li>
         <li><a href="#9-gestion-des-exceptions--tryexcept">9. <strong>Gestion des Exceptions : Try/Except</strong></a></li>
@@ -840,7 +840,7 @@
         <li><a href="#3-les-structures-de-contrôle--if-elif-et-else">3. <strong>Les Structures de Contrôle : If, Elif et Else</strong></a></li>
         <li><a href="#4-les-boucles--for-et-while">4. <strong>Les Boucles : For et While</strong></a></li>
         <li><a href="#5-les-fonctions--comment-ça-marche">5. <strong>Les Fonctions : Comment Ça Marche</strong></a></li>
-        <li><a href="#6-les-listes--une-syntaxe-très-pythonic">6. <strong>Les Listes : Une Syntaxe Très Pythonic</strong></a></li>
+        <li><a href="#6-les-listes-">6. **Les Listes **</a></li>
         <li><a href="#7-les-dictionnaires--manipuler-des-paires-clévaleur">7. <strong>Les Dictionnaires : Manipuler des Paires Clé/Valeur</strong></a></li>
         <li><a href="#8-les-classes-et-objets--un-petit-voyage-en-poo">8. <strong>Les Classes et Objets : Un Petit Voyage en POO</strong></a></li>
         <li><a href="#9-gestion-des-exceptions--tryexcept">9. <strong>Gestion des Exceptions : Try/Except</strong></a></li>
@@ -946,7 +946,7 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">saluer</span><span class="p">():</span>
 </span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Bonjour&#34;</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Comment ça va ?&#34;</span><span class="p">)</span>
-</span></span></code></pre></div><p>Ici, les deux <code>print()</code> sont indents pour indiquer qu&rsquo;ils font partie du bloc de la fonction <code>saluer()</code>. Si tu oublies de les indenter, tu vas avoir une erreur.</p>
+</span></span></code></pre></div><p>Ici, les deux <code>print()</code> sont indentés pour indiquer qu&rsquo;ils font partie du bloc de la fonction <code>saluer()</code>. Si tu oublies de les indenter, tu vas avoir une erreur.</p>
 
 
 <h3 class="relative group">2. <strong>Les Variables et l’Assignation</strong> 
@@ -975,7 +975,7 @@
     </span>        
     
 </h3>
-<p>Les structures de contrôle en Python sont classiques, mais avec une petite touche de Pythonic. Prenons l&rsquo;exemple du célèbre <code>if</code> :</p>
+<p>Les structures de contrôle en Python sont classiques. Prenons l&rsquo;exemple du célèbre <code>if</code> :</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">age</span> <span class="o">=</span> <span class="mi">18</span>
 </span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="n">age</span> <span class="o">&gt;=</span> <span class="mi">18</span><span class="p">:</span>
 </span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Tu es majeur.&#34;</span><span class="p">)</span>
@@ -1036,13 +1036,13 @@
 </span></span></code></pre></div><p>Les fonctions en Python sont également flexibles : tu peux passer des arguments par défaut, des arguments variadiques, et même renvoyer plusieurs valeurs.</p>
 
 
-<h3 class="relative group">6. <strong>Les Listes : Une Syntaxe Très Pythonic</strong> 
-    <div id="6-les-listes--une-syntaxe-tr%C3%A8s-pythonic" class="anchor"></div>
+<h3 class="relative group">6. **Les Listes ** 
+    <div id="6-les-listes-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#6-les-listes--une-syntaxe-tr%C3%A8s-pythonic" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#6-les-listes-" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
@@ -1050,7 +1050,7 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">nombres</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">]</span>
 </span></span><span class="line"><span class="cl"><span class="n">nombres</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span>  <span class="c1"># Ajoute un élément à la fin</span>
 </span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">nombres</span><span class="p">)</span>  <span class="c1"># Résultat : [1, 2, 3, 4]</span>
-</span></span></code></pre></div><p>Tu peux aussi manipuler les listes avec des compréhensions de liste, ce qui est une fonctionnalité très &ldquo;Pythonic&rdquo; et élégante.</p>
+</span></span></code></pre></div><p>Tu peux aussi manipuler les listes avec facilité.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">carres</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span><span class="o">**</span><span class="mi">2</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">5</span><span class="p">)]</span>
 </span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">carres</span><span class="p">)</span>  <span class="c1"># Résultat : [0, 1, 4, 9, 16]</span>
 </span></span></code></pre></div>
