@@ -3,6 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://memlenz.github.io/fr/courses/python/portee/</loc>
+    <lastmod>2025-03-03T05:57:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/portee/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/portee/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/</loc>
+    <lastmod>2025-03-03T05:57:31+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/polymorphisme/</loc>
+    <lastmod>2025-03-03T05:53:56+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/polymorphisme/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/polymorphisme/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/heritage/</loc>
+    <lastmod>2025-03-03T05:50:46+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/heritage/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/heritage/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/classes/</loc>
+    <lastmod>2025-03-03T05:46:06+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/classes/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/classes/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/array/</loc>
+    <lastmod>2025-03-03T05:40:20+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/array/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/array/"
+    />
+  </url>
+  <url>
     <loc>https://memlenz.github.io/fr/courses/python/lambda/</loc>
     <lastmod>2025-02-27T19:57:54+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -16,22 +112,6 @@
       rel="alternate"
       hreflang="fr"
       href="https://memlenz.github.io/fr/courses/python/lambda/"
-    />
-  </url>
-  <url>
-    <loc>https://memlenz.github.io/fr/</loc>
-    <lastmod>2025-02-27T19:57:54+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://memlenz.github.io/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://memlenz.github.io/fr/"
     />
   </url>
   <url>
