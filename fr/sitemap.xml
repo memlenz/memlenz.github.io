@@ -3,6 +3,140 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://memlenz.github.io/fr/blog/python/bagels/</loc>
+    <lastmod>2025-03-26T21:29:56+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/</loc>
+    <lastmod>2025-03-26T21:29:56+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/try-except/</loc>
+    <lastmod>2025-03-04T02:08:27+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/try-except/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/try-except/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/pip/</loc>
+    <lastmod>2025-03-04T02:03:48+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/pip/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/pip/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/module-regex/</loc>
+    <lastmod>2025-03-04T01:42:00+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/module-regex/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/module-regex/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/module-json/</loc>
+    <lastmod>2025-03-04T01:37:05+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/module-json/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/module-json/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/module-math/</loc>
+    <lastmod>2025-03-04T01:32:43+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/module-math/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/module-math/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/dates/</loc>
+    <lastmod>2025-03-04T01:27:53+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/dates/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/dates/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/courses/python/modules/</loc>
+    <lastmod>2025-03-04T01:19:13+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://memlenz.github.io/courses/python/modules/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://memlenz.github.io/fr/courses/python/modules/"
+    />
+  </url>
+  <url>
     <loc>https://memlenz.github.io/fr/courses/python/portee/</loc>
     <lastmod>2025-03-03T05:57:31+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -16,22 +150,6 @@
       rel="alternate"
       hreflang="fr"
       href="https://memlenz.github.io/fr/courses/python/portee/"
-    />
-  </url>
-  <url>
-    <loc>https://memlenz.github.io/fr/</loc>
-    <lastmod>2025-03-03T05:57:31+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://memlenz.github.io/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://memlenz.github.io/fr/"
     />
   </url>
   <url>
@@ -323,22 +441,6 @@
     />
   </url>
   <url>
-    <loc>https://memlenz.github.io/fr/blog/langage/python/what-is-python/</loc>
-    <lastmod>2025-02-26T14:34:21+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://memlenz.github.io/blog/langage/python/what-is-python/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://memlenz.github.io/fr/blog/langage/python/what-is-python/"
-    />
-  </url>
-  <url>
     <loc>https://memlenz.github.io/fr/courses/python/syntaxe/</loc>
     <lastmod>2025-02-26T02:29:44+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -387,51 +489,47 @@
     />
   </url>
   <url>
-    <loc>https://memlenz.github.io/fr/blog/langage/python/why-python-is-excelent/</loc>
+    <loc>https://memlenz.github.io/fr/blog/python/</loc>
+    <lastmod>2025-02-16T02:55:22+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/blog/python/pourquoi-python/</loc>
     <lastmod>2025-02-15T13:39:54+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://memlenz.github.io/blog/langage/python/why-python-is-excelent/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://memlenz.github.io/fr/blog/langage/python/why-python-is-excelent/"
-    />
   </url>
   <url>
-    <loc>https://memlenz.github.io/fr/blog/langage/</loc>
+    <loc>https://memlenz.github.io/fr/blog/</loc>
     <lastmod>2025-02-15T13:39:44+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://memlenz.github.io/blog/langage/"
+      href="https://memlenz.github.io/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://memlenz.github.io/fr/blog/langage/"
+      href="https://memlenz.github.io/fr/blog/"
     />
   </url>
   <url>
-    <loc>https://memlenz.github.io/fr/blog/pourquoi-linux-m-a-fait-gagner/</loc>
+    <loc>https://memlenz.github.io/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</loc>
     <lastmod>2025-02-15T03:36:29+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://memlenz.github.io/blog/why-linux-made-me-win/"
+      href="https://memlenz.github.io/blog/why-linux/why-linux-made-me-win/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://memlenz.github.io/fr/blog/pourquoi-linux-m-a-fait-gagner/"
+      href="https://memlenz.github.io/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/"
     />
   </url>
   <url>
@@ -531,22 +629,6 @@
     />
   </url>
   <url>
-    <loc>https://memlenz.github.io/fr/blog/</loc>
-    <lastmod>2025-02-15T02:55:22+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://memlenz.github.io/blog/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://memlenz.github.io/fr/blog/"
-    />
-  </url>
-  <url>
     <loc>https://memlenz.github.io/fr/courses/</loc>
     <lastmod>2025-02-15T02:55:22+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -563,19 +645,19 @@
     />
   </url>
   <url>
-    <loc>https://memlenz.github.io/fr/blog/dsa-guide/</loc>
+    <loc>https://memlenz.github.io/fr/blog/dsa-guide/dsa-intro/</loc>
     <lastmod>2025-02-15T02:55:22+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://memlenz.github.io/blog/dsa-guide/"
+      href="https://memlenz.github.io/blog/dsa-guide/dsa-intro/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://memlenz.github.io/fr/blog/dsa-guide/"
+      href="https://memlenz.github.io/fr/blog/dsa-guide/dsa-intro/"
     />
   </url>
 </urlset>

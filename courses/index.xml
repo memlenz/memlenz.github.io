@@ -12,6 +12,76 @@
     <lastBuildDate>Sat, 15 Feb 2025 02:54:28 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Try Except</title>
+      <link>https://memlenz.github.io/courses/python/try-except/</link>
+      <pubDate>Tue, 04 Mar 2025 02:08:32 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/courses/python/try-except/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PIP</title>
+      <link>https://memlenz.github.io/courses/python/pip/</link>
+      <pubDate>Tue, 04 Mar 2025 02:03:45 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/courses/python/pip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Module RegEx</title>
+      <link>https://memlenz.github.io/courses/python/module-regex/</link>
+      <pubDate>Tue, 04 Mar 2025 01:41:56 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/courses/python/module-regex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Module JSON</title>
+      <link>https://memlenz.github.io/courses/python/module-json/</link>
+      <pubDate>Tue, 04 Mar 2025 01:37:10 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/courses/python/module-json/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Module Math</title>
+      <link>https://memlenz.github.io/courses/python/module-math/</link>
+      <pubDate>Tue, 04 Mar 2025 01:32:39 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/courses/python/module-math/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dates</title>
+      <link>https://memlenz.github.io/courses/python/dates/</link>
+      <pubDate>Tue, 04 Mar 2025 01:27:57 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/courses/python/dates/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Modules</title>
+      <link>https://memlenz.github.io/courses/python/modules/</link>
+      <pubDate>Tue, 04 Mar 2025 01:19:03 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/courses/python/modules/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Portee</title>
       <link>https://memlenz.github.io/courses/python/portee/</link>
       <pubDate>Mon, 03 Mar 2025 05:57:40 +0100</pubDate>

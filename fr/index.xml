@@ -9,7 +9,87 @@
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 05:57:31 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Mar 2025 21:29:56 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>📝 Bagels : Un jeu de déduction logique en python</title>
+      <link>https://memlenz.github.io/fr/blog/python/bagels/</link>
+      <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/bagels/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Les exceptions en Python</title>
+      <link>https://memlenz.github.io/fr/courses/python/try-except/</link>
+      <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/courses/python/try-except/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Le gestionnaire de packet PIP</title>
+      <link>https://memlenz.github.io/fr/courses/python/pip/</link>
+      <pubDate>Tue, 04 Mar 2025 02:03:48 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/courses/python/pip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Module RegEx</title>
+      <link>https://memlenz.github.io/fr/courses/python/module-regex/</link>
+      <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/courses/python/module-regex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Module JSON</title>
+      <link>https://memlenz.github.io/fr/courses/python/module-json/</link>
+      <pubDate>Tue, 04 Mar 2025 01:37:05 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/courses/python/module-json/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Module Math</title>
+      <link>https://memlenz.github.io/fr/courses/python/module-math/</link>
+      <pubDate>Tue, 04 Mar 2025 01:32:43 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/courses/python/module-math/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Les Dates en Python</title>
+      <link>https://memlenz.github.io/fr/courses/python/dates/</link>
+      <pubDate>Tue, 04 Mar 2025 01:27:53 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/courses/python/dates/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Les Modules en Python</title>
+      <link>https://memlenz.github.io/fr/courses/python/modules/</link>
+      <pubDate>Tue, 04 Mar 2025 01:19:13 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/courses/python/modules/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>La portee en Python</title>
@@ -202,16 +282,6 @@
     </item>
     
     <item>
-      <title>What Is Python</title>
-      <link>https://memlenz.github.io/fr/blog/langage/python/what-is-python/</link>
-      <pubDate>Wed, 26 Feb 2025 14:34:21 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/blog/langage/python/what-is-python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Syntaxe du langage Python</title>
       <link>https://memlenz.github.io/fr/courses/python/syntaxe/</link>
       <pubDate>Wed, 26 Feb 2025 02:29:44 +0100</pubDate>
@@ -243,20 +313,30 @@
     
     <item>
       <title>Pourquoi Python est un excellent premier langage ?</title>
-      <link>https://memlenz.github.io/fr/blog/langage/python/why-python-is-excelent/</link>
+      <link>https://memlenz.github.io/fr/blog/python/pourquoi-python/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/blog/langage/python/why-python-is-excelent/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/pourquoi-python/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://memlenz.github.io/blog/langage/python/why-python-is-excelent/featured.jpg" />
+      
     </item>
     
     <item>
       <title>Why Linux</title>
-      <link>https://memlenz.github.io/fr/blog/pourquoi-linux-m-a-fait-gagner/</link>
+      <link>https://memlenz.github.io/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/blog/pourquoi-linux-m-a-fait-gagner/</guid>
+      <guid>https://memlenz.github.io/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DSA</title>
+      <link>https://memlenz.github.io/fr/blog/dsa-guide/dsa-intro/</link>
+      <pubDate>Sat, 15 Feb 2025 02:55:22 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/dsa-guide/dsa-intro/</guid>
       <description></description>
       
     </item>

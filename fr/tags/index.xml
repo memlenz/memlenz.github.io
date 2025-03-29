@@ -9,14 +9,14 @@
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 05:57:31 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 02:08:27 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Portée</title>
-      <link>https://memlenz.github.io/fr/tags/port%C3%A9e/</link>
-      <pubDate>Mon, 03 Mar 2025 05:57:31 +0100</pubDate>
+      <title>Exceptions</title>
+      <link>https://memlenz.github.io/fr/tags/exceptions/</link>
+      <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/tags/port%C3%A9e/</guid>
+      <guid>https://memlenz.github.io/fr/tags/exceptions/</guid>
       <description></description>
       
     </item>
@@ -24,9 +24,99 @@
     <item>
       <title>Python</title>
       <link>https://memlenz.github.io/fr/tags/python/</link>
-      <pubDate>Mon, 03 Mar 2025 05:57:31 +0100</pubDate>
+      <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
       <guid>https://memlenz.github.io/fr/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Try ... Except</title>
+      <link>https://memlenz.github.io/fr/tags/try-...-except/</link>
+      <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/try-...-except/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PIP</title>
+      <link>https://memlenz.github.io/fr/tags/pip/</link>
+      <pubDate>Tue, 04 Mar 2025 02:03:48 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/pip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Module</title>
+      <link>https://memlenz.github.io/fr/tags/module/</link>
+      <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/module/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RegEx</title>
+      <link>https://memlenz.github.io/fr/tags/regex/</link>
+      <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/regex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JSON</title>
+      <link>https://memlenz.github.io/fr/tags/json/</link>
+      <pubDate>Tue, 04 Mar 2025 01:37:05 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/json/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>https://memlenz.github.io/fr/tags/math/</link>
+      <pubDate>Tue, 04 Mar 2025 01:32:43 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/math/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dates</title>
+      <link>https://memlenz.github.io/fr/tags/dates/</link>
+      <pubDate>Tue, 04 Mar 2025 01:27:53 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/dates/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Modules</title>
+      <link>https://memlenz.github.io/fr/tags/modules/</link>
+      <pubDate>Tue, 04 Mar 2025 01:19:13 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/modules/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Portée</title>
+      <link>https://memlenz.github.io/fr/tags/port%C3%A9e/</link>
+      <pubDate>Mon, 03 Mar 2025 05:57:31 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/port%C3%A9e/</guid>
       <description></description>
       
     </item>
@@ -302,36 +392,6 @@
     </item>
     
     <item>
-      <title>Cours</title>
-      <link>https://memlenz.github.io/fr/tags/cours/</link>
-      <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/tags/cours/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Développement</title>
-      <link>https://memlenz.github.io/fr/tags/d%C3%A9veloppement/</link>
-      <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/tags/d%C3%A9veloppement/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Programmation</title>
-      <link>https://memlenz.github.io/fr/tags/programmation/</link>
-      <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/tags/programmation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>C&#43;&#43;</title>
       <link>https://memlenz.github.io/fr/tags/c&#43;&#43;/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:44 +0100</pubDate>
@@ -347,6 +407,16 @@
       <pubDate>Sat, 15 Feb 2025 13:39:44 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
       <guid>https://memlenz.github.io/fr/tags/java/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Développement</title>
+      <link>https://memlenz.github.io/fr/tags/d%C3%A9veloppement/</link>
+      <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/tags/d%C3%A9veloppement/</guid>
       <description></description>
       
     </item>

@@ -62,36 +62,6 @@
     </item>
     
     <item>
-      <title>Courses</title>
-      <link>https://memlenz.github.io/tags/courses/</link>
-      <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/tags/courses/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://memlenz.github.io/tags/development/</link>
-      <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/tags/development/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://memlenz.github.io/tags/programming/</link>
-      <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>https://memlenz.github.io/tags/programming/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>C&#43;&#43;</title>
       <link>https://memlenz.github.io/tags/c&#43;&#43;/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:39 +0100</pubDate>
@@ -107,6 +77,16 @@
       <pubDate>Sat, 15 Feb 2025 13:39:39 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
       <guid>https://memlenz.github.io/tags/java/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://memlenz.github.io/tags/development/</link>
+      <pubDate>Sat, 15 Feb 2025 03:36:23 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/tags/development/</guid>
       <description></description>
       
     </item>
