@@ -12,7 +12,57 @@
     <lastBuildDate>Sun, 16 Feb 2025 02:55:22 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/blog/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>📝 Bagels : Un jeu de déduction logique en python</title>
+      <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
+      <link>https://memlenz.github.io/fr/blog/python/environnement-de-travail/</link>
+      <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/environnement-de-travail/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Différence entre l’interpréteur Python (Shell interactif) et un fichier Python</title>
+      <link>https://memlenz.github.io/fr/blog/python/interpreteur-vs-fichier/</link>
+      <pubDate>Sat, 29 Mar 2025 23:37:06 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/interpreteur-vs-fichier/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Différence entre un langage interprété et un langage compilé</title>
+      <link>https://memlenz.github.io/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
+      <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🖥️ Différence entre un langage de programmation et un logiciel classique</title>
+      <link>https://memlenz.github.io/fr/blog/python/difference-logiciel-langage/</link>
+      <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/difference-logiciel-langage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Différence entre un fichier .py et un exécutable .exe</title>
+      <link>https://memlenz.github.io/fr/blog/python/difference-exe-py/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/difference-exe-py/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique</title>
       <link>https://memlenz.github.io/fr/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
