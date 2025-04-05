@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
-  data-auto-appearance="false"><head>
+  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="fr" />
@@ -15,7 +15,7 @@
   <meta name="keywords" content="Python, Module, JSON, " />
   
   
-  <link rel="canonical" href="https://memlenz.github.io/fr/courses/python/module-json/" />
+  <link rel="canonical" href="http://localhost:1313/fr/courses/python/module-json/" />
   
   
   
@@ -46,8 +46,8 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.a2d78d78672e549fbfc972ece871725b5478ba0b65708dda20cb97ab80a865eae6d247e1b05a4aec6ebbf78647ec3233bad8b2609ed98eee53cd58aa17128bc7.js"
-    integrity="sha512-oteNeGcuVJ&#43;/yXLs6HFyW1R4ugtlcI3aIMuXq4CoZerm0kfhsFpK7G6794ZH7DIzutiyYJ7Zju5TzViqFxKLxw==" data-copy="" data-copied=""></script>
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.f88bdf262f6df8418ce7e23e3c2483bca8a1e86d51d7528a9c62be5681e9dc1b693a7c25bcf112b5242d2f72e5e44902ff17dda3ca098b4e15898622c6a9e87b.js"
+    integrity="sha512-&#43;IvfJi9t&#43;EGM5&#43;I&#43;PCSDvKih6G1R11KKnGK&#43;VoHp3BtpOnwlvPEStSQtL3Ll5EkC/xfdo8oJi04ViYYixqnoew==" data-copy="" data-copied=""></script>
   
   
   
@@ -68,7 +68,7 @@
   
   
   
-  <meta property="og:url" content="https://memlenz.github.io/fr/courses/python/module-json/">
+  <meta property="og:url" content="http://localhost:1313/fr/courses/python/module-json/">
   <meta property="og:title" content="Module JSON">
   <meta property="og:description" content="Maîtriser le module JSON en Python">
   <meta property="og:locale" content="fr">
@@ -96,7 +96,7 @@
     "description": "Maîtriser le module JSON en Python",
     
     "inLanguage": "fr",
-    "url" : "https:\/\/memlenz.github.io\/fr\/courses\/python\/module-json\/",
+    "url" : "http:\/\/localhost:1313\/fr\/courses\/python\/module-json\/",
     "author" : {
       "@type": "Person",
       "name": "Ayédoun Châ-Fine ADEBI"
@@ -695,7 +695,7 @@
         
       
       <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
-      alt="Ayédoun Châ-Fine ADEBI" src="/img/thememlenz_hu3466632650705667995.jpg" />
+      alt="Ayédoun Châ-Fine ADEBI" src="/img/thememlenz_hu_e6548352db578fe9.jpg" />
     
   
   <div class="place-self-center">
@@ -817,20 +817,20 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#1-importation-du-module-json"><strong>1. Importation du Module JSON</strong></a></li>
-    <li><a href="#2-convertir-un-dictionnaire-python-en-json-jsondumps"><strong>2. Convertir un Dictionnaire Python en JSON (<code>json.dumps</code>)</strong></a>
+    <li><a href="#2-convertir-un-dictionnaire-python-en-json-"><strong>2. Convertir un Dictionnaire Python en JSON (<code>json.dumps</code>)</strong></a>
       <ul>
-        <li><a href="#-formatage-lisible-indent-sort_keys"><strong>🔹 Formatage lisible (<code>indent</code>, <code>sort_keys</code>)</strong></a></li>
+        <li><a href="#-formatage-lisible-"><strong>🔹 Formatage lisible (<code>indent</code>, <code>sort_keys</code>)</strong></a></li>
       </ul>
     </li>
-    <li><a href="#3-convertir-du-json-en-dictionnaire-python-jsonloads"><strong>3. Convertir du JSON en Dictionnaire Python (<code>json.loads</code>)</strong></a></li>
-    <li><a href="#4-lire-et-écrire-un-fichier-json-jsondump--jsonload"><strong>4. Lire et Écrire un Fichier JSON (<code>json.dump</code> &amp; <code>json.load</code>)</strong></a>
+    <li><a href="#3-convertir-du-json-en-dictionnaire-python-"><strong>3. Convertir du JSON en Dictionnaire Python (<code>json.loads</code>)</strong></a></li>
+    <li><a href="#4-lire-et-écrire-un-fichier-json-"><strong>4. Lire et Écrire un Fichier JSON (<code>json.dump</code> &amp; <code>json.load</code>)</strong></a>
       <ul>
-        <li><a href="#-sauvegarder-un-dictionnaire-dans-un-fichier-json-jsondump"><strong>🔹 Sauvegarder un dictionnaire dans un fichier JSON (<code>json.dump</code>)</strong></a></li>
-        <li><a href="#-charger-un-fichier-json-jsonload"><strong>🔹 Charger un fichier JSON (<code>json.load</code>)</strong></a></li>
+        <li><a href="#-sauvegarder-un-dictionnaire-dans-un-fichier-json-"><strong>🔹 Sauvegarder un dictionnaire dans un fichier JSON (<code>json.dump</code>)</strong></a></li>
+        <li><a href="#-charger-un-fichier-json-"><strong>🔹 Charger un fichier JSON (<code>json.load</code>)</strong></a></li>
       </ul>
     </li>
-    <li><a href="#5-sérialiser-des-objets-personnalisés-default"><strong>5. Sérialiser des Objets Personnalisés (<code>default</code>)</strong></a></li>
-    <li><a href="#6-désérialiser-des-objets-personnalisés-object_hook"><strong>6. Désérialiser des Objets Personnalisés (<code>object_hook</code>)</strong></a></li>
+    <li><a href="#5-sérialiser-des-objets-personnalisés-"><strong>5. Sérialiser des Objets Personnalisés (<code>default</code>)</strong></a></li>
+    <li><a href="#6-désérialiser-des-objets-personnalisés-"><strong>6. Désérialiser des Objets Personnalisés (<code>object_hook</code>)</strong></a></li>
     <li><a href="#7-gérer-les-erreurs-json"><strong>7. Gérer les Erreurs JSON</strong></a></li>
     <li><a href="#8-cas-pratiques--json-dans-la-vraie-vie-"><strong>8. Cas Pratiques : JSON dans la Vraie Vie 🚀</strong></a>
       <ul>
@@ -853,20 +853,20 @@
     <nav id="TableOfContents">
   <ul>
     <li><a href="#1-importation-du-module-json"><strong>1. Importation du Module JSON</strong></a></li>
-    <li><a href="#2-convertir-un-dictionnaire-python-en-json-jsondumps"><strong>2. Convertir un Dictionnaire Python en JSON (<code>json.dumps</code>)</strong></a>
+    <li><a href="#2-convertir-un-dictionnaire-python-en-json-"><strong>2. Convertir un Dictionnaire Python en JSON (<code>json.dumps</code>)</strong></a>
       <ul>
-        <li><a href="#-formatage-lisible-indent-sort_keys"><strong>🔹 Formatage lisible (<code>indent</code>, <code>sort_keys</code>)</strong></a></li>
+        <li><a href="#-formatage-lisible-"><strong>🔹 Formatage lisible (<code>indent</code>, <code>sort_keys</code>)</strong></a></li>
       </ul>
     </li>
-    <li><a href="#3-convertir-du-json-en-dictionnaire-python-jsonloads"><strong>3. Convertir du JSON en Dictionnaire Python (<code>json.loads</code>)</strong></a></li>
-    <li><a href="#4-lire-et-écrire-un-fichier-json-jsondump--jsonload"><strong>4. Lire et Écrire un Fichier JSON (<code>json.dump</code> &amp; <code>json.load</code>)</strong></a>
+    <li><a href="#3-convertir-du-json-en-dictionnaire-python-"><strong>3. Convertir du JSON en Dictionnaire Python (<code>json.loads</code>)</strong></a></li>
+    <li><a href="#4-lire-et-écrire-un-fichier-json-"><strong>4. Lire et Écrire un Fichier JSON (<code>json.dump</code> &amp; <code>json.load</code>)</strong></a>
       <ul>
-        <li><a href="#-sauvegarder-un-dictionnaire-dans-un-fichier-json-jsondump"><strong>🔹 Sauvegarder un dictionnaire dans un fichier JSON (<code>json.dump</code>)</strong></a></li>
-        <li><a href="#-charger-un-fichier-json-jsonload"><strong>🔹 Charger un fichier JSON (<code>json.load</code>)</strong></a></li>
+        <li><a href="#-sauvegarder-un-dictionnaire-dans-un-fichier-json-"><strong>🔹 Sauvegarder un dictionnaire dans un fichier JSON (<code>json.dump</code>)</strong></a></li>
+        <li><a href="#-charger-un-fichier-json-"><strong>🔹 Charger un fichier JSON (<code>json.load</code>)</strong></a></li>
       </ul>
     </li>
-    <li><a href="#5-sérialiser-des-objets-personnalisés-default"><strong>5. Sérialiser des Objets Personnalisés (<code>default</code>)</strong></a></li>
-    <li><a href="#6-désérialiser-des-objets-personnalisés-object_hook"><strong>6. Désérialiser des Objets Personnalisés (<code>object_hook</code>)</strong></a></li>
+    <li><a href="#5-sérialiser-des-objets-personnalisés-"><strong>5. Sérialiser des Objets Personnalisés (<code>default</code>)</strong></a></li>
+    <li><a href="#6-désérialiser-des-objets-personnalisés-"><strong>6. Désérialiser des Objets Personnalisés (<code>object_hook</code>)</strong></a></li>
     <li><a href="#7-gérer-les-erreurs-json"><strong>7. Gérer les Erreurs JSON</strong></a></li>
     <li><a href="#8-cas-pratiques--json-dans-la-vraie-vie-"><strong>8. Cas Pratiques : JSON dans la Vraie Vie 🚀</strong></a>
       <ul>
@@ -978,12 +978,12 @@
 
 
 <h2 class="relative group"><strong>2. Convertir un Dictionnaire Python en JSON (<code>json.dumps</code>)</strong> 
-    <div id="2-convertir-un-dictionnaire-python-en-json-jsondumps" class="anchor"></div>
+    <div id="2-convertir-un-dictionnaire-python-en-json-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#2-convertir-un-dictionnaire-python-en-json-jsondumps" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#2-convertir-un-dictionnaire-python-en-json-" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
@@ -1009,12 +1009,12 @@
 
 
 <h3 class="relative group"><strong>🔹 Formatage lisible (<code>indent</code>, <code>sort_keys</code>)</strong> 
-    <div id="-formatage-lisible-indent-sort_keys" class="anchor"></div>
+    <div id="-formatage-lisible-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#-formatage-lisible-indent-sort_keys" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-formatage-lisible-" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
@@ -1030,12 +1030,12 @@
 
 
 <h2 class="relative group"><strong>3. Convertir du JSON en Dictionnaire Python (<code>json.loads</code>)</strong> 
-    <div id="3-convertir-du-json-en-dictionnaire-python-jsonloads" class="anchor"></div>
+    <div id="3-convertir-du-json-en-dictionnaire-python-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#3-convertir-du-json-en-dictionnaire-python-jsonloads" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#3-convertir-du-json-en-dictionnaire-python-" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
@@ -1053,24 +1053,24 @@
 
 
 <h2 class="relative group"><strong>4. Lire et Écrire un Fichier JSON (<code>json.dump</code> &amp; <code>json.load</code>)</strong> 
-    <div id="4-lire-et-%C3%A9crire-un-fichier-json-jsondump--jsonload" class="anchor"></div>
+    <div id="4-lire-et-%C3%A9crire-un-fichier-json-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#4-lire-et-%C3%A9crire-un-fichier-json-jsondump--jsonload" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#4-lire-et-%C3%A9crire-un-fichier-json-" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
 
 
 <h3 class="relative group"><strong>🔹 Sauvegarder un dictionnaire dans un fichier JSON (<code>json.dump</code>)</strong> 
-    <div id="-sauvegarder-un-dictionnaire-dans-un-fichier-json-jsondump" class="anchor"></div>
+    <div id="-sauvegarder-un-dictionnaire-dans-un-fichier-json-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#-sauvegarder-un-dictionnaire-dans-un-fichier-json-jsondump" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-sauvegarder-un-dictionnaire-dans-un-fichier-json-" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
@@ -1085,12 +1085,12 @@
 
 
 <h3 class="relative group"><strong>🔹 Charger un fichier JSON (<code>json.load</code>)</strong> 
-    <div id="-charger-un-fichier-json-jsonload" class="anchor"></div>
+    <div id="-charger-un-fichier-json-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#-charger-un-fichier-json-jsonload" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-charger-un-fichier-json-" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
@@ -1107,12 +1107,12 @@
 
 
 <h2 class="relative group"><strong>5. Sérialiser des Objets Personnalisés (<code>default</code>)</strong> 
-    <div id="5-s%C3%A9rialiser-des-objets-personnalis%C3%A9s-default" class="anchor"></div>
+    <div id="5-s%C3%A9rialiser-des-objets-personnalis%C3%A9s-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#5-s%C3%A9rialiser-des-objets-personnalis%C3%A9s-default" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#5-s%C3%A9rialiser-des-objets-personnalis%C3%A9s-" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
@@ -1150,12 +1150,12 @@
 
 
 <h2 class="relative group"><strong>6. Désérialiser des Objets Personnalisés (<code>object_hook</code>)</strong> 
-    <div id="6-d%C3%A9s%C3%A9rialiser-des-objets-personnalis%C3%A9s-object_hook" class="anchor"></div>
+    <div id="6-d%C3%A9s%C3%A9rialiser-des-objets-personnalis%C3%A9s-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#6-d%C3%A9s%C3%A9rialiser-des-objets-personnalis%C3%A9s-object_hook" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#6-d%C3%A9s%C3%A9rialiser-des-objets-personnalis%C3%A9s-" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
@@ -1404,7 +1404,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="https://memlenz.github.io/fr/"
+  data-url="http://localhost:1313/fr/"
   style="z-index:500"
 >
   <div
