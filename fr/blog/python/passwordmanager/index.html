@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Installer Python sur Windows, Linux et Mac &middot; </title>
-  <meta name="title" content="Installer Python sur Windows, Linux et Mac &middot; " />
+  <title>🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python &middot; </title>
+  <meta name="title" content="🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python &middot; " />
   
-  <meta name="description" content="Un guide détaillé pour installer Python sur Windows, Linux et macOS, sans prise de tête." />
-  <meta name="keywords" content="Python, Installation, Windows, Linux, Mac, " />
+  <meta name="description" content="Découvrez comment développer un outil sécurisé en ligne de commande pour la gestion de mots de passe avec Python, en appliquant des principes de sécurité, de gestion d&#39;erreurs et de modularité." />
+  <meta name="keywords" content="Python, CLI, Gestion de Mots de Passe, " />
   
   
-  <link rel="canonical" href="https://memlenz.github.io/fr/blog/python/installation-python/" />
+  <link rel="canonical" href="https://memlenz.github.io/fr/blog/python/passwordmanager/" />
   
   
   
@@ -68,24 +68,22 @@
   
   
   
-  <meta property="og:url" content="https://memlenz.github.io/fr/blog/python/installation-python/">
-  <meta property="og:title" content="Installer Python sur Windows, Linux et Mac">
-  <meta property="og:description" content="Un guide détaillé pour installer Python sur Windows, Linux et macOS, sans prise de tête.">
+  <meta property="og:url" content="https://memlenz.github.io/fr/blog/python/passwordmanager/">
+  <meta property="og:title" content="🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python">
+  <meta property="og:description" content="Découvrez comment développer un outil sécurisé en ligne de commande pour la gestion de mots de passe avec Python, en appliquant des principes de sécurité, de gestion d&#39;erreurs et de modularité.">
   <meta property="og:locale" content="fr">
   <meta property="og:type" content="article">
     <meta property="article:section" content="blog">
-    <meta property="article:published_time" content="2025-04-10T23:09:59+01:00">
-    <meta property="article:modified_time" content="2025-04-10T23:09:59+01:00">
+    <meta property="article:published_time" content="2025-04-13T04:34:56+01:00">
+    <meta property="article:modified_time" content="2025-04-13T04:34:56+01:00">
     <meta property="article:tag" content="Python">
-    <meta property="article:tag" content="Installation">
-    <meta property="article:tag" content="Windows">
-    <meta property="article:tag" content="Linux">
-    <meta property="article:tag" content="Mac">
+    <meta property="article:tag" content="Cli">
+    <meta property="article:tag" content="Gestion De Mots De Passe">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Installer Python sur Windows, Linux et Mac">
-  <meta name="twitter:description" content="Un guide détaillé pour installer Python sur Windows, Linux et macOS, sans prise de tête.">
+  <meta name="twitter:title" content="🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python">
+  <meta name="twitter:description" content="Découvrez comment développer un outil sécurisé en ligne de commande pour la gestion de mots de passe avec Python, en appliquant des principes de sécurité, de gestion d&#39;erreurs et de modularité.">
 
   
   <script type="application/ld+json">
@@ -93,26 +91,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Langage",
-    "name": "Installer Python sur Windows, Linux et Mac",
-    "headline": "Installer Python sur Windows, Linux et Mac",
-    "description": "Un guide détaillé pour installer Python sur Windows, Linux et macOS, sans prise de tête.",
+    "name": "🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python",
+    "headline": "🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python",
+    "description": "Découvrez comment développer un outil sécurisé en ligne de commande pour la gestion de mots de passe avec Python, en appliquant des principes de sécurité, de gestion d\u0027erreurs et de modularité.",
     
     "inLanguage": "fr",
-    "url" : "https:\/\/memlenz.github.io\/fr\/blog\/python\/installation-python\/",
+    "url" : "https:\/\/memlenz.github.io\/fr\/blog\/python\/passwordmanager\/",
     "author" : {
       "@type": "Person",
       "name": "Ayédoun Châ-Fine ADEBI"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-04-10T23:09:59\u002b01:00",
-    "datePublished": "2025-04-10T23:09:59\u002b01:00",
+    "dateCreated": "2025-04-13T04:34:56\u002b01:00",
+    "datePublished": "2025-04-13T04:34:56\u002b01:00",
     
-    "dateModified": "2025-04-10T23:09:59\u002b01:00",
+    "dateModified": "2025-04-13T04:34:56\u002b01:00",
     
-    "keywords": ["Python","Installation","Windows","Linux","Mac"],
+    "keywords": ["Python","CLI","Gestion de Mots de Passe"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "341"
+    "wordCount": "886"
   }]
   </script>
 
@@ -469,7 +467,7 @@
   <header id="single_header" class="mt-5 max-w-prose">
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      Installer Python sur Windows, Linux et Mac
+      🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -514,7 +512,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span>341 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">2 mins</span><span class="px-2 text-primary-500">&middot;</span>
+  <span>886 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">5 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/js/zen-mode.min.eea5245cf9244ecbdf2c150d1c8833226c1541cadf6e98f63a7c9192b1a3676df2c3ec603b14f4cfaaa53971fd9d8955640c0f405bf3de2b43ee7a5fb29ae721.js" integrity="sha512-7qUkXPkkTsvfLBUNHIgzImwVQcrfbpj2OnyRkrGjZ23yw&#43;xgOxT0z6qlOXH9nYlVZAwPQFvz3itD7npfsprnIQ=="></script>
@@ -553,10 +551,10 @@
   
   
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/fr/categories/blog-python/&#34;,'_self');return false;">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/fr/categories/projets-python/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Blog Python
+    Projets Python
   </span>
 </span>
   </span>
@@ -577,34 +575,18 @@
 </span>
   </span>
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/fr/tags/installation/&#34;,'_self');return false;">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/fr/tags/cli/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Installation
+    Cli
   </span>
 </span>
   </span>
   
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/fr/tags/windows/&#34;,'_self');return false;">
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/fr/tags/gestion-de-mots-de-passe/&#34;,'_self');return false;">
     <span class="flex" style="cursor: pointer;">
   <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Windows
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/fr/tags/linux/&#34;,'_self');return false;">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Linux
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/fr/tags/mac/&#34;,'_self');return false;">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Mac
+    Gestion De Mots De Passe
   </span>
 </span>
   </span>
@@ -764,28 +746,19 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#pourquoi-installer-python-">Pourquoi installer Python ?</a></li>
-    <li><a href="#installer-python-sur-windows-">Installer Python sur <strong>Windows</strong> 🖥️</a>
+    <li><a href="#le-contexte-et-le-problème">Le Contexte et le Problème</a></li>
+    <li><a href="#la-solution--passwordmanagerpy">La Solution : passwordManager.py</a></li>
+    <li><a href="#compétences-python-démontrées">Compétences Python Démontrées</a>
       <ul>
-        <li><a href="#1-télécharger-python"><strong>1. Télécharger Python</strong></a></li>
-        <li><a href="#2-lancer-linstallation"><strong>2. Lancer l’installation</strong></a></li>
-        <li><a href="#3-vérifier-linstallation"><strong>3. Vérifier l’installation</strong></a></li>
+        <li><a href="#1-programmation-modulaire-et-procédurale">1. Programmation modulaire et procédurale</a></li>
+        <li><a href="#2-gestion-des-exceptions-et-robustesse-du-code">2. Gestion des Exceptions et Robustesse du Code</a></li>
+        <li><a href="#3-manipulation-de-fichiers-avec-json">3. Manipulation de fichiers avec JSON</a></li>
+        <li><a href="#4-sécurité-et-génération-de-mots-de-passe">4. Sécurité et Génération de Mots de Passe</a></li>
+        <li><a href="#5-interface-en-ligne-de-commande">5. Interface en Ligne de Commande</a></li>
       </ul>
     </li>
-    <li><a href="#installer-python-sur-linux-">Installer Python sur <strong>Linux</strong> 🐧</a>
-      <ul>
-        <li><a href="#debian--ubuntu"><strong>Debian / Ubuntu</strong></a></li>
-        <li><a href="#arch-linux"><strong>Arch Linux</strong></a></li>
-        <li><a href="#void-linux"><strong>Void Linux</strong></a></li>
-      </ul>
-    </li>
-    <li><a href="#installer-python-sur-macos-">Installer Python sur <strong>macOS</strong> 🍏</a>
-      <ul>
-        <li><a href="#1-installer-homebrew-si-ce-n"><strong>1. Installer Homebrew (si ce n&rsquo;est pas fait)</strong></a></li>
-        <li><a href="#2-installer-python"><strong>2. Installer Python</strong></a></li>
-      </ul>
-    </li>
-    <li><a href="#conclusion-">Conclusion 🏁</a></li>
+    <li><a href="#applications-et-perspectives">Applications et Perspectives</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
   </div>
@@ -799,28 +772,19 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#pourquoi-installer-python-">Pourquoi installer Python ?</a></li>
-    <li><a href="#installer-python-sur-windows-">Installer Python sur <strong>Windows</strong> 🖥️</a>
+    <li><a href="#le-contexte-et-le-problème">Le Contexte et le Problème</a></li>
+    <li><a href="#la-solution--passwordmanagerpy">La Solution : passwordManager.py</a></li>
+    <li><a href="#compétences-python-démontrées">Compétences Python Démontrées</a>
       <ul>
-        <li><a href="#1-télécharger-python"><strong>1. Télécharger Python</strong></a></li>
-        <li><a href="#2-lancer-linstallation"><strong>2. Lancer l’installation</strong></a></li>
-        <li><a href="#3-vérifier-linstallation"><strong>3. Vérifier l’installation</strong></a></li>
+        <li><a href="#1-programmation-modulaire-et-procédurale">1. Programmation modulaire et procédurale</a></li>
+        <li><a href="#2-gestion-des-exceptions-et-robustesse-du-code">2. Gestion des Exceptions et Robustesse du Code</a></li>
+        <li><a href="#3-manipulation-de-fichiers-avec-json">3. Manipulation de fichiers avec JSON</a></li>
+        <li><a href="#4-sécurité-et-génération-de-mots-de-passe">4. Sécurité et Génération de Mots de Passe</a></li>
+        <li><a href="#5-interface-en-ligne-de-commande">5. Interface en Ligne de Commande</a></li>
       </ul>
     </li>
-    <li><a href="#installer-python-sur-linux-">Installer Python sur <strong>Linux</strong> 🐧</a>
-      <ul>
-        <li><a href="#debian--ubuntu"><strong>Debian / Ubuntu</strong></a></li>
-        <li><a href="#arch-linux"><strong>Arch Linux</strong></a></li>
-        <li><a href="#void-linux"><strong>Void Linux</strong></a></li>
-      </ul>
-    </li>
-    <li><a href="#installer-python-sur-macos-">Installer Python sur <strong>macOS</strong> 🍏</a>
-      <ul>
-        <li><a href="#1-installer-homebrew-si-ce-n"><strong>1. Installer Homebrew (si ce n&rsquo;est pas fait)</strong></a></li>
-        <li><a href="#2-installer-python"><strong>2. Installer Python</strong></a></li>
-      </ul>
-    </li>
-    <li><a href="#conclusion-">Conclusion 🏁</a></li>
+    <li><a href="#applications-et-perspectives">Applications et Perspectives</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
   </div>
@@ -904,203 +868,204 @@
         <div class="article-content max-w-prose mb-20">
           
 
-<h2 class="relative group">Pourquoi installer Python ? 
-    <div id="pourquoi-installer-python-" class="anchor"></div>
+<h1 class="relative group">Créer un Gestionnaire de Mots de Passe en CLI avec Python 
+    <div id="cr%C3%A9er-un-gestionnaire-de-mots-de-passe-en-cli-avec-python" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#pourquoi-installer-python-" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#cr%C3%A9er-un-gestionnaire-de-mots-de-passe-en-cli-avec-python" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+<p>Dans un monde où la sécurité de nos informations personnelles est devenue incontournable, j&rsquo;ai voulu réaliser un projet simple mais efficace : un gestionnaire de mots de passe en ligne de commande (CLI). Cet outil, développé en Python, permet de générer des mots de passe robustes, de les sauvegarder dans un fichier JSON et de les manipuler via une interface textuelle intuitive. Dans cet article, je vous montre comment quelques dizaines de lignes de code bien structurées peuvent mettre en œuvre des concepts avancés en programmation et en sécurité.</p>
+
+
+<h2 class="relative group">Le Contexte et le Problème 
+    <div id="le-contexte-et-le-probl%C3%A8me" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#le-contexte-et-le-probl%C3%A8me" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>Avant de se lancer dans la programmation avec Python, il faut d&rsquo;abord l&rsquo;avoir sur sa machine. Contrairement à certains langages qui viennent déjà intégrés aux systèmes d’exploitation, Python doit être installé manuellement sur Windows, et parfois mis à jour sur Linux et macOS.</p>
-<hr>
+<p>Nous utilisons quotidiennement de nombreux mots de passe pour protéger nos comptes et nos données sensibles. Il devient alors crucial de disposer d’un outil qui aide à :</p>
+<ul>
+<li><strong>Générer des mots de passe sécurisés</strong> : En combinant aléatoirement des lettres, des chiffres et des caractères spéciaux.</li>
+<li><strong>Gérer et stocker ces mots de passe</strong> : Afin d’éviter la réutilisation de mots de passe faibles ou la perte de ceux-ci.</li>
+<li><strong>Faciliter l’accès</strong> : En permettant de récupérer rapidement le mot de passe associé à un compte via une interface en ligne de commande.</li>
+</ul>
+<p>Traditionnellement, les solutions existantes peuvent être lourdes ou complexes pour un usage personnel. C’est là qu’intervient notre gestionnaire de mots de passe en CLI : il est léger, personnalisable et entièrement réalisé en Python.</p>
 
 
-<h2 class="relative group">Installer Python sur <strong>Windows</strong> 🖥️ 
-    <div id="installer-python-sur-windows-" class="anchor"></div>
+<h2 class="relative group">La Solution : passwordManager.py 
+    <div id="la-solution--passwordmanagerpy" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#installer-python-sur-windows-" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#la-solution--passwordmanagerpy" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>Sur Windows, Python <strong>n&rsquo;est pas installé par défaut</strong>. Voici comment l&rsquo;obtenir :</p>
-
-
-<h3 class="relative group"><strong>1. Télécharger Python</strong> 
-    <div id="1-t%C3%A9l%C3%A9charger-python" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#1-t%C3%A9l%C3%A9charger-python" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li>Rendez-vous sur le site officiel : <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.</li>
-<li>Prenez la <strong>dernière version stable</strong> (évitez les versions en bêta).</li>
-<li>Téléchargez l’installateur <strong>Windows Installer (64-bit)</strong>.</li>
-</ul>
-
-
-<h3 class="relative group"><strong>2. Lancer l’installation</strong> 
-    <div id="2-lancer-linstallation" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#2-lancer-linstallation" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<ul>
-<li><strong>Cochez l’option &ldquo;Add Python to PATH&rdquo;</strong> avant d’installer.<br>
-(C&rsquo;est crucial pour pouvoir exécuter <code>python</code> dans le terminal sans galère.)</li>
-<li>Cliquez sur <strong>&ldquo;Install Now&rdquo;</strong> et laissez faire.</li>
-</ul>
-
-
-<h3 class="relative group"><strong>3. Vérifier l’installation</strong> 
-    <div id="3-v%C3%A9rifier-linstallation" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#3-v%C3%A9rifier-linstallation" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
+<p>Le script <code>passwordManager.py</code> propose une solution complète en offrant les fonctionnalités suivantes :</p>
 <ul>
 <li>
-<p>Ouvrez une invite de commande (<code>Win + R</code> → tapez <code>cmd</code> → Entrée).</p>
+<p><strong>Génération de mots de passe sécurisés</strong><br>
+Grâce au module <code>secrets</code>, le programme crée des mots de passe forts en combinant lettres, chiffres et caractères spéciaux.</p>
 </li>
 <li>
-<p>Tapez :</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">python --version
-</span></span></code></pre></div><p>Si ça affiche une version comme <code>Python 3.x.x</code>, tout est bon ! 🎉</p>
+<p><strong>Sauvegarde et chargement via JSON</strong><br>
+Les mots de passe sont stockés dans un fichier JSON. Le code gère intelligemment les erreurs liées à la lecture du fichier (fichier inexistant ou corrompu) pour assurer une robustesse accrue.</p>
+</li>
+<li>
+<p><strong>Interface en Ligne de Commande avec argparse</strong><br>
+Une interface intuitive permet à l’utilisateur d’enregistrer, récupérer, supprimer et lister les mots de passe grâce à des commandes claires (<code>save</code>, <code>get</code>, <code>del</code>, <code>gen</code>, <code>list</code>).</p>
+</li>
+<li>
+<p><strong>Utilisation du Presse-papiers</strong><br>
+L’intégration du module <code>pyperclip</code> permet de copier automatiquement le mot de passe récupéré dans le presse-papiers, ce qui simplifie son utilisation.</p>
 </li>
 </ul>
-<p>Si ça ne marche pas, <strong>votre terminal ne trouve pas Python</strong>. Dans ce cas, redémarrez votre PC ou ajoutez manuellement Python au <code>PATH</code>.</p>
+<p>Voici un extrait de la structure du code :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">generate_password</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">    <span class="s2">&#34;&#34;&#34;Générer un mot de passe sécurisé&#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="n">characters</span> <span class="o">=</span> <span class="s1">&#39;&#39;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="n">NEED_STRING</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">        <span class="n">characters</span> <span class="o">+=</span> <span class="n">string</span><span class="o">.</span><span class="n">ascii_letters</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="n">NEED_DIGITS</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">        <span class="n">characters</span> <span class="o">+=</span> <span class="n">string</span><span class="o">.</span><span class="n">digits</span>
+</span></span><span class="line"><span class="cl">    <span class="k">if</span> <span class="n">NEED_SPECIAL_CHARACTERS</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">        <span class="n">characters</span> <span class="o">+=</span> <span class="n">string</span><span class="o">.</span><span class="n">punctuation</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="s1">&#39;&#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">secrets</span><span class="o">.</span><span class="n">choice</span><span class="p">(</span><span class="n">characters</span><span class="p">)</span> <span class="k">for</span> <span class="n">_</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">PASSWORD_LENGTH</span><span class="p">))</span>
+</span></span></code></pre></div><p>Ce passage montre la façon dont la génération de mot de passe est réalisée en tirant profit de la sécurité offerte par le module <code>secrets</code>.</p>
+
+
+<h2 class="relative group">Compétences Python Démontrées 
+    <div id="comp%C3%A9tences-python-d%C3%A9montr%C3%A9es" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#comp%C3%A9tences-python-d%C3%A9montr%C3%A9es" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">1. Programmation modulaire et procédurale 
+    <div id="1-programmation-modulaire-et-proc%C3%A9durale" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-programmation-modulaire-et-proc%C3%A9durale" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Organisation claire du code</strong> : Chaque fonctionnalité (génération, sauvegarde, chargement, suppression) est implémentée dans une fonction dédiée, facilitant la maintenance et l&rsquo;évolution du projet.</li>
+<li><strong>Point d&rsquo;entrée principal</strong> : La fonction <code>main()</code> centralise l&rsquo;exécution du script en s&rsquo;appuyant sur le module <code>argparse</code> pour gérer différentes commandes.</li>
+</ul>
+
+
+<h3 class="relative group">2. Gestion des Exceptions et Robustesse du Code 
+    <div id="2-gestion-des-exceptions-et-robustesse-du-code" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-gestion-des-exceptions-et-robustesse-du-code" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Anticipation des erreurs</strong> : La fonction <code>load_passwords()</code> intègre des blocs <code>try-except</code> pour gérer les erreurs liées à la manipulation de fichiers JSON, assurant la continuité de l’exécution même en cas de problèmes.</li>
+</ul>
+
+
+<h3 class="relative group">3. Manipulation de fichiers avec JSON 
+    <div id="3-manipulation-de-fichiers-avec-json" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-manipulation-de-fichiers-avec-json" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Stockage des données</strong> : La sérialisation et la désérialisation des mots de passe dans un fichier JSON permettent une persistance simple des données, tout en restant facilement consultables et modifiables.</li>
+</ul>
+
+
+<h3 class="relative group">4. Sécurité et Génération de Mots de Passe 
+    <div id="4-s%C3%A9curit%C3%A9-et-g%C3%A9n%C3%A9ration-de-mots-de-passe" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-s%C3%A9curit%C3%A9-et-g%C3%A9n%C3%A9ration-de-mots-de-passe" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Utilisation du module secrets</strong> : Cette méthode offre une robustesse inégalée dans la génération de chaînes aléatoires, essentielles pour la sécurité des comptes.</li>
+<li><strong>Configuration flexible</strong> : Les constantes en haut du script permettent d’ajuster rapidement la longueur des mots de passe et le type de caractères utilisés, pour répondre à divers besoins de sécurité.</li>
+</ul>
+
+
+<h3 class="relative group">5. Interface en Ligne de Commande 
+    <div id="5-interface-en-ligne-de-commande" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-interface-en-ligne-de-commande" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Convivialité</strong> : Grâce à <code>argparse</code>, l’utilisateur peut interagir avec le programme en utilisant des commandes simples et explicites, rendant l’outil accessible même aux débutants.</li>
+</ul>
+
+
+<h2 class="relative group">Applications et Perspectives 
+    <div id="applications-et-perspectives" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#applications-et-perspectives" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Ce gestionnaire de mots de passe en CLI représente bien plus qu’un exercice de programmation. En le développant, j&rsquo;ai pu approfondir ma maîtrise de la sécurité appliquée, de la gestion d&rsquo;erreurs et des techniques de manipulation de données en Python.</p>
+<p>Dans un contexte professionnel ou personnel, un tel outil peut servir de base à des projets plus ambitieux, par exemple :</p>
+<ul>
+<li><strong>Intégrer un chiffrement du fichier JSON</strong> pour renforcer la protection des données sensibles.</li>
+<li><strong>Mettre en place un système de logging</strong> pour mieux diagnostiquer et résoudre d&rsquo;éventuels problèmes en production.</li>
+<li><strong>Développer une interface graphique</strong> pour rendre l’outil accessible à un public non technique.</li>
+</ul>
+
+
+<h2 class="relative group">Conclusion 
+    <div id="conclusion" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#conclusion" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Réussir à créer un gestionnaire de mots de passe en CLI avec Python est une belle démonstration de l&rsquo;application concrète de diverses compétences en programmation. Ce projet prouve qu&rsquo;avec une bonne architecture de code et une attention particulière portée à la sécurité et à la robustesse, il est tout à fait possible de développer des outils efficaces et utiles pour notre quotidien numérique.</p>
+<p>Quelles fonctionnalités ajouteriez-vous à ce gestionnaire de mots de passe ? Partagez vos idées et vos retours dans les commentaires. Ensemble, continuons à repousser les limites de ce que nous pouvons réaliser avec Python !</p>
 <hr>
-
-
-<h2 class="relative group">Installer Python sur <strong>Linux</strong> 🐧 
-    <div id="installer-python-sur-linux-" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#installer-python-sur-linux-" aria-label="Ancre">#</a>
-    </span>        
-    
-</h2>
-<p>La plupart des distributions Linux viennent avec Python préinstallé. Pour vérifier :</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">python3 --version
-</span></span></code></pre></div><p>Si Python n&rsquo;est pas installé ou si vous voulez la dernière version :</p>
-
-
-<h3 class="relative group"><strong>Debian / Ubuntu</strong> 
-    <div id="debian--ubuntu" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#debian--ubuntu" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">sudo apt update <span class="o">&amp;&amp;</span> sudo apt install python3
-</span></span></code></pre></div>
-
-<h3 class="relative group"><strong>Arch Linux</strong> 
-    <div id="arch-linux" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#arch-linux" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">sudo pacman -S python
-</span></span></code></pre></div>
-
-<h3 class="relative group"><strong>Void Linux</strong> 
-    <div id="void-linux" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#void-linux" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">sudo xbps-install -S python3
-</span></span></code></pre></div><p>Une fois installé, testez avec <code>python3 --version</code>.</p>
-<hr>
-
-
-<h2 class="relative group">Installer Python sur <strong>macOS</strong> 🍏 
-    <div id="installer-python-sur-macos-" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#installer-python-sur-macos-" aria-label="Ancre">#</a>
-    </span>        
-    
-</h2>
-<p>Sur Mac, <strong>Python est déjà installé</strong>, mais souvent en version ancienne. Mieux vaut utiliser Homebrew pour une version à jour :</p>
-
-
-<h3 class="relative group"><strong>1. Installer Homebrew (si ce n&rsquo;est pas fait)</strong> 
-    <div id="1-installer-homebrew-si-ce-n" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#1-installer-homebrew-si-ce-n" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">/bin/bash -c <span class="s2">&#34;</span><span class="k">$(</span>curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh<span class="k">)</span><span class="s2">&#34;</span>
-</span></span></code></pre></div>
-
-<h3 class="relative group"><strong>2. Installer Python</strong> 
-    <div id="2-installer-python" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#2-installer-python" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">brew install python
-</span></span></code></pre></div><p>Vérifiez ensuite avec :</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">python3 --version
-</span></span></code></pre></div><hr>
-
-
-<h2 class="relative group">Conclusion 🏁 
-    <div id="conclusion-" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#conclusion-" aria-label="Ancre">#</a>
-    </span>        
-    
-</h2>
-<p>✅ <strong>Windows</strong> → Téléchargement manuel + &ldquo;Add to PATH&rdquo;.<br>
-✅ <strong>Linux</strong> → Vérifier puis installer via <code>apt</code>, <code>pacman</code> ou <code>xbps-install</code>.<br>
-✅ <strong>Mac</strong> → Homebrew pour gérer les versions.</p>
-<p>Si tout est bon, vous êtes prêt à coder ! 🚀</p>
+<p>📌 <strong>Suivez-moi pour plus de contenus sur Python et le développement logiciel !</strong><br>
+👉 <a href="https://dev.to/memlenz" target="_blank">Dev.to</a> / <a href="https://github.com/memlenz" target="_blank">GitHub</a> / <a href="https://twitter.com/achafine" target="_blank">Twitter</a></p>
 
           
           
@@ -1123,8 +1088,8 @@
           
         
       <script>
-        var oid = "views_blog\/Python\/installation-python.md"
-        var oid_likes = "likes_blog\/Python\/installation-python.md"
+        var oid = "views_blog\/Python\/passwordManager.md"
+        var oid_likes = "likes_blog\/Python\/passwordManager.md"
       </script>
       
       
@@ -1147,34 +1112,14 @@
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/fr/blog/python/passwordmanager/">
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span class="flex flex-col">
-                <span
-                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                </span>
-              </span>
-            </a>
-          
         </span>
         <span>
           
-            <a class="flex text-right group ml-3" href="/fr/blog/python/bulletpointadder/">
+            <a class="flex text-right group ml-3" href="/fr/blog/python/installation-python/">
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >🎯 Implémentation d'un foramateur de texte en python</span
+                  >Installer Python sur Windows, Linux et Mac</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   

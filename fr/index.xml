@@ -12,6 +12,16 @@
     <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python</title>
+      <link>https://memlenz.github.io/fr/blog/python/passwordmanager/</link>
+      <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/passwordmanager/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Installer Python sur Windows, Linux et Mac</title>
       <link>https://memlenz.github.io/fr/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
