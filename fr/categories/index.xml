@@ -2,131 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>http://localhost:1313/fr/categories/</link>
+    <link>https://memlenz.github.io/fr/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Apr 2025 10:55:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Cours Python</title>
-      <link>http://localhost:1313/fr/categories/cours-python/</link>
-      <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/cours-python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/fr/categories/python/</link>
-      <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutoriels</title>
-      <link>http://localhost:1313/fr/categories/tutoriels/</link>
-      <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/tutoriels/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blog Linux</title>
-      <link>http://localhost:1313/fr/categories/blog-linux/</link>
-      <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/blog-linux/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Thu, 10 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blog Python</title>
-      <link>http://localhost:1313/fr/categories/blog-python/</link>
-      <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
+      <link>https://memlenz.github.io/fr/categories/blog-python/</link>
+      <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/blog-python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Introduction À Python</title>
-      <link>http://localhost:1313/fr/categories/introduction-%C3%A0-python/</link>
-      <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/introduction-%C3%A0-python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Débutant</title>
-      <link>http://localhost:1313/fr/categories/d%C3%A9butant/</link>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/d%C3%A9butant/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Jeux Et Algorithmes</title>
-      <link>http://localhost:1313/fr/categories/jeux-et-algorithmes/</link>
-      <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/jeux-et-algorithmes/</guid>
+      <guid>https://memlenz.github.io/fr/categories/blog-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projets Python</title>
-      <link>http://localhost:1313/fr/categories/projets-python/</link>
+      <link>https://memlenz.github.io/fr/categories/projets-python/</link>
+      <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/projets-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cours Python</title>
+      <link>https://memlenz.github.io/fr/categories/cours-python/</link>
+      <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/cours-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://memlenz.github.io/fr/categories/python/</link>
+      <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutoriels</title>
+      <link>https://memlenz.github.io/fr/categories/tutoriels/</link>
+      <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/tutoriels/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blog Linux</title>
+      <link>https://memlenz.github.io/fr/categories/blog-linux/</link>
+      <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/blog-linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction À Python</title>
+      <link>https://memlenz.github.io/fr/categories/introduction-%C3%A0-python/</link>
+      <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/introduction-%C3%A0-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Débutant</title>
+      <link>https://memlenz.github.io/fr/categories/d%C3%A9butant/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/categories/d%C3%A9butant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jeux Et Algorithmes</title>
+      <link>https://memlenz.github.io/fr/categories/jeux-et-algorithmes/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/projets-python/</guid>
+      <guid>https://memlenz.github.io/fr/categories/jeux-et-algorithmes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Expérience Personnelle</title>
-      <link>http://localhost:1313/fr/categories/exp%C3%A9rience-personnelle/</link>
+      <link>https://memlenz.github.io/fr/categories/exp%C3%A9rience-personnelle/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/exp%C3%A9rience-personnelle/</guid>
+      <guid>https://memlenz.github.io/fr/categories/exp%C3%A9rience-personnelle/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Informatique</title>
-      <link>http://localhost:1313/fr/categories/informatique/</link>
+      <link>https://memlenz.github.io/fr/categories/informatique/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/informatique/</guid>
+      <guid>https://memlenz.github.io/fr/categories/informatique/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux &amp; Open Source</title>
-      <link>http://localhost:1313/fr/categories/linux--open-source/</link>
+      <link>https://memlenz.github.io/fr/categories/linux--open-source/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/categories/linux--open-source/</guid>
+      <guid>https://memlenz.github.io/fr/categories/linux--open-source/</guid>
       <description></description>
       
     </item>

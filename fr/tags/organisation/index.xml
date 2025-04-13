@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organisation on </title>
-    <link>http://localhost:1313/fr/tags/organisation/</link>
+    <link>https://memlenz.github.io/fr/tags/organisation/</link>
     <description>Recent content in Organisation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Mar 2025 23:37:06 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/organisation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 23:37:06 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/tags/organisation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Différence entre l’interpréteur Python (Shell interactif) et un fichier Python</title>
-      <link>http://localhost:1313/fr/blog/python/interpreteur-vs-fichier/</link>
+      <link>https://memlenz.github.io/fr/blog/python/interpreteur-vs-fichier/</link>
       <pubDate>Sat, 29 Mar 2025 23:37:06 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/interpreteur-vs-fichier/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/interpreteur-vs-fichier/</guid>
       <description></description>
       
     </item>

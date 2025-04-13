@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
-  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="false"><head>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="en" />
@@ -8,14 +8,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   
-  <title>Bagels &middot; </title>
-  <meta name="title" content="Bagels &middot; " />
+  <title>🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge &middot; </title>
+  <meta name="title" content="🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge &middot; " />
+  
+  <meta name="description" content="Learn how to code Bagels, a logic game inspired by Mastermind, in Python. A detailed tutorial explaining the gameplay, clue system (Pico/Fermi/Bagels), and code optimization." />
+  <meta name="keywords" content="Python, Game, Algorithms, Logic, " />
   
   
-  
-  
-  
-  <link rel="canonical" href="http://localhost:1313/blog/python/bagels/" />
+  <link rel="canonical" href="https://memlenz.github.io/blog/python/bagels/" />
   
   
   
@@ -46,8 +46,8 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.a2d78d78672e549fbfc972ece871725b5478ba0b65708dda20cb97ab80a865eae6d247e1b05a4aec6ebbf78647ec3233bad8b2609ed98eee53cd58aa17128bc7.js"
-    integrity="sha512-oteNeGcuVJ&#43;/yXLs6HFyW1R4ugtlcI3aIMuXq4CoZerm0kfhsFpK7G6794ZH7DIzutiyYJ7Zju5TzViqFxKLxw==" data-copy="" data-copied=""></script>
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.f88bdf262f6df8418ce7e23e3c2483bca8a1e86d51d7528a9c62be5681e9dc1b693a7c25bcf112b5242d2f72e5e44902ff17dda3ca098b4e15898622c6a9e87b.js"
+    integrity="sha512-&#43;IvfJi9t&#43;EGM5&#43;I&#43;PCSDvKih6G1R11KKnGK&#43;VoHp3BtpOnwlvPEStSQtL3Ll5EkC/xfdo8oJi04ViYYixqnoew==" data-copy="" data-copied=""></script>
   
   
   
@@ -68,17 +68,23 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/blog/python/bagels/">
-  <meta property="og:title" content="Bagels">
+  <meta property="og:url" content="https://memlenz.github.io/blog/python/bagels/">
+  <meta property="og:title" content="🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge">
+  <meta property="og:description" content="Learn how to code Bagels, a logic game inspired by Mastermind, in Python. A detailed tutorial explaining the gameplay, clue system (Pico/Fermi/Bagels), and code optimization.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="blog">
     <meta property="article:published_time" content="2025-03-26T21:29:56+01:00">
     <meta property="article:modified_time" content="2025-03-26T21:29:56+01:00">
+    <meta property="article:tag" content="Python">
+    <meta property="article:tag" content="Game">
+    <meta property="article:tag" content="Algorithms">
+    <meta property="article:tag" content="Logic">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Bagels">
+  <meta name="twitter:title" content="🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge">
+  <meta name="twitter:description" content="Learn how to code Bagels, a logic game inspired by Mastermind, in Python. A detailed tutorial explaining the gameplay, clue system (Pico/Fermi/Bagels), and code optimization.">
 
   
   <script type="application/ld+json">
@@ -86,12 +92,12 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Langage",
-    "name": "Bagels",
-    "headline": "Bagels",
-    
+    "name": "🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge",
+    "headline": "🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge",
+    "description": "Learn how to code Bagels, a logic game inspired by Mastermind, in Python. A detailed tutorial explaining the gameplay, clue system (Pico\/Fermi\/Bagels), and code optimization.",
     
     "inLanguage": "en",
-    "url" : "http:\/\/localhost:1313\/blog\/python\/bagels\/",
+    "url" : "https:\/\/memlenz.github.io\/blog\/python\/bagels\/",
     "author" : {
       "@type": "Person",
       "name": "Ayédoun Châ-Fine ADEBI"
@@ -102,10 +108,10 @@
     
     "dateModified": "2025-03-26T21:29:56\u002b01:00",
     
-    
+    "keywords": ["Python","Game","Algorithms","Logic"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "0"
+    "wordCount": "594"
   }]
   </script>
 
@@ -232,6 +238,41 @@
             
 
             
+<div>
+  <div class="cursor-pointer flex items-center nested-menu">
+    <span class="ltr:mr-1 rtl:ml-1">
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+    <path fill="currentColor" d="M0 128C0 92.7 28.7 64 64 64H256h48 16H576c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H320 304 256 64c-35.3 0-64-28.7-64-64V128zm320 0V384H576V128H320zM178.3 175.9c-3.2-7.2-10.4-11.9-18.3-11.9s-15.1 4.7-18.3 11.9l-64 144c-4.5 10.1 .1 21.9 10.2 26.4s21.9-.1 26.4-10.2l8.9-20.1h73.6l8.9 20.1c4.5 10.1 16.3 14.6 26.4 10.2s14.6-16.3 10.2-26.4l-64-144zM160 233.2L179 276H141l19-42.8zM448 164c11 0 20 9 20 20v4h44 16c11 0 20 9 20 20s-9 20-20 20h-2l-1.6 4.5c-8.9 24.4-22.4 46.6-39.6 65.4c.9 .6 1.8 1.1 2.7 1.6l18.9 11.3c9.5 5.7 12.5 18 6.9 27.4s-18 12.5-27.4 6.9l-18.9-11.3c-4.5-2.7-8.8-5.5-13.1-8.5c-10.6 7.5-21.9 14-34 19.4l-3.6 1.6c-10.1 4.5-21.9-.1-26.4-10.2s.1-21.9 10.2-26.4l3.6-1.6c6.4-2.9 12.6-6.1 18.5-9.8l-12.2-12.2c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0l14.6 14.6 .5 .5c12.4-13.1 22.5-28.3 29.8-45H448 376c-11 0-20-9-20-20s9-20 20-20h52v-4c0-11 9-20 20-20z"/></svg>
+  </span>
+
+
+    </span>
+    <div class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge">EN</div>
+  </div>
+  <div class="absolute menuhide">
+    <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
+      <div class="flex flex-col space-y-3">
+        
+        <a href="/blog/python/bagels/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge">
+            EN
+          </p>
+        </a>
+        
+        <a href="/fr/blog/python/bagels/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique">
+            FR
+          </p>
+        </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
             
@@ -284,6 +325,41 @@
             <span></span>
 
             
+<div>
+  <div class="cursor-pointer flex items-center nested-menu">
+    <span class="ltr:mr-1 rtl:ml-1">
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
+    <path fill="currentColor" d="M0 128C0 92.7 28.7 64 64 64H256h48 16H576c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H320 304 256 64c-35.3 0-64-28.7-64-64V128zm320 0V384H576V128H320zM178.3 175.9c-3.2-7.2-10.4-11.9-18.3-11.9s-15.1 4.7-18.3 11.9l-64 144c-4.5 10.1 .1 21.9 10.2 26.4s21.9-.1 26.4-10.2l8.9-20.1h73.6l8.9 20.1c4.5 10.1 16.3 14.6 26.4 10.2s14.6-16.3 10.2-26.4l-64-144zM160 233.2L179 276H141l19-42.8zM448 164c11 0 20 9 20 20v4h44 16c11 0 20 9 20 20s-9 20-20 20h-2l-1.6 4.5c-8.9 24.4-22.4 46.6-39.6 65.4c.9 .6 1.8 1.1 2.7 1.6l18.9 11.3c9.5 5.7 12.5 18 6.9 27.4s-18 12.5-27.4 6.9l-18.9-11.3c-4.5-2.7-8.8-5.5-13.1-8.5c-10.6 7.5-21.9 14-34 19.4l-3.6 1.6c-10.1 4.5-21.9-.1-26.4-10.2s.1-21.9 10.2-26.4l3.6-1.6c6.4-2.9 12.6-6.1 18.5-9.8l-12.2-12.2c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0l14.6 14.6 .5 .5c12.4-13.1 22.5-28.3 29.8-45H448 376c-11 0-20-9-20-20s9-20 20-20h52v-4c0-11 9-20 20-20z"/></svg>
+  </span>
+
+
+    </span>
+    <div class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge">EN</div>
+  </div>
+  <div class="absolute menuhide">
+    <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
+      <div class="flex flex-col space-y-3">
+        
+        <a href="/blog/python/bagels/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge">
+            EN
+          </p>
+        </a>
+        
+        <a href="/fr/blog/python/bagels/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique">
+            FR
+          </p>
+        </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
             
@@ -436,7 +512,7 @@
   <header id="single_header" class="mt-5 max-w-prose">
     
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-      Bagels
+      🎯 Implementing the Bagels Game in Python: A Deductive Logic Challenge
     </h1>
     <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
       
@@ -458,7 +534,11 @@
 
 
 
+  
 
+
+
+  
 
 
 
@@ -477,7 +557,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  
+  <span>594 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/js/zen-mode.min.eea5245cf9244ecbdf2c150d1c8833226c1541cadf6e98f63a7c9192b1a3676df2c3ec603b14f4cfaaa53971fd9d8955640c0f405bf3de2b43ee7a5fb29ae721.js" integrity="sha512-7qUkXPkkTsvfLBUNHIgzImwVQcrfbpj2OnyRkrGjZ23yw&#43;xgOxT0z6qlOXH9nYlVZAwPQFvz3itD7npfsprnIQ=="></script>
@@ -516,9 +596,61 @@
   
   
   
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/python-projects/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Python Projects
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/categories/games-and-algorithms/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Games and Algorithms
+  </span>
+</span>
+  </span>
   
   
   
+  
+  
+  
+  
+  
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/python/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Python
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/game/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Game
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/algorithms/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Algorithms
+  </span>
+</span>
+  </span>
+  
+  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/logic/&#34;,'_self');return false;">
+    <span class="flex" style="cursor: pointer;">
+  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Logic
+  </span>
+</span>
+  </span>
   
   
   
@@ -554,7 +686,7 @@
         
       
       <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
-      alt="Ayédoun Châ-Fine ADEBI" src="/img/thememlenz_hu3466632650705667995.jpg" />
+      alt="Ayédoun Châ-Fine ADEBI" src="/img/thememlenz_hu_e6548352db578fe9.jpg" />
     
   
   <div class="place-self-center">
@@ -661,7 +793,113 @@
   
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     
-    
+     <div
+      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+
+         <details open id="TOCView"
+  class="toc-right mt-0 overflow-y-scroll overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-source-code"><strong>🚀 Source Code</strong></a></li>
+    <li><a href="#-code-breakdown"><strong>🔍 Code Breakdown</strong></a></li>
+    <li><a href="#-how-can-we-improve-it"><strong>📌 How Can We Improve It?</strong></a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-source-code"><strong>🚀 Source Code</strong></a></li>
+    <li><a href="#-code-breakdown"><strong>🔍 Code Breakdown</strong></a></li>
+    <li><a href="#-how-can-we-improve-it"><strong>📌 How Can We Improve It?</strong></a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+<script>
+
+  var margin = 200;
+  var marginError = 50;
+
+  (function () {
+    var $window = $(window);
+    var $toc = $('#TOCView');
+    var tocHeight = $toc.height();
+
+    function onResize() {
+      var windowAndMarginHeight = $window.height() - margin;
+      if(tocHeight >= windowAndMarginHeight) {
+        $toc.css("overflow-y", "scroll")
+        $toc.css("max-height", (windowAndMarginHeight + marginError) + "px")
+      } else {
+        $toc.css("overflow-y", "hidden")
+        $toc.css("max-height", "9999999px")
+      }
+    }
+
+    $window.on('resize', onResize);
+    $(document).ready(onResize);
+  })();
+
+
+
+  (function () {
+    var $toc = $('#TableOfContents');
+    if ($toc.length > 0) {
+      var $window = $(window);
+
+      function onScroll() {
+        var currentScroll = $window.scrollTop();
+        var h = $('.anchor');
+        var id = "";
+        h.each(function (i, e) {
+          e = $(e);
+          if (e.offset().top - $(window).height()/3 <= currentScroll) {
+            id = decodeURIComponent(e.attr('id'));
+          }
+        });
+        var active = $toc.find('a.active');      
+        if (active.length == 1 && active.eq(0).attr('href') == '#' + id) return true;
+
+        active.each(function (i, e) {
+          
+            $(e).removeClass('active');
+          
+        });
+        $toc.find('a[href="#' + id + '"]').addClass('active')
+        $toc.find('a[href="#' + id + '"]').parentsUntil('#TableOfContents').each(function (i, e) {
+          $(e).children('a').parents('ul').show();          
+        });
+      }
+
+      $window.on('scroll', onScroll);
+      $(document).ready(function () {
+        
+        onScroll();
+      });
+    }
+  })();
+
+
+</script>
+   </div>
+      </div>
+      
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
@@ -670,6 +908,186 @@
 
         <div class="article-content max-w-prose mb-20">
           
+
+<h1 class="relative group">🎮 Bagels – A Logic Game in Python 
+    <div id="-bagels--a-logic-game-in-python" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-bagels--a-logic-game-in-python" aria-label="Anchor">#</a>
+    </span>        
+    
+</h1>
+<p>Hey everyone! Today, I’m sharing a fun little Python project: <strong>Bagels</strong>, a deductive logic game. 🧠💡</p>
+<p>The goal? <strong>Guess a secret 3-digit number within 10 attempts</strong>.<br>
+But instead of direct hints, you receive <strong>clues</strong> to help you figure out the correct number:</p>
+<p>🟢 <strong>Game Rules</strong>:</p>
+<ul>
+<li><em>Fermi</em> → A digit is <strong>correct and in the correct position</strong> ✅</li>
+<li><em>Pico</em> → A digit is <strong>correct but in the wrong position</strong> 🔄</li>
+<li><em>Bagels</em> → No correct digits ❌</li>
+</ul>
+<p>Example:<br>
+If the secret number is <strong>&ldquo;123&rdquo;</strong> and you enter <strong>&ldquo;132&rdquo;</strong>, you’ll see:<br>
+<code>Fermi Pico Pico</code> (1 is correct and in the right place, 3 and 2 are correct but misplaced).</p>
+<hr>
+
+
+<h2 class="relative group"><strong>🚀 Source Code</strong> 
+    <div id="-source-code" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-source-code" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Here’s the full implementation in Python:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="ch">#!/usr/bin/env python3</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># -*- coding: utf-8 -*-</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="s2">&#34;&#34;&#34;
+</span></span></span><span class="line"><span class="cl"><span class="s2">    File name: bagels.py
+</span></span></span><span class="line"><span class="cl"><span class="s2">    Description: A deductive logic game where the player
+</span></span></span><span class="line"><span class="cl"><span class="s2">    must guess a secret 3-digit number within 10 tries.
+</span></span></span><span class="line"><span class="cl"><span class="s2">    - Pico -&gt; One correct digit, wrong position.
+</span></span></span><span class="line"><span class="cl"><span class="s2">    - Fermi -&gt; One correct digit, right position.
+</span></span></span><span class="line"><span class="cl"><span class="s2">    - Bagels -&gt; No correct digits.
+</span></span></span><span class="line"><span class="cl"><span class="s2">
+</span></span></span><span class="line"><span class="cl"><span class="s2">    Author: ADEBI Ayedoun Châ-Fine achafine@gmail.com
+</span></span></span><span class="line"><span class="cl"><span class="s2">    Date: 03/16/2025
+</span></span></span><span class="line"><span class="cl"><span class="s2">&#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">random</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Constants</span>
+</span></span><span class="line"><span class="cl"><span class="n">GUESSES</span> <span class="o">=</span> <span class="mi">10</span>  <span class="c1"># NUMBER OF TRIES</span>
+</span></span><span class="line"><span class="cl"><span class="n">DIGIT_LEN</span> <span class="o">=</span> <span class="mi">3</span>  <span class="c1"># LENGTH OF THE SECRET NUMBER</span>
+</span></span><span class="line"><span class="cl"><span class="n">MENU</span> <span class="o">=</span> <span class="s2">&#34;&#34;&#34;
+</span></span></span><span class="line"><span class="cl"><span class="s2">    Bagels, a deductive logic game.
+</span></span></span><span class="line"><span class="cl"><span class="s2">    By ADEBI Ayedoun Châ-Fine achafine@gmail.com
+</span></span></span><span class="line"><span class="cl"><span class="s2">
+</span></span></span><span class="line"><span class="cl"><span class="s2">    I am thinking of a 3-digit number.
+</span></span></span><span class="line"><span class="cl"><span class="s2">    Try to guess what it is.
+</span></span></span><span class="line"><span class="cl"><span class="s2">    Here are some clues:
+</span></span></span><span class="line"><span class="cl"><span class="s2">    When I say:         That means:
+</span></span></span><span class="line"><span class="cl"><span class="s2">        Pico            One digit is correct but in the wrong place
+</span></span></span><span class="line"><span class="cl"><span class="s2">        Fermi           One digit is correct and in the right place
+</span></span></span><span class="line"><span class="cl"><span class="s2">        Bagels          No digit is correct
+</span></span></span><span class="line"><span class="cl"><span class="s2">    You have 10 attempts:
+</span></span></span><span class="line"><span class="cl"><span class="s2">&#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">generate_secret_number</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">    <span class="s2">&#34;&#34;&#34;Generate a unique 3-digit secret number
+</span></span></span><span class="line"><span class="cl"><span class="s2">    as a list of digits.
+</span></span></span><span class="line"><span class="cl"><span class="s2">    &#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="n">digits</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">10</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">    <span class="n">random</span><span class="o">.</span><span class="n">shuffle</span><span class="p">(</span><span class="n">digits</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="p">[</span><span class="nb">str</span><span class="p">(</span><span class="n">digits</span><span class="p">[</span><span class="n">i</span><span class="p">])</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">DIGIT_LEN</span><span class="p">)]</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">get_clues</span><span class="p">(</span><span class="n">input_list</span><span class="p">,</span> <span class="n">secret_number</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="s2">&#34;&#34;&#34;Compare user input to the secret number
+</span></span></span><span class="line"><span class="cl"><span class="s2">    and return the appropriate clues.
+</span></span></span><span class="line"><span class="cl"><span class="s2">    &#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="n">result</span> <span class="o">=</span> <span class="p">[]</span>
+</span></span><span class="line"><span class="cl">    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">input_list</span><span class="p">)):</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span> <span class="n">input_list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">==</span> <span class="n">secret_number</span><span class="p">[</span><span class="n">i</span><span class="p">]:</span>
+</span></span><span class="line"><span class="cl">            <span class="n">result</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&#34;Fermi&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="k">elif</span> <span class="n">input_list</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="ow">in</span> <span class="n">secret_number</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">            <span class="n">result</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&#34;Pico&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="s2">&#34; &#34;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">result</span><span class="p">)</span> <span class="k">if</span> <span class="n">result</span> <span class="k">else</span> <span class="s2">&#34;Bagels&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">get_valid_input</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">    <span class="s2">&#34;&#34;&#34;Handles user input; the player must enter
+</span></span></span><span class="line"><span class="cl"><span class="s2">    a 3-digit number.
+</span></span></span><span class="line"><span class="cl"><span class="s2">    &#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">        <span class="n">guess</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;&gt; &#34;</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">guess</span><span class="p">)</span> <span class="o">==</span> <span class="n">DIGIT_LEN</span> <span class="ow">and</span> <span class="n">guess</span><span class="o">.</span><span class="n">isdigit</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">            <span class="k">return</span> <span class="nb">list</span><span class="p">(</span><span class="n">guess</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Invalid input. Please enter a 3-digit number.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">main</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">    <span class="s2">&#34;&#34;&#34;Main game loop&#34;&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="n">play_again</span> <span class="o">=</span> <span class="s2">&#34;&#34;</span>
+</span></span><span class="line"><span class="cl">    <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">        <span class="n">secret_number</span> <span class="o">=</span> <span class="n">generate_secret_number</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">GUESSES</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">            <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Guess #&#34;</span><span class="p">,</span> <span class="n">i</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">            <span class="n">user_guess</span> <span class="o">=</span> <span class="n">get_valid_input</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">            <span class="k">if</span> <span class="n">user_guess</span> <span class="o">==</span> <span class="n">secret_number</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">                <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;You got it!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">                <span class="k">break</span>
+</span></span><span class="line"><span class="cl">            <span class="k">else</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">                <span class="nb">print</span><span class="p">(</span><span class="n">get_clues</span><span class="p">(</span><span class="n">user_guess</span><span class="p">,</span> <span class="n">secret_number</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">        <span class="k">else</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">            <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Game Over!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Do you want to play again? (yes or no)&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">            <span class="n">play_again</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;&gt; &#34;</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">            <span class="k">if</span> <span class="n">play_again</span> <span class="ow">in</span> <span class="p">[</span><span class="s2">&#34;yes&#34;</span><span class="p">,</span> <span class="s2">&#34;no&#34;</span><span class="p">]:</span>
+</span></span><span class="line"><span class="cl">                <span class="k">break</span>
+</span></span><span class="line"><span class="cl">            <span class="k">else</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">                <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Please answer with &#39;yes&#39; or &#39;no&#39;&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span> <span class="n">play_again</span> <span class="o">==</span> <span class="s2">&#34;no&#34;</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">            <span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Thanks for playing!&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">            <span class="k">break</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">&#34;__main__&#34;</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="n">MENU</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="n">main</span><span class="p">()</span>
+</span></span></code></pre></div><hr>
+
+
+<h2 class="relative group"><strong>🔍 Code Breakdown</strong> 
+    <div id="-code-breakdown" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-code-breakdown" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<ul>
+<li>The program generates a <strong>random 3-digit secret number</strong>.</li>
+<li>The user makes a <strong>guess</strong> and receives a <strong>clue</strong>.</li>
+<li>The game loops for <strong>up to 10 tries</strong>, or until the correct number is guessed.</li>
+<li>At the end, the player can <strong>choose to replay</strong> or quit.</li>
+</ul>
+<hr>
+
+
+<h2 class="relative group"><strong>📌 How Can We Improve It?</strong> 
+    <div id="-how-can-we-improve-it" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-how-can-we-improve-it" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>I’ve got a few ideas, but I’d love to hear yours!<br>
+For example:</p>
+<ul>
+<li>Add a <strong>hard mode</strong> where the secret number has <strong>no repeating digits</strong>.</li>
+<li>Create a <strong>GUI version</strong> using Tkinter or Pygame.</li>
+<li>Add a <strong>multiplayer mode</strong>, where Player 1 sets the number and Player 2 guesses.</li>
+</ul>
+<p>What do you think? Got any other ideas to improve it? 🚀</p>
+<p>💬 <strong>Let me know in the comments if you tried the game or have optimizations to suggest!</strong></p>
+<hr>
+<p>📌 <strong>Follow me for more Python and dev content!</strong><br>
+👉 [<a href="https://dev.to/memlenz" target="_blank">Dev.to</a> / <a href="https://github.com/memlenz" target="_blank">GitHub</a> / <a href="https://twitter.com/achafine" target="_blank">Twitter Profile</a>]</p>
+
           
           
           
@@ -686,6 +1104,9 @@
       
       
         
+        
+          
+          
         
           
           
@@ -715,14 +1136,34 @@
       <div class="flex justify-between pt-3">
         <span>
           
-        </span>
-        <span>
-          
-            <a class="flex text-right group ml-3" href="/blog/python/pourquoi-python/">
+            <a class="flex group mr-3" href="/blog/python/bulletpointadder/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
               <span class="flex flex-col">
                 <span
                   class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Pourquoi Python est un excellent premier langage ?</span
+                  >🎯 Implémentation d'un foramateur de texte en python</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                </span>
+              </span>
+            </a>
+          
+        </span>
+        <span>
+          
+            <a class="flex text-right group ml-3" href="/blog/why-linux/why-linux-made-me-win/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Why Linux</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
@@ -748,7 +1189,13 @@
   </footer>
 </article>
 
-      
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
@@ -785,7 +1232,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:1313/"
+  data-url="https://memlenz.github.io/"
   style="z-index:500"
 >
   <div

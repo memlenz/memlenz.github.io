@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
-  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="false"><head>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="fr" />
@@ -15,7 +15,7 @@
   <meta name="keywords" content="python, variables, " />
   
   
-  <link rel="canonical" href="http://localhost:1313/fr/courses/python/variables/" />
+  <link rel="canonical" href="https://memlenz.github.io/fr/courses/python/variables/" />
   
   
   
@@ -68,7 +68,7 @@
   
   
   
-  <meta property="og:url" content="http://localhost:1313/fr/courses/python/variables/">
+  <meta property="og:url" content="https://memlenz.github.io/fr/courses/python/variables/">
   <meta property="og:title" content="Variables et commentaires en python">
   <meta property="og:description" content="Apprenez les variables et commentaires en python">
   <meta property="og:locale" content="fr">
@@ -95,7 +95,7 @@
     "description": "Apprenez les variables et commentaires en python",
     
     "inLanguage": "fr",
-    "url" : "http:\/\/localhost:1313\/fr\/courses\/python\/variables\/",
+    "url" : "https:\/\/memlenz.github.io\/fr\/courses\/python\/variables\/",
     "author" : {
       "@type": "Person",
       "name": "Ayédoun Châ-Fine ADEBI"
@@ -109,7 +109,7 @@
     "keywords": ["python","variables"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "851"
+    "wordCount": "1061"
   }]
   </script>
 
@@ -581,7 +581,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <span>851 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">4 mins</span><span class="px-2 text-primary-500">&middot;</span>
+  <span>1061 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">5 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 <script type="text/javascript" src="/js/zen-mode.min.eea5245cf9244ecbdf2c150d1c8833226c1541cadf6e98f63a7c9192b1a3676df2c3ec603b14f4cfaaa53971fd9d8955640c0f405bf3de2b43ee7a5fb29ae721.js" integrity="sha512-7qUkXPkkTsvfLBUNHIgzImwVQcrfbpj2OnyRkrGjZ23yw&#43;xgOxT0z6qlOXH9nYlVZAwPQFvz3itD7npfsprnIQ=="></script>
@@ -807,29 +807,55 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#-quest-ce-quune-variable-">🧠 Qu&rsquo;est-ce qu&rsquo;une variable ?</a>
       <ul>
-        <li><a href="#quest-ce-quune-variable-">Qu&rsquo;est-ce qu&rsquo;une variable ?</a></li>
-        <li><a href="#déclaration-dune-variable">Déclaration d&rsquo;une variable</a></li>
-        <li><a href="#les-types-de-variables-en-python">Les Types de Variables en Python</a>
-          <ul>
-            <li><a href="#-les-principaux-types-en-python"><strong>📌 Les principaux types en Python</strong></a></li>
-          </ul>
-        </li>
-        <li><a href="#redéfinir-des-variables">Redéfinir des Variables</a></li>
-        <li><a href="#noms-de-variables">Noms de Variables</a></li>
-        <li><a href="#variables-et-types-mutables">Variables et Types Mutables</a></li>
-        <li><a href="#variables-globales-et-locales">Variables Globales et Locales</a></li>
-        <li><a href="#la-magie-des-variables--lassignation-multiple">La Magie des Variables : L&rsquo;Assignation Multiple</a></li>
-        <li><a href="#affichage-et-commentaires">Affichage et Commentaires</a>
-          <ul>
-            <li><a href="#-la-fonction"><strong>📌 La fonction <code>print()</code></strong></a></li>
-            <li><a href="#-les-commentaires"><strong>📌 Les commentaires</strong></a></li>
-          </ul>
-        </li>
-        <li><a href="#conclusion">Conclusion</a></li>
+        <li><a href="#-mission-1--explorer-les-variables">🎯 Mission #1 : Explorer les variables</a></li>
       </ul>
     </li>
+    <li><a href="#-types-de-variables-en-python">🧩 Types de variables en Python</a>
+      <ul>
+        <li><a href="#-les-types-fondamentaux">📊 Les types fondamentaux</a></li>
+        <li><a href="#-les-types-de-collections">🔢 Les types de collections</a></li>
+      </ul>
+    </li>
+    <li><a href="#-manipulation-des-variables">🛠️ Manipulation des variables</a>
+      <ul>
+        <li><a href="#-création-et-modification">📝 Création et modification</a></li>
+        <li><a href="#-assignation-multiple">🪄 Assignation multiple</a></li>
+      </ul>
+    </li>
+    <li><a href="#-règles-de-nommage">📏 Règles de nommage</a>
+      <ul>
+        <li><a href="#-bonnes-pratiques">🌟 Bonnes pratiques</a></li>
+      </ul>
+    </li>
+    <li><a href="#-variables-mutables-vs-immuables">🧪 Variables mutables vs immuables</a>
+      <ul>
+        <li><a href="#-types-immuables-non-modifiables-après-création">🔒 Types immuables (non modifiables après création)</a></li>
+        <li><a href="#-types-mutables-modifiables-après-création">🔓 Types mutables (modifiables après création)</a></li>
+      </ul>
+    </li>
+    <li><a href="#-portée-des-variables">🔍 Portée des variables</a>
+      <ul>
+        <li><a href="#-variables-globales">🌍 Variables globales</a></li>
+        <li><a href="#-variables-locales">🏠 Variables locales</a></li>
+      </ul>
+    </li>
+    <li><a href="#-défis-pratiques">🎮 Défis pratiques</a>
+      <ul>
+        <li><a href="#-défi-1--convertisseur-de-température">🏆 Défi #1 : Convertisseur de température</a></li>
+        <li><a href="#exemple-doutput">Exemple d&rsquo;output</a></li>
+        <li><a href="#-défi-2--générateur-de-profil">🏆 Défi #2 : Générateur de profil</a></li>
+      </ul>
+    </li>
+    <li><a href="#-astuces-avancées">💡 Astuces avancées</a>
+      <ul>
+        <li><a href="#-vérifier-le-type-dune-variable">🔍 Vérifier le type d&rsquo;une variable</a></li>
+        <li><a href="#-opérations-sur-les-variables">🧮 Opérations sur les variables</a></li>
+      </ul>
+    </li>
+    <li><a href="#-pour-aller-plus-loin">📚 Pour aller plus loin</a></li>
+    <li><a href="#-mémo-pratique">🎯 Mémo pratique</a></li>
   </ul>
 </nav>
   </div>
@@ -843,29 +869,55 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#-quest-ce-quune-variable-">🧠 Qu&rsquo;est-ce qu&rsquo;une variable ?</a>
       <ul>
-        <li><a href="#quest-ce-quune-variable-">Qu&rsquo;est-ce qu&rsquo;une variable ?</a></li>
-        <li><a href="#déclaration-dune-variable">Déclaration d&rsquo;une variable</a></li>
-        <li><a href="#les-types-de-variables-en-python">Les Types de Variables en Python</a>
-          <ul>
-            <li><a href="#-les-principaux-types-en-python"><strong>📌 Les principaux types en Python</strong></a></li>
-          </ul>
-        </li>
-        <li><a href="#redéfinir-des-variables">Redéfinir des Variables</a></li>
-        <li><a href="#noms-de-variables">Noms de Variables</a></li>
-        <li><a href="#variables-et-types-mutables">Variables et Types Mutables</a></li>
-        <li><a href="#variables-globales-et-locales">Variables Globales et Locales</a></li>
-        <li><a href="#la-magie-des-variables--lassignation-multiple">La Magie des Variables : L&rsquo;Assignation Multiple</a></li>
-        <li><a href="#affichage-et-commentaires">Affichage et Commentaires</a>
-          <ul>
-            <li><a href="#-la-fonction"><strong>📌 La fonction <code>print()</code></strong></a></li>
-            <li><a href="#-les-commentaires"><strong>📌 Les commentaires</strong></a></li>
-          </ul>
-        </li>
-        <li><a href="#conclusion">Conclusion</a></li>
+        <li><a href="#-mission-1--explorer-les-variables">🎯 Mission #1 : Explorer les variables</a></li>
       </ul>
     </li>
+    <li><a href="#-types-de-variables-en-python">🧩 Types de variables en Python</a>
+      <ul>
+        <li><a href="#-les-types-fondamentaux">📊 Les types fondamentaux</a></li>
+        <li><a href="#-les-types-de-collections">🔢 Les types de collections</a></li>
+      </ul>
+    </li>
+    <li><a href="#-manipulation-des-variables">🛠️ Manipulation des variables</a>
+      <ul>
+        <li><a href="#-création-et-modification">📝 Création et modification</a></li>
+        <li><a href="#-assignation-multiple">🪄 Assignation multiple</a></li>
+      </ul>
+    </li>
+    <li><a href="#-règles-de-nommage">📏 Règles de nommage</a>
+      <ul>
+        <li><a href="#-bonnes-pratiques">🌟 Bonnes pratiques</a></li>
+      </ul>
+    </li>
+    <li><a href="#-variables-mutables-vs-immuables">🧪 Variables mutables vs immuables</a>
+      <ul>
+        <li><a href="#-types-immuables-non-modifiables-après-création">🔒 Types immuables (non modifiables après création)</a></li>
+        <li><a href="#-types-mutables-modifiables-après-création">🔓 Types mutables (modifiables après création)</a></li>
+      </ul>
+    </li>
+    <li><a href="#-portée-des-variables">🔍 Portée des variables</a>
+      <ul>
+        <li><a href="#-variables-globales">🌍 Variables globales</a></li>
+        <li><a href="#-variables-locales">🏠 Variables locales</a></li>
+      </ul>
+    </li>
+    <li><a href="#-défis-pratiques">🎮 Défis pratiques</a>
+      <ul>
+        <li><a href="#-défi-1--convertisseur-de-température">🏆 Défi #1 : Convertisseur de température</a></li>
+        <li><a href="#exemple-doutput">Exemple d&rsquo;output</a></li>
+        <li><a href="#-défi-2--générateur-de-profil">🏆 Défi #2 : Générateur de profil</a></li>
+      </ul>
+    </li>
+    <li><a href="#-astuces-avancées">💡 Astuces avancées</a>
+      <ul>
+        <li><a href="#-vérifier-le-type-dune-variable">🔍 Vérifier le type d&rsquo;une variable</a></li>
+        <li><a href="#-opérations-sur-les-variables">🧮 Opérations sur les variables</a></li>
+      </ul>
+    </li>
+    <li><a href="#-pour-aller-plus-loin">📚 Pour aller plus loin</a></li>
+    <li><a href="#-mémo-pratique">🎯 Mémo pratique</a></li>
   </ul>
 </nav>
   </div>
@@ -947,61 +999,92 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <p>Dans le monde de la programmation, les variables sont des outils essentiels pour stocker et manipuler des données. En Python, elles sont particulièrement flexibles et faciles à utiliser, ce qui les rend idéales pour les développeurs débutants tout en étant assez puissantes pour les utilisateurs avancés. Dans cet article, on va faire un tour d’horizon des variables en Python, en démystifiant leur fonctionnement et leur utilité à travers des exemples pratiques.</p>
+          
 
-
-<h3 class="relative group">Qu&rsquo;est-ce qu&rsquo;une variable ? 
-    <div id="quest-ce-quune-variable-" class="anchor"></div>
+<h1 class="relative group">Les Variables en Python : Le cœur de ton code 
+    <div id="les-variables-en-python--le-c%C5%93ur-de-ton-code" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#quest-ce-quune-variable-" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#les-variables-en-python--le-c%C5%93ur-de-ton-code" aria-label="Ancre">#</a>
     </span>        
     
-</h3>
-<p>Une variable, c&rsquo;est comme une boîte dans laquelle tu peux ranger des données. Ce qui est cool avec Python, c&rsquo;est que tu n’as pas besoin de dire à l’avance quel type de données tu vas stocker dans cette boîte : Python va automatiquement déterminer le type de données selon ce que tu y mets. Si tu mets un nombre, la boîte devient un entier ; si tu y mets du texte, la boîte devient une chaîne de caractères, et ainsi de suite.</p>
+</h1>
+<p>Les variables sont comme des boîtes magiques qui servent à stocker et manipuler des données dans ton programme. En Python, elles sont particulièrement souples et intuitives !</p>
 
 
-<h3 class="relative group">Déclaration d&rsquo;une variable 
-    <div id="d%C3%A9claration-dune-variable" class="anchor"></div>
+<h2 class="relative group">🧠 Qu&rsquo;est-ce qu&rsquo;une variable ? 
+    <div id="-quest-ce-quune-variable-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#d%C3%A9claration-dune-variable" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-quest-ce-quune-variable-" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Une variable en Python est comme un conteneur étiqueté qui peut stocker différents types de données :</p>
+<ul>
+<li>📦 Stocke des valeurs (nombres, texte, listes&hellip;)</li>
+<li>🏷️ Possède un nom qui permet d&rsquo;y accéder</li>
+<li>🔄 Peut changer de contenu au cours du programme</li>
+</ul>
+<hr>
+
+
+<h3 class="relative group">🎯 Mission #1 : Explorer les variables 
+    <div id="-mission-1--explorer-les-variables" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-mission-1--explorer-les-variables" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Déclarer une variable en Python est d&rsquo;une simplicité enfantine. Il te suffit d’utiliser l’opérateur d’affectation (<code>=</code>) pour assigner une valeur à une variable. Voici un exemple simple :</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">x</span> <span class="o">=</span> <span class="mi">10</span>
+<p>Testez ce code dans l&rsquo;interpréteur Python et observez :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">age</span> <span class="o">=</span> <span class="mi">25</span>
 </span></span><span class="line"><span class="cl"><span class="n">nom</span> <span class="o">=</span> <span class="s2">&#34;Alice&#34;</span>
-</span></span></code></pre></div><p>Dans cet exemple, <code>x</code> est une variable qui contient l’entier <code>10</code>, et <code>nom</code> est une variable qui contient la chaîne de caractères <code>&quot;Alice&quot;</code>.</p>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Bonjour, je m&#39;appelle </span><span class="si">{</span><span class="n">nom</span><span class="si">}</span><span class="s2"> et j&#39;ai </span><span class="si">{</span><span class="n">age</span><span class="si">}</span><span class="s2"> ans.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">age</span> <span class="o">=</span> <span class="mi">26</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;C&#39;est mon anniversaire ! Maintenant j&#39;ai </span><span class="si">{</span><span class="n">age</span><span class="si">}</span><span class="s2"> ans.&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><details>
+<summary>📝 Explication du code</summary>
+<ol>
+<li>On crée une variable <code>age</code> contenant le nombre 25</li>
+<li>On crée une variable <code>nom</code> contenant le texte &ldquo;Alice&rdquo;</li>
+<li>On affiche un message utilisant ces deux variables</li>
+<li>On change la valeur de <code>age</code> à 26</li>
+<li>Le message suivant reflète cette nouvelle valeur</li>
+</ol>
+</details>
+<hr>
 
 
-<h3 class="relative group">Les Types de Variables en Python 
-    <div id="les-types-de-variables-en-python" class="anchor"></div>
+<h2 class="relative group">🧩 Types de variables en Python 
+    <div id="-types-de-variables-en-python" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#les-types-de-variables-en-python" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-types-de-variables-en-python" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Python est intelligent et détermine automatiquement le type de variable selon la valeur qu&rsquo;on lui assigne.</p>
+
+
+<h3 class="relative group">📊 Les types fondamentaux 
+    <div id="-les-types-fondamentaux" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-les-types-fondamentaux" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Python, étant un langage dynamique, gère différents types de données comme :</p>
-
-
-<h4 class="relative group"><strong>📌 Les principaux types en Python</strong> 
-    <div id="-les-principaux-types-en-python" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#-les-principaux-types-en-python" aria-label="Ancre">#</a>
-    </span>        
-    
-</h4>
 <table>
   <thead>
       <tr>
@@ -1031,190 +1114,443 @@
           <td><code>True</code>, <code>False</code></td>
           <td>Vrai ou faux</td>
       </tr>
+  </tbody>
+</table>
+
+
+<h3 class="relative group">🔢 Les types de collections 
+    <div id="-les-types-de-collections" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-les-types-de-collections" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Type</th>
+          <th>Exemple</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
       <tr>
           <td><code>list</code> (liste)</td>
           <td><code>[1, 2, 3]</code></td>
-          <td>Collection modifiable</td>
+          <td>Collection ordonnée modifiable</td>
       </tr>
       <tr>
           <td><code>tuple</code> (tuple)</td>
           <td><code>(1, 2, 3)</code></td>
-          <td>Collection non modifiable</td>
+          <td>Collection ordonnée non modifiable</td>
       </tr>
       <tr>
           <td><code>dict</code> (dictionnaire)</td>
           <td><code>{&quot;nom&quot;: &quot;Alice&quot;, &quot;age&quot;: 25}</code></td>
-          <td>Clé-Valeur</td>
+          <td>Paires clé-valeur</td>
       </tr>
       <tr>
           <td><code>set</code> (ensemble)</td>
           <td><code>{&quot;pomme&quot;, &quot;banane&quot;}</code></td>
-          <td>Ensemble unique</td>
+          <td>Collection non ordonnée d&rsquo;éléments uniques</td>
       </tr>
   </tbody>
 </table>
-<p>Python est assez intelligent pour déterminer le type d&rsquo;une variable en fonction de la valeur que tu lui donnes. Cela rend l’écriture de code très fluide et rapide.</p>
+<hr>
 
 
-<h3 class="relative group">Redéfinir des Variables 
-    <div id="red%C3%A9finir-des-variables" class="anchor"></div>
+<h2 class="relative group">🛠️ Manipulation des variables 
+    <div id="-manipulation-des-variables" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#red%C3%A9finir-des-variables" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-manipulation-des-variables" aria-label="Ancre">#</a>
     </span>        
     
-</h3>
-<p>Tu peux changer la valeur d’une variable à tout moment. Ce qu’il faut retenir, c’est que la variable n’est pas liée à une valeur spécifique ; c’est comme si tu changeais le contenu de la boîte à volonté :</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">x</span> <span class="o">=</span> <span class="mi">10</span>
-</span></span><span class="line"><span class="cl"><span class="n">x</span> <span class="o">=</span> <span class="mi">20</span>  <span class="c1"># Maintenant x vaut 20</span>
-</span></span></code></pre></div>
+</h2>
 
-<h3 class="relative group">Noms de Variables 
-    <div id="noms-de-variables" class="anchor"></div>
+
+<h3 class="relative group">📝 Création et modification 
+    <div id="-cr%C3%A9ation-et-modification" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#noms-de-variables" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-cr%C3%A9ation-et-modification" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Les noms de variables doivent suivre quelques règles simples :</p>
-<ul>
-<li>Un nom de variable ne peut pas commencer par un chiffre.</li>
-<li>Il peut contenir des lettres, des chiffres et des underscores (<code>_</code>).</li>
-<li>Python est sensible à la casse, donc <code>maVariable</code> et <code>mavariable</code> seront deux variables distinctes.</li>
-</ul>
-<p>Il est recommandé de choisir des noms de variables clairs et explicites pour rendre ton code plus lisible. Par exemple, au lieu d’utiliser des noms comme <code>x</code> ou <code>temp</code>, opte pour quelque chose de plus parlant comme <code>age</code>, <code>prix_total</code>, ou <code>nombre_utilisateurs</code>.</p>
-
-
-<h3 class="relative group">Variables et Types Mutables 
-    <div id="variables-et-types-mutables" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#variables-et-types-mutables" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<p>Certaines variables en Python sont <strong>mutables</strong>, ce qui signifie que leur contenu peut être modifié après leur création. C’est le cas des listes, dictionnaires, et autres types comme les ensembles (<code>set</code>).</p>
-<p>Exemple avec une liste :</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">ma_liste</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">]</span>
-</span></span><span class="line"><span class="cl"><span class="n">ma_liste</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="mi">99</span>  <span class="c1"># On change le premier élément</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">ma_liste</span><span class="p">)</span>  <span class="c1"># Résultat : [99, 2, 3]</span>
-</span></span></code></pre></div><p>D’autres types, comme les entiers ou les chaînes de caractères, sont <strong>immuables</strong>, ce qui signifie qu’une fois qu’ils sont créés, tu ne peux pas modifier directement leur contenu. Par exemple :</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">mon_texte</span> <span class="o">=</span> <span class="s2">&#34;Bonjour&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="n">mon_texte</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&#34;b&#34;</span>  <span class="c1"># Cela va provoquer une erreur</span>
-</span></span></code></pre></div>
-
-<h3 class="relative group">Variables Globales et Locales 
-    <div id="variables-globales-et-locales" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#variables-globales-et-locales" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<p>Les variables en Python peuvent être <strong>globales</strong> ou <strong>locales</strong> :</p>
-<ul>
-<li><strong>Variables locales</strong> : Elles sont définies à l’intérieur d’une fonction et n’existent que pendant l’exécution de cette fonction.</li>
-<li><strong>Variables globales</strong> : Elles sont définies à l’extérieur de toute fonction et sont accessibles depuis n&rsquo;importe où dans ton programme.</li>
-</ul>
-<p>Exemple avec une variable locale :</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">ma_fonction</span><span class="p">():</span>
-</span></span><span class="line"><span class="cl">    <span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>  <span class="c1"># x est local à ma_fonction</span>
-</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># Création de variables</span>
+</span></span><span class="line"><span class="cl"><span class="n">score</span> <span class="o">=</span> <span class="mi">0</span>
+</span></span><span class="line"><span class="cl"><span class="n">nom_joueur</span> <span class="o">=</span> <span class="s2">&#34;Aventurier&#34;</span>
 </span></span><span class="line"><span class="cl">
-</span></span><span class="line"><span class="cl"><span class="n">ma_fonction</span><span class="p">()</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>  <span class="c1"># Cela provoque une erreur car x n&#39;est pas défini ici</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># Modification de variables</span>
+</span></span><span class="line"><span class="cl"><span class="n">score</span> <span class="o">=</span> <span class="n">score</span> <span class="o">+</span> <span class="mi">10</span>  <span class="c1"># score vaut maintenant 10</span>
+</span></span><span class="line"><span class="cl"><span class="n">score</span> <span class="o">+=</span> <span class="mi">5</span>          <span class="c1"># score vaut maintenant 15</span>
 </span></span></code></pre></div>
 
-<h3 class="relative group">La Magie des Variables : L&rsquo;Assignation Multiple 
-    <div id="la-magie-des-variables--lassignation-multiple" class="anchor"></div>
+<h3 class="relative group">🪄 Assignation multiple 
+    <div id="-assignation-multiple" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#la-magie-des-variables--lassignation-multiple" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-assignation-multiple" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Python te permet d&rsquo;assigner plusieurs variables en une seule ligne, ce qui peut rendre ton code plus compact :</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">c</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">c</span><span class="p">)</span>  <span class="c1"># Résultat : 1 2 3</span>
-</span></span></code></pre></div><p>C’est simple, mais très puissant, surtout quand tu veux manipuler plusieurs variables en même temps.</p>
+<p>Python permet d&rsquo;assigner plusieurs variables en une seule ligne :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">z</span> <span class="o">=</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">z</span><span class="p">)</span>  <span class="c1"># Affiche: 10 20 30</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Échange de valeurs en une ligne !</span>
+</span></span><span class="line"><span class="cl"><span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">10</span>
+</span></span><span class="line"><span class="cl"><span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span>  <span class="c1"># a vaut 10, b vaut 5</span>
+</span></span></code></pre></div><hr>
 
 
-<h3 class="relative group">Affichage et Commentaires 
-    <div id="affichage-et-commentaires" class="anchor"></div>
+<h2 class="relative group">📏 Règles de nommage 
+    <div id="-r%C3%A8gles-de-nommage" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#affichage-et-commentaires" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-r%C3%A8gles-de-nommage" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Pour nommer tes variables, respecte ces règles :</p>
+<p>✅ <strong>Autorisé</strong> :</p>
+<ul>
+<li>Lettres (a-z, A-Z)</li>
+<li>Chiffres (sauf en première position)</li>
+<li>Underscore (_)</li>
+</ul>
+<p>❌ <strong>Interdit</strong> :</p>
+<ul>
+<li>Commencer par un chiffre</li>
+<li>Utiliser des espaces</li>
+<li>Utiliser des caractères spéciaux (@, #, %, etc.)</li>
+<li>Utiliser des mots réservés Python (<code>if</code>, <code>for</code>, <code>while</code>, etc.)</li>
+</ul>
+
+
+<h3 class="relative group">🌟 Bonnes pratiques 
+    <div id="-bonnes-pratiques" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-bonnes-pratiques" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># 👍 Bon nommage</span>
+</span></span><span class="line"><span class="cl"><span class="n">age_joueur</span> <span class="o">=</span> <span class="mi">25</span>
+</span></span><span class="line"><span class="cl"><span class="n">prix_total</span> <span class="o">=</span> <span class="mf">49.99</span>
+</span></span><span class="line"><span class="cl"><span class="n">est_actif</span> <span class="o">=</span> <span class="kc">True</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 👎 Mauvais nommage</span>
+</span></span><span class="line"><span class="cl"><span class="n">a</span> <span class="o">=</span> <span class="mi">25</span>         <span class="c1"># Nom pas clair</span>
+</span></span><span class="line"><span class="cl"><span class="n">pT</span> <span class="o">=</span> <span class="mf">49.99</span>     <span class="c1"># Abréviation peu lisible</span>
+</span></span><span class="line"><span class="cl"><span class="n">variable1</span> <span class="o">=</span> <span class="kc">True</span>  <span class="c1"># Nom générique</span>
+</span></span></code></pre></div><hr>
 
 
-<h4 class="relative group"><strong>📌 La fonction <code>print()</code></strong> 
-    <div id="-la-fonction" class="anchor"></div>
+<h2 class="relative group">🧪 Variables mutables vs immuables 
+    <div id="-variables-mutables-vs-immuables" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#-la-fonction" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-variables-mutables-vs-immuables" aria-label="Ancre">#</a>
     </span>        
     
-</h4>
-<p>Elle permet d&rsquo;afficher du texte ou des variables à l&rsquo;écran.</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Bonjour, monde !&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="n">nom</span> <span class="o">=</span> <span class="s2">&#34;Alice&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Bonjour&#34;</span><span class="p">,</span> <span class="n">nom</span><span class="p">)</span>
-</span></span></code></pre></div><p>👉 Résultat :</p>
-<pre tabindex="0"><code>Bonjour, monde !
-Bonjour Alice
-</code></pre>
+</h2>
 
-<h4 class="relative group"><strong>📌 Les commentaires</strong> 
-    <div id="-les-commentaires" class="anchor"></div>
+
+<h3 class="relative group">🔒 Types immuables (non modifiables après création) 
+    <div id="-types-immuables-non-modifiables-apr%C3%A8s-cr%C3%A9ation" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#-les-commentaires" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-types-immuables-non-modifiables-apr%C3%A8s-cr%C3%A9ation" aria-label="Ancre">#</a>
     </span>        
     
-</h4>
-<p>Les commentaires permettent d’expliquer le code sans l’exécuter.</p>
-<p>✅ <strong>Commentaire sur une ligne</strong></p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># Ceci est un commentaire</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Hello&#34;</span><span class="p">)</span>  <span class="c1"># Affichage d&#39;un message</span>
-</span></span></code></pre></div><p>✅ <strong>Commentaire sur plusieurs lignes</strong></p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="s2">&#34;&#34;&#34;
-</span></span></span><span class="line"><span class="cl"><span class="s2">Ceci est un commentaire
-</span></span></span><span class="line"><span class="cl"><span class="s2">sur plusieurs lignes.
-</span></span></span><span class="line"><span class="cl"><span class="s2">&#34;&#34;&#34;</span>
-</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s2">&#34;Python est génial !&#34;</span><span class="p">)</span>
+</h3>
+<ul>
+<li><code>int</code>, <code>float</code>, <code>str</code>, <code>bool</code>, <code>tuple</code></li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">texte</span> <span class="o">=</span> <span class="s2">&#34;Hello&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># texte[0] = &#34;h&#34;  # ❌ Erreur ! Les strings sont immuables</span>
 </span></span></code></pre></div>
 
-<h3 class="relative group">Conclusion 
-    <div id="conclusion" class="anchor"></div>
+<h3 class="relative group">🔓 Types mutables (modifiables après création) 
+    <div id="-types-mutables-modifiables-apr%C3%A8s-cr%C3%A9ation" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#conclusion" aria-label="Ancre">#</a>
+            style="text-decoration-line: none !important;" href="#-types-mutables-modifiables-apr%C3%A8s-cr%C3%A9ation" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Les variables en Python, avec leur simplicité et flexibilité, sont des outils puissants qui te permettent de stocker et manipuler des données avec une grande facilité. En comprenant bien leur fonctionnement, tu pourras écrire un code plus lisible, plus efficace, et surtout, plus fun à coder.</p>
-<p>Alors, à toi de jouer !</p>
+<ul>
+<li><code>list</code>, <code>dict</code>, <code>set</code></li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">fruits</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&#34;pomme&#34;</span><span class="p">,</span> <span class="s2">&#34;banane&#34;</span><span class="p">,</span> <span class="s2">&#34;cerise&#34;</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="n">fruits</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&#34;fraise&#34;</span>  <span class="c1"># ✅ Fonctionne ! Les listes sont mutables</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">fruits</span><span class="p">)</span>  <span class="c1"># [&#39;fraise&#39;, &#39;banane&#39;, &#39;cerise&#39;]</span>
+</span></span></code></pre></div><hr>
+
+
+<h2 class="relative group">🔍 Portée des variables 
+    <div id="-port%C3%A9e-des-variables" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-port%C3%A9e-des-variables" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">🌍 Variables globales 
+    <div id="-variables-globales" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-variables-globales" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Accessibles partout dans le programme</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">score_total</span> <span class="o">=</span> <span class="mi">0</span>  <span class="c1"># Variable globale</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">ajouter_points</span><span class="p">(</span><span class="n">points</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="k">global</span> <span class="n">score_total</span>  <span class="c1"># Indique qu&#39;on utilise la variable globale</span>
+</span></span><span class="line"><span class="cl">    <span class="n">score_total</span> <span class="o">+=</span> <span class="n">points</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">ajouter_points</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">score_total</span><span class="p">)</span>  <span class="c1"># Affiche 10</span>
+</span></span></code></pre></div>
+
+<h3 class="relative group">🏠 Variables locales 
+    <div id="-variables-locales" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-variables-locales" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Existent uniquement dans une fonction</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">calculer_aire</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">    <span class="n">longueur</span> <span class="o">=</span> <span class="mi">5</span>  <span class="c1"># Variable locale</span>
+</span></span><span class="line"><span class="cl">    <span class="n">largeur</span> <span class="o">=</span> <span class="mi">3</span>   <span class="c1"># Variable locale</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">longueur</span> <span class="o">*</span> <span class="n">largeur</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">calculer_aire</span><span class="p">())</span>  <span class="c1"># Affiche 15</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># print(longueur)  # ❌ Erreur ! Variable non définie ici</span>
+</span></span></code></pre></div><hr>
+
+
+<h2 class="relative group">🎮 Défis pratiques 
+    <div id="-d%C3%A9fis-pratiques" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-d%C3%A9fis-pratiques" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">🏆 Défi #1 : Convertisseur de température 
+    <div id="-d%C3%A9fi-1--convertisseur-de-temp%C3%A9rature" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-d%C3%A9fi-1--convertisseur-de-temp%C3%A9rature" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Créez un fichier <code>convertisseur.py</code> :</p>
+<ol>
+<li>Il demande à l&rsquo;utilisateur d&rsquo;entrer une température en Celsius.</li>
+<li>Il convertit cette température en Fahrenheit en utilisant la formule : ( \text{Fahrenheit} = (\text{Celsius} \times \frac{9}{5}) + 32 ).</li>
+<li>Il affiche le résultat de la conversion.</li>
+<li>Ensuite, il demande à l&rsquo;utilisateur d&rsquo;entrer une température en Fahrenheit.</li>
+<li>Il convertit cette température en Celsius en utilisant la formule : ( \text{Celsius} = (\text{Fahrenheit} - 32) \times \frac{5}{9} ).</li>
+<li>Il affiche le résultat de cette conversion.</li>
+</ol>
+
+
+<h3 class="relative group">Exemple d&rsquo;output 
+    <div id="exemple-doutput" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#exemple-doutput" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Si l&rsquo;utilisateur entre <code>25</code> pour la température en Celsius et <code>77</code> pour la température en Fahrenheit, l&rsquo;output sera :</p>
+<pre tabindex="0"><code>Température en Celsius : 25
+25.0°C = 77.0°F
+Température en Fahrenheit : 77
+77.0°F = 25.0°C
+</code></pre><p>Les valeurs affichées peuvent varier en fonction des entrées de l&rsquo;utilisateur.</p>
+<details>
+<summary> # Convertisseur Celsius ↔ Fahrenheit </summary>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">celsius</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Température en Celsius : &#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Conversion en Fahrenheit</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">fahrenheit</span> <span class="o">=</span> <span class="p">(</span><span class="n">celsius</span> <span class="o">*</span> <span class="mi">9</span><span class="o">/</span><span class="mi">5</span><span class="p">)</span> <span class="o">+</span> <span class="mi">32</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Affichage du résultat</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;</span><span class="si">{</span><span class="n">celsius</span><span class="si">}</span><span class="s2">°C = </span><span class="si">{</span><span class="n">fahrenheit</span><span class="si">}</span><span class="s2">°F&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Bonus : conversion inverse</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">temp_f</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Température en Fahrenheit : &#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">temp_c</span> <span class="o">=</span> <span class="p">(</span><span class="n">temp_f</span> <span class="o">-</span> <span class="mi">32</span><span class="p">)</span> <span class="o">*</span> <span class="mi">5</span><span class="o">/</span><span class="mi">9</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;</span><span class="si">{</span><span class="n">temp_f</span><span class="si">}</span><span class="s2">°F = </span><span class="si">{</span><span class="n">temp_c</span><span class="si">}</span><span class="s2">°C&#34;</span><span class="p">)</span>
+</span></span></code></pre></div></details>
+
+
+<h3 class="relative group">🏆 Défi #2 : Générateur de profil 
+    <div id="-d%C3%A9fi-2--g%C3%A9n%C3%A9rateur-de-profil" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-d%C3%A9fi-2--g%C3%A9n%C3%A9rateur-de-profil" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Créez un fichier <code>profil.py</code> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># Collecte d&#39;informations</span>
+</span></span><span class="line"><span class="cl"><span class="n">nom</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Ton nom : &#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">age</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Ton âge : &#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">ville</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Ta ville : &#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">hobby</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Ton hobby préféré : &#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Calculs dérivés</span>
+</span></span><span class="line"><span class="cl"><span class="n">annee_naissance</span> <span class="o">=</span> <span class="mi">2025</span> <span class="o">-</span> <span class="n">age</span>
+</span></span><span class="line"><span class="cl"><span class="n">est_majeur</span> <span class="o">=</span> <span class="n">age</span> <span class="o">&gt;=</span> <span class="mi">18</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Génération du profil</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\n</span><span class="s2">===== PROFIL AVENTURIER =====&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Nom: </span><span class="si">{</span><span class="n">nom</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Âge: </span><span class="si">{</span><span class="n">age</span><span class="si">}</span><span class="s2"> ans (né(e) vers </span><span class="si">{</span><span class="n">annee_naissance</span><span class="si">}</span><span class="s2">)&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Localisation: </span><span class="si">{</span><span class="n">ville</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Passion: </span><span class="si">{</span><span class="n">hobby</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Statut: </span><span class="si">{</span><span class="s1">&#39;Majeur&#39;</span> <span class="k">if</span> <span class="n">est_majeur</span> <span class="k">else</span> <span class="s1">&#39;Mineur&#39;</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s2">&#34;============================&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><hr>
+
+
+<h2 class="relative group">💡 Astuces avancées 
+    <div id="-astuces-avanc%C3%A9es" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-astuces-avanc%C3%A9es" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+
+
+<h3 class="relative group">🔍 Vérifier le type d&rsquo;une variable 
+    <div id="-v%C3%A9rifier-le-type-dune-variable" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-v%C3%A9rifier-le-type-dune-variable" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">x</span> <span class="o">=</span> <span class="mi">42</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">x</span><span class="p">))</span>  <span class="c1"># &lt;class &#39;int&#39;&gt;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">y</span> <span class="o">=</span> <span class="s2">&#34;Bonjour&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">y</span><span class="p">))</span>  <span class="c1"># &lt;class &#39;str&#39;&gt;</span>
+</span></span></code></pre></div>
+
+<h3 class="relative group">🧮 Opérations sur les variables 
+    <div id="-op%C3%A9rations-sur-les-variables" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-op%C3%A9rations-sur-les-variables" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">a</span> <span class="o">=</span> <span class="mi">5</span>
+</span></span><span class="line"><span class="cl"><span class="n">b</span> <span class="o">=</span> <span class="mi">2</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">+</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Addition: 7</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">-</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Soustraction: 3</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">*</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Multiplication: 10</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">/</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Division: 2.5</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">//</span> <span class="n">b</span><span class="p">)</span>   <span class="c1"># Division entière: 2</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">%</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Modulo (reste): 1</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">**</span> <span class="n">b</span><span class="p">)</span>   <span class="c1"># Puissance: 25</span>
+</span></span></code></pre></div><hr>
+
+
+<h2 class="relative group">📚 Pour aller plus loin 
+    <div id="-pour-aller-plus-loin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-pour-aller-plus-loin" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<ul>
+<li>Explore les f-strings pour des affichages plus élégants</li>
+<li>Découvre les listes, dictionnaires et tuples pour stocker des collections</li>
+<li>Apprends à combiner des variables avec des conditions et des boucles</li>
+</ul>
+<hr>
+
+
+<h2 class="relative group">🎯 Mémo pratique 
+    <div id="-m%C3%A9mo-pratique" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#-m%C3%A9mo-pratique" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>✅ Les variables sont des &ldquo;boîtes&rdquo; pour stocker des données<br>
+✅ Python détermine automatiquement leur type<br>
+✅ Elles peuvent changer de valeur au cours du programme<br>
+✅ Choisis des noms significatifs pour tes variables<br>
+✅ Certains types sont modifiables, d&rsquo;autres non</p>
+<hr>
+<p>Prêt à expérimenter avec les variables ? Essaye les défis ci-dessus et vois comment ces &ldquo;boîtes magiques&rdquo; peuvent rendre ton code plus dynamique et puissant !</p>
 
           
           
@@ -1360,7 +1696,7 @@ Bonjour Alice
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="http://localhost:1313/fr/"
+  data-url="https://memlenz.github.io/fr/"
   style="z-index:500"
 >
   <div

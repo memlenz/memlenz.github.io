@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Installation on </title>
-    <link>http://localhost:1313/fr/tags/installation/</link>
+    <link>https://memlenz.github.io/fr/tags/installation/</link>
     <description>Recent content in Installation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 01:48:30 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Installer Python sur Windows, Linux et Mac</title>
+      <link>https://memlenz.github.io/fr/blog/python/installation-python/</link>
+      <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/installation-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pourquoi Python doit être installé pour fonctionner ?</title>
+      <link>https://memlenz.github.io/fr/blog/python/pourquoi-installer-python/</link>
+      <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/pourquoi-installer-python/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Bienvenue dans le Void : Installer Void Linux pas à pas</title>
-      <link>http://localhost:1313/fr/blog/linux-tweaks/voidlinux-installation/</link>
+      <link>https://memlenz.github.io/fr/blog/linux-tweaks/voidlinux-installation/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/linux-tweaks/voidlinux-installation/</guid>
+      <guid>https://memlenz.github.io/fr/blog/linux-tweaks/voidlinux-installation/</guid>
       <description></description>
       
     </item>
