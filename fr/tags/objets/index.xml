@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Objets on </title>
-    <link>http://localhost:1313/fr/tags/objets/</link>
+    <link>https://memlenz.github.io/fr/tags/objets/</link>
     <description>Recent content in Objets on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 05:46:06 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/objets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Mar 2025 05:46:06 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/tags/objets/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les Classes en Python</title>
-      <link>http://localhost:1313/fr/courses/python/classes/</link>
+      <link>https://memlenz.github.io/fr/courses/python/classes/</link>
       <pubDate>Mon, 03 Mar 2025 05:46:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/classes/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/classes/</guid>
       <description></description>
       
     </item>

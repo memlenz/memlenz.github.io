@@ -2,541 +2,541 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memlenz – Chroniques de Code, DevOps &amp; Linux on </title>
-    <link>http://localhost:1313/fr/</link>
+    <link>https://memlenz.github.io/fr/</link>
     <description>Recent content in Memlenz – Chroniques de Code, DevOps &amp; Linux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Organiser ses scripts Python proprement sur chaque OS</title>
-      <link>http://localhost:1313/fr/blog/python/organiser-ses-scripts/</link>
+      <link>https://memlenz.github.io/fr/blog/python/organiser-ses-scripts/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/organiser-ses-scripts/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/organiser-ses-scripts/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
-      <link>http://localhost:1313/fr/blog/python/les-chemins/</link>
+      <link>https://memlenz.github.io/fr/blog/python/les-chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/les-chemins/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/les-chemins/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
-      <link>http://localhost:1313/fr/blog/python/python2-vs-python3/</link>
+      <link>https://memlenz.github.io/fr/blog/python/python2-vs-python3/</link>
       <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/python2-vs-python3/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/python2-vs-python3/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu</title>
-      <link>http://localhost:1313/fr/blog/linux-tweaks/mysql-mariadb/</link>
+      <link>https://memlenz.github.io/fr/blog/linux-tweaks/mysql-mariadb/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/linux-tweaks/mysql-mariadb/</guid>
+      <guid>https://memlenz.github.io/fr/blog/linux-tweaks/mysql-mariadb/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Installer PostgreSQL sur Arch, Void Linux et Debian/Ubuntu</title>
-      <link>http://localhost:1313/fr/blog/linux-tweaks/postgre-sql/</link>
+      <link>https://memlenz.github.io/fr/blog/linux-tweaks/postgre-sql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/linux-tweaks/postgre-sql/</guid>
+      <guid>https://memlenz.github.io/fr/blog/linux-tweaks/postgre-sql/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python</title>
-      <link>http://localhost:1313/fr/blog/python/passwordmanager/</link>
+      <link>https://memlenz.github.io/fr/blog/python/passwordmanager/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/passwordmanager/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/passwordmanager/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Installer Python sur Windows, Linux et Mac</title>
-      <link>http://localhost:1313/fr/blog/python/installation-python/</link>
+      <link>https://memlenz.github.io/fr/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/installation-python/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/installation-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎯 Implémentation d&#39;un foramateur de texte en python</title>
-      <link>http://localhost:1313/fr/blog/python/bulletpointadder/</link>
+      <link>https://memlenz.github.io/fr/blog/python/bulletpointadder/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/bulletpointadder/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/bulletpointadder/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pourquoi Python doit être installé pour fonctionner ?</title>
-      <link>http://localhost:1313/fr/blog/python/pourquoi-installer-python/</link>
+      <link>https://memlenz.github.io/fr/blog/python/pourquoi-installer-python/</link>
       <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/pourquoi-installer-python/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/pourquoi-installer-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Comprendre et maîtriser with et open en Python</title>
-      <link>http://localhost:1313/fr/courses/python/json-en-python/</link>
+      <link>https://memlenz.github.io/fr/courses/python/json-en-python/</link>
       <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/json-en-python/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/json-en-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Comprendre et maîtriser with et open en Python</title>
-      <link>http://localhost:1313/fr/courses/python/with-open/</link>
+      <link>https://memlenz.github.io/fr/courses/python/with-open/</link>
       <pubDate>Thu, 03 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/with-open/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/with-open/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Comprendre et maîtriser argparse en Python</title>
-      <link>http://localhost:1313/fr/courses/python/argparse-en-python/</link>
+      <link>https://memlenz.github.io/fr/courses/python/argparse-en-python/</link>
       <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/argparse-en-python/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/argparse-en-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bienvenue dans le Void : Installer Void Linux pas à pas</title>
-      <link>http://localhost:1313/fr/blog/linux-tweaks/voidlinux-installation/</link>
+      <link>https://memlenz.github.io/fr/blog/linux-tweaks/voidlinux-installation/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/linux-tweaks/voidlinux-installation/</guid>
+      <guid>https://memlenz.github.io/fr/blog/linux-tweaks/voidlinux-installation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>De LazyVim à l&#39;exécution de son premier script Python</title>
-      <link>http://localhost:1313/fr/blog/linux-tweaks/lazyvim/</link>
+      <link>https://memlenz.github.io/fr/blog/linux-tweaks/lazyvim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/linux-tweaks/lazyvim/</guid>
+      <guid>https://memlenz.github.io/fr/blog/linux-tweaks/lazyvim/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
-      <link>http://localhost:1313/fr/blog/python/environnement-de-travail/</link>
+      <link>https://memlenz.github.io/fr/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/environnement-de-travail/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/environnement-de-travail/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Différence entre l’interpréteur Python (Shell interactif) et un fichier Python</title>
-      <link>http://localhost:1313/fr/blog/python/interpreteur-vs-fichier/</link>
+      <link>https://memlenz.github.io/fr/blog/python/interpreteur-vs-fichier/</link>
       <pubDate>Sat, 29 Mar 2025 23:37:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/interpreteur-vs-fichier/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/interpreteur-vs-fichier/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Différence entre un langage interprété et un langage compilé</title>
-      <link>http://localhost:1313/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
+      <link>https://memlenz.github.io/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🖥️ Différence entre un langage de programmation et un logiciel classique</title>
-      <link>http://localhost:1313/fr/blog/python/difference-logiciel-langage/</link>
+      <link>https://memlenz.github.io/fr/blog/python/difference-logiciel-langage/</link>
       <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/difference-logiciel-langage/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/difference-logiciel-langage/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Différence entre un fichier .py et un exécutable .exe</title>
-      <link>http://localhost:1313/fr/blog/python/difference-exe-py/</link>
+      <link>https://memlenz.github.io/fr/blog/python/difference-exe-py/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/difference-exe-py/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/difference-exe-py/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique</title>
-      <link>http://localhost:1313/fr/blog/python/bagels/</link>
+      <link>https://memlenz.github.io/fr/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/bagels/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/bagels/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les exceptions en Python</title>
-      <link>http://localhost:1313/fr/courses/python/try-except/</link>
+      <link>https://memlenz.github.io/fr/courses/python/try-except/</link>
       <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/try-except/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/try-except/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Le gestionnaire de packet PIP</title>
-      <link>http://localhost:1313/fr/courses/python/pip/</link>
+      <link>https://memlenz.github.io/fr/courses/python/pip/</link>
       <pubDate>Tue, 04 Mar 2025 02:03:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/pip/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/pip/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Module RegEx</title>
-      <link>http://localhost:1313/fr/courses/python/module-regex/</link>
+      <link>https://memlenz.github.io/fr/courses/python/module-regex/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/module-regex/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/module-regex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Module JSON</title>
-      <link>http://localhost:1313/fr/courses/python/module-json/</link>
+      <link>https://memlenz.github.io/fr/courses/python/module-json/</link>
       <pubDate>Tue, 04 Mar 2025 01:37:05 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/module-json/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/module-json/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Module Math</title>
-      <link>http://localhost:1313/fr/courses/python/module-math/</link>
+      <link>https://memlenz.github.io/fr/courses/python/module-math/</link>
       <pubDate>Tue, 04 Mar 2025 01:32:43 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/module-math/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/module-math/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les Dates en Python</title>
-      <link>http://localhost:1313/fr/courses/python/dates/</link>
+      <link>https://memlenz.github.io/fr/courses/python/dates/</link>
       <pubDate>Tue, 04 Mar 2025 01:27:53 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/dates/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/dates/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les Modules en Python</title>
-      <link>http://localhost:1313/fr/courses/python/modules/</link>
+      <link>https://memlenz.github.io/fr/courses/python/modules/</link>
       <pubDate>Tue, 04 Mar 2025 01:19:13 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/modules/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/modules/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>La portee en Python</title>
-      <link>http://localhost:1313/fr/courses/python/portee/</link>
+      <link>https://memlenz.github.io/fr/courses/python/portee/</link>
       <pubDate>Mon, 03 Mar 2025 05:57:31 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/portee/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/portee/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Polymorphisme</title>
-      <link>http://localhost:1313/fr/courses/python/polymorphisme/</link>
+      <link>https://memlenz.github.io/fr/courses/python/polymorphisme/</link>
       <pubDate>Mon, 03 Mar 2025 05:53:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/polymorphisme/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/polymorphisme/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>L&#39; Heritage en Python</title>
-      <link>http://localhost:1313/fr/courses/python/heritage/</link>
+      <link>https://memlenz.github.io/fr/courses/python/heritage/</link>
       <pubDate>Mon, 03 Mar 2025 05:50:46 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/heritage/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/heritage/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les Classes en Python</title>
-      <link>http://localhost:1313/fr/courses/python/classes/</link>
+      <link>https://memlenz.github.io/fr/courses/python/classes/</link>
       <pubDate>Mon, 03 Mar 2025 05:46:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/classes/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/classes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les array en Python</title>
-      <link>http://localhost:1313/fr/courses/python/array/</link>
+      <link>https://memlenz.github.io/fr/courses/python/array/</link>
       <pubDate>Mon, 03 Mar 2025 05:40:20 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/array/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/array/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les fonctions lambda en Python</title>
-      <link>http://localhost:1313/fr/courses/python/lambda/</link>
+      <link>https://memlenz.github.io/fr/courses/python/lambda/</link>
       <pubDate>Thu, 27 Feb 2025 19:57:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/lambda/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/lambda/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les fonction en python</title>
-      <link>http://localhost:1313/fr/courses/python/fonction/</link>
+      <link>https://memlenz.github.io/fr/courses/python/fonction/</link>
       <pubDate>Thu, 27 Feb 2025 19:54:14 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/fonction/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/fonction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les boucles en Python</title>
-      <link>http://localhost:1313/fr/courses/python/boucles/</link>
+      <link>https://memlenz.github.io/fr/courses/python/boucles/</link>
       <pubDate>Thu, 27 Feb 2025 19:47:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/boucles/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/boucles/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les structures conditionnelles avec Python</title>
-      <link>http://localhost:1313/fr/courses/python/conditions/</link>
+      <link>https://memlenz.github.io/fr/courses/python/conditions/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/conditions/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/conditions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les dictionnaires en Python</title>
-      <link>http://localhost:1313/fr/courses/python/dictionnaires/</link>
+      <link>https://memlenz.github.io/fr/courses/python/dictionnaires/</link>
       <pubDate>Thu, 27 Feb 2025 19:30:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/dictionnaires/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/dictionnaires/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les sets en Python</title>
-      <link>http://localhost:1313/fr/courses/python/sets/</link>
+      <link>https://memlenz.github.io/fr/courses/python/sets/</link>
       <pubDate>Thu, 27 Feb 2025 19:27:26 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/sets/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/sets/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les tuples en Python</title>
-      <link>http://localhost:1313/fr/courses/python/tuples/</link>
+      <link>https://memlenz.github.io/fr/courses/python/tuples/</link>
       <pubDate>Thu, 27 Feb 2025 18:50:12 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/tuples/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/tuples/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les list en Python</title>
-      <link>http://localhost:1313/fr/courses/python/list/</link>
+      <link>https://memlenz.github.io/fr/courses/python/list/</link>
       <pubDate>Thu, 27 Feb 2025 18:47:13 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/list/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/list/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les operateurs en Python</title>
-      <link>http://localhost:1313/fr/courses/python/operateurs/</link>
+      <link>https://memlenz.github.io/fr/courses/python/operateurs/</link>
       <pubDate>Thu, 27 Feb 2025 18:44:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/operateurs/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/operateurs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les booleen en Python</title>
-      <link>http://localhost:1313/fr/courses/python/booleen/</link>
+      <link>https://memlenz.github.io/fr/courses/python/booleen/</link>
       <pubDate>Thu, 27 Feb 2025 18:38:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/booleen/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/booleen/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les Strings en Python</title>
-      <link>http://localhost:1313/fr/courses/python/strings/</link>
+      <link>https://memlenz.github.io/fr/courses/python/strings/</link>
       <pubDate>Thu, 27 Feb 2025 17:50:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/strings/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/strings/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Le casting en Python</title>
-      <link>http://localhost:1313/fr/courses/python/casting/</link>
+      <link>https://memlenz.github.io/fr/courses/python/casting/</link>
       <pubDate>Thu, 27 Feb 2025 14:34:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/casting/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/casting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les nombres en Python</title>
-      <link>http://localhost:1313/fr/courses/python/nombres/</link>
+      <link>https://memlenz.github.io/fr/courses/python/nombres/</link>
       <pubDate>Thu, 27 Feb 2025 12:30:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/nombres/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/nombres/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Les type de donnée en python</title>
-      <link>http://localhost:1313/fr/courses/python/type-donnee/</link>
+      <link>https://memlenz.github.io/fr/courses/python/type-donnee/</link>
       <pubDate>Thu, 27 Feb 2025 10:22:53 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/type-donnee/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/type-donnee/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Syntaxe du langage Python</title>
-      <link>http://localhost:1313/fr/courses/python/syntaxe/</link>
+      <link>https://memlenz.github.io/fr/courses/python/syntaxe/</link>
       <pubDate>Wed, 26 Feb 2025 02:29:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/syntaxe/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/syntaxe/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Variables et commentaires en python</title>
-      <link>http://localhost:1313/fr/courses/python/variables/</link>
+      <link>https://memlenz.github.io/fr/courses/python/variables/</link>
       <pubDate>Wed, 26 Feb 2025 02:26:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/variables/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/variables/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction à Python</title>
-      <link>http://localhost:1313/fr/courses/python/introduction/</link>
+      <link>https://memlenz.github.io/fr/courses/python/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/courses/python/introduction/</guid>
+      <guid>https://memlenz.github.io/fr/courses/python/introduction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pourquoi Python est un excellent premier langage ?</title>
-      <link>http://localhost:1313/fr/blog/python/pourquoi-python/</link>
+      <link>https://memlenz.github.io/fr/blog/python/pourquoi-python/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/python/pourquoi-python/</guid>
+      <guid>https://memlenz.github.io/fr/blog/python/pourquoi-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Why Linux</title>
-      <link>http://localhost:1313/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
+      <link>https://memlenz.github.io/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
+      <guid>https://memlenz.github.io/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DSA</title>
-      <link>http://localhost:1313/fr/blog/dsa-guide/dsa-intro/</link>
+      <link>https://memlenz.github.io/fr/blog/dsa-guide/dsa-intro/</link>
       <pubDate>Sat, 15 Feb 2025 02:55:22 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/dsa-guide/dsa-intro/</guid>
+      <guid>https://memlenz.github.io/fr/blog/dsa-guide/dsa-intro/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/fr/blog/linux-tweaks/java-setup/</link>
+      <link>https://memlenz.github.io/fr/blog/linux-tweaks/java-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/fr/blog/linux-tweaks/java-setup/</guid>
+      <guid>https://memlenz.github.io/fr/blog/linux-tweaks/java-setup/</guid>
       <description></description>
       
     </item>
