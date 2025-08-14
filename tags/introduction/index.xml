@@ -16,7 +16,11 @@
       <link>http://localhost:1313/courses/python/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/courses/python/introduction/</guid>
+=======
+      <guid>https://memlenz.github.io/courses/python/introduction/</guid>
+>>>>>>> main
       <description></description>
       
     </item>

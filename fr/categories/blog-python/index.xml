@@ -9,6 +9,7 @@
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/categories/blog-python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,26 +18,50 @@
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/fr/blog/python/organiser-ses-scripts/</guid>
+=======
+    <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/categories/blog-python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Organiser ses scripts Python proprement sur chaque OS</title>
+      <link>https://memlenz.github.io/fr/blog/python/organiser-ses-scripts/</link>
+      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/organiser-ses-scripts/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
     
     <item>
       <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/fr/blog/python/les-chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/fr/blog/python/les-chemins/</guid>
+=======
+      <link>https://memlenz.github.io/fr/blog/python/les-chemins/</link>
+      <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/les-chemins/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
     
     <item>
       <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/fr/blog/python/python2-vs-python3/</link>
       <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/fr/blog/python/python2-vs-python3/</guid>
+=======
+      <link>https://memlenz.github.io/fr/blog/python/python2-vs-python3/</link>
+      <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/python2-vs-python3/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -46,7 +71,11 @@
       <link>http://localhost:1313/fr/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/installation-python/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/installation-python/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -56,7 +85,11 @@
       <link>http://localhost:1313/fr/blog/python/pourquoi-installer-python/</link>
       <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/pourquoi-installer-python/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/pourquoi-installer-python/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -66,7 +99,11 @@
       <link>http://localhost:1313/fr/blog/linux-tweaks/lazyvim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/linux-tweaks/lazyvim/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/linux-tweaks/lazyvim/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -76,7 +113,11 @@
       <link>http://localhost:1313/fr/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/environnement-de-travail/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/environnement-de-travail/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -86,7 +127,11 @@
       <link>http://localhost:1313/fr/blog/python/interpreteur-vs-fichier/</link>
       <pubDate>Sat, 29 Mar 2025 23:37:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/interpreteur-vs-fichier/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/interpreteur-vs-fichier/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -96,7 +141,11 @@
       <link>http://localhost:1313/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -106,7 +155,11 @@
       <link>http://localhost:1313/fr/blog/python/</link>
       <pubDate>Sun, 16 Feb 2025 02:55:22 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/</guid>
+>>>>>>> main
       <description></description>
       
     </item>

@@ -42,11 +42,45 @@
     </item>
     
     <item>
+      <title>Organiser ses scripts Python proprement sur chaque OS</title>
+      <link>https://memlenz.github.io/fr/blog/python/organiser-ses-scripts/</link>
+      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/organiser-ses-scripts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
+      <link>https://memlenz.github.io/fr/blog/python/les-chemins/</link>
+      <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/les-chemins/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
+      <link>https://memlenz.github.io/fr/blog/python/python2-vs-python3/</link>
+      <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://memlenz.github.io/fr/blog/python/python2-vs-python3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python</title>
       <link>http://localhost:1313/fr/blog/python/passwordmanager/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/passwordmanager/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/passwordmanager/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -56,7 +90,11 @@
       <link>http://localhost:1313/fr/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/installation-python/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/installation-python/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -66,7 +104,11 @@
       <link>http://localhost:1313/fr/blog/python/bulletpointadder/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/bulletpointadder/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/bulletpointadder/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -76,7 +118,11 @@
       <link>http://localhost:1313/fr/blog/python/pourquoi-installer-python/</link>
       <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/pourquoi-installer-python/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/pourquoi-installer-python/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -86,7 +132,11 @@
       <link>http://localhost:1313/fr/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/environnement-de-travail/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/environnement-de-travail/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -96,7 +146,11 @@
       <link>http://localhost:1313/fr/blog/python/interpreteur-vs-fichier/</link>
       <pubDate>Sat, 29 Mar 2025 23:37:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/interpreteur-vs-fichier/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/interpreteur-vs-fichier/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -106,7 +160,11 @@
       <link>http://localhost:1313/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -116,7 +174,11 @@
       <link>http://localhost:1313/fr/blog/python/difference-logiciel-langage/</link>
       <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/difference-logiciel-langage/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/difference-logiciel-langage/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -126,7 +188,11 @@
       <link>http://localhost:1313/fr/blog/python/difference-exe-py/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/difference-exe-py/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/difference-exe-py/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -136,7 +202,11 @@
       <link>http://localhost:1313/fr/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/bagels/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/bagels/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -146,7 +216,11 @@
       <link>http://localhost:1313/fr/blog/python/pourquoi-python/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/pourquoi-python/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/pourquoi-python/</guid>
+>>>>>>> main
       <description></description>
       
     </item>

@@ -16,7 +16,11 @@
       <link>http://localhost:1313/tutorials/git-workflows/git-commands/</link>
       <pubDate>Sat, 15 Feb 2025 03:02:07 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/tutorials/git-workflows/git-commands/</guid>
+=======
+      <guid>https://memlenz.github.io/tutorials/git-workflows/git-commands/</guid>
+>>>>>>> main
       <description></description>
       
     </item>

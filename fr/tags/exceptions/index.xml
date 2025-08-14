@@ -16,7 +16,11 @@
       <link>http://localhost:1313/fr/courses/python/try-except/</link>
       <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/courses/python/try-except/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/courses/python/try-except/</guid>
+>>>>>>> main
       <description></description>
       
     </item>

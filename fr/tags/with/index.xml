@@ -16,7 +16,11 @@
       <link>http://localhost:1313/fr/courses/python/json-en-python/</link>
       <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/courses/python/json-en-python/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/courses/python/json-en-python/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -26,7 +30,11 @@
       <link>http://localhost:1313/fr/courses/python/with-open/</link>
       <pubDate>Thu, 03 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/courses/python/with-open/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/courses/python/with-open/</guid>
+>>>>>>> main
       <description></description>
       
     </item>

@@ -19,57 +19,97 @@
     />
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/fr/blog/python/organiser-ses-scripts/</loc>
+=======
+    <loc>https://memlenz.github.io/fr/blog/python/organiser-ses-scripts/</loc>
+>>>>>>> main
     <lastmod>2025-04-25T23:09:59+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/fr/blog/python/les-chemins/</loc>
+=======
+    <loc>https://memlenz.github.io/fr/blog/python/les-chemins/</loc>
+>>>>>>> main
     <lastmod>2025-04-20T23:09:59+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/fr/blog/python/python2-vs-python3/</loc>
+=======
+    <loc>https://memlenz.github.io/fr/blog/python/python2-vs-python3/</loc>
+>>>>>>> main
     <lastmod>2025-04-17T23:09:59+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/fr/blog/linux-tweaks/mysql-mariadb/</loc>
+=======
+    <loc>https://memlenz.github.io/fr/blog/linux-tweaks/mysql-mariadb/</loc>
+>>>>>>> main
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
+<<<<<<< HEAD
       href="http://localhost:1313/blog/linux-tweaks/mysql-mariadb/"
+=======
+      href="https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/"
+>>>>>>> main
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
+<<<<<<< HEAD
       href="http://localhost:1313/fr/blog/linux-tweaks/mysql-mariadb/"
     />
   </url>
   <url>
     <loc>http://localhost:1313/fr/blog/linux-tweaks/postgre-sql/</loc>
+=======
+      href="https://memlenz.github.io/fr/blog/linux-tweaks/mysql-mariadb/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/blog/linux-tweaks/postgre-sql/</loc>
+>>>>>>> main
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
+<<<<<<< HEAD
       href="http://localhost:1313/blog/linux-tweaks/postgre-sql/"
+=======
+      href="https://memlenz.github.io/blog/linux-tweaks/postgre-sql/"
+>>>>>>> main
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
+<<<<<<< HEAD
       href="http://localhost:1313/fr/blog/linux-tweaks/postgre-sql/"
     />
   </url>
   <url>
     <loc>http://localhost:1313/fr/blog/python/passwordmanager/</loc>
+=======
+      href="https://memlenz.github.io/fr/blog/linux-tweaks/postgre-sql/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/fr/blog/python/passwordmanager/</loc>
+>>>>>>> main
     <lastmod>2025-04-13T04:34:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -821,7 +861,11 @@
     />
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/fr/blog/linux-tweaks/java-setup/</loc>
+=======
+    <loc>https://memlenz.github.io/fr/blog/linux-tweaks/java-setup/</loc>
+>>>>>>> main
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -16,7 +16,11 @@
       <link>http://localhost:1313/fr/courses/python/argparse-en-python/</link>
       <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/courses/python/argparse-en-python/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/courses/python/argparse-en-python/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
@@ -26,7 +30,11 @@
       <link>http://localhost:1313/fr/blog/python/pourquoi-python/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/fr/blog/python/pourquoi-python/</guid>
+=======
+      <guid>https://memlenz.github.io/fr/blog/python/pourquoi-python/</guid>
+>>>>>>> main
       <description></description>
       
     </item>

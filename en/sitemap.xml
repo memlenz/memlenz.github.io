@@ -3,55 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</loc>
+=======
+    <loc>https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/</loc>
+>>>>>>> main
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
+<<<<<<< HEAD
       href="http://localhost:1313/fr/blog/linux-tweaks/mysql-mariadb/"
+=======
+      href="https://memlenz.github.io/fr/blog/linux-tweaks/mysql-mariadb/"
+>>>>>>> main
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
+<<<<<<< HEAD
       href="http://localhost:1313/blog/linux-tweaks/mysql-mariadb/"
     />
   </url>
   <url>
     <loc>http://localhost:1313/blog/linux-tweaks/postgre-sql/</loc>
+=======
+      href="https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/blog/linux-tweaks/postgre-sql/</loc>
+>>>>>>> main
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
+<<<<<<< HEAD
       href="http://localhost:1313/fr/blog/linux-tweaks/postgre-sql/"
+=======
+      href="https://memlenz.github.io/fr/blog/linux-tweaks/postgre-sql/"
+>>>>>>> main
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
+<<<<<<< HEAD
       href="http://localhost:1313/blog/linux-tweaks/postgre-sql/"
     />
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
+=======
+      href="https://memlenz.github.io/blog/linux-tweaks/postgre-sql/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/</loc>
+>>>>>>> main
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
+<<<<<<< HEAD
       href="http://localhost:1313/fr/"
+=======
+      href="https://memlenz.github.io/fr/"
+>>>>>>> main
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
+<<<<<<< HEAD
       href="http://localhost:1313/"
     />
   </url>
   <url>
     <loc>http://localhost:1313/blog/python/bulletpointadder/</loc>
+=======
+      href="https://memlenz.github.io/"
+    />
+  </url>
+  <url>
+    <loc>https://memlenz.github.io/blog/python/bulletpointadder/</loc>
+>>>>>>> main
     <lastmod>2025-04-09T21:29:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -67,7 +107,11 @@
     />
   </url>
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/blog/python/bagels/</loc>
+=======
+    <loc>https://memlenz.github.io/blog/python/bagels/</loc>
+>>>>>>> main
     <lastmod>2025-03-26T21:29:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

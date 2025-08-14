@@ -16,7 +16,11 @@
       <link>http://localhost:1313/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+<<<<<<< HEAD
       <guid>http://localhost:1313/blog/python/bagels/</guid>
+=======
+      <guid>https://memlenz.github.io/blog/python/bagels/</guid>
+>>>>>>> main
       <description></description>
       
     </item>
