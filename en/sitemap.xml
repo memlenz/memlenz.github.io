@@ -3,763 +3,719 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</loc>
-=======
     <loc>https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/</loc>
->>>>>>> main
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-<<<<<<< HEAD
-      href="http://localhost:1313/fr/blog/linux-tweaks/mysql-mariadb/"
-=======
       href="https://memlenz.github.io/fr/blog/linux-tweaks/mysql-mariadb/"
->>>>>>> main
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-<<<<<<< HEAD
-      href="http://localhost:1313/blog/linux-tweaks/mysql-mariadb/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/postgre-sql/</loc>
-=======
       href="https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/"
     />
   </url>
   <url>
     <loc>https://memlenz.github.io/blog/linux-tweaks/postgre-sql/</loc>
->>>>>>> main
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-<<<<<<< HEAD
-      href="http://localhost:1313/fr/blog/linux-tweaks/postgre-sql/"
-=======
       href="https://memlenz.github.io/fr/blog/linux-tweaks/postgre-sql/"
->>>>>>> main
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-<<<<<<< HEAD
-      href="http://localhost:1313/blog/linux-tweaks/postgre-sql/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-=======
       href="https://memlenz.github.io/blog/linux-tweaks/postgre-sql/"
     />
   </url>
   <url>
     <loc>https://memlenz.github.io/</loc>
->>>>>>> main
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-<<<<<<< HEAD
-      href="http://localhost:1313/fr/"
-=======
       href="https://memlenz.github.io/fr/"
->>>>>>> main
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-<<<<<<< HEAD
-      href="http://localhost:1313/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/blog/python/bulletpointadder/</loc>
-=======
       href="https://memlenz.github.io/"
     />
   </url>
   <url>
     <loc>https://memlenz.github.io/blog/python/bulletpointadder/</loc>
->>>>>>> main
     <lastmod>2025-04-09T21:29:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/blog/python/bulletpointadder/"
+      href="https://memlenz.github.io/fr/blog/python/bulletpointadder/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/blog/python/bulletpointadder/"
+      href="https://memlenz.github.io/blog/python/bulletpointadder/"
     />
   </url>
   <url>
-<<<<<<< HEAD
-    <loc>http://localhost:1313/blog/python/bagels/</loc>
-=======
     <loc>https://memlenz.github.io/blog/python/bagels/</loc>
->>>>>>> main
     <lastmod>2025-03-26T21:29:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/blog/python/bagels/"
+      href="https://memlenz.github.io/fr/blog/python/bagels/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/blog/python/bagels/"
+      href="https://memlenz.github.io/blog/python/bagels/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/try-except/</loc>
+    <loc>https://memlenz.github.io/courses/python/try-except/</loc>
     <lastmod>2025-03-04T02:08:32+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/try-except/"
+      href="https://memlenz.github.io/fr/courses/python/try-except/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/try-except/"
+      href="https://memlenz.github.io/courses/python/try-except/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/pip/</loc>
+    <loc>https://memlenz.github.io/courses/python/pip/</loc>
     <lastmod>2025-03-04T02:03:45+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/pip/"
+      href="https://memlenz.github.io/fr/courses/python/pip/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/pip/"
+      href="https://memlenz.github.io/courses/python/pip/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/module-regex/</loc>
+    <loc>https://memlenz.github.io/courses/python/module-regex/</loc>
     <lastmod>2025-03-04T01:41:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/module-regex/"
+      href="https://memlenz.github.io/fr/courses/python/module-regex/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/module-regex/"
+      href="https://memlenz.github.io/courses/python/module-regex/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/module-json/</loc>
+    <loc>https://memlenz.github.io/courses/python/module-json/</loc>
     <lastmod>2025-03-04T01:37:10+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/module-json/"
+      href="https://memlenz.github.io/fr/courses/python/module-json/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/module-json/"
+      href="https://memlenz.github.io/courses/python/module-json/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/module-math/</loc>
+    <loc>https://memlenz.github.io/courses/python/module-math/</loc>
     <lastmod>2025-03-04T01:32:39+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/module-math/"
+      href="https://memlenz.github.io/fr/courses/python/module-math/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/module-math/"
+      href="https://memlenz.github.io/courses/python/module-math/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/dates/</loc>
+    <loc>https://memlenz.github.io/courses/python/dates/</loc>
     <lastmod>2025-03-04T01:27:57+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/dates/"
+      href="https://memlenz.github.io/fr/courses/python/dates/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/dates/"
+      href="https://memlenz.github.io/courses/python/dates/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/modules/</loc>
+    <loc>https://memlenz.github.io/courses/python/modules/</loc>
     <lastmod>2025-03-04T01:19:03+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/modules/"
+      href="https://memlenz.github.io/fr/courses/python/modules/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/modules/"
+      href="https://memlenz.github.io/courses/python/modules/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/portee/</loc>
+    <loc>https://memlenz.github.io/courses/python/portee/</loc>
     <lastmod>2025-03-03T05:57:40+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/portee/"
+      href="https://memlenz.github.io/fr/courses/python/portee/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/portee/"
+      href="https://memlenz.github.io/courses/python/portee/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/polymorphisme/</loc>
+    <loc>https://memlenz.github.io/courses/python/polymorphisme/</loc>
     <lastmod>2025-03-03T05:53:51+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/polymorphisme/"
+      href="https://memlenz.github.io/fr/courses/python/polymorphisme/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/polymorphisme/"
+      href="https://memlenz.github.io/courses/python/polymorphisme/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/heritage/</loc>
+    <loc>https://memlenz.github.io/courses/python/heritage/</loc>
     <lastmod>2025-03-03T05:50:58+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/heritage/"
+      href="https://memlenz.github.io/fr/courses/python/heritage/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/heritage/"
+      href="https://memlenz.github.io/courses/python/heritage/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/classes/</loc>
+    <loc>https://memlenz.github.io/courses/python/classes/</loc>
     <lastmod>2025-03-03T05:45:58+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/classes/"
+      href="https://memlenz.github.io/fr/courses/python/classes/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/classes/"
+      href="https://memlenz.github.io/courses/python/classes/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/array/</loc>
+    <loc>https://memlenz.github.io/courses/python/array/</loc>
     <lastmod>2025-03-03T05:40:24+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/array/"
+      href="https://memlenz.github.io/fr/courses/python/array/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/array/"
+      href="https://memlenz.github.io/courses/python/array/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/lambda/</loc>
+    <loc>https://memlenz.github.io/courses/python/lambda/</loc>
     <lastmod>2025-02-27T19:57:51+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/lambda/"
+      href="https://memlenz.github.io/fr/courses/python/lambda/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/lambda/"
+      href="https://memlenz.github.io/courses/python/lambda/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/fonction/</loc>
+    <loc>https://memlenz.github.io/courses/python/fonction/</loc>
     <lastmod>2025-02-27T19:54:18+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/fonction/"
+      href="https://memlenz.github.io/fr/courses/python/fonction/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/fonction/"
+      href="https://memlenz.github.io/courses/python/fonction/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/boucles/</loc>
+    <loc>https://memlenz.github.io/courses/python/boucles/</loc>
     <lastmod>2025-02-27T19:47:31+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/boucles/"
+      href="https://memlenz.github.io/fr/courses/python/boucles/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/boucles/"
+      href="https://memlenz.github.io/courses/python/boucles/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/conditions/</loc>
+    <loc>https://memlenz.github.io/courses/python/conditions/</loc>
     <lastmod>2025-02-27T19:39:33+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/conditions/"
+      href="https://memlenz.github.io/fr/courses/python/conditions/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/conditions/"
+      href="https://memlenz.github.io/courses/python/conditions/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/dictionnaires/</loc>
+    <loc>https://memlenz.github.io/courses/python/dictionnaires/</loc>
     <lastmod>2025-02-27T19:30:45+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/dictionnaires/"
+      href="https://memlenz.github.io/fr/courses/python/dictionnaires/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/dictionnaires/"
+      href="https://memlenz.github.io/courses/python/dictionnaires/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/sets/</loc>
+    <loc>https://memlenz.github.io/courses/python/sets/</loc>
     <lastmod>2025-02-27T19:27:29+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/sets/"
+      href="https://memlenz.github.io/fr/courses/python/sets/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/sets/"
+      href="https://memlenz.github.io/courses/python/sets/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/tuples/</loc>
+    <loc>https://memlenz.github.io/courses/python/tuples/</loc>
     <lastmod>2025-02-27T18:50:08+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/tuples/"
+      href="https://memlenz.github.io/fr/courses/python/tuples/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/tuples/"
+      href="https://memlenz.github.io/courses/python/tuples/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/list/</loc>
+    <loc>https://memlenz.github.io/courses/python/list/</loc>
     <lastmod>2025-02-27T18:47:16+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/list/"
+      href="https://memlenz.github.io/fr/courses/python/list/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/list/"
+      href="https://memlenz.github.io/courses/python/list/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/operateurs/</loc>
+    <loc>https://memlenz.github.io/courses/python/operateurs/</loc>
     <lastmod>2025-02-27T18:43:57+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/operateurs/"
+      href="https://memlenz.github.io/fr/courses/python/operateurs/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/operateurs/"
+      href="https://memlenz.github.io/courses/python/operateurs/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/booleen/</loc>
+    <loc>https://memlenz.github.io/courses/python/booleen/</loc>
     <lastmod>2025-02-27T18:38:38+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/booleen/"
+      href="https://memlenz.github.io/fr/courses/python/booleen/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/booleen/"
+      href="https://memlenz.github.io/courses/python/booleen/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/casting/</loc>
+    <loc>https://memlenz.github.io/courses/python/casting/</loc>
     <lastmod>2025-02-27T18:33:58+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/casting/"
+      href="https://memlenz.github.io/fr/courses/python/casting/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/casting/"
+      href="https://memlenz.github.io/courses/python/casting/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/nombres/</loc>
+    <loc>https://memlenz.github.io/courses/python/nombres/</loc>
     <lastmod>2025-02-27T18:30:04+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/nombres/"
+      href="https://memlenz.github.io/fr/courses/python/nombres/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/nombres/"
+      href="https://memlenz.github.io/courses/python/nombres/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/type-donnee/</loc>
+    <loc>https://memlenz.github.io/courses/python/type-donnee/</loc>
     <lastmod>2025-02-27T18:22:48+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/type-donnee/"
+      href="https://memlenz.github.io/fr/courses/python/type-donnee/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/type-donnee/"
+      href="https://memlenz.github.io/courses/python/type-donnee/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/variables/</loc>
+    <loc>https://memlenz.github.io/courses/python/variables/</loc>
     <lastmod>2025-02-27T18:05:06+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/variables/"
+      href="https://memlenz.github.io/fr/courses/python/variables/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/variables/"
+      href="https://memlenz.github.io/courses/python/variables/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/strings/</loc>
+    <loc>https://memlenz.github.io/courses/python/strings/</loc>
     <lastmod>2025-02-27T17:50:20+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/strings/"
+      href="https://memlenz.github.io/fr/courses/python/strings/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/strings/"
+      href="https://memlenz.github.io/courses/python/strings/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/syntaxe/</loc>
+    <loc>https://memlenz.github.io/courses/python/syntaxe/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/syntaxe/"
+      href="https://memlenz.github.io/fr/courses/python/syntaxe/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/syntaxe/"
+      href="https://memlenz.github.io/courses/python/syntaxe/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/introduction/</loc>
+    <loc>https://memlenz.github.io/courses/python/introduction/</loc>
     <lastmod>2025-02-25T01:59:02+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/python/introduction/"
+      href="https://memlenz.github.io/fr/courses/python/introduction/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/python/introduction/"
+      href="https://memlenz.github.io/courses/python/introduction/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://memlenz.github.io/blog/</loc>
     <lastmod>2025-02-15T13:39:39+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/blog/"
+      href="https://memlenz.github.io/fr/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/blog/"
+      href="https://memlenz.github.io/blog/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/blog/why-linux/why-linux-made-me-win/</loc>
+    <loc>https://memlenz.github.io/blog/why-linux/why-linux-made-me-win/</loc>
     <lastmod>2025-02-15T03:36:23+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/"
+      href="https://memlenz.github.io/fr/blog/why-linux/pourquoi-linux-m-a-fait-gagner/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/blog/why-linux/why-linux-made-me-win/"
+      href="https://memlenz.github.io/blog/why-linux/why-linux-made-me-win/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/project2/</loc>
+    <loc>https://memlenz.github.io/portfolio/project2/</loc>
     <lastmod>2025-02-15T03:06:45+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/portfolio/project2/"
+      href="https://memlenz.github.io/fr/portfolio/project2/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/portfolio/project2/"
+      href="https://memlenz.github.io/portfolio/project2/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/project1/</loc>
+    <loc>https://memlenz.github.io/portfolio/project1/</loc>
     <lastmod>2025-02-15T03:06:25+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/portfolio/project1/"
+      href="https://memlenz.github.io/fr/portfolio/project1/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/portfolio/project1/"
+      href="https://memlenz.github.io/portfolio/project1/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://memlenz.github.io/portfolio/</loc>
     <lastmod>2025-02-15T03:04:58+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/portfolio/"
+      href="https://memlenz.github.io/fr/portfolio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/portfolio/"
+      href="https://memlenz.github.io/portfolio/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tutorials/hugo-setup/</loc>
+    <loc>https://memlenz.github.io/tutorials/hugo-setup/</loc>
     <lastmod>2025-02-15T03:03:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/tutorials/hugo-setup/"
+      href="https://memlenz.github.io/fr/tutorials/hugo-setup/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/tutorials/hugo-setup/"
+      href="https://memlenz.github.io/tutorials/hugo-setup/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tutorials/git-workflows/</loc>
+    <loc>https://memlenz.github.io/tutorials/git-workflows/</loc>
     <lastmod>2025-02-15T03:03:29+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/tutorials/git-workflows/"
+      href="https://memlenz.github.io/fr/tutorials/git-workflows/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/tutorials/git-workflows/"
+      href="https://memlenz.github.io/tutorials/git-workflows/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tutorials/git-workflows/git-commands/</loc>
+    <loc>https://memlenz.github.io/tutorials/git-workflows/git-commands/</loc>
     <lastmod>2025-02-15T03:02:07+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tutorials/</loc>
+    <loc>https://memlenz.github.io/tutorials/</loc>
     <lastmod>2025-02-15T02:58:50+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/tutorials/"
+      href="https://memlenz.github.io/fr/tutorials/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/tutorials/"
+      href="https://memlenz.github.io/tutorials/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/parcours/</loc>
+    <loc>https://memlenz.github.io/parcours/</loc>
     <lastmod>2025-02-15T02:55:22+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>https://memlenz.github.io/courses/</loc>
     <lastmod>2025-02-15T02:54:28+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/courses/"
+      href="https://memlenz.github.io/fr/courses/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/courses/"
+      href="https://memlenz.github.io/courses/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/blog/dsa-guide/dsa-intro/</loc>
+    <loc>https://memlenz.github.io/blog/dsa-guide/dsa-intro/</loc>
     <lastmod>2025-02-15T02:54:28+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/fr/blog/dsa-guide/dsa-intro/"
+      href="https://memlenz.github.io/fr/blog/dsa-guide/dsa-intro/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/blog/dsa-guide/dsa-intro/"
+      href="https://memlenz.github.io/blog/dsa-guide/dsa-intro/"
     />
   </url>
 </urlset>

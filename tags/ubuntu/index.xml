@@ -2,27 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu on </title>
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/ubuntu/</link>
-=======
     <link>https://memlenz.github.io/tags/ubuntu/</link>
->>>>>>> main
     <description>Recent content in Ubuntu on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-<<<<<<< HEAD
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Install PostgreSQL on Arch, Void Linux, and Debian/Ubuntu</title>
-      <link>http://localhost:1313/blog/linux-tweaks/postgre-sql/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/postgre-sql/</guid>
-=======
     <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://memlenz.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -31,7 +17,6 @@
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>https://memlenz.github.io/blog/linux-tweaks/postgre-sql/</guid>
->>>>>>> main
       <description></description>
       
     </item>

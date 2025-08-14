@@ -2,53 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Module on </title>
-    <link>http://localhost:1313/fr/tags/module/</link>
+    <link>https://memlenz.github.io/fr/tags/module/</link>
     <description>Recent content in Module on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 01:42:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/module/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 01:42:00 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/tags/module/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Module RegEx</title>
-      <link>http://localhost:1313/fr/courses/python/module-regex/</link>
+      <link>https://memlenz.github.io/fr/courses/python/module-regex/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-<<<<<<< HEAD
-      <guid>http://localhost:1313/fr/courses/python/module-regex/</guid>
-=======
       <guid>https://memlenz.github.io/fr/courses/python/module-regex/</guid>
->>>>>>> main
       <description></description>
       
     </item>
     
     <item>
       <title>Module JSON</title>
-      <link>http://localhost:1313/fr/courses/python/module-json/</link>
+      <link>https://memlenz.github.io/fr/courses/python/module-json/</link>
       <pubDate>Tue, 04 Mar 2025 01:37:05 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-<<<<<<< HEAD
-      <guid>http://localhost:1313/fr/courses/python/module-json/</guid>
-=======
       <guid>https://memlenz.github.io/fr/courses/python/module-json/</guid>
->>>>>>> main
       <description></description>
       
     </item>
     
     <item>
       <title>Module Math</title>
-      <link>http://localhost:1313/fr/courses/python/module-math/</link>
+      <link>https://memlenz.github.io/fr/courses/python/module-math/</link>
       <pubDate>Tue, 04 Mar 2025 01:32:43 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-<<<<<<< HEAD
-      <guid>http://localhost:1313/fr/courses/python/module-math/</guid>
-=======
       <guid>https://memlenz.github.io/fr/courses/python/module-math/</guid>
->>>>>>> main
       <description></description>
       
     </item>
