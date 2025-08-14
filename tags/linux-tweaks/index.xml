@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Tweaks on </title>
+    <link>http://localhost:1313/tags/linux-tweaks/</link>
+    <description>Recent content in Linux Tweaks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux-tweaks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu</title>
+      <link>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
