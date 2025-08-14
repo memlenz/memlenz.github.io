@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Éditeur De Texte on </title>
-    <link>https://memlenz.github.io/fr/tags/%C3%A9diteur-de-texte/</link>
+    <link>http://localhost:1313/fr/tags/%C3%A9diteur-de-texte/</link>
     <description>Recent content in Éditeur De Texte on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 00:19:25 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/tags/%C3%A9diteur-de-texte/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Mar 2025 00:19:25 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/%C3%A9diteur-de-texte/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
-      <link>https://memlenz.github.io/fr/blog/python/environnement-de-travail/</link>
+      <link>http://localhost:1313/fr/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/blog/python/environnement-de-travail/</guid>
+      <guid>http://localhost:1313/fr/blog/python/environnement-de-travail/</guid>
       <description></description>
       
     </item>

@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on </title>
-    <link>https://memlenz.github.io/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+<<<<<<< Updated upstream
     <lastBuildDate>Tue, 25 Feb 2025 01:59:02 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,6 +18,16 @@
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>https://memlenz.github.io/series/getting-started-with-python/</guid>
+=======
+    <lastBuildDate>Tue, 25 Feb 2025 01:59:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting Started With Python</title>
+      <link>http://localhost:1313/series/getting-started-with-python/</link>
+      <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/series/getting-started-with-python/</guid>
+>>>>>>> Stashed changes
       <description></description>
       
     </item>
