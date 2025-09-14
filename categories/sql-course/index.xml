@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SQL Course on </title>
-    <link>http://localhost:1313/categories/sql-course/</link>
+    <link>https://memlenz.github.io/categories/sql-course/</link>
     <description>Recent content in SQL Course on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 01:59:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/sql-course/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 01:59:02 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/categories/sql-course/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction to SQL</title>
-      <link>http://localhost:1313/courses/sql/introduction/</link>
+      <link>https://memlenz.github.io/courses/sql/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/sql/introduction/</guid>
+      <guid>https://memlenz.github.io/courses/sql/introduction/</guid>
       <description></description>
       
     </item>

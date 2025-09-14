@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on </title>
-    <link>http://localhost:1313/portfolio/</link>
+    <link>https://memlenz.github.io/portfolio/</link>
     <description>Recent content in Portfolio on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 15 Feb 2025 03:04:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 03:04:58 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

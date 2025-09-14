@@ -2,881 +2,881 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://memlenz.github.io/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fichiers</title>
-      <link>http://localhost:1313/tags/fichiers/</link>
+      <link>https://memlenz.github.io/tags/fichiers/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/fichiers/</guid>
+      <guid>https://memlenz.github.io/tags/fichiers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Organisation</title>
-      <link>http://localhost:1313/tags/organisation/</link>
+      <link>https://memlenz.github.io/tags/organisation/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/organisation/</guid>
+      <guid>https://memlenz.github.io/tags/organisation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OS</title>
-      <link>http://localhost:1313/tags/os/</link>
+      <link>https://memlenz.github.io/tags/os/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/os/</guid>
+      <guid>https://memlenz.github.io/tags/os/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://memlenz.github.io/tags/python/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://memlenz.github.io/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chemins</title>
-      <link>http://localhost:1313/tags/chemins/</link>
+      <link>https://memlenz.github.io/tags/chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/chemins/</guid>
+      <guid>https://memlenz.github.io/tags/chemins/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Débutant</title>
-      <link>http://localhost:1313/tags/d%C3%A9butant/</link>
+      <link>https://memlenz.github.io/tags/d%C3%A9butant/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/d%C3%A9butant/</guid>
+      <guid>https://memlenz.github.io/tags/d%C3%A9butant/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PATH</title>
-      <link>http://localhost:1313/tags/path/</link>
+      <link>https://memlenz.github.io/tags/path/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/path/</guid>
+      <guid>https://memlenz.github.io/tags/path/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Terminal</title>
-      <link>http://localhost:1313/tags/terminal/</link>
+      <link>https://memlenz.github.io/tags/terminal/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/terminal/</guid>
+      <guid>https://memlenz.github.io/tags/terminal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Interpréteur</title>
-      <link>http://localhost:1313/tags/interpr%C3%A9teur/</link>
+      <link>https://memlenz.github.io/tags/interpr%C3%A9teur/</link>
       <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/interpr%C3%A9teur/</guid>
+      <guid>https://memlenz.github.io/tags/interpr%C3%A9teur/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Versions</title>
-      <link>http://localhost:1313/tags/versions/</link>
+      <link>https://memlenz.github.io/tags/versions/</link>
       <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/versions/</guid>
+      <guid>https://memlenz.github.io/tags/versions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Archlinux</title>
-      <link>http://localhost:1313/tags/archlinux/</link>
+      <link>https://memlenz.github.io/tags/archlinux/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/archlinux/</guid>
+      <guid>https://memlenz.github.io/tags/archlinux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Base De Données</title>
-      <link>http://localhost:1313/tags/base-de-donn%C3%A9es/</link>
+      <link>https://memlenz.github.io/tags/base-de-donn%C3%A9es/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/base-de-donn%C3%A9es/</guid>
+      <guid>https://memlenz.github.io/tags/base-de-donn%C3%A9es/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Database</title>
-      <link>http://localhost:1313/tags/database/</link>
+      <link>https://memlenz.github.io/tags/database/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/database/</guid>
+      <guid>https://memlenz.github.io/tags/database/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Debian</title>
-      <link>http://localhost:1313/tags/debian/</link>
+      <link>https://memlenz.github.io/tags/debian/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/debian/</guid>
+      <guid>https://memlenz.github.io/tags/debian/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
+      <link>https://memlenz.github.io/tags/linux/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/linux/</guid>
+      <guid>https://memlenz.github.io/tags/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux Tweaks</title>
-      <link>http://localhost:1313/tags/linux-tweaks/</link>
+      <link>https://memlenz.github.io/tags/linux-tweaks/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/linux-tweaks/</guid>
+      <guid>https://memlenz.github.io/tags/linux-tweaks/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mariadb</title>
-      <link>http://localhost:1313/tags/mariadb/</link>
+      <link>https://memlenz.github.io/tags/mariadb/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/mariadb/</guid>
+      <guid>https://memlenz.github.io/tags/mariadb/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mysql</title>
-      <link>http://localhost:1313/tags/mysql/</link>
+      <link>https://memlenz.github.io/tags/mysql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/mysql/</guid>
+      <guid>https://memlenz.github.io/tags/mysql/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Postgresql</title>
-      <link>http://localhost:1313/tags/postgresql/</link>
+      <link>https://memlenz.github.io/tags/postgresql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/postgresql/</guid>
+      <guid>https://memlenz.github.io/tags/postgresql/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutoriel</title>
-      <link>http://localhost:1313/tags/tutoriel/</link>
+      <link>https://memlenz.github.io/tags/tutoriel/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/tutoriel/</guid>
+      <guid>https://memlenz.github.io/tags/tutoriel/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ubuntu</title>
-      <link>http://localhost:1313/tags/ubuntu/</link>
+      <link>https://memlenz.github.io/tags/ubuntu/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/ubuntu/</guid>
+      <guid>https://memlenz.github.io/tags/ubuntu/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Voidlinux</title>
-      <link>http://localhost:1313/tags/voidlinux/</link>
+      <link>https://memlenz.github.io/tags/voidlinux/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/voidlinux/</guid>
+      <guid>https://memlenz.github.io/tags/voidlinux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cli</title>
-      <link>http://localhost:1313/tags/cli/</link>
+      <link>https://memlenz.github.io/tags/cli/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/cli/</guid>
+      <guid>https://memlenz.github.io/tags/cli/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gestion De Mots De Passe</title>
-      <link>http://localhost:1313/tags/gestion-de-mots-de-passe/</link>
+      <link>https://memlenz.github.io/tags/gestion-de-mots-de-passe/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/gestion-de-mots-de-passe/</guid>
+      <guid>https://memlenz.github.io/tags/gestion-de-mots-de-passe/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Installation</title>
-      <link>http://localhost:1313/tags/installation/</link>
+      <link>https://memlenz.github.io/tags/installation/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/installation/</guid>
+      <guid>https://memlenz.github.io/tags/installation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mac</title>
-      <link>http://localhost:1313/tags/mac/</link>
+      <link>https://memlenz.github.io/tags/mac/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/mac/</guid>
+      <guid>https://memlenz.github.io/tags/mac/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/tags/windows/</link>
+      <link>https://memlenz.github.io/tags/windows/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/windows/</guid>
+      <guid>https://memlenz.github.io/tags/windows/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Algorithmie</title>
-      <link>http://localhost:1313/tags/algorithmie/</link>
+      <link>https://memlenz.github.io/tags/algorithmie/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/algorithmie/</guid>
+      <guid>https://memlenz.github.io/tags/algorithmie/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Open</title>
-      <link>http://localhost:1313/tags/open/</link>
+      <link>https://memlenz.github.io/tags/open/</link>
       <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/open/</guid>
+      <guid>https://memlenz.github.io/tags/open/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>With</title>
-      <link>http://localhost:1313/tags/with/</link>
+      <link>https://memlenz.github.io/tags/with/</link>
       <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/with/</guid>
+      <guid>https://memlenz.github.io/tags/with/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Argparse</title>
-      <link>http://localhost:1313/tags/argparse/</link>
+      <link>https://memlenz.github.io/tags/argparse/</link>
       <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/argparse/</guid>
+      <guid>https://memlenz.github.io/tags/argparse/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Minimalisme</title>
-      <link>http://localhost:1313/tags/minimalisme/</link>
+      <link>https://memlenz.github.io/tags/minimalisme/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/minimalisme/</guid>
+      <guid>https://memlenz.github.io/tags/minimalisme/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Void Linux</title>
-      <link>http://localhost:1313/tags/void-linux/</link>
+      <link>https://memlenz.github.io/tags/void-linux/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/void-linux/</guid>
+      <guid>https://memlenz.github.io/tags/void-linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LazyVim</title>
-      <link>http://localhost:1313/tags/lazyvim/</link>
+      <link>https://memlenz.github.io/tags/lazyvim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/lazyvim/</guid>
+      <guid>https://memlenz.github.io/tags/lazyvim/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LSP</title>
-      <link>http://localhost:1313/tags/lsp/</link>
+      <link>https://memlenz.github.io/tags/lsp/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/lsp/</guid>
+      <guid>https://memlenz.github.io/tags/lsp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Neovim</title>
-      <link>http://localhost:1313/tags/neovim/</link>
+      <link>https://memlenz.github.io/tags/neovim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/neovim/</guid>
+      <guid>https://memlenz.github.io/tags/neovim/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ricing</title>
-      <link>http://localhost:1313/tags/ricing/</link>
+      <link>https://memlenz.github.io/tags/ricing/</link>
       <pubDate>Sun, 30 Mar 2025 01:27:38 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/ricing/</guid>
+      <guid>https://memlenz.github.io/tags/ricing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Éditeur De Texte</title>
-      <link>http://localhost:1313/tags/%C3%A9diteur-de-texte/</link>
+      <link>https://memlenz.github.io/tags/%C3%A9diteur-de-texte/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/%C3%A9diteur-de-texte/</guid>
+      <guid>https://memlenz.github.io/tags/%C3%A9diteur-de-texte/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>IDE</title>
-      <link>http://localhost:1313/tags/ide/</link>
+      <link>https://memlenz.github.io/tags/ide/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/ide/</guid>
+      <guid>https://memlenz.github.io/tags/ide/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Compilation</title>
-      <link>http://localhost:1313/tags/compilation/</link>
+      <link>https://memlenz.github.io/tags/compilation/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/compilation/</guid>
+      <guid>https://memlenz.github.io/tags/compilation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Exécutable</title>
-      <link>http://localhost:1313/tags/ex%C3%A9cutable/</link>
+      <link>https://memlenz.github.io/tags/ex%C3%A9cutable/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/ex%C3%A9cutable/</guid>
+      <guid>https://memlenz.github.io/tags/ex%C3%A9cutable/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Jeu</title>
-      <link>http://localhost:1313/tags/jeu/</link>
+      <link>https://memlenz.github.io/tags/jeu/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/jeu/</guid>
+      <guid>https://memlenz.github.io/tags/jeu/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Logique</title>
-      <link>http://localhost:1313/tags/logique/</link>
+      <link>https://memlenz.github.io/tags/logique/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/logique/</guid>
+      <guid>https://memlenz.github.io/tags/logique/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Exceptions</title>
-      <link>http://localhost:1313/tags/exceptions/</link>
+      <link>https://memlenz.github.io/tags/exceptions/</link>
       <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/exceptions/</guid>
+      <guid>https://memlenz.github.io/tags/exceptions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Try ... Except</title>
-      <link>http://localhost:1313/tags/try-...-except/</link>
+      <link>https://memlenz.github.io/tags/try-...-except/</link>
       <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/try-...-except/</guid>
+      <guid>https://memlenz.github.io/tags/try-...-except/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PIP</title>
-      <link>http://localhost:1313/tags/pip/</link>
+      <link>https://memlenz.github.io/tags/pip/</link>
       <pubDate>Tue, 04 Mar 2025 02:03:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/pip/</guid>
+      <guid>https://memlenz.github.io/tags/pip/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Module</title>
-      <link>http://localhost:1313/tags/module/</link>
+      <link>https://memlenz.github.io/tags/module/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/module/</guid>
+      <guid>https://memlenz.github.io/tags/module/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RegEx</title>
-      <link>http://localhost:1313/tags/regex/</link>
+      <link>https://memlenz.github.io/tags/regex/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/regex/</guid>
+      <guid>https://memlenz.github.io/tags/regex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JSON</title>
-      <link>http://localhost:1313/tags/json/</link>
+      <link>https://memlenz.github.io/tags/json/</link>
       <pubDate>Tue, 04 Mar 2025 01:37:05 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/json/</guid>
+      <guid>https://memlenz.github.io/tags/json/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
+      <link>https://memlenz.github.io/tags/math/</link>
       <pubDate>Tue, 04 Mar 2025 01:32:43 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/math/</guid>
+      <guid>https://memlenz.github.io/tags/math/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dates</title>
-      <link>http://localhost:1313/tags/dates/</link>
+      <link>https://memlenz.github.io/tags/dates/</link>
       <pubDate>Tue, 04 Mar 2025 01:27:53 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/dates/</guid>
+      <guid>https://memlenz.github.io/tags/dates/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Modules</title>
-      <link>http://localhost:1313/tags/modules/</link>
+      <link>https://memlenz.github.io/tags/modules/</link>
       <pubDate>Tue, 04 Mar 2025 01:19:13 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/modules/</guid>
+      <guid>https://memlenz.github.io/tags/modules/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Portée</title>
-      <link>http://localhost:1313/tags/port%C3%A9e/</link>
+      <link>https://memlenz.github.io/tags/port%C3%A9e/</link>
       <pubDate>Mon, 03 Mar 2025 05:57:31 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/port%C3%A9e/</guid>
+      <guid>https://memlenz.github.io/tags/port%C3%A9e/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Polymorphisme</title>
-      <link>http://localhost:1313/tags/polymorphisme/</link>
+      <link>https://memlenz.github.io/tags/polymorphisme/</link>
       <pubDate>Mon, 03 Mar 2025 05:53:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/polymorphisme/</guid>
+      <guid>https://memlenz.github.io/tags/polymorphisme/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Heritage</title>
-      <link>http://localhost:1313/tags/heritage/</link>
+      <link>https://memlenz.github.io/tags/heritage/</link>
       <pubDate>Mon, 03 Mar 2025 05:50:46 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/heritage/</guid>
+      <guid>https://memlenz.github.io/tags/heritage/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Classes</title>
-      <link>http://localhost:1313/tags/classes/</link>
+      <link>https://memlenz.github.io/tags/classes/</link>
       <pubDate>Mon, 03 Mar 2025 05:46:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/classes/</guid>
+      <guid>https://memlenz.github.io/tags/classes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Objets</title>
-      <link>http://localhost:1313/tags/objets/</link>
+      <link>https://memlenz.github.io/tags/objets/</link>
       <pubDate>Mon, 03 Mar 2025 05:46:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/objets/</guid>
+      <guid>https://memlenz.github.io/tags/objets/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Array</title>
-      <link>http://localhost:1313/tags/array/</link>
+      <link>https://memlenz.github.io/tags/array/</link>
       <pubDate>Mon, 03 Mar 2025 05:40:20 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/array/</guid>
+      <guid>https://memlenz.github.io/tags/array/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lambda</title>
-      <link>http://localhost:1313/tags/lambda/</link>
+      <link>https://memlenz.github.io/tags/lambda/</link>
       <pubDate>Thu, 27 Feb 2025 19:57:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/lambda/</guid>
+      <guid>https://memlenz.github.io/tags/lambda/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fonctions</title>
-      <link>http://localhost:1313/tags/fonctions/</link>
+      <link>https://memlenz.github.io/tags/fonctions/</link>
       <pubDate>Thu, 27 Feb 2025 19:54:14 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/fonctions/</guid>
+      <guid>https://memlenz.github.io/tags/fonctions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>For</title>
-      <link>http://localhost:1313/tags/for/</link>
+      <link>https://memlenz.github.io/tags/for/</link>
       <pubDate>Thu, 27 Feb 2025 19:47:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/for/</guid>
+      <guid>https://memlenz.github.io/tags/for/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>While</title>
-      <link>http://localhost:1313/tags/while/</link>
+      <link>https://memlenz.github.io/tags/while/</link>
       <pubDate>Thu, 27 Feb 2025 19:47:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/while/</guid>
+      <guid>https://memlenz.github.io/tags/while/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Conditions</title>
-      <link>http://localhost:1313/tags/conditions/</link>
+      <link>https://memlenz.github.io/tags/conditions/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/conditions/</guid>
+      <guid>https://memlenz.github.io/tags/conditions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Elif</title>
-      <link>http://localhost:1313/tags/elif/</link>
+      <link>https://memlenz.github.io/tags/elif/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/elif/</guid>
+      <guid>https://memlenz.github.io/tags/elif/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Else</title>
-      <link>http://localhost:1313/tags/else/</link>
+      <link>https://memlenz.github.io/tags/else/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/else/</guid>
+      <guid>https://memlenz.github.io/tags/else/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>If</title>
-      <link>http://localhost:1313/tags/if/</link>
+      <link>https://memlenz.github.io/tags/if/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/if/</guid>
+      <guid>https://memlenz.github.io/tags/if/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dictionnaires</title>
-      <link>http://localhost:1313/tags/dictionnaires/</link>
+      <link>https://memlenz.github.io/tags/dictionnaires/</link>
       <pubDate>Thu, 27 Feb 2025 19:30:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/dictionnaires/</guid>
+      <guid>https://memlenz.github.io/tags/dictionnaires/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sets</title>
-      <link>http://localhost:1313/tags/sets/</link>
+      <link>https://memlenz.github.io/tags/sets/</link>
       <pubDate>Thu, 27 Feb 2025 19:27:26 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/sets/</guid>
+      <guid>https://memlenz.github.io/tags/sets/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tuples</title>
-      <link>http://localhost:1313/tags/tuples/</link>
+      <link>https://memlenz.github.io/tags/tuples/</link>
       <pubDate>Thu, 27 Feb 2025 18:50:12 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/tuples/</guid>
+      <guid>https://memlenz.github.io/tags/tuples/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Listes</title>
-      <link>http://localhost:1313/tags/listes/</link>
+      <link>https://memlenz.github.io/tags/listes/</link>
       <pubDate>Thu, 27 Feb 2025 18:47:13 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/listes/</guid>
+      <guid>https://memlenz.github.io/tags/listes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Opérateurs</title>
-      <link>http://localhost:1313/tags/op%C3%A9rateurs/</link>
+      <link>https://memlenz.github.io/tags/op%C3%A9rateurs/</link>
       <pubDate>Thu, 27 Feb 2025 18:44:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/op%C3%A9rateurs/</guid>
+      <guid>https://memlenz.github.io/tags/op%C3%A9rateurs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Booléen</title>
-      <link>http://localhost:1313/tags/bool%C3%A9en/</link>
+      <link>https://memlenz.github.io/tags/bool%C3%A9en/</link>
       <pubDate>Thu, 27 Feb 2025 18:38:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/bool%C3%A9en/</guid>
+      <guid>https://memlenz.github.io/tags/bool%C3%A9en/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chaînes</title>
-      <link>http://localhost:1313/tags/cha%C3%AEnes/</link>
+      <link>https://memlenz.github.io/tags/cha%C3%AEnes/</link>
       <pubDate>Thu, 27 Feb 2025 17:50:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/cha%C3%AEnes/</guid>
+      <guid>https://memlenz.github.io/tags/cha%C3%AEnes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Casting</title>
-      <link>http://localhost:1313/tags/casting/</link>
+      <link>https://memlenz.github.io/tags/casting/</link>
       <pubDate>Thu, 27 Feb 2025 14:34:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/casting/</guid>
+      <guid>https://memlenz.github.io/tags/casting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nombres</title>
-      <link>http://localhost:1313/tags/nombres/</link>
+      <link>https://memlenz.github.io/tags/nombres/</link>
       <pubDate>Thu, 27 Feb 2025 12:30:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/nombres/</guid>
+      <guid>https://memlenz.github.io/tags/nombres/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Type De Donnée</title>
-      <link>http://localhost:1313/tags/type-de-donn%C3%A9e/</link>
+      <link>https://memlenz.github.io/tags/type-de-donn%C3%A9e/</link>
       <pubDate>Thu, 27 Feb 2025 10:22:53 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/type-de-donn%C3%A9e/</guid>
+      <guid>https://memlenz.github.io/tags/type-de-donn%C3%A9e/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Syntaxe</title>
-      <link>http://localhost:1313/tags/syntaxe/</link>
+      <link>https://memlenz.github.io/tags/syntaxe/</link>
       <pubDate>Wed, 26 Feb 2025 02:29:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/syntaxe/</guid>
+      <guid>https://memlenz.github.io/tags/syntaxe/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Variables</title>
-      <link>http://localhost:1313/tags/variables/</link>
+      <link>https://memlenz.github.io/tags/variables/</link>
       <pubDate>Wed, 26 Feb 2025 02:26:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/variables/</guid>
+      <guid>https://memlenz.github.io/tags/variables/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Beginner</title>
-      <link>http://localhost:1313/tags/beginner/</link>
+      <link>https://memlenz.github.io/tags/beginner/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/beginner/</guid>
+      <guid>https://memlenz.github.io/tags/beginner/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/tags/introduction/</link>
+      <link>https://memlenz.github.io/tags/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/introduction/</guid>
+      <guid>https://memlenz.github.io/tags/introduction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sql</title>
-      <link>http://localhost:1313/tags/sql/</link>
+      <link>https://memlenz.github.io/tags/sql/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/sql/</guid>
+      <guid>https://memlenz.github.io/tags/sql/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
+      <link>https://memlenz.github.io/tags/c&#43;&#43;/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
+      <guid>https://memlenz.github.io/tags/c&#43;&#43;/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/tags/java/</link>
+      <link>https://memlenz.github.io/tags/java/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/java/</guid>
+      <guid>https://memlenz.github.io/tags/java/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Développement</title>
-      <link>http://localhost:1313/tags/d%C3%A9veloppement/</link>
+      <link>https://memlenz.github.io/tags/d%C3%A9veloppement/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/d%C3%A9veloppement/</guid>
+      <guid>https://memlenz.github.io/tags/d%C3%A9veloppement/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Open Source</title>
-      <link>http://localhost:1313/tags/open-source/</link>
+      <link>https://memlenz.github.io/tags/open-source/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/open-source/</guid>
+      <guid>https://memlenz.github.io/tags/open-source/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Productivité</title>
-      <link>http://localhost:1313/tags/productivit%C3%A9/</link>
+      <link>https://memlenz.github.io/tags/productivit%C3%A9/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/productivit%C3%A9/</guid>
+      <guid>https://memlenz.github.io/tags/productivit%C3%A9/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/tags/portfolio/</link>
+      <link>https://memlenz.github.io/tags/portfolio/</link>
       <pubDate>Sat, 15 Feb 2025 03:04:58 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/portfolio/</guid>
+      <guid>https://memlenz.github.io/tags/portfolio/</guid>
       <description></description>
       
     </item>
