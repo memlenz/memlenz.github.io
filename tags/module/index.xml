@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Module on </title>
+    <link>http://localhost:1313/tags/module/</link>
+    <description>Recent content in Module on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 04 Mar 2025 01:42:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/module/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Module RegEx</title>
+      <link>http://localhost:1313/courses/python/module-regex/</link>
+      <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/courses/python/module-regex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Module JSON</title>
+      <link>http://localhost:1313/courses/python/module-json/</link>
+      <pubDate>Tue, 04 Mar 2025 01:37:05 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/courses/python/module-json/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Module Math</title>
+      <link>http://localhost:1313/courses/python/module-math/</link>
+      <pubDate>Tue, 04 Mar 2025 01:32:43 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/courses/python/module-math/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,28 +1,28 @@
 <!doctype html>
 <html
-  lang="en"
+  lang="fr"
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
-    <meta http-equiv="content-language" content="en">
+    <meta http-equiv="content-language" content="fr">
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="theme-color">
 
   
-  <title>Variables &middot; </title>
-    <meta name="title" content="Variables &middot; ">
+  <title>Variables et commentaires en python &middot; </title>
+    <meta name="title" content="Variables et commentaires en python &middot; ">
 
   
+  <meta name="description" content="Apprenez les variables et commentaires en python">
+  <meta name="keywords" content="python,variables,">
   
   
-  
-  
-  <link rel="canonical" href="https://memlenz.github.io/courses/python/variables/">
+  <link rel="canonical" href="http://localhost:1313/courses/python/variables/">
   
   
   
@@ -40,8 +40,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.cf17ddb1e5d433023c5e3eccaf953d75fc74d1138baf3b0124046927e804188fd7fe33e9e5754adbd342da307e5c85a9de788a2d73f554c1d916bc3887e2acf4.css"
-    integrity="sha512-zxfdseXUMwI8Xj7Mr5U9dfx00ROLrzsBJARpJ&#43;gEGI/X/jPp5XVK29NC2jB&#43;XIWp3niKLXP1VMHZFrw4h&#43;Ks9A==">
+    href="/css/main.bundle.min.3af42d55441c82e4673b9a58702f4a93244078371f3892d0fd44b31998829d77ce5a9621c0d3700a31fda5794a4c7ede8647c3901cdbf6129c72349dfb488e9f.css"
+    integrity="sha512-OvQtVUQcguRnO5pYcC9KkyRAeDcfOJLQ/USzGZiCnXfOWpYhwNNwCjH9pXlKTH7ehkfDkBzb9hKccjSd&#43;0iOnw==">
 
   
   
@@ -74,8 +74,8 @@
       id="script-bundle"
       src="/js/main.bundle.min.98bb8ce8f123e03c4d2171eeec151dd404b5c476beb5ef1068d0e8b1a2afb923065e6552fc14b2d867c85ee4bd8529a43193f729f874d3908517ba03b5d1cc57.js"
       integrity="sha512-mLuM6PEj4DxNIXHu7BUd1AS1xHa&#43;te8QaNDosaKvuSMGXmVS/BSy2GfIXuS9hSmkMZP3Kfh005CFF7oDtdHMVw=="
-      data-copy="Copy"
-      data-copied="Copied"></script>
+      data-copy="Copier"
+      data-copied="Copié"></script>
   
   
     
@@ -99,43 +99,47 @@
   
 
   
-  <meta property="og:url" content="https://memlenz.github.io/courses/python/variables/">
-  <meta property="og:title" content="Variables">
-  <meta property="og:locale" content="en">
+  <meta property="og:url" content="http://localhost:1313/courses/python/variables/">
+  <meta property="og:title" content="Variables et commentaires en python">
+  <meta property="og:description" content="Apprenez les variables et commentaires en python">
+  <meta property="og:locale" content="fr">
   <meta property="og:type" content="article">
     <meta property="article:section" content="courses">
-    <meta property="article:published_time" content="2025-02-27T18:05:06+01:00">
-    <meta property="article:modified_time" content="2025-02-27T18:05:06+01:00">
+    <meta property="article:published_time" content="2025-02-26T02:26:44+01:00">
+    <meta property="article:modified_time" content="2025-02-26T02:26:44+01:00">
+    <meta property="article:tag" content="Python">
+    <meta property="article:tag" content="Variables">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Variables">
+  <meta name="twitter:title" content="Variables et commentaires en python">
+  <meta name="twitter:description" content="Apprenez les variables et commentaires en python">
 
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "Courses",
-    "name": "Variables",
-    "headline": "Variables",
+    "articleSection": "Cours",
+    "name": "Variables et commentaires en python",
+    "headline": "Variables et commentaires en python",
+    "description": "Apprenez les variables et commentaires en python",
     
-    
-    "inLanguage": "en",
-    "url" : "https:\/\/memlenz.github.io\/courses\/python\/variables\/",
+    "inLanguage": "fr",
+    "url" : "http:\/\/localhost:1313\/courses\/python\/variables\/",
     "author" : {
       "@type": "Person",
       "name": "Châ-Fine Ayédoun ADEBI"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-02-27T18:05:06\u002b01:00",
-    "datePublished": "2025-02-27T18:05:06\u002b01:00",
+    "dateCreated": "2025-02-26T02:26:44\u002b01:00",
+    "datePublished": "2025-02-26T02:26:44\u002b01:00",
     
-    "dateModified": "2025-02-27T18:05:06\u002b01:00",
+    "dateModified": "2025-02-26T02:26:44\u002b01:00",
     
-    
+    "keywords": ["python","variables"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "0"
+    "wordCount": "1061"
   }]
   </script>
 
@@ -224,7 +228,7 @@
         class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
         href="#main-content">
         <span class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>
-        Skip to main content
+        Aller au contenu
       </a>
     </div>
     
@@ -233,7 +237,7 @@
 <div class="fixed inset-x-0 pl-[24px] pr-[24px] z-100">
   <div
     id="menu-blur"
-    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom bg-neutral dark:bg-neutral-800"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     
 
@@ -316,8 +320,8 @@
   
   class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
   
-  <p class="text-base font-medium" title="Courses">
-    Courses
+  <p class="text-base font-medium" title="Cours">
+    Cours
   </p>
 </a>
 
@@ -327,41 +331,6 @@
     
 
     
-  <div>
-    <div class="cursor-pointer flex items-center nested-menu">
-      <span class="ltr:mr-1 rtl:ml-1">
-        <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
-    <path fill="currentColor" d="M0 128C0 92.7 28.7 64 64 64H256h48 16H576c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H320 304 256 64c-35.3 0-64-28.7-64-64V128zm320 0V384H576V128H320zM178.3 175.9c-3.2-7.2-10.4-11.9-18.3-11.9s-15.1 4.7-18.3 11.9l-64 144c-4.5 10.1 .1 21.9 10.2 26.4s21.9-.1 26.4-10.2l8.9-20.1h73.6l8.9 20.1c4.5 10.1 16.3 14.6 26.4 10.2s14.6-16.3 10.2-26.4l-64-144zM160 233.2L179 276H141l19-42.8zM448 164c11 0 20 9 20 20v4h44 16c11 0 20 9 20 20s-9 20-20 20h-2l-1.6 4.5c-8.9 24.4-22.4 46.6-39.6 65.4c.9 .6 1.8 1.1 2.7 1.6l18.9 11.3c9.5 5.7 12.5 18 6.9 27.4s-18 12.5-27.4 6.9l-18.9-11.3c-4.5-2.7-8.8-5.5-13.1-8.5c-10.6 7.5-21.9 14-34 19.4l-3.6 1.6c-10.1 4.5-21.9-.1-26.4-10.2s.1-21.9 10.2-26.4l3.6-1.6c6.4-2.9 12.6-6.1 18.5-9.8l-12.2-12.2c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0l14.6 14.6 .5 .5c12.4-13.1 22.5-28.3 29.8-45H448 376c-11 0-20-9-20-20s9-20 20-20h52v-4c0-11 9-20 20-20z"/></svg></span>
-      </span>
-      <div
-        class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-        title="Variables">EN</div>
-    </div>
-    <div class="absolute menuhide">
-      <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
-        <div class="flex flex-col space-y-3">
-          
-            <a href="/courses/python/variables/" class="flex items-center">
-              <p
-                class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-                title="Variables">
-                EN
-              </p>
-            </a>
-          
-            <a href="/fr/courses/python/variables/" class="flex items-center">
-              <p
-                class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-                title="Variables et commentaires en python">
-                FR
-              </p>
-            </a>
-          
-        </div>
-      </div>
-    </div>
-  </div>
-
 
     
 
@@ -370,7 +339,7 @@
         id="search-button"
         aria-label="Search"
         class="text-base hover:text-primary-600 dark:hover:text-primary-400"
-        title="Search (/)">
+        title="Rechercher (/)">
         <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
 </span>
       </button>
@@ -401,41 +370,6 @@
     <span></span>
 
     
-  <div>
-    <div class="cursor-pointer flex items-center nested-menu">
-      <span class="ltr:mr-1 rtl:ml-1">
-        <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
-    <path fill="currentColor" d="M0 128C0 92.7 28.7 64 64 64H256h48 16H576c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H320 304 256 64c-35.3 0-64-28.7-64-64V128zm320 0V384H576V128H320zM178.3 175.9c-3.2-7.2-10.4-11.9-18.3-11.9s-15.1 4.7-18.3 11.9l-64 144c-4.5 10.1 .1 21.9 10.2 26.4s21.9-.1 26.4-10.2l8.9-20.1h73.6l8.9 20.1c4.5 10.1 16.3 14.6 26.4 10.2s14.6-16.3 10.2-26.4l-64-144zM160 233.2L179 276H141l19-42.8zM448 164c11 0 20 9 20 20v4h44 16c11 0 20 9 20 20s-9 20-20 20h-2l-1.6 4.5c-8.9 24.4-22.4 46.6-39.6 65.4c.9 .6 1.8 1.1 2.7 1.6l18.9 11.3c9.5 5.7 12.5 18 6.9 27.4s-18 12.5-27.4 6.9l-18.9-11.3c-4.5-2.7-8.8-5.5-13.1-8.5c-10.6 7.5-21.9 14-34 19.4l-3.6 1.6c-10.1 4.5-21.9-.1-26.4-10.2s.1-21.9 10.2-26.4l3.6-1.6c6.4-2.9 12.6-6.1 18.5-9.8l-12.2-12.2c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0l14.6 14.6 .5 .5c12.4-13.1 22.5-28.3 29.8-45H448 376c-11 0-20-9-20-20s9-20 20-20h52v-4c0-11 9-20 20-20z"/></svg></span>
-      </span>
-      <div
-        class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-        title="Variables">EN</div>
-    </div>
-    <div class="absolute menuhide">
-      <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
-        <div class="flex flex-col space-y-3">
-          
-            <a href="/courses/python/variables/" class="flex items-center">
-              <p
-                class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-                title="Variables">
-                EN
-              </p>
-            </a>
-          
-            <a href="/fr/courses/python/variables/" class="flex items-center">
-              <p
-                class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-                title="Variables et commentaires en python">
-                FR
-              </p>
-            </a>
-          
-        </div>
-      </div>
-    </div>
-  </div>
-
 
     
 
@@ -444,7 +378,7 @@
         id="search-button-mobile"
         aria-label="Search"
         class="text-base hover:text-primary-600 dark:hover:text-primary-400"
-        title="Search (/)">
+        title="Rechercher (/)">
         <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
 </span>
       </button>
@@ -530,8 +464,8 @@
     
     class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
-    <p class="text-bg font-bg" title="Courses">
-      Courses
+    <p class="text-bg font-bg" title="Cours">
+      Cours
     </p>
   </a>
 </li>
@@ -586,7 +520,7 @@
     <header id="single_header" class="mt-5 max-w-prose">
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Variables
+        Variables et commentaires en python
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -616,7 +550,11 @@
   
 
   
+    
+  
 
+  
+    
   
 
   
@@ -635,7 +573,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      
+      <span>1061 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">5 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 
@@ -648,9 +586,9 @@
   <span
     id="zen-mode-button"
     class="text-lg hover:text-primary-500"
-    title="Enable zen mode"
-    data-title-i18n-disable="Enable zen mode"
-    data-title-i18n-enable="Disable zen mode">
+    title="Activer le mode zen"
+    data-title-i18n-disable="Activer le mode zen"
+    data-title-i18n-enable="Désactiver le mode zen">
     <span class="inline-block align-text-bottom"><span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50px" height="50px">
     <path fill="currentColor" d="M 12.980469 4 C 9.1204688 4 5.9804688 7.14 5.9804688 11 L 6 26 L 9.9804688 26 L 9.9804688 11 C 9.9804688 9.35 11.320469 8 12.980469 8 L 40.019531 8 C 41.679531 8 43.019531 9.35 43.019531 11 L 43.019531 39 C 43.019531 40.65 41.679531 42 40.019531 42 L 29 42 C 29 43.54 28.420938 44.94 27.460938 46 L 40.019531 46 C 43.879531 46 47.019531 42.86 47.019531 39 L 47.019531 11 C 47.019531 7.14 43.879531 4 40.019531 4 L 12.980469 4 z M 7 28 C 4.794 28 3 29.794 3 32 L 3 42 C 3 44.206 4.794 46 7 46 L 23 46 C 25.206 46 27 44.206 27 42 L 27 32 C 27 29.794 25.206 28 23 28 L 7 28 z M 7 32 L 23 32 L 23.001953 42 L 7 42 L 7 32 z"/>
 </svg></span></span>
@@ -673,11 +611,45 @@
       
         
           
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/categories/cours-python/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Cours Python
+  </span>
+</span>
+</a
+              >
+            
+          
         
       
         
       
         
+          
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/python/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Python
+  </span>
+</span>
+</a
+              >
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/variables/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Variables
+  </span>
+</span>
+</a
+              >
+            
           
         
       
@@ -725,7 +697,7 @@
   <div class="place-self-center">
     
       <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
-        Author
+        Auteur
       </div>
       <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
         Châ-Fine Ayédoun ADEBI
@@ -806,6 +778,226 @@
       
       
       
+        <div class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+          <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+            
+              <details
+  open
+  id="TOCView"
+  class="toc-right mt-0 overflow-y-auto overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Sommaire
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-quest-ce-quune-variable-">🧠 Qu&rsquo;est-ce qu&rsquo;une variable ?</a>
+      <ul>
+        <li><a href="#-mission-1--explorer-les-variables">🎯 Mission #1 : Explorer les variables</a></li>
+      </ul>
+    </li>
+    <li><a href="#-types-de-variables-en-python">🧩 Types de variables en Python</a>
+      <ul>
+        <li><a href="#-les-types-fondamentaux">📊 Les types fondamentaux</a></li>
+        <li><a href="#-les-types-de-collections">🔢 Les types de collections</a></li>
+      </ul>
+    </li>
+    <li><a href="#-manipulation-des-variables">🛠️ Manipulation des variables</a>
+      <ul>
+        <li><a href="#-création-et-modification">📝 Création et modification</a></li>
+        <li><a href="#-assignation-multiple">🪄 Assignation multiple</a></li>
+      </ul>
+    </li>
+    <li><a href="#-règles-de-nommage">📏 Règles de nommage</a>
+      <ul>
+        <li><a href="#-bonnes-pratiques">🌟 Bonnes pratiques</a></li>
+      </ul>
+    </li>
+    <li><a href="#-variables-mutables-vs-immuables">🧪 Variables mutables vs immuables</a>
+      <ul>
+        <li><a href="#-types-immuables-non-modifiables-après-création">🔒 Types immuables (non modifiables après création)</a></li>
+        <li><a href="#-types-mutables-modifiables-après-création">🔓 Types mutables (modifiables après création)</a></li>
+      </ul>
+    </li>
+    <li><a href="#-portée-des-variables">🔍 Portée des variables</a>
+      <ul>
+        <li><a href="#-variables-globales">🌍 Variables globales</a></li>
+        <li><a href="#-variables-locales">🏠 Variables locales</a></li>
+      </ul>
+    </li>
+    <li><a href="#-défis-pratiques">🎮 Défis pratiques</a>
+      <ul>
+        <li><a href="#-défi-1--convertisseur-de-température">🏆 Défi #1 : Convertisseur de température</a></li>
+        <li><a href="#exemple-doutput">Exemple d&rsquo;output</a></li>
+        <li><a href="#-défi-2--générateur-de-profil">🏆 Défi #2 : Générateur de profil</a></li>
+      </ul>
+    </li>
+    <li><a href="#-astuces-avancées">💡 Astuces avancées</a>
+      <ul>
+        <li><a href="#-vérifier-le-type-dune-variable">🔍 Vérifier le type d&rsquo;une variable</a></li>
+        <li><a href="#-opérations-sur-les-variables">🧮 Opérations sur les variables</a></li>
+      </ul>
+    </li>
+    <li><a href="#-pour-aller-plus-loin">📚 Pour aller plus loin</a></li>
+    <li><a href="#-mémo-pratique">🎯 Mémo pratique</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Sommaire
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-quest-ce-quune-variable-">🧠 Qu&rsquo;est-ce qu&rsquo;une variable ?</a>
+      <ul>
+        <li><a href="#-mission-1--explorer-les-variables">🎯 Mission #1 : Explorer les variables</a></li>
+      </ul>
+    </li>
+    <li><a href="#-types-de-variables-en-python">🧩 Types de variables en Python</a>
+      <ul>
+        <li><a href="#-les-types-fondamentaux">📊 Les types fondamentaux</a></li>
+        <li><a href="#-les-types-de-collections">🔢 Les types de collections</a></li>
+      </ul>
+    </li>
+    <li><a href="#-manipulation-des-variables">🛠️ Manipulation des variables</a>
+      <ul>
+        <li><a href="#-création-et-modification">📝 Création et modification</a></li>
+        <li><a href="#-assignation-multiple">🪄 Assignation multiple</a></li>
+      </ul>
+    </li>
+    <li><a href="#-règles-de-nommage">📏 Règles de nommage</a>
+      <ul>
+        <li><a href="#-bonnes-pratiques">🌟 Bonnes pratiques</a></li>
+      </ul>
+    </li>
+    <li><a href="#-variables-mutables-vs-immuables">🧪 Variables mutables vs immuables</a>
+      <ul>
+        <li><a href="#-types-immuables-non-modifiables-après-création">🔒 Types immuables (non modifiables après création)</a></li>
+        <li><a href="#-types-mutables-modifiables-après-création">🔓 Types mutables (modifiables après création)</a></li>
+      </ul>
+    </li>
+    <li><a href="#-portée-des-variables">🔍 Portée des variables</a>
+      <ul>
+        <li><a href="#-variables-globales">🌍 Variables globales</a></li>
+        <li><a href="#-variables-locales">🏠 Variables locales</a></li>
+      </ul>
+    </li>
+    <li><a href="#-défis-pratiques">🎮 Défis pratiques</a>
+      <ul>
+        <li><a href="#-défi-1--convertisseur-de-température">🏆 Défi #1 : Convertisseur de température</a></li>
+        <li><a href="#exemple-doutput">Exemple d&rsquo;output</a></li>
+        <li><a href="#-défi-2--générateur-de-profil">🏆 Défi #2 : Générateur de profil</a></li>
+      </ul>
+    </li>
+    <li><a href="#-astuces-avancées">💡 Astuces avancées</a>
+      <ul>
+        <li><a href="#-vérifier-le-type-dune-variable">🔍 Vérifier le type d&rsquo;une variable</a></li>
+        <li><a href="#-opérations-sur-les-variables">🧮 Opérations sur les variables</a></li>
+      </ul>
+    </li>
+    <li><a href="#-pour-aller-plus-loin">📚 Pour aller plus loin</a></li>
+    <li><a href="#-mémo-pratique">🎯 Mémo pratique</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+
+<script>
+  (function () {
+    'use strict'
+
+    const SCROLL_OFFSET_RATIO = 0.33
+    const TOC_SELECTOR = '#TableOfContents'
+    const ANCHOR_SELECTOR = '.anchor'
+    const TOC_LINK_SELECTOR = 'a[href^="#"]'
+    const NESTED_LIST_SELECTOR = 'li ul'
+    const ACTIVE_CLASS = 'active'
+
+    function getActiveAnchorId(anchors, offsetRatio) {
+      const threshold = window.scrollY + window.innerHeight * offsetRatio
+      const tocLinks = [...document.querySelectorAll('#TableOfContents a[href^="#"]')]
+      const tocIds = new Set(tocLinks.map(link => link.getAttribute('href').substring(1)))
+
+      for (let i = anchors.length - 1; i >= 0; i--) {
+        const top = anchors[i].getBoundingClientRect().top + window.scrollY
+        if (top <= threshold && tocIds.has(anchors[i].id)) {
+          return anchors[i].id
+        }
+      }
+      return anchors.find(anchor => tocIds.has(anchor.id))?.id || ''
+    }
+
+    function updateTOC({ toc, anchors, links, scrollOffset, collapseInactive }) {
+      const activeId = getActiveAnchorId(anchors, scrollOffset)
+      if (!activeId) return
+
+      links.forEach(link => {
+        const isActive = link.getAttribute('href') === `#${activeId}`
+        link.classList.toggle(ACTIVE_CLASS, isActive)
+
+        if (collapseInactive) {
+          const ul = link.closest('li')?.querySelector('ul')
+          if (ul) ul.style.display = isActive ? '' : 'none'
+        }
+      })
+
+      if (collapseInactive) {
+        const activeLink = toc.querySelector(`a[href="#${CSS.escape(activeId)}"]`)
+        let el = activeLink
+        while (el && el !== toc) {
+          if (el.tagName === 'UL') el.style.display = ''
+          if (el.tagName === 'LI') el.querySelector('ul')?.style.setProperty('display', '')
+          el = el.parentElement
+        }
+      }
+    }
+
+    function initTOC() {
+      const toc = document.querySelector(TOC_SELECTOR)
+      if (!toc) return
+
+      const collapseInactive = false
+      const anchors = [...document.querySelectorAll(ANCHOR_SELECTOR)]
+      const links = [...toc.querySelectorAll(TOC_LINK_SELECTOR)]
+
+      if (collapseInactive) {
+        toc.querySelectorAll(NESTED_LIST_SELECTOR).forEach(ul => ul.style.display = 'none')
+      }
+
+      const config = {
+        toc,
+        anchors,
+        links,
+        scrollOffset: SCROLL_OFFSET_RATIO,
+        collapseInactive
+      }
+
+      window.addEventListener('scroll', () => updateTOC(config), { passive: true })
+      window.addEventListener('hashchange', () => updateTOC(config), { passive: true })
+
+      updateTOC(config)
+    }
+
+    document.readyState === 'loading'
+      ? document.addEventListener('DOMContentLoaded', initTOC)
+      : initTOC()
+  })()
+</script>
+
+
+            
+            
+          </div>
+        </div>
+      
 
 
       <div class="min-w-0 min-h-0 max-w-fit">
@@ -813,6 +1005,506 @@
 
         <div class="article-content max-w-prose mb-20">
           
+<h1 class="relative group">Les Variables en Python : Le cœur de ton code 
+    <div id="les-variables-en-python--le-cœur-de-ton-code" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#les-variables-en-python--le-c%c5%93ur-de-ton-code" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+<p>Les variables sont comme des boîtes magiques qui servent à stocker et manipuler des données dans ton programme. En Python, elles sont particulièrement souples et intuitives !</p>
+
+<h2 class="relative group">🧠 Qu&rsquo;est-ce qu&rsquo;une variable ? 
+    <div id="-quest-ce-quune-variable-" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-quest-ce-quune-variable-" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Une variable en Python est comme un conteneur étiqueté qui peut stocker différents types de données :</p>
+<ul>
+<li>📦 Stocke des valeurs (nombres, texte, listes&hellip;)</li>
+<li>🏷️ Possède un nom qui permet d&rsquo;y accéder</li>
+<li>🔄 Peut changer de contenu au cours du programme</li>
+</ul>
+<hr>
+
+<h3 class="relative group">🎯 Mission #1 : Explorer les variables 
+    <div id="-mission-1--explorer-les-variables" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-mission-1--explorer-les-variables" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Testez ce code dans l&rsquo;interpréteur Python et observez :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">age</span> <span class="o">=</span> <span class="mi">25</span>
+</span></span><span class="line"><span class="cl"><span class="n">nom</span> <span class="o">=</span> <span class="s2">&#34;Alice&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Bonjour, je m&#39;appelle </span><span class="si">{</span><span class="n">nom</span><span class="si">}</span><span class="s2"> et j&#39;ai </span><span class="si">{</span><span class="n">age</span><span class="si">}</span><span class="s2"> ans.&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">age</span> <span class="o">=</span> <span class="mi">26</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;C&#39;est mon anniversaire ! Maintenant j&#39;ai </span><span class="si">{</span><span class="n">age</span><span class="si">}</span><span class="s2"> ans.&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><details>
+<summary>📝 Explication du code</summary>
+<ol>
+<li>On crée une variable <code>age</code> contenant le nombre 25</li>
+<li>On crée une variable <code>nom</code> contenant le texte &ldquo;Alice&rdquo;</li>
+<li>On affiche un message utilisant ces deux variables</li>
+<li>On change la valeur de <code>age</code> à 26</li>
+<li>Le message suivant reflète cette nouvelle valeur</li>
+</ol>
+</details>
+<hr>
+
+<h2 class="relative group">🧩 Types de variables en Python 
+    <div id="-types-de-variables-en-python" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-types-de-variables-en-python" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Python est intelligent et détermine automatiquement le type de variable selon la valeur qu&rsquo;on lui assigne.</p>
+
+<h3 class="relative group">📊 Les types fondamentaux 
+    <div id="-les-types-fondamentaux" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-les-types-fondamentaux" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Type</th>
+          <th>Exemple</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>str</code> (chaîne)</td>
+          <td><code>&quot;Hello&quot;</code></td>
+          <td>Texte</td>
+      </tr>
+      <tr>
+          <td><code>int</code> (entier)</td>
+          <td><code>42</code></td>
+          <td>Nombre entier</td>
+      </tr>
+      <tr>
+          <td><code>float</code> (flottant)</td>
+          <td><code>3.14</code></td>
+          <td>Nombre décimal</td>
+      </tr>
+      <tr>
+          <td><code>bool</code> (booléen)</td>
+          <td><code>True</code>, <code>False</code></td>
+          <td>Vrai ou faux</td>
+      </tr>
+  </tbody>
+</table>
+
+<h3 class="relative group">🔢 Les types de collections 
+    <div id="-les-types-de-collections" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-les-types-de-collections" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<table>
+  <thead>
+      <tr>
+          <th>Type</th>
+          <th>Exemple</th>
+          <th>Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>list</code> (liste)</td>
+          <td><code>[1, 2, 3]</code></td>
+          <td>Collection ordonnée modifiable</td>
+      </tr>
+      <tr>
+          <td><code>tuple</code> (tuple)</td>
+          <td><code>(1, 2, 3)</code></td>
+          <td>Collection ordonnée non modifiable</td>
+      </tr>
+      <tr>
+          <td><code>dict</code> (dictionnaire)</td>
+          <td><code>{&quot;nom&quot;: &quot;Alice&quot;, &quot;age&quot;: 25}</code></td>
+          <td>Paires clé-valeur</td>
+      </tr>
+      <tr>
+          <td><code>set</code> (ensemble)</td>
+          <td><code>{&quot;pomme&quot;, &quot;banane&quot;}</code></td>
+          <td>Collection non ordonnée d&rsquo;éléments uniques</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+
+<h2 class="relative group">🛠️ Manipulation des variables 
+    <div id="-manipulation-des-variables" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-manipulation-des-variables" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+
+<h3 class="relative group">📝 Création et modification 
+    <div id="-création-et-modification" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-cr%c3%a9ation-et-modification" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># Création de variables</span>
+</span></span><span class="line"><span class="cl"><span class="n">score</span> <span class="o">=</span> <span class="mi">0</span>
+</span></span><span class="line"><span class="cl"><span class="n">nom_joueur</span> <span class="o">=</span> <span class="s2">&#34;Aventurier&#34;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Modification de variables</span>
+</span></span><span class="line"><span class="cl"><span class="n">score</span> <span class="o">=</span> <span class="n">score</span> <span class="o">+</span> <span class="mi">10</span>  <span class="c1"># score vaut maintenant 10</span>
+</span></span><span class="line"><span class="cl"><span class="n">score</span> <span class="o">+=</span> <span class="mi">5</span>          <span class="c1"># score vaut maintenant 15</span>
+</span></span></code></pre></div>
+<h3 class="relative group">🪄 Assignation multiple 
+    <div id="-assignation-multiple" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-assignation-multiple" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Python permet d&rsquo;assigner plusieurs variables en une seule ligne :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">z</span> <span class="o">=</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">30</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">z</span><span class="p">)</span>  <span class="c1"># Affiche: 10 20 30</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Échange de valeurs en une ligne !</span>
+</span></span><span class="line"><span class="cl"><span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">10</span>
+</span></span><span class="line"><span class="cl"><span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span>  <span class="c1"># a vaut 10, b vaut 5</span>
+</span></span></code></pre></div><hr>
+
+<h2 class="relative group">📏 Règles de nommage 
+    <div id="-règles-de-nommage" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-r%c3%a8gles-de-nommage" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Pour nommer tes variables, respecte ces règles :</p>
+<p>✅ <strong>Autorisé</strong> :</p>
+<ul>
+<li>Lettres (a-z, A-Z)</li>
+<li>Chiffres (sauf en première position)</li>
+<li>Underscore (_)</li>
+</ul>
+<p>❌ <strong>Interdit</strong> :</p>
+<ul>
+<li>Commencer par un chiffre</li>
+<li>Utiliser des espaces</li>
+<li>Utiliser des caractères spéciaux (@, #, %, etc.)</li>
+<li>Utiliser des mots réservés Python (<code>if</code>, <code>for</code>, <code>while</code>, etc.)</li>
+</ul>
+
+<h3 class="relative group">🌟 Bonnes pratiques 
+    <div id="-bonnes-pratiques" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-bonnes-pratiques" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># 👍 Bon nommage</span>
+</span></span><span class="line"><span class="cl"><span class="n">age_joueur</span> <span class="o">=</span> <span class="mi">25</span>
+</span></span><span class="line"><span class="cl"><span class="n">prix_total</span> <span class="o">=</span> <span class="mf">49.99</span>
+</span></span><span class="line"><span class="cl"><span class="n">est_actif</span> <span class="o">=</span> <span class="kc">True</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 👎 Mauvais nommage</span>
+</span></span><span class="line"><span class="cl"><span class="n">a</span> <span class="o">=</span> <span class="mi">25</span>         <span class="c1"># Nom pas clair</span>
+</span></span><span class="line"><span class="cl"><span class="n">pT</span> <span class="o">=</span> <span class="mf">49.99</span>     <span class="c1"># Abréviation peu lisible</span>
+</span></span><span class="line"><span class="cl"><span class="n">variable1</span> <span class="o">=</span> <span class="kc">True</span>  <span class="c1"># Nom générique</span>
+</span></span></code></pre></div><hr>
+
+<h2 class="relative group">🧪 Variables mutables vs immuables 
+    <div id="-variables-mutables-vs-immuables" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-variables-mutables-vs-immuables" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+
+<h3 class="relative group">🔒 Types immuables (non modifiables après création) 
+    <div id="-types-immuables-non-modifiables-après-création" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-types-immuables-non-modifiables-apr%c3%a8s-cr%c3%a9ation" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><code>int</code>, <code>float</code>, <code>str</code>, <code>bool</code>, <code>tuple</code></li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">texte</span> <span class="o">=</span> <span class="s2">&#34;Hello&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># texte[0] = &#34;h&#34;  # ❌ Erreur ! Les strings sont immuables</span>
+</span></span></code></pre></div>
+<h3 class="relative group">🔓 Types mutables (modifiables après création) 
+    <div id="-types-mutables-modifiables-après-création" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-types-mutables-modifiables-apr%c3%a8s-cr%c3%a9ation" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><code>list</code>, <code>dict</code>, <code>set</code></li>
+</ul>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">fruits</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&#34;pomme&#34;</span><span class="p">,</span> <span class="s2">&#34;banane&#34;</span><span class="p">,</span> <span class="s2">&#34;cerise&#34;</span><span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="n">fruits</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&#34;fraise&#34;</span>  <span class="c1"># ✅ Fonctionne ! Les listes sont mutables</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">fruits</span><span class="p">)</span>  <span class="c1"># [&#39;fraise&#39;, &#39;banane&#39;, &#39;cerise&#39;]</span>
+</span></span></code></pre></div><hr>
+
+<h2 class="relative group">🔍 Portée des variables 
+    <div id="-portée-des-variables" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-port%c3%a9e-des-variables" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+
+<h3 class="relative group">🌍 Variables globales 
+    <div id="-variables-globales" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-variables-globales" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Accessibles partout dans le programme</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">score_total</span> <span class="o">=</span> <span class="mi">0</span>  <span class="c1"># Variable globale</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">ajouter_points</span><span class="p">(</span><span class="n">points</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="k">global</span> <span class="n">score_total</span>  <span class="c1"># Indique qu&#39;on utilise la variable globale</span>
+</span></span><span class="line"><span class="cl">    <span class="n">score_total</span> <span class="o">+=</span> <span class="n">points</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">ajouter_points</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">score_total</span><span class="p">)</span>  <span class="c1"># Affiche 10</span>
+</span></span></code></pre></div>
+<h3 class="relative group">🏠 Variables locales 
+    <div id="-variables-locales" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-variables-locales" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Existent uniquement dans une fonction</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">calculer_aire</span><span class="p">():</span>
+</span></span><span class="line"><span class="cl">    <span class="n">longueur</span> <span class="o">=</span> <span class="mi">5</span>  <span class="c1"># Variable locale</span>
+</span></span><span class="line"><span class="cl">    <span class="n">largeur</span> <span class="o">=</span> <span class="mi">3</span>   <span class="c1"># Variable locale</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">longueur</span> <span class="o">*</span> <span class="n">largeur</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">calculer_aire</span><span class="p">())</span>  <span class="c1"># Affiche 15</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># print(longueur)  # ❌ Erreur ! Variable non définie ici</span>
+</span></span></code></pre></div><hr>
+
+<h2 class="relative group">🎮 Défis pratiques 
+    <div id="-défis-pratiques" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-d%c3%a9fis-pratiques" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+
+<h3 class="relative group">🏆 Défi #1 : Convertisseur de température 
+    <div id="-défi-1--convertisseur-de-température" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-d%c3%a9fi-1--convertisseur-de-temp%c3%a9rature" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Créez un fichier <code>convertisseur.py</code> :</p>
+<ol>
+<li>Il demande à l&rsquo;utilisateur d&rsquo;entrer une température en Celsius.</li>
+<li>Il convertit cette température en Fahrenheit en utilisant la formule : ( \text{Fahrenheit} = (\text{Celsius} \times \frac{9}{5}) + 32 ).</li>
+<li>Il affiche le résultat de la conversion.</li>
+<li>Ensuite, il demande à l&rsquo;utilisateur d&rsquo;entrer une température en Fahrenheit.</li>
+<li>Il convertit cette température en Celsius en utilisant la formule : ( \text{Celsius} = (\text{Fahrenheit} - 32) \times \frac{5}{9} ).</li>
+<li>Il affiche le résultat de cette conversion.</li>
+</ol>
+
+<h3 class="relative group">Exemple d&rsquo;output 
+    <div id="exemple-doutput" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#exemple-doutput" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Si l&rsquo;utilisateur entre <code>25</code> pour la température en Celsius et <code>77</code> pour la température en Fahrenheit, l&rsquo;output sera :</p>
+<pre tabindex="0"><code>Température en Celsius : 25
+25.0°C = 77.0°F
+Température en Fahrenheit : 77
+77.0°F = 25.0°C
+</code></pre><p>Les valeurs affichées peuvent varier en fonction des entrées de l&rsquo;utilisateur.</p>
+<details>
+<summary> # Convertisseur Celsius ↔ Fahrenheit </summary>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">celsius</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Température en Celsius : &#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Conversion en Fahrenheit</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">fahrenheit</span> <span class="o">=</span> <span class="p">(</span><span class="n">celsius</span> <span class="o">*</span> <span class="mi">9</span><span class="o">/</span><span class="mi">5</span><span class="p">)</span> <span class="o">+</span> <span class="mi">32</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Affichage du résultat</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;</span><span class="si">{</span><span class="n">celsius</span><span class="si">}</span><span class="s2">°C = </span><span class="si">{</span><span class="n">fahrenheit</span><span class="si">}</span><span class="s2">°F&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Bonus : conversion inverse</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">temp_f</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Température en Fahrenheit : &#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">temp_c</span> <span class="o">=</span> <span class="p">(</span><span class="n">temp_f</span> <span class="o">-</span> <span class="mi">32</span><span class="p">)</span> <span class="o">*</span> <span class="mi">5</span><span class="o">/</span><span class="mi">9</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;</span><span class="si">{</span><span class="n">temp_f</span><span class="si">}</span><span class="s2">°F = </span><span class="si">{</span><span class="n">temp_c</span><span class="si">}</span><span class="s2">°C&#34;</span><span class="p">)</span>
+</span></span></code></pre></div></details>
+
+<h3 class="relative group">🏆 Défi #2 : Générateur de profil 
+    <div id="-défi-2--générateur-de-profil" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-d%c3%a9fi-2--g%c3%a9n%c3%a9rateur-de-profil" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Créez un fichier <code>profil.py</code> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># Collecte d&#39;informations</span>
+</span></span><span class="line"><span class="cl"><span class="n">nom</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Ton nom : &#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">age</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Ton âge : &#34;</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">ville</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Ta ville : &#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">hobby</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&#34;Ton hobby préféré : &#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Calculs dérivés</span>
+</span></span><span class="line"><span class="cl"><span class="n">annee_naissance</span> <span class="o">=</span> <span class="mi">2025</span> <span class="o">-</span> <span class="n">age</span>
+</span></span><span class="line"><span class="cl"><span class="n">est_majeur</span> <span class="o">=</span> <span class="n">age</span> <span class="o">&gt;=</span> <span class="mi">18</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># Génération du profil</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s2">&#34;</span><span class="se">\n</span><span class="s2">===== PROFIL AVENTURIER =====&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Nom: </span><span class="si">{</span><span class="n">nom</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Âge: </span><span class="si">{</span><span class="n">age</span><span class="si">}</span><span class="s2"> ans (né(e) vers </span><span class="si">{</span><span class="n">annee_naissance</span><span class="si">}</span><span class="s2">)&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Localisation: </span><span class="si">{</span><span class="n">ville</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Passion: </span><span class="si">{</span><span class="n">hobby</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Statut: </span><span class="si">{</span><span class="s1">&#39;Majeur&#39;</span> <span class="k">if</span> <span class="n">est_majeur</span> <span class="k">else</span> <span class="s1">&#39;Mineur&#39;</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s2">&#34;============================&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><hr>
+
+<h2 class="relative group">💡 Astuces avancées 
+    <div id="-astuces-avancées" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-astuces-avanc%c3%a9es" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+
+<h3 class="relative group">🔍 Vérifier le type d&rsquo;une variable 
+    <div id="-vérifier-le-type-dune-variable" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-v%c3%a9rifier-le-type-dune-variable" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">x</span> <span class="o">=</span> <span class="mi">42</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">x</span><span class="p">))</span>  <span class="c1"># &lt;class &#39;int&#39;&gt;</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">y</span> <span class="o">=</span> <span class="s2">&#34;Bonjour&#34;</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">y</span><span class="p">))</span>  <span class="c1"># &lt;class &#39;str&#39;&gt;</span>
+</span></span></code></pre></div>
+<h3 class="relative group">🧮 Opérations sur les variables 
+    <div id="-opérations-sur-les-variables" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-op%c3%a9rations-sur-les-variables" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">a</span> <span class="o">=</span> <span class="mi">5</span>
+</span></span><span class="line"><span class="cl"><span class="n">b</span> <span class="o">=</span> <span class="mi">2</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">+</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Addition: 7</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">-</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Soustraction: 3</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">*</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Multiplication: 10</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">/</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Division: 2.5</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">//</span> <span class="n">b</span><span class="p">)</span>   <span class="c1"># Division entière: 2</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">%</span> <span class="n">b</span><span class="p">)</span>    <span class="c1"># Modulo (reste): 1</span>
+</span></span><span class="line"><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="n">a</span> <span class="o">**</span> <span class="n">b</span><span class="p">)</span>   <span class="c1"># Puissance: 25</span>
+</span></span></code></pre></div><hr>
+
+<h2 class="relative group">📚 Pour aller plus loin 
+    <div id="-pour-aller-plus-loin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-pour-aller-plus-loin" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<ul>
+<li>Explore les f-strings pour des affichages plus élégants</li>
+<li>Découvre les listes, dictionnaires et tuples pour stocker des collections</li>
+<li>Apprends à combiner des variables avec des conditions et des boucles</li>
+</ul>
+<hr>
+
+<h2 class="relative group">🎯 Mémo pratique 
+    <div id="-mémo-pratique" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-m%c3%a9mo-pratique" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>✅ Les variables sont des &ldquo;boîtes&rdquo; pour stocker des données<br>
+✅ Python détermine automatiquement leur type<br>
+✅ Elles peuvent changer de valeur au cours du programme<br>
+✅ Choisis des noms significatifs pour tes variables<br>
+✅ Certains types sont modifiables, d&rsquo;autres non</p>
+<hr>
+<p>Prêt à expérimenter avec les variables ? Essaye les défis ci-dessus et vois comment ces &ldquo;boîtes magiques&rdquo; peuvent rendre ton code plus dynamique et puissant !</p>
+
           
           
           
@@ -829,9 +1521,6 @@
       
       
         
-        
-          
-          
         
           
           
@@ -862,7 +1551,7 @@
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/courses/python/type-donnee/">
+            <a class="flex group mr-3" href="/courses/python/syntaxe/">
               <span
                 class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
                 >&larr;</span
@@ -873,7 +1562,7 @@
               >
               <span class="flex flex-col">
                 <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Type Donnee</span
+                  >Syntaxe du langage Python</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
@@ -884,10 +1573,10 @@
         </span>
         <span>
           
-            <a class="flex text-right group ml-3" href="/courses/python/strings/">
+            <a class="flex text-right group ml-3" href="/courses/python/introduction/">
               <span class="flex flex-col">
                 <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Strings</span
+                  >Introduction à Python</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
@@ -913,7 +1602,16 @@
     </footer>
   </article>
 
-        
+        <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0 z-10">
+  <a
+    href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Faire défiler jusqu&#39;au bas de la page"
+    title="Faire défiler jusqu&#39;au bas de la page">
+    &uarr;
+  </a>
+</div>
+
       </main><footer id="site-footer" class="py-10 print:hidden">
   
   
@@ -951,7 +1649,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="https://memlenz.github.io/">
+  data-url="http://localhost:1313/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">
@@ -965,13 +1663,13 @@
           type="search"
           id="search-query"
           class="flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent"
-          placeholder="Search"
+          placeholder="Rechercher"
           tabindex="0">
       </form>
       <button
         id="close-search-button"
         class="flex items-center justify-center w-8 h-8 text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-        title="Close (Esc)">
+        title="Fermer (Esc)">
         <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
 </span>
       </button>

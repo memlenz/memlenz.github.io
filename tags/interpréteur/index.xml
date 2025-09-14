@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interpréteur on </title>
+    <link>http://localhost:1313/tags/interpr%C3%A9teur/</link>
+    <description>Recent content in Interpréteur on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 17 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/interpr%C3%A9teur/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
+      <link>http://localhost:1313/blog/python/python2-vs-python3/</link>
+      <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/python2-vs-python3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pourquoi Python doit être installé pour fonctionner ?</title>
+      <link>http://localhost:1313/blog/python/pourquoi-installer-python/</link>
+      <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/pourquoi-installer-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Différence entre un langage interprété et un langage compilé</title>
+      <link>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
+      <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

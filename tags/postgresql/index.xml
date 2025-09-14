@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Postgresql on </title>
-    <link>https://memlenz.github.io/tags/postgresql/</link>
+    <link>http://localhost:1313/tags/postgresql/</link>
     <description>Recent content in Postgresql on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://memlenz.github.io/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Install PostgreSQL on Arch, Void Linux, and Debian/Ubuntu</title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/postgre-sql/</link>
+      <title>Installer PostgreSQL sur Arch, Void Linux et Debian/Ubuntu</title>
+      <link>http://localhost:1313/blog/linux-tweaks/postgre-sql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/postgre-sql/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/postgre-sql/</guid>
       <description></description>
       
     </item>

@@ -1,28 +1,28 @@
 <!doctype html>
 <html
-  lang="en"
+  lang="fr"
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
-    <meta http-equiv="content-language" content="en">
+    <meta http-equiv="content-language" content="fr">
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="theme-color">
 
   
-  <title>Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu &middot; </title>
-    <meta name="title" content="Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu &middot; ">
+  <title>Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu &middot; </title>
+    <meta name="title" content="Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu &middot; ">
 
   
-  <meta name="description" content="Step-by-step tutorial to install and configure MariaDB (open-source fork of MySQL) on Arch Linux.">
-  <meta name="keywords" content="mariadb,mysql,linux tweaks,database,tutorial,">
+  <meta name="description" content="Tutoriel étape par étape pour installer et configurer MariaDB (fork libre de MySQL) sur Arch Linux.">
+  <meta name="keywords" content="mariadb,mysql,linux tweaks,database,tutoriel,">
   
   
-  <link rel="canonical" href="https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/">
+  <link rel="canonical" href="http://localhost:1313/blog/linux-tweaks/mysql-mariadb/">
   
   
   
@@ -40,8 +40,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.cf17ddb1e5d433023c5e3eccaf953d75fc74d1138baf3b0124046927e804188fd7fe33e9e5754adbd342da307e5c85a9de788a2d73f554c1d916bc3887e2acf4.css"
-    integrity="sha512-zxfdseXUMwI8Xj7Mr5U9dfx00ROLrzsBJARpJ&#43;gEGI/X/jPp5XVK29NC2jB&#43;XIWp3niKLXP1VMHZFrw4h&#43;Ks9A==">
+    href="/css/main.bundle.min.3af42d55441c82e4673b9a58702f4a93244078371f3892d0fd44b31998829d77ce5a9621c0d3700a31fda5794a4c7ede8647c3901cdbf6129c72349dfb488e9f.css"
+    integrity="sha512-OvQtVUQcguRnO5pYcC9KkyRAeDcfOJLQ/USzGZiCnXfOWpYhwNNwCjH9pXlKTH7ehkfDkBzb9hKccjSd&#43;0iOnw==">
 
   
   
@@ -74,8 +74,8 @@
       id="script-bundle"
       src="/js/main.bundle.min.98bb8ce8f123e03c4d2171eeec151dd404b5c476beb5ef1068d0e8b1a2afb923065e6552fc14b2d867c85ee4bd8529a43193f729f874d3908517ba03b5d1cc57.js"
       integrity="sha512-mLuM6PEj4DxNIXHu7BUd1AS1xHa&#43;te8QaNDosaKvuSMGXmVS/BSy2GfIXuS9hSmkMZP3Kfh005CFF7oDtdHMVw=="
-      data-copy="Copy"
-      data-copied="Copied"></script>
+      data-copy="Copier"
+      data-copied="Copié"></script>
   
   
     
@@ -99,10 +99,10 @@
   
 
   
-  <meta property="og:url" content="https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/">
-  <meta property="og:title" content="Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu">
-  <meta property="og:description" content="Step-by-step tutorial to install and configure MariaDB (open-source fork of MySQL) on Arch Linux.">
-  <meta property="og:locale" content="en">
+  <meta property="og:url" content="http://localhost:1313/blog/linux-tweaks/mysql-mariadb/">
+  <meta property="og:title" content="Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu">
+  <meta property="og:description" content="Tutoriel étape par étape pour installer et configurer MariaDB (fork libre de MySQL) sur Arch Linux.">
+  <meta property="og:locale" content="fr">
   <meta property="og:type" content="article">
     <meta property="article:section" content="blog">
     <meta property="article:published_time" content="2025-04-16T00:00:00+00:00">
@@ -111,24 +111,24 @@
     <meta property="article:tag" content="Mysql">
     <meta property="article:tag" content="Linux Tweaks">
     <meta property="article:tag" content="Database">
-    <meta property="article:tag" content="Tutorial">
+    <meta property="article:tag" content="Tutoriel">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu">
-  <meta name="twitter:description" content="Step-by-step tutorial to install and configure MariaDB (open-source fork of MySQL) on Arch Linux.">
+  <meta name="twitter:title" content="Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu">
+  <meta name="twitter:description" content="Tutoriel étape par étape pour installer et configurer MariaDB (fork libre de MySQL) sur Arch Linux.">
 
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Langage",
-    "name": "Install Mysql (MariaDB) on Arch, Void Linux, and Debian\/Ubuntu",
-    "headline": "Install Mysql (MariaDB) on Arch, Void Linux, and Debian\/Ubuntu",
-    "description": "Step-by-step tutorial to install and configure MariaDB (open-source fork of MySQL) on Arch Linux.",
+    "name": "Installer MariaDB sur Arch Linux, Void Linux, et Debian\/Ubuntu",
+    "headline": "Installer MariaDB sur Arch Linux, Void Linux, et Debian\/Ubuntu",
+    "description": "Tutoriel étape par étape pour installer et configurer MariaDB (fork libre de MySQL) sur Arch Linux.",
     
-    "inLanguage": "en",
-    "url" : "https:\/\/memlenz.github.io\/blog\/linux-tweaks\/mysql-mariadb\/",
+    "inLanguage": "fr",
+    "url" : "http:\/\/localhost:1313\/blog\/linux-tweaks\/mysql-mariadb\/",
     "author" : {
       "@type": "Person",
       "name": "Châ-Fine Ayédoun ADEBI"
@@ -139,10 +139,10 @@
     
     "dateModified": "2025-04-16T00:00:00\u002b00:00",
     
-    "keywords": ["mariadb","mysql","linux tweaks","database","tutorial"],
+    "keywords": ["mariadb","mysql","linux tweaks","database","tutoriel"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "369"
+    "wordCount": "391"
   }]
   </script>
 
@@ -231,7 +231,7 @@
         class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
         href="#main-content">
         <span class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>
-        Skip to main content
+        Aller au contenu
       </a>
     </div>
     
@@ -240,7 +240,7 @@
 <div class="fixed inset-x-0 pl-[24px] pr-[24px] z-100">
   <div
     id="menu-blur"
-    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom bg-neutral dark:bg-neutral-800"></div>
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     
 
@@ -323,8 +323,8 @@
   
   class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
   
-  <p class="text-base font-medium" title="Courses">
-    Courses
+  <p class="text-base font-medium" title="Cours">
+    Cours
   </p>
 </a>
 
@@ -334,41 +334,6 @@
     
 
     
-  <div>
-    <div class="cursor-pointer flex items-center nested-menu">
-      <span class="ltr:mr-1 rtl:ml-1">
-        <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
-    <path fill="currentColor" d="M0 128C0 92.7 28.7 64 64 64H256h48 16H576c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H320 304 256 64c-35.3 0-64-28.7-64-64V128zm320 0V384H576V128H320zM178.3 175.9c-3.2-7.2-10.4-11.9-18.3-11.9s-15.1 4.7-18.3 11.9l-64 144c-4.5 10.1 .1 21.9 10.2 26.4s21.9-.1 26.4-10.2l8.9-20.1h73.6l8.9 20.1c4.5 10.1 16.3 14.6 26.4 10.2s14.6-16.3 10.2-26.4l-64-144zM160 233.2L179 276H141l19-42.8zM448 164c11 0 20 9 20 20v4h44 16c11 0 20 9 20 20s-9 20-20 20h-2l-1.6 4.5c-8.9 24.4-22.4 46.6-39.6 65.4c.9 .6 1.8 1.1 2.7 1.6l18.9 11.3c9.5 5.7 12.5 18 6.9 27.4s-18 12.5-27.4 6.9l-18.9-11.3c-4.5-2.7-8.8-5.5-13.1-8.5c-10.6 7.5-21.9 14-34 19.4l-3.6 1.6c-10.1 4.5-21.9-.1-26.4-10.2s.1-21.9 10.2-26.4l3.6-1.6c6.4-2.9 12.6-6.1 18.5-9.8l-12.2-12.2c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0l14.6 14.6 .5 .5c12.4-13.1 22.5-28.3 29.8-45H448 376c-11 0-20-9-20-20s9-20 20-20h52v-4c0-11 9-20 20-20z"/></svg></span>
-      </span>
-      <div
-        class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-        title="Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu">EN</div>
-    </div>
-    <div class="absolute menuhide">
-      <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
-        <div class="flex flex-col space-y-3">
-          
-            <a href="/blog/linux-tweaks/mysql-mariadb/" class="flex items-center">
-              <p
-                class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-                title="Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu">
-                EN
-              </p>
-            </a>
-          
-            <a href="/fr/blog/linux-tweaks/mysql-mariadb/" class="flex items-center">
-              <p
-                class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-                title="Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu">
-                FR
-              </p>
-            </a>
-          
-        </div>
-      </div>
-    </div>
-  </div>
-
 
     
 
@@ -377,7 +342,7 @@
         id="search-button"
         aria-label="Search"
         class="text-base hover:text-primary-600 dark:hover:text-primary-400"
-        title="Search (/)">
+        title="Rechercher (/)">
         <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
 </span>
       </button>
@@ -408,41 +373,6 @@
     <span></span>
 
     
-  <div>
-    <div class="cursor-pointer flex items-center nested-menu">
-      <span class="ltr:mr-1 rtl:ml-1">
-        <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
-    <path fill="currentColor" d="M0 128C0 92.7 28.7 64 64 64H256h48 16H576c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H320 304 256 64c-35.3 0-64-28.7-64-64V128zm320 0V384H576V128H320zM178.3 175.9c-3.2-7.2-10.4-11.9-18.3-11.9s-15.1 4.7-18.3 11.9l-64 144c-4.5 10.1 .1 21.9 10.2 26.4s21.9-.1 26.4-10.2l8.9-20.1h73.6l8.9 20.1c4.5 10.1 16.3 14.6 26.4 10.2s14.6-16.3 10.2-26.4l-64-144zM160 233.2L179 276H141l19-42.8zM448 164c11 0 20 9 20 20v4h44 16c11 0 20 9 20 20s-9 20-20 20h-2l-1.6 4.5c-8.9 24.4-22.4 46.6-39.6 65.4c.9 .6 1.8 1.1 2.7 1.6l18.9 11.3c9.5 5.7 12.5 18 6.9 27.4s-18 12.5-27.4 6.9l-18.9-11.3c-4.5-2.7-8.8-5.5-13.1-8.5c-10.6 7.5-21.9 14-34 19.4l-3.6 1.6c-10.1 4.5-21.9-.1-26.4-10.2s.1-21.9 10.2-26.4l3.6-1.6c6.4-2.9 12.6-6.1 18.5-9.8l-12.2-12.2c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0l14.6 14.6 .5 .5c12.4-13.1 22.5-28.3 29.8-45H448 376c-11 0-20-9-20-20s9-20 20-20h52v-4c0-11 9-20 20-20z"/></svg></span>
-      </span>
-      <div
-        class="text-sm font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-        title="Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu">EN</div>
-    </div>
-    <div class="absolute menuhide">
-      <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
-        <div class="flex flex-col space-y-3">
-          
-            <a href="/blog/linux-tweaks/mysql-mariadb/" class="flex items-center">
-              <p
-                class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-                title="Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu">
-                EN
-              </p>
-            </a>
-          
-            <a href="/fr/blog/linux-tweaks/mysql-mariadb/" class="flex items-center">
-              <p
-                class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400"
-                title="Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu">
-                FR
-              </p>
-            </a>
-          
-        </div>
-      </div>
-    </div>
-  </div>
-
 
     
 
@@ -451,7 +381,7 @@
         id="search-button-mobile"
         aria-label="Search"
         class="text-base hover:text-primary-600 dark:hover:text-primary-400"
-        title="Search (/)">
+        title="Rechercher (/)">
         <span class="relative block icon"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
 </span>
       </button>
@@ -537,8 +467,8 @@
     
     class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
-    <p class="text-bg font-bg" title="Courses">
-      Courses
+    <p class="text-bg font-bg" title="Cours">
+      Cours
     </p>
   </a>
 </li>
@@ -593,7 +523,7 @@
     <header id="single_header" class="mt-5 max-w-prose">
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Install Mysql (MariaDB) on Arch, Void Linux, and Debian/Ubuntu
+        Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -646,7 +576,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span>369 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">2 mins</span><span class="px-2 text-primary-500">&middot;</span>
+      <span>391 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">2 mins</span><span class="px-2 text-primary-500">&middot;</span>
 
 
 
@@ -659,9 +589,9 @@
   <span
     id="zen-mode-button"
     class="text-lg hover:text-primary-500"
-    title="Enable zen mode"
-    data-title-i18n-disable="Enable zen mode"
-    data-title-i18n-enable="Disable zen mode">
+    title="Activer le mode zen"
+    data-title-i18n-disable="Activer le mode zen"
+    data-title-i18n-enable="Désactiver le mode zen">
     <span class="inline-block align-text-bottom"><span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50px" height="50px">
     <path fill="currentColor" d="M 12.980469 4 C 9.1204688 4 5.9804688 7.14 5.9804688 11 L 6 26 L 9.9804688 26 L 9.9804688 11 C 9.9804688 9.35 11.320469 8 12.980469 8 L 40.019531 8 C 41.679531 8 43.019531 9.35 43.019531 11 L 43.019531 39 C 43.019531 40.65 41.679531 42 40.019531 42 L 29 42 C 29 43.54 28.420938 44.94 27.460938 46 L 40.019531 46 C 43.879531 46 47.019531 42.86 47.019531 39 L 47.019531 11 C 47.019531 7.14 43.879531 4 40.019531 4 L 12.980469 4 z M 7 28 C 4.794 28 3 29.794 3 32 L 3 42 C 3 44.206 4.794 46 7 46 L 23 46 C 25.206 46 27 44.206 27 42 L 27 32 C 27 29.794 25.206 28 23 28 L 7 28 z M 7 32 L 23 32 L 23.001953 42 L 7 42 L 7 32 z"/>
 </svg></span></span>
@@ -705,11 +635,11 @@
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/categories/database/"
+              <a class="relative mt-[0.5rem] mr-2" href="/categories/base-de-donn%C3%A9es/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Database
+    Base De Données
   </span>
 </span>
 </a
@@ -763,11 +693,11 @@
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/tutorial/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/tutoriel/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Tutorial
+    Tutoriel
   </span>
 </span>
 </a
@@ -820,7 +750,7 @@
   <div class="place-self-center">
     
       <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
-        Author
+        Auteur
       </div>
       <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
         Châ-Fine Ayédoun ADEBI
@@ -910,27 +840,27 @@
   class="toc-right mt-0 overflow-y-auto overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
   <summary
     class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
+    Sommaire
   </summary>
   <div
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#why-choose-mariadb-over-mysql">Why Choose MariaDB Over MySQL?</a>
+    <li><a href="#pourquoi-choisir-mariadb-au-lieu-de-mysql-">Pourquoi choisir MariaDB au lieu de MySQL ?</a>
       <ul>
-        <li><a href="#-why-prefer-mariadb">✅ Why prefer MariaDB:</a></li>
+        <li><a href="#-pourquoi-préférer-mariadb-">✅ Pourquoi préférer MariaDB :</a></li>
       </ul>
     </li>
-    <li><a href="#-installing-mariadb">🔧 Installing MariaDB</a>
+    <li><a href="#-étapes-dinstallation-de-mariadb">🔧 Étapes d&rsquo;installation de MariaDB</a>
       <ul>
-        <li><a href="#1--install-the-package">1. 📦 Install the package</a></li>
-        <li><a href="#2--initialize-the-database">2. 🛠️ Initialize the database</a></li>
-        <li><a href="#3--enable-and-start-the-mariadb-service">3. 🚀 Enable and start the MariaDB service</a></li>
-        <li><a href="#4--secure-the-installation-with-mariadb-secure-installation">4. 🔐 Secure the installation with <code>mariadb-secure-installation</code></a></li>
+        <li><a href="#1--installation-du-paquet">1. 📦 Installation du paquet</a></li>
+        <li><a href="#2--initialiser-la-base-de-données">2. 🛠️ Initialiser la base de données</a></li>
+        <li><a href="#3--activer-et-démarrer-le-service-mariadb">3. 🚀 Activer et démarrer le service MariaDB</a></li>
+        <li><a href="#4--sécuriser-linstallation-avec-mariadb-secure-installation">4. 🔐 Sécuriser l’installation avec <code>mariadb-secure-installation</code></a></li>
       </ul>
     </li>
-    <li><a href="#-test-the-connection">✅ Test the connection</a></li>
-    <li><a href="#-bonus-create-a-user-and-a-database">🧰 Bonus: Create a user and a database</a></li>
+    <li><a href="#-tester-la-connexion">✅ Tester la connexion</a></li>
+    <li><a href="#-bonus--créer-un-utilisateur-et-une-base">🧰 Bonus : créer un utilisateur et une base</a></li>
     <li><a href="#-conclusion">🎉 Conclusion</a></li>
   </ul>
 </nav>
@@ -939,27 +869,27 @@
 <details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
   <summary
     class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
-    Table of Contents
+    Sommaire
   </summary>
   <div
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#why-choose-mariadb-over-mysql">Why Choose MariaDB Over MySQL?</a>
+    <li><a href="#pourquoi-choisir-mariadb-au-lieu-de-mysql-">Pourquoi choisir MariaDB au lieu de MySQL ?</a>
       <ul>
-        <li><a href="#-why-prefer-mariadb">✅ Why prefer MariaDB:</a></li>
+        <li><a href="#-pourquoi-préférer-mariadb-">✅ Pourquoi préférer MariaDB :</a></li>
       </ul>
     </li>
-    <li><a href="#-installing-mariadb">🔧 Installing MariaDB</a>
+    <li><a href="#-étapes-dinstallation-de-mariadb">🔧 Étapes d&rsquo;installation de MariaDB</a>
       <ul>
-        <li><a href="#1--install-the-package">1. 📦 Install the package</a></li>
-        <li><a href="#2--initialize-the-database">2. 🛠️ Initialize the database</a></li>
-        <li><a href="#3--enable-and-start-the-mariadb-service">3. 🚀 Enable and start the MariaDB service</a></li>
-        <li><a href="#4--secure-the-installation-with-mariadb-secure-installation">4. 🔐 Secure the installation with <code>mariadb-secure-installation</code></a></li>
+        <li><a href="#1--installation-du-paquet">1. 📦 Installation du paquet</a></li>
+        <li><a href="#2--initialiser-la-base-de-données">2. 🛠️ Initialiser la base de données</a></li>
+        <li><a href="#3--activer-et-démarrer-le-service-mariadb">3. 🚀 Activer et démarrer le service MariaDB</a></li>
+        <li><a href="#4--sécuriser-linstallation-avec-mariadb-secure-installation">4. 🔐 Sécuriser l’installation avec <code>mariadb-secure-installation</code></a></li>
       </ul>
     </li>
-    <li><a href="#-test-the-connection">✅ Test the connection</a></li>
-    <li><a href="#-bonus-create-a-user-and-a-database">🧰 Bonus: Create a user and a database</a></li>
+    <li><a href="#-tester-la-connexion">✅ Tester la connexion</a></li>
+    <li><a href="#-bonus--créer-un-utilisateur-et-une-base">🧰 Bonus : créer un utilisateur et une base</a></li>
     <li><a href="#-conclusion">🎉 Conclusion</a></li>
   </ul>
 </nav>
@@ -1062,173 +992,173 @@
 
         <div class="article-content max-w-prose mb-20">
           
-<h2 class="relative group">Why Choose MariaDB Over MySQL? 
-    <div id="why-choose-mariadb-over-mysql" class="anchor"></div>
+<h2 class="relative group">Pourquoi choisir MariaDB au lieu de MySQL ? 
+    <div id="pourquoi-choisir-mariadb-au-lieu-de-mysql-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#why-choose-mariadb-over-mysql" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#pourquoi-choisir-mariadb-au-lieu-de-mysql-" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>MariaDB is an <strong>open-source fork of MySQL</strong>, created by the original MySQL developers. It was developed in response to concerns about Oracle acquiring MySQL.</p>
+<p>MariaDB est un <strong>fork open source de MySQL</strong> initié par les développeurs originaux de MySQL. Il a été créé en réponse aux inquiétudes concernant le rachat de MySQL par Oracle.</p>
 
-<h3 class="relative group">✅ Why prefer MariaDB: 
-    <div id="-why-prefer-mariadb" class="anchor"></div>
+<h3 class="relative group">✅ Pourquoi préférer MariaDB : 
+    <div id="-pourquoi-préférer-mariadb-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-why-prefer-mariadb" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-pourquoi-pr%c3%a9f%c3%a9rer-mariadb-" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
 <ul>
-<li><strong>100% open-source and community-driven</strong> — Maintained by the community and the MariaDB Foundation.</li>
-<li><strong>MySQL compatibility</strong> — Same SQL syntax, same clients, easy migration.</li>
-<li><strong>Solid performance</strong> and frequent updates.</li>
-<li><strong>Used by default on Arch Linux</strong> instead of MySQL.</li>
+<li><strong>100% libre et communautaire</strong> — Maintenu par la communauté et la fondation MariaDB.</li>
+<li><strong>Compatible avec MySQL</strong> — Même syntaxe SQL, mêmes clients, migration simple.</li>
+<li><strong>Performances solides</strong> et mises à jour fréquentes.</li>
+<li><strong>Utilisé par Arch Linux par défaut</strong> au lieu de MySQL.</li>
 </ul>
 <blockquote>
-<p>In short, for open-source developers and Arch Linux users, <strong>MariaDB is the natural choice</strong>.</p></blockquote>
+<p>En résumé : pour les développeurs open source et les utilisateurs Arch Linux, <strong>MariaDB est le choix naturel</strong>.</p></blockquote>
 <hr>
 
-<h2 class="relative group">🔧 Installing MariaDB 
-    <div id="-installing-mariadb" class="anchor"></div>
+<h2 class="relative group">🔧 Étapes d&rsquo;installation de MariaDB 
+    <div id="-étapes-dinstallation-de-mariadb" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-installing-mariadb" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-%c3%a9tapes-dinstallation-de-mariadb" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
 
-<h3 class="relative group">1. 📦 Install the package 
-    <div id="1--install-the-package" class="anchor"></div>
+<h3 class="relative group">1. 📦 Installation du paquet 
+    <div id="1--installation-du-paquet" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1--install-the-package" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1--installation-du-paquet" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo pacman -S mariadb <span class="c1"># Arch Linux</span>
-</span></span><span class="line"><span class="cl">sudo xbps-install -S mariadb <span class="c1"># Void Linux</span>
-</span></span><span class="line"><span class="cl">sudo apt install mariadb <span class="c1"># Debian/Ubuntu</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo pacman -S mariadb <span class="c1"># arch linux</span>
+</span></span><span class="line"><span class="cl">sudo xbps-install -S mariadb <span class="c1"># void linux</span>
+</span></span><span class="line"><span class="cl">sudo apt install mariadb <span class="c1"># debian/ubuntu</span>
 </span></span></code></pre></div><hr>
 
-<h3 class="relative group">2. 🛠️ Initialize the database 
-    <div id="2--initialize-the-database" class="anchor"></div>
+<h3 class="relative group">2. 🛠️ Initialiser la base de données 
+    <div id="2--initialiser-la-base-de-données" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2--initialize-the-database" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2--initialiser-la-base-de-donn%c3%a9es" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo mariadb-install-db --user<span class="o">=</span>mysql --basedir<span class="o">=</span>/usr --datadir<span class="o">=</span>/var/lib/mysql
-</span></span></code></pre></div><p>This command creates the necessary files for the server to run.</p>
+</span></span></code></pre></div><p>Cette commande crée les fichiers nécessaires pour que le serveur fonctionne.</p>
 <hr>
 
-<h3 class="relative group">3. 🚀 Enable and start the MariaDB service 
-    <div id="3--enable-and-start-the-mariadb-service" class="anchor"></div>
+<h3 class="relative group">3. 🚀 Activer et démarrer le service MariaDB 
+    <div id="3--activer-et-démarrer-le-service-mariadb" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#3--enable-and-start-the-mariadb-service" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#3--activer-et-d%c3%a9marrer-le-service-mariadb" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo systemctl <span class="nb">enable</span> --now mariadb <span class="c1"># Arch Linux/Debian/Ubuntu</span>
-</span></span><span class="line"><span class="cl">sudo ln -s /etc/sv/mariadb /var/service/ <span class="c1"># Void Linux</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo systemctl <span class="nb">enable</span> --now mariadb <span class="c1"># arch-linux/debian/ubuntu</span>
+</span></span><span class="line"><span class="cl">sudo ln -s /etc/sv/mariadb /var/service/ <span class="c1"># void linux</span>
 </span></span></code></pre></div><blockquote>
-<p><code>enable</code> makes it start automatically on boot, <code>--now</code> starts it immediately.</p></blockquote>
+<p><code>enable</code> le démarre automatiquement au boot, <code>--now</code> le démarre immédiatement.</p></blockquote>
 <hr>
 
-<h3 class="relative group">4. 🔐 Secure the installation with <code>mariadb-secure-installation</code> 
-    <div id="4--secure-the-installation-with-mariadb-secure-installation" class="anchor"></div>
+<h3 class="relative group">4. 🔐 Sécuriser l&rsquo;installation avec <code>mariadb-secure-installation</code> 
+    <div id="4--sécuriser-linstallation-avec-mariadb-secure-installation" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#4--secure-the-installation-with-mariadb-secure-installation" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#4--s%c3%a9curiser-linstallation-avec-mariadb-secure-installation" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Run the following command:</p>
+<p>Lance la commande suivante :</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo mariadb-secure-installation
-</span></span></code></pre></div><p>Here are the recommended responses:</p>
+</span></span></code></pre></div><p>Voici les réponses recommandées :</p>
 <table>
   <thead>
       <tr>
           <th>Question</th>
-          <th>Recommended Answer</th>
-          <th>Explanation</th>
+          <th>Réponse recommandée</th>
+          <th>Explication</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td>Enter current password for root</td>
-          <td>Press Enter (leave blank)</td>
-          <td>No default password</td>
+          <td>Entrée (vide)</td>
+          <td>Aucun mot de passe par défaut</td>
       </tr>
       <tr>
           <td>Switch to unix_socket authentication?</td>
           <td><code>n</code></td>
-          <td>Allows password-based access (more convenient for development)</td>
+          <td>Permet l&rsquo;accès avec mot de passe (plus pratique pour le dev)</td>
       </tr>
       <tr>
           <td>Set root password?</td>
           <td><code>y</code></td>
-          <td>Set a root password</td>
+          <td>Défini un mot de passe root</td>
       </tr>
       <tr>
           <td>Remove anonymous users?</td>
           <td><code>y</code></td>
-          <td>Remove users without credentials</td>
+          <td>Supprime les utilisateurs sans identifiants</td>
       </tr>
       <tr>
           <td>Disallow root login remotely?</td>
           <td><code>y</code></td>
-          <td>Disable remote root login (security)</td>
+          <td>Désactive les connexions root distantes (sécurité)</td>
       </tr>
       <tr>
           <td>Remove test database and access to it?</td>
           <td><code>y</code></td>
-          <td>Remove the default test database</td>
+          <td>Supprime la base de test par défaut</td>
       </tr>
       <tr>
           <td>Reload privilege tables now?</td>
           <td><code>y</code></td>
-          <td>Apply all changes</td>
+          <td>Applique tous les changements</td>
       </tr>
   </tbody>
 </table>
 <hr>
 
-<h2 class="relative group">✅ Test the connection 
-    <div id="-test-the-connection" class="anchor"></div>
+<h2 class="relative group">✅ Tester la connexion 
+    <div id="-tester-la-connexion" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-test-the-connection" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-tester-la-connexion" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">mariadb -u root -p
-</span></span></code></pre></div><p>Enter the root password you set earlier.</p>
+</span></span></code></pre></div><p>Entre ton mot de passe root défini précédemment.</p>
 <hr>
 
-<h2 class="relative group">🧰 Bonus: Create a user and a database 
-    <div id="-bonus-create-a-user-and-a-database" class="anchor"></div>
+<h2 class="relative group">🧰 Bonus : créer un utilisateur et une base 
+    <div id="-bonus--créer-un-utilisateur-et-une-base" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-bonus-create-a-user-and-a-database" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-bonus--cr%c3%a9er-un-utilisateur-et-une-base" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sql" data-lang="sql"><span class="line"><span class="cl"><span class="k">CREATE</span><span class="w"> </span><span class="k">DATABASE</span><span class="w"> </span><span class="n">your_database_name</span><span class="p">;</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="k">CREATE</span><span class="w"> </span><span class="k">USER</span><span class="w"> </span><span class="s1">&#39;your_username&#39;</span><span class="o">@</span><span class="s1">&#39;localhost&#39;</span><span class="w"> </span><span class="n">IDENTIFIED</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="s1">&#39;your_password&#39;</span><span class="p">;</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="k">GRANT</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="k">PRIVILEGES</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="n">your_database_name</span><span class="p">.</span><span class="o">*</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="s1">&#39;your_username&#39;</span><span class="o">@</span><span class="s1">&#39;localhost&#39;</span><span class="p">;</span><span class="w">
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-sql" data-lang="sql"><span class="line"><span class="cl"><span class="k">CREATE</span><span class="w"> </span><span class="k">DATABASE</span><span class="w"> </span><span class="n">nom_de_ta_base</span><span class="p">;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="k">CREATE</span><span class="w"> </span><span class="k">USER</span><span class="w"> </span><span class="s1">&#39;nom_utilisateur&#39;</span><span class="o">@</span><span class="s1">&#39;localhost&#39;</span><span class="w"> </span><span class="n">IDENTIFIED</span><span class="w"> </span><span class="k">BY</span><span class="w"> </span><span class="s1">&#39;motdepasse&#39;</span><span class="p">;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="k">GRANT</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="k">PRIVILEGES</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="n">nom_de_ta_base</span><span class="p">.</span><span class="o">*</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="s1">&#39;nom_utilisateur&#39;</span><span class="o">@</span><span class="s1">&#39;localhost&#39;</span><span class="p">;</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="n">FLUSH</span><span class="w"> </span><span class="k">PRIVILEGES</span><span class="p">;</span><span class="w">
 </span></span></span></code></pre></div><hr>
 
@@ -1237,18 +1167,16 @@
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-conclusion" aria-label="Anchor">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-conclusion" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>You now have a clean, secure, and fully functional MariaDB database installed on Arch Linux.<br>
-MariaDB offers a powerful open-source alternative to MySQL without compromising on compatibility or performance.</p>
+<p>Tu as maintenant une base de données MariaDB propre, sécurisée et prête à l’emploi sur Arch Linux.<br>
+MariaDB offre une alternative open source puissante à MySQL, sans compromis sur la compatibilité ni la performance.</p>
 <blockquote>
-<p>Need a graphical tool? Try <code>dbeaver</code> or <code>mysql-workbench</code>.</p></blockquote>
+<p>Besoin d’un outil graphique ? Essaie <code>dbeaver</code> ou <code>mysql-workbench</code>.</p></blockquote>
 <hr>
-<pre tabindex="0"><code>
-Let me know if you&#39;d like additional content, such as tips for performance tuning or advanced MariaDB configuration!
-</code></pre>
+
           
           
           
@@ -1265,9 +1193,6 @@ Let me know if you&#39;d like additional content, such as tips for performance t
       
       
         
-        
-          
-          
         
           
           
@@ -1304,7 +1229,7 @@ Let me know if you&#39;d like additional content, such as tips for performance t
             <a class="flex text-right group ml-3" href="/blog/linux-tweaks/postgre-sql/">
               <span class="flex flex-col">
                 <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Install PostgreSQL on Arch, Void Linux, and Debian/Ubuntu</span
+                  >Installer PostgreSQL sur Arch, Void Linux et Debian/Ubuntu</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
@@ -1334,8 +1259,8 @@ Let me know if you&#39;d like additional content, such as tips for performance t
   <a
     href="#the-top"
     class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
-    aria-label="Scroll to top"
-    title="Scroll to top">
+    aria-label="Faire défiler jusqu&#39;au bas de la page"
+    title="Faire défiler jusqu&#39;au bas de la page">
     &uarr;
   </a>
 </div>
@@ -1377,7 +1302,7 @@ Let me know if you&#39;d like additional content, such as tips for performance t
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="https://memlenz.github.io/">
+  data-url="http://localhost:1313/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">
@@ -1391,13 +1316,13 @@ Let me know if you&#39;d like additional content, such as tips for performance t
           type="search"
           id="search-query"
           class="flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent"
-          placeholder="Search"
+          placeholder="Rechercher"
           tabindex="0">
       </form>
       <button
         id="close-search-button"
         class="flex items-center justify-center w-8 h-8 text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-        title="Close (Esc)">
+        title="Fermer (Esc)">
         <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
 </span>
       </button>

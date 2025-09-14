@@ -5,17 +5,87 @@
     <link>http://localhost:1313/tags/d%C3%A9butant/</link>
     <description>Recent content in Débutant on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</managingEditor>
-    <webMaster>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</webMaster>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 01:59:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/d%C3%A9butant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/d%C3%A9butant/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
+      <link>http://localhost:1313/blog/python/les-chemins/</link>
+      <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/les-chemins/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
+      <link>http://localhost:1313/blog/python/python2-vs-python3/</link>
+      <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/python2-vs-python3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pourquoi Python doit être installé pour fonctionner ?</title>
+      <link>http://localhost:1313/blog/python/pourquoi-installer-python/</link>
+      <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/pourquoi-installer-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>De LazyVim à l&#39;exécution de son premier script Python</title>
+      <link>http://localhost:1313/blog/linux-tweaks/lazyvim/</link>
+      <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/lazyvim/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
+      <link>http://localhost:1313/blog/python/environnement-de-travail/</link>
+      <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/environnement-de-travail/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Différence entre un langage interprété et un langage compilé</title>
+      <link>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
+      <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Différence entre un fichier .py et un exécutable .exe</title>
+      <link>http://localhost:1313/blog/python/difference-exe-py/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/difference-exe-py/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Introduction à Python</title>
       <link>http://localhost:1313/courses/python/introduction/</link>
-      <pubDate>Thu, 27 Feb 2025 01:59:02 +0100</pubDate>
-      <author>achafine@gmail.com (Ayédoun Châ-Fine ADEBI)</author>
+      <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/courses/python/introduction/</guid>
       <description></description>
       

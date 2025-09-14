@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OS on </title>
+    <link>http://localhost:1313/tags/os/</link>
+    <description>Recent content in OS on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Organiser ses scripts Python proprement sur chaque OS</title>
+      <link>http://localhost:1313/blog/python/organiser-ses-scripts/</link>
+      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/organiser-ses-scripts/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projets Python on </title>
-    <link>https://memlenz.github.io/fr/categories/projets-python/</link>
+    <link>http://localhost:1313/fr/categories/projets-python/</link>
     <description>Recent content in Projets Python on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 04:34:56 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/fr/categories/projets-python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Apr 2025 04:34:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/fr/categories/projets-python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python</title>
-      <link>https://memlenz.github.io/fr/blog/python/passwordmanager/</link>
+      <link>http://localhost:1313/fr/blog/python/passwordmanager/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/blog/python/passwordmanager/</guid>
+      <guid>http://localhost:1313/fr/blog/python/passwordmanager/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎯 Implémentation d&#39;un foramateur de texte en python</title>
-      <link>https://memlenz.github.io/fr/blog/python/bulletpointadder/</link>
+      <link>http://localhost:1313/fr/blog/python/bulletpointadder/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/blog/python/bulletpointadder/</guid>
+      <guid>http://localhost:1313/fr/blog/python/bulletpointadder/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique</title>
-      <link>https://memlenz.github.io/fr/blog/python/bagels/</link>
+      <link>http://localhost:1313/fr/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/fr/blog/python/bagels/</guid>
+      <guid>http://localhost:1313/fr/blog/python/bagels/</guid>
       <description></description>
       
     </item>
