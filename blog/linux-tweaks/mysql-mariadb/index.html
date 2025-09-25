@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="fr">
@@ -22,7 +22,7 @@
   <meta name="keywords" content="mariadb,mysql,linux tweaks,database,tutoriel,">
   
   
-  <link rel="canonical" href="https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/">
+  <link rel="canonical" href="http://localhost:1313/blog/linux-tweaks/mysql-mariadb/">
   
   
   
@@ -99,7 +99,7 @@
   
 
   
-  <meta property="og:url" content="https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/">
+  <meta property="og:url" content="http://localhost:1313/blog/linux-tweaks/mysql-mariadb/">
   <meta property="og:title" content="Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu">
   <meta property="og:description" content="Tutoriel étape par étape pour installer et configurer MariaDB (fork libre de MySQL) sur Arch Linux.">
   <meta property="og:locale" content="fr">
@@ -126,9 +126,9 @@
     "name": "Installer MariaDB sur Arch Linux, Void Linux, et Debian\/Ubuntu",
     "headline": "Installer MariaDB sur Arch Linux, Void Linux, et Debian\/Ubuntu",
     "description": "Tutoriel étape par étape pour installer et configurer MariaDB (fork libre de MySQL) sur Arch Linux.",
-    
+    "abstract": "\u003ch2 class=\u0022relative group\u0022\u003ePourquoi choisir MariaDB au lieu de MySQL ? \n    \u003cdiv id=\u0022pourquoi-choisir-mariadb-au-lieu-de-mysql-\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#pourquoi-choisir-mariadb-au-lieu-de-mysql-\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003eMariaDB est un \u003cstrong\u003efork open source de MySQL\u003c\/strong\u003e initié par les développeurs originaux de MySQL. Il a été créé en réponse aux inquiétudes concernant le rachat de MySQL par Oracle.\u003c\/p\u003e",
     "inLanguage": "fr",
-    "url" : "https:\/\/memlenz.github.io\/blog\/linux-tweaks\/mysql-mariadb\/",
+    "url" : "http:\/\/localhost:1313\/blog\/linux-tweaks\/mysql-mariadb\/",
     "author" : {
       "@type": "Person",
       "name": "Châ-Fine Ayédoun ADEBI"
@@ -522,6 +522,46 @@
     
     <header id="single_header" class="mt-5 max-w-prose">
       
+        <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+  
+  
+    
+  
+    
+  
+    
+  
+  <li class="hidden">
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/"
+      >Memlenz – Chroniques de Code, DevOps &amp; Linux</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline">
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/"
+      >Langage</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline">
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/linux-tweaks/"
+      >Linux Tweaks</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="hidden">
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/linux-tweaks/mysql-mariadb/"
+      >Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+</ol>
+
+
+      
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
         Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu
       </h1>
@@ -569,35 +609,12 @@
   
 
   
-    
-  
 
 
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span>391 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">2 mins</span><span class="px-2 text-primary-500">&middot;</span>
-
-
-
-<script
-  type="text/javascript"
-  src="/js/zen-mode.min.9814dee9614d32aeb56239d118edfe20acd6231424f9b19c2dd48835038414130a5e946c0d1c9087d60e60e31840c9babfd217e3d4b95643dc8d651a71ccdf4a.js"
-  integrity="sha512-mBTe6WFNMq61YjnRGO3&#43;IKzWIxQk&#43;bGcLdSINQOEFBMKXpRsDRyQh9YOYOMYQMm6v9IX49S5VkPcjWUacczfSg=="></script>
-
-<span class="mb-[2px]">
-  <span
-    id="zen-mode-button"
-    class="text-lg hover:text-primary-500"
-    title="Activer le mode zen"
-    data-title-i18n-disable="Activer le mode zen"
-    data-title-i18n-enable="Désactiver le mode zen">
-    <span class="inline-block align-text-bottom"><span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50px" height="50px">
-    <path fill="currentColor" d="M 12.980469 4 C 9.1204688 4 5.9804688 7.14 5.9804688 11 L 6 26 L 9.9804688 26 L 9.9804688 11 C 9.9804688 9.35 11.320469 8 12.980469 8 L 40.019531 8 C 41.679531 8 43.019531 9.35 43.019531 11 L 43.019531 39 C 43.019531 40.65 41.679531 42 40.019531 42 L 29 42 C 29 43.54 28.420938 44.94 27.460938 46 L 40.019531 46 C 43.879531 46 47.019531 42.86 47.019531 39 L 47.019531 11 C 47.019531 7.14 43.879531 4 40.019531 4 L 12.980469 4 z M 7 28 C 4.794 28 3 29.794 3 32 L 3 42 C 3 44.206 4.794 46 7 46 L 23 46 C 25.206 46 27 44.206 27 42 L 27 32 C 27 29.794 25.206 28 23 28 L 7 28 z M 7 32 L 23 32 L 23.001953 42 L 7 42 L 7 32 z"/>
-</svg></span></span>
-  </span>
-</span>
-
+      <span>391 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">2 mins</span>
     
 
     
@@ -1223,6 +1240,25 @@ MariaDB offre une alternative open source puissante à MySQL, sans compromis sur
       <div class="flex justify-between pt-3">
         <span>
           
+            <a class="flex group mr-3" href="/blog/linux-tweaks/archlinux/installation-archlinux/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Installation Arch Linux : Guide accessible et complet</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                </span>
+              </span>
+            </a>
+          
         </span>
         <span>
           
@@ -1302,7 +1338,7 @@ MariaDB offre une alternative open source puissante à MySQL, sans compromis sur
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="https://memlenz.github.io/">
+  data-url="http://localhost:1313/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

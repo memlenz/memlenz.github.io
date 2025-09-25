@@ -2,62 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on </title>
-    <link>https://memlenz.github.io/tags/linux/</link>
+    <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://memlenz.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jul 2025 09:59:44 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Partitions sous Linux : du simple au complexe</title>
+      <link>http://localhost:1313/blog/linux-tweaks/partitions/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/partitions/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Partitions sous Linux : du simple au complexe 
+    &lt;div id=&#34;partitions-sous-linux--du-simple-au-complexe&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#partitions-sous-linux--du-simple-au-complexe&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Quand tu installes Linux, l’étape des &lt;strong&gt;partitions&lt;/strong&gt; peut paraître mystique.&lt;br&gt;
+Tu tombes sur des mots comme &lt;code&gt;boot&lt;/code&gt;, &lt;code&gt;swap&lt;/code&gt;, &lt;code&gt;ext4&lt;/code&gt;, &lt;code&gt;btrfs&lt;/code&gt;, &lt;code&gt;GPT&lt;/code&gt;, &lt;code&gt;MBR&lt;/code&gt;… et là, tu te dis : &lt;em&gt;ok, je suis perdu&lt;/em&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Installation Arch Linux : Guide accessible et complet</title>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</link>
+      <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Installation Arch Linux 
+    &lt;div id=&#34;installation-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#installation-arch-linux&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Linux, c’est un monde où tu peux littéralement choisir ce que tu veux devenir.&lt;br&gt;
+Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Installer PostgreSQL sur Arch, Void Linux et Debian/Ubuntu</title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/postgre-sql/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/postgre-sql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/postgre-sql/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/linux-tweaks/postgre-sql/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🐘 Pourquoi PostgreSQL ? 
+    &lt;div id=&#34;-pourquoi-postgresql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-pourquoi-postgresql-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;PostgreSQL est un &lt;strong&gt;SGBD relationnel open source&lt;/strong&gt; puissant, robuste et très utilisé dans les environnements de production modernes. Il est apprécié pour :&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Installer Python sur Windows, Linux et Mac</title>
-      <link>https://memlenz.github.io/blog/python/installation-python/</link>
+      <link>http://localhost:1313/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/installation-python/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/installation-python/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi installer Python ? 
+    &lt;div id=&#34;pourquoi-installer-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pourquoi-installer-python-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Avant de se lancer dans la programmation avec Python, il faut d&amp;rsquo;abord l&amp;rsquo;avoir sur sa machine. Contrairement à certains langages qui viennent déjà intégrés aux systèmes d’exploitation, Python doit être installé manuellement sur Windows, et parfois mis à jour sur Linux et macOS.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Bienvenue dans le Void : Installer Void Linux pas à pas</title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/voidlinux-installation/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/voidlinux-installation/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🖤 &lt;strong&gt;Bienvenue dans le Void !&lt;/strong&gt; 
+    &lt;div id=&#34;-bienvenue-dans-le-void-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-bienvenue-dans-le-void-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Ce tutoriel va te guider &lt;strong&gt;pas à pas&lt;/strong&gt; dans l’installation de Void Linux, une distribution &lt;strong&gt;légère et flexible&lt;/strong&gt; qui te donne un &lt;strong&gt;contrôle total&lt;/strong&gt; sur ton système. Prêt à relever le défi ? 🚀&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Linux Tweaks</title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/</link>
       <pubDate>Sun, 30 Mar 2025 01:27:38 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/linux-tweaks/</guid>
+      <description>&lt;p&gt;Une section pour partarger tout ce que je fais sur linux, ricing, utilisation d&amp;rsquo;outils
+ou encore même test et avis sur des solutions. Bref beaucoup de critiques.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Why Linux</title>
-      <link>https://memlenz.github.io/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
+      <link>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Le Déclic : Pourquoi Linux M’a Fait Gagner&lt;/strong&gt; 🚀 
+    &lt;div id=&#34;1-le-déclic--pourquoi-linux-ma-fait-gagner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1-le-d%c3%a9clic--pourquoi-linux-ma-fait-gagner-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Je ne suis pas passé à Linux parce que c&amp;rsquo;était à la mode. J’y suis passé parce que &lt;strong&gt;j’en avais marre des limitations&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     

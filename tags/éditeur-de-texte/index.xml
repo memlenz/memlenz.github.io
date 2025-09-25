@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Éditeur De Texte on </title>
-    <link>https://memlenz.github.io/tags/%C3%A9diteur-de-texte/</link>
+    <link>http://localhost:1313/tags/%C3%A9diteur-de-texte/</link>
     <description>Recent content in Éditeur De Texte on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 00:19:25 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/%C3%A9diteur-de-texte/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Mar 2025 00:19:25 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/%C3%A9diteur-de-texte/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
-      <link>https://memlenz.github.io/blog/python/environnement-de-travail/</link>
+      <link>http://localhost:1313/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/environnement-de-travail/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/environnement-de-travail/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Choisir son environnement de travail 
+    &lt;div id=&#34;choisir-son-environnement-de-travail&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#choisir-son-environnement-de-travail&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Avant d&amp;rsquo;écrire une seule ligne de code en Python, il faut comprendre &lt;strong&gt;où et comment coder&lt;/strong&gt;. Tu as peut-être entendu parler de &lt;strong&gt;VSCode&lt;/strong&gt;, &lt;strong&gt;PyCharm&lt;/strong&gt;, &lt;strong&gt;Jupyter Notebook&lt;/strong&gt; ou encore &lt;strong&gt;Vim&lt;/strong&gt;. Mais lequel choisir et pourquoi ?&lt;/p&gt;</description>
       
     </item>
     

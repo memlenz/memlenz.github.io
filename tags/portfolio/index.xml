@@ -2,22 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on </title>
-    <link>https://memlenz.github.io/tags/portfolio/</link>
+    <link>http://localhost:1313/tags/portfolio/</link>
     <description>Recent content in Portfolio on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 15 Feb 2025 03:04:58 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 03:04:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Portfolio</title>
-      <link>https://memlenz.github.io/portfolio/</link>
+      <link>http://localhost:1313/portfolio/</link>
       <pubDate>Sat, 15 Feb 2025 03:04:58 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/portfolio/</guid>
-      <description></description>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header&#34;/&gt;
+&lt;/p&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Châ-Fine Ayédoun ADEBI&lt;/strong&gt; 
+    &lt;div id=&#34;châ-fine-ayédoun-adebi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#ch%c3%a2-fine-ay%c3%a9doun-adebi&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Analyste Informatique&lt;/strong&gt;&lt;br&gt;
+&lt;a
+  href=&#34;https://memlenz.github.io/&#34;
+    target=&#34;_blank&#34;
+  &gt;&lt;strong&gt;Portfolio&lt;/strong&gt;&lt;/a&gt; | &lt;a
+  href=&#34;https://github.com/memlenz&#34;
+    target=&#34;_blank&#34;
+  &gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; | &lt;a
+  href=&#34;mailto:achafine@gmail.com&#34;&gt;&lt;strong&gt;Email&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;À propos de moi&lt;/strong&gt; 
+    &lt;div id=&#34;à-propos-de-moi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%c3%a0-propos-de-moi&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Salut ! Je suis &lt;strong&gt;Châ-Fine Ayédoun&lt;/strong&gt;, un passionné de technologie avec une forte passion pour le &lt;strong&gt;développement logiciel&lt;/strong&gt;, l&amp;rsquo;&lt;strong&gt;optimisation des performances&lt;/strong&gt; et la &lt;strong&gt;scalabilité&lt;/strong&gt;. Actuellement en train de poursuivre un &lt;strong&gt;bachelor en informatique&lt;/strong&gt;, je suis constamment à la recherche de nouveaux défis et opportunités pour développer mes compétences et travailler sur des projets innovants.&lt;/p&gt;</description>
       
     </item>
     

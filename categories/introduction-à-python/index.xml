@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction À Python on </title>
-    <link>https://memlenz.github.io/categories/introduction-%C3%A0-python/</link>
+    <link>http://localhost:1313/categories/introduction-%C3%A0-python/</link>
     <description>Recent content in Introduction À Python on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Mar 2025 22:10:00 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/categories/introduction-%C3%A0-python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 22:10:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/introduction-%C3%A0-python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🖥️ Différence entre un langage de programmation et un logiciel classique</title>
-      <link>https://memlenz.github.io/blog/python/difference-logiciel-langage/</link>
+      <link>http://localhost:1313/blog/python/difference-logiciel-langage/</link>
       <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/difference-logiciel-langage/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/difference-logiciel-langage/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Différence entre un langage de programmation et un logiciel classique&lt;/strong&gt; 
+    &lt;div id=&#34;différence-entre-un-langage-de-programmation-et-un-logiciel-classique&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#diff%c3%a9rence-entre-un-langage-de-programmation-et-un-logiciel-classique&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Un débutant peut facilement confondre &lt;strong&gt;un langage de programmation&lt;/strong&gt; et &lt;strong&gt;un logiciel classique&lt;/strong&gt;, car dans les deux cas, il y a une installation et une interface à utiliser. Pourtant, ce sont deux choses très différentes.&lt;/p&gt;</description>
       
     </item>
     

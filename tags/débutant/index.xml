@@ -2,92 +2,198 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Débutant on </title>
-    <link>https://memlenz.github.io/tags/d%C3%A9butant/</link>
+    <link>http://localhost:1313/tags/d%C3%A9butant/</link>
     <description>Recent content in Débutant on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 20 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/d%C3%A9butant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/d%C3%A9butant/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
-      <link>https://memlenz.github.io/blog/python/les-chemins/</link>
+      <link>http://localhost:1313/blog/python/les-chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/les-chemins/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/les-chemins/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Introduction : Pourquoi les chemins système sont importants ?&lt;/strong&gt; 
+    &lt;div id=&#34;introduction--pourquoi-les-chemins-système-sont-importants-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction--pourquoi-les-chemins-syst%c3%a8me-sont-importants-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Quand on installe Python et qu’on essaie de l’exécuter, on peut se retrouver face à un message frustrant du genre :&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
-      <link>https://memlenz.github.io/blog/python/python2-vs-python3/</link>
+      <link>http://localhost:1313/blog/python/python2-vs-python3/</link>
       <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/python2-vs-python3/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/python2-vs-python3/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Python 2 vs Python 3 : Un duel dépassé ?&lt;/strong&gt; 
+    &lt;div id=&#34;python-2-vs-python-3--un-duel-dépassé-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#python-2-vs-python-3--un-duel-d%c3%a9pass%c3%a9-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Si tu débutes en Python, tu as peut-être déjà vu des références à &lt;strong&gt;Python 2&lt;/strong&gt; et &lt;strong&gt;Python 3&lt;/strong&gt;. Pourtant, la plupart des tutoriels d&amp;rsquo;aujourd&amp;rsquo;hui parlent uniquement de Python 3. Alors, c&amp;rsquo;est quoi cette histoire ? Pourquoi il y avait deux versions majeures ? Et surtout, &lt;strong&gt;est-ce que ça te concerne en 2025 ?&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Pourquoi Python doit être installé pour fonctionner ?</title>
-      <link>https://memlenz.github.io/blog/python/pourquoi-installer-python/</link>
+      <link>http://localhost:1313/blog/python/pourquoi-installer-python/</link>
       <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/pourquoi-installer-python/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/pourquoi-installer-python/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pourquoi Python doit être installé pour fonctionner ?&lt;/strong&gt; 
+    &lt;div id=&#34;pourquoi-python-doit-être-installé-pour-fonctionner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pourquoi-python-doit-%c3%aatre-install%c3%a9-pour-fonctionner-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Quand tu télécharges un jeu, tu cliques sur un &lt;code&gt;.exe&lt;/code&gt; et ça marche direct. Mais si tu télécharges un script Python (&lt;code&gt;.py&lt;/code&gt;), double-cliquer dessus ne fonctionne pas toujours comme prévu. Pourquoi ? Parce que Python &lt;strong&gt;n&amp;rsquo;est pas un logiciel comme les autres&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>De LazyVim à l&#39;exécution de son premier script Python</title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/lazyvim/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/lazyvim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/lazyvim/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/linux-tweaks/lazyvim/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Installer Neovim et Git&lt;/strong&gt; 
+    &lt;div id=&#34;1-installer-neovim-et-git&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1-installer-neovim-et-git&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;LazyVim repose sur &lt;strong&gt;Neovim&lt;/strong&gt;, donc on l’installe :&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pour Ubuntu/Debian :&lt;/strong&gt; 
+    &lt;div id=&#34;pour-ubuntudebian-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pour-ubuntudebian-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt update &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo apt install -y neovim git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pour Arch Linux :&lt;/strong&gt; 
+    &lt;div id=&#34;pour-arch-linux-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pour-arch-linux-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S neovim git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pour Void Linux :&lt;/strong&gt; 
+    &lt;div id=&#34;pour-void-linux-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pour-void-linux-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo xbps-install -S neovim git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Vérifie l’installation :&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
-      <link>https://memlenz.github.io/blog/python/environnement-de-travail/</link>
+      <link>http://localhost:1313/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/environnement-de-travail/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/environnement-de-travail/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Choisir son environnement de travail 
+    &lt;div id=&#34;choisir-son-environnement-de-travail&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#choisir-son-environnement-de-travail&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Avant d&amp;rsquo;écrire une seule ligne de code en Python, il faut comprendre &lt;strong&gt;où et comment coder&lt;/strong&gt;. Tu as peut-être entendu parler de &lt;strong&gt;VSCode&lt;/strong&gt;, &lt;strong&gt;PyCharm&lt;/strong&gt;, &lt;strong&gt;Jupyter Notebook&lt;/strong&gt; ou encore &lt;strong&gt;Vim&lt;/strong&gt;. Mais lequel choisir et pourquoi ?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Différence entre un langage interprété et un langage compilé</title>
-      <link>https://memlenz.github.io/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
+      <link>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Langage interprété vs langage compilé : Quelle est la différence ?&lt;/strong&gt; 
+    &lt;div id=&#34;langage-interprété-vs-langage-compilé--quelle-est-la-différence-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#langage-interpr%c3%a9t%c3%a9-vs-langage-compil%c3%a9--quelle-est-la-diff%c3%a9rence-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Quand on commence à apprendre la programmation, on entend souvent parler de &lt;strong&gt;langages interprétés&lt;/strong&gt; et &lt;strong&gt;langages compilés&lt;/strong&gt;, mais la distinction entre les deux n&amp;rsquo;est pas toujours claire. Pourquoi doit-on &lt;strong&gt;compiler&lt;/strong&gt; un programme en C alors que Python fonctionne immédiatement après l’avoir écrit ? Dans cet article, on va &lt;strong&gt;déconstruire cette différence&lt;/strong&gt; et voir comment elle impacte l’exécution des programmes.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Différence entre un fichier .py et un exécutable .exe</title>
-      <link>https://memlenz.github.io/blog/python/difference-exe-py/</link>
+      <link>http://localhost:1313/blog/python/difference-exe-py/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/difference-exe-py/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/difference-exe-py/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;C&amp;rsquo;est quoi un fichier .py par rapport à une application .exe ?&lt;/strong&gt; 
+    &lt;div id=&#34;c&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#c&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Quand on débute en programmation, on peut penser qu’un fichier &lt;code&gt;.py&lt;/code&gt; (lorsque notre fichier contient du code python) est une application comme un &lt;code&gt;.exe&lt;/code&gt;. En réalité, ils sont très différents ! Voici une explication claire pour bien comprendre.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Introduction à Python</title>
-      <link>https://memlenz.github.io/courses/python/introduction/</link>
+      <link>http://localhost:1313/courses/python/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/courses/python/introduction/</guid>
-      <description></description>
+      <guid>http://localhost:1313/courses/python/introduction/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Python : Introduction et premiers pas 
+    &lt;div id=&#34;python--introduction-et-premiers-pas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#python--introduction-et-premiers-pas&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Python est un &lt;strong&gt;langage de programmation de haut niveau&lt;/strong&gt; qui se distingue par sa &lt;strong&gt;simplicité&lt;/strong&gt; et sa &lt;strong&gt;lisibilité&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     

@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fonctions on </title>
-    <link>https://memlenz.github.io/tags/fonctions/</link>
+    <link>http://localhost:1313/tags/fonctions/</link>
     <description>Recent content in Fonctions on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 19:54:14 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/fonctions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 19:54:14 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/fonctions/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les fonction en python</title>
-      <link>https://memlenz.github.io/courses/python/fonction/</link>
+      <link>http://localhost:1313/courses/python/fonction/</link>
       <pubDate>Thu, 27 Feb 2025 19:54:14 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/courses/python/fonction/</guid>
-      <description></description>
+      <guid>http://localhost:1313/courses/python/fonction/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Les Fonctions en Python : La Clé de l&amp;rsquo;Efficacité&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tu veux rendre ton code plus propre, plus modulaire, et surtout réutilisable sans avoir à tout réécrire à chaque fois ? Les &lt;strong&gt;fonctions&lt;/strong&gt; sont là pour ça. Elles te permettent de regrouper un ensemble d&amp;rsquo;instructions sous un seul nom, que tu peux ensuite appeler à tout moment dans ton code, en y passant des paramètres, et en récupérant des résultats.&lt;/p&gt;</description>
       
     </item>
     

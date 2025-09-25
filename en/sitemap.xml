@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://memlenz.github.io/en/</loc>
-    <changefreq>daily</changefreq>
+    <loc>http://localhost:1313/en/</loc>
+    <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="https://memlenz.github.io/"
+      href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://memlenz.github.io/en/"
+      href="http://localhost:1313/en/"
     />
   </url>
 </urlset>

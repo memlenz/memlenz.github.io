@@ -2,32 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open on </title>
-    <link>https://memlenz.github.io/tags/open/</link>
+    <link>http://localhost:1313/tags/open/</link>
     <description>Recent content in Open on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Apr 2025 10:55:18 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/open/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Apr 2025 10:55:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/open/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comprendre et maîtriser with et open en Python</title>
-      <link>https://memlenz.github.io/courses/python/json-en-python/</link>
+      <link>http://localhost:1313/courses/python/json-en-python/</link>
       <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/courses/python/json-en-python/</guid>
-      <description></description>
+      <guid>http://localhost:1313/courses/python/json-en-python/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Manipulation des fichiers JSON en Python : Maîtrisez l&amp;rsquo;Art du Stockage de Données&lt;/strong&gt; 
+    &lt;div id=&#34;manipulation-des-fichiers-json-en-python--maîtrisez-l&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#manipulation-des-fichiers-json-en-python--ma%c3%aetrisez-l&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Les fichiers JSON, c’est &lt;strong&gt;le&lt;/strong&gt; format incontournable pour stocker et échanger des données. Ultra flexible, il est utilisé partout : API, configurations, logs, bases de données NoSQL… Bref, &lt;strong&gt;vous allez bosser avec&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Comprendre et maîtriser with et open en Python</title>
-      <link>https://memlenz.github.io/courses/python/with-open/</link>
+      <link>http://localhost:1313/courses/python/with-open/</link>
       <pubDate>Thu, 03 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/courses/python/with-open/</guid>
-      <description></description>
+      <guid>http://localhost:1313/courses/python/with-open/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;&lt;code&gt;with open()&lt;/code&gt; en Python : Gérer les fichiers comme un pro&lt;/strong&gt; 
+    &lt;div id=&#34;with-open&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#with-open&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Quand on bosse avec des fichiers en Python, la méthode classique c’est d’ouvrir le fichier, lire ou écrire dedans, puis le refermer. Mais soyons honnêtes, &lt;strong&gt;qui pense toujours à fermer proprement son fichier ?&lt;/strong&gt; 🤨&lt;/p&gt;</description>
       
     </item>
     

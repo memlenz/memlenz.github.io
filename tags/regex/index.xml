@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RegEx on </title>
-    <link>https://memlenz.github.io/tags/regex/</link>
+    <link>http://localhost:1313/tags/regex/</link>
     <description>Recent content in RegEx on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 01:42:00 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/regex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 01:42:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/regex/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Module RegEx</title>
-      <link>https://memlenz.github.io/courses/python/module-regex/</link>
+      <link>http://localhost:1313/courses/python/module-regex/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/courses/python/module-regex/</guid>
-      <description></description>
+      <guid>http://localhost:1313/courses/python/module-regex/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Les RegEx en Python : Domptez la Puissance des Expressions Régulières&lt;/strong&gt; 
+    &lt;div id=&#34;les-regex-en-python--domptez-la-puissance-des-expressions-régulières&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#les-regex-en-python--domptez-la-puissance-des-expressions-r%c3%a9guli%c3%a8res&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Les expressions régulières, ou &lt;em&gt;RegEx&lt;/em&gt;, c&amp;rsquo;est l&amp;rsquo;outil ultime pour manipuler du texte en mode ninja. En Python, le module &lt;code&gt;re&lt;/code&gt; vous permet de rechercher, de filtrer, de valider ou de transformer des chaînes de caractères avec une efficacité redoutable. Dans cet article, on va plonger dans l&amp;rsquo;univers des RegEx, découvrir leurs bases et voir comment les utiliser pour rendre vos scripts Python encore plus puissants. 🚀&lt;/p&gt;</description>
       
     </item>
     

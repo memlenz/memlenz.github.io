@@ -2,32 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithmie on </title>
-    <link>https://memlenz.github.io/tags/algorithmie/</link>
+    <link>http://localhost:1313/tags/algorithmie/</link>
     <description>Recent content in Algorithmie on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 09 Apr 2025 21:29:56 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/algorithmie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2025 21:29:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/algorithmie/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🎯 Implémentation d&#39;un foramateur de texte en python</title>
-      <link>https://memlenz.github.io/blog/python/bulletpointadder/</link>
+      <link>http://localhost:1313/blog/python/bulletpointadder/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/bulletpointadder/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/bulletpointadder/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Maîtriser la Manipulation de Texte avec Python : Création d&amp;rsquo;un Formateur de Liste à Puces 
+    &lt;div id=&#34;maîtriser-la-manipulation-de-texte-avec-python--création-dun-formateur-de-liste-à-puces&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#ma%c3%aetriser-la-manipulation-de-texte-avec-python--cr%c3%a9ation-dun-formateur-de-liste-%c3%a0-puces&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Dans l&amp;rsquo;environnement de travail numérique d&amp;rsquo;aujourd&amp;rsquo;hui, formater du texte rapidement et efficacement peut faire gagner un temps précieux. En tant que développeur Python, j&amp;rsquo;ai récemment créé un outil utilitaire qui démontre comment quelques lignes de code Python peuvent simplifier les tâches quotidiennes. Laissez-moi vous présenter mon script de formatage de listes à puces et mettre en évidence les compétences Python qu&amp;rsquo;il illustre.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique</title>
-      <link>https://memlenz.github.io/blog/python/bagels/</link>
+      <link>http://localhost:1313/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/bagels/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/bagels/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;🎮 Bagels – A Logic Game in Python 
+    &lt;div id=&#34;-bagels--a-logic-game-in-python&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-bagels--a-logic-game-in-python&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Hey everyone! Today, I’m sharing a fun little Python project: &lt;strong&gt;Bagels&lt;/strong&gt;, a deductive logic game. 🧠💡&lt;/p&gt;</description>
       
     </item>
     

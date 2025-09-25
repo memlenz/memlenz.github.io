@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PIP on </title>
-    <link>https://memlenz.github.io/tags/pip/</link>
+    <link>http://localhost:1313/tags/pip/</link>
     <description>Recent content in PIP on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 02:03:48 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/pip/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 02:03:48 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/pip/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Le gestionnaire de packet PIP</title>
-      <link>https://memlenz.github.io/courses/python/pip/</link>
+      <link>http://localhost:1313/courses/python/pip/</link>
       <pubDate>Tue, 04 Mar 2025 02:03:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/courses/python/pip/</guid>
-      <description></description>
+      <guid>http://localhost:1313/courses/python/pip/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;PIP en Python : Gérez vos Packages comme un Pro&lt;/strong&gt; 
+    &lt;div id=&#34;pip-en-python--gérez-vos-packages-comme-un-pro&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pip-en-python--g%c3%a9rez-vos-packages-comme-un-pro&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Si vous codez en Python, vous avez forcément croisé &lt;strong&gt;PIP&lt;/strong&gt;. Ce petit outil, c’est votre passeport pour un écosystème riche de bibliothèques et de modules. Besoin d’ajouter du machine learning, de la manipulation de données ou même du web scraping à votre projet ? &lt;strong&gt;PIP&lt;/strong&gt; est là pour installer tout ce qu’il faut, rapidement et proprement.&lt;/p&gt;</description>
       
     </item>
     

@@ -2,152 +2,269 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog Python on </title>
-    <link>https://memlenz.github.io/blog/python/</link>
+    <link>http://localhost:1313/blog/python/</link>
     <description>Recent content in Blog Python on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Feb 2025 02:55:22 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/blog/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 02:55:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/blog/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Organiser ses scripts Python proprement sur chaque OS</title>
-      <link>https://memlenz.github.io/blog/python/organiser-ses-scripts/</link>
+      <link>http://localhost:1313/blog/python/organiser-ses-scripts/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/organiser-ses-scripts/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/organiser-ses-scripts/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi organiser ses scripts Python ? 
+    &lt;div id=&#34;pourquoi-organiser-ses-scripts-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pourquoi-organiser-ses-scripts-python-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Quand on commence à coder en Python, on a souvent tendance à tout mettre en vrac sur le bureau ou dans &lt;code&gt;Documents/&lt;/code&gt;. Mauvaise idée. Une bonne organisation des fichiers et dossiers évite le chaos et facilite la gestion des projets.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
-      <link>https://memlenz.github.io/blog/python/les-chemins/</link>
+      <link>http://localhost:1313/blog/python/les-chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/les-chemins/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/les-chemins/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Introduction : Pourquoi les chemins système sont importants ?&lt;/strong&gt; 
+    &lt;div id=&#34;introduction--pourquoi-les-chemins-système-sont-importants-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction--pourquoi-les-chemins-syst%c3%a8me-sont-importants-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Quand on installe Python et qu’on essaie de l’exécuter, on peut se retrouver face à un message frustrant du genre :&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
-      <link>https://memlenz.github.io/blog/python/python2-vs-python3/</link>
+      <link>http://localhost:1313/blog/python/python2-vs-python3/</link>
       <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/python2-vs-python3/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/python2-vs-python3/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Python 2 vs Python 3 : Un duel dépassé ?&lt;/strong&gt; 
+    &lt;div id=&#34;python-2-vs-python-3--un-duel-dépassé-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#python-2-vs-python-3--un-duel-d%c3%a9pass%c3%a9-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Si tu débutes en Python, tu as peut-être déjà vu des références à &lt;strong&gt;Python 2&lt;/strong&gt; et &lt;strong&gt;Python 3&lt;/strong&gt;. Pourtant, la plupart des tutoriels d&amp;rsquo;aujourd&amp;rsquo;hui parlent uniquement de Python 3. Alors, c&amp;rsquo;est quoi cette histoire ? Pourquoi il y avait deux versions majeures ? Et surtout, &lt;strong&gt;est-ce que ça te concerne en 2025 ?&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python</title>
-      <link>https://memlenz.github.io/blog/python/passwordmanager/</link>
+      <link>http://localhost:1313/blog/python/passwordmanager/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/passwordmanager/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/passwordmanager/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Créer un Gestionnaire de Mots de Passe en CLI avec Python 
+    &lt;div id=&#34;créer-un-gestionnaire-de-mots-de-passe-en-cli-avec-python&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#cr%c3%a9er-un-gestionnaire-de-mots-de-passe-en-cli-avec-python&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Dans un monde où la sécurité de nos informations personnelles est devenue incontournable, j&amp;rsquo;ai voulu réaliser un projet simple mais efficace : un gestionnaire de mots de passe en ligne de commande (CLI). Cet outil, développé en Python, permet de générer des mots de passe robustes, de les sauvegarder dans un fichier JSON et de les manipuler via une interface textuelle intuitive. Dans cet article, je vous montre comment quelques dizaines de lignes de code bien structurées peuvent mettre en œuvre des concepts avancés en programmation et en sécurité.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Installer Python sur Windows, Linux et Mac</title>
-      <link>https://memlenz.github.io/blog/python/installation-python/</link>
+      <link>http://localhost:1313/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/installation-python/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/installation-python/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi installer Python ? 
+    &lt;div id=&#34;pourquoi-installer-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pourquoi-installer-python-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Avant de se lancer dans la programmation avec Python, il faut d&amp;rsquo;abord l&amp;rsquo;avoir sur sa machine. Contrairement à certains langages qui viennent déjà intégrés aux systèmes d’exploitation, Python doit être installé manuellement sur Windows, et parfois mis à jour sur Linux et macOS.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>🎯 Implémentation d&#39;un foramateur de texte en python</title>
-      <link>https://memlenz.github.io/blog/python/bulletpointadder/</link>
+      <link>http://localhost:1313/blog/python/bulletpointadder/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/bulletpointadder/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/bulletpointadder/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Maîtriser la Manipulation de Texte avec Python : Création d&amp;rsquo;un Formateur de Liste à Puces 
+    &lt;div id=&#34;maîtriser-la-manipulation-de-texte-avec-python--création-dun-formateur-de-liste-à-puces&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#ma%c3%aetriser-la-manipulation-de-texte-avec-python--cr%c3%a9ation-dun-formateur-de-liste-%c3%a0-puces&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Dans l&amp;rsquo;environnement de travail numérique d&amp;rsquo;aujourd&amp;rsquo;hui, formater du texte rapidement et efficacement peut faire gagner un temps précieux. En tant que développeur Python, j&amp;rsquo;ai récemment créé un outil utilitaire qui démontre comment quelques lignes de code Python peuvent simplifier les tâches quotidiennes. Laissez-moi vous présenter mon script de formatage de listes à puces et mettre en évidence les compétences Python qu&amp;rsquo;il illustre.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Pourquoi Python doit être installé pour fonctionner ?</title>
-      <link>https://memlenz.github.io/blog/python/pourquoi-installer-python/</link>
+      <link>http://localhost:1313/blog/python/pourquoi-installer-python/</link>
       <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/pourquoi-installer-python/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/pourquoi-installer-python/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pourquoi Python doit être installé pour fonctionner ?&lt;/strong&gt; 
+    &lt;div id=&#34;pourquoi-python-doit-être-installé-pour-fonctionner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pourquoi-python-doit-%c3%aatre-install%c3%a9-pour-fonctionner-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Quand tu télécharges un jeu, tu cliques sur un &lt;code&gt;.exe&lt;/code&gt; et ça marche direct. Mais si tu télécharges un script Python (&lt;code&gt;.py&lt;/code&gt;), double-cliquer dessus ne fonctionne pas toujours comme prévu. Pourquoi ? Parce que Python &lt;strong&gt;n&amp;rsquo;est pas un logiciel comme les autres&lt;/strong&gt;.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
-      <link>https://memlenz.github.io/blog/python/environnement-de-travail/</link>
+      <link>http://localhost:1313/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/environnement-de-travail/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/environnement-de-travail/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Choisir son environnement de travail 
+    &lt;div id=&#34;choisir-son-environnement-de-travail&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#choisir-son-environnement-de-travail&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Avant d&amp;rsquo;écrire une seule ligne de code en Python, il faut comprendre &lt;strong&gt;où et comment coder&lt;/strong&gt;. Tu as peut-être entendu parler de &lt;strong&gt;VSCode&lt;/strong&gt;, &lt;strong&gt;PyCharm&lt;/strong&gt;, &lt;strong&gt;Jupyter Notebook&lt;/strong&gt; ou encore &lt;strong&gt;Vim&lt;/strong&gt;. Mais lequel choisir et pourquoi ?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Différence entre l’interpréteur Python (Shell interactif) et un fichier Python</title>
-      <link>https://memlenz.github.io/blog/python/interpreteur-vs-fichier/</link>
+      <link>http://localhost:1313/blog/python/interpreteur-vs-fichier/</link>
       <pubDate>Sat, 29 Mar 2025 23:37:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/interpreteur-vs-fichier/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/interpreteur-vs-fichier/</guid>
+      <description>&lt;p&gt;Quand on commence avec Python, une des premières confusions vient du fait qu’on peut taper des commandes dans un terminal et voir immédiatement un résultat, mais aussi écrire du code dans un fichier &lt;code&gt;.py&lt;/code&gt;. Pourquoi ces deux modes existent-ils ? Et surtout, quand utiliser l’un ou l’autre ?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Différence entre un langage interprété et un langage compilé</title>
-      <link>https://memlenz.github.io/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
+      <link>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Langage interprété vs langage compilé : Quelle est la différence ?&lt;/strong&gt; 
+    &lt;div id=&#34;langage-interprété-vs-langage-compilé--quelle-est-la-différence-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#langage-interpr%c3%a9t%c3%a9-vs-langage-compil%c3%a9--quelle-est-la-diff%c3%a9rence-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Quand on commence à apprendre la programmation, on entend souvent parler de &lt;strong&gt;langages interprétés&lt;/strong&gt; et &lt;strong&gt;langages compilés&lt;/strong&gt;, mais la distinction entre les deux n&amp;rsquo;est pas toujours claire. Pourquoi doit-on &lt;strong&gt;compiler&lt;/strong&gt; un programme en C alors que Python fonctionne immédiatement après l’avoir écrit ? Dans cet article, on va &lt;strong&gt;déconstruire cette différence&lt;/strong&gt; et voir comment elle impacte l’exécution des programmes.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>🖥️ Différence entre un langage de programmation et un logiciel classique</title>
-      <link>https://memlenz.github.io/blog/python/difference-logiciel-langage/</link>
+      <link>http://localhost:1313/blog/python/difference-logiciel-langage/</link>
       <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/difference-logiciel-langage/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/difference-logiciel-langage/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Différence entre un langage de programmation et un logiciel classique&lt;/strong&gt; 
+    &lt;div id=&#34;différence-entre-un-langage-de-programmation-et-un-logiciel-classique&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#diff%c3%a9rence-entre-un-langage-de-programmation-et-un-logiciel-classique&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Un débutant peut facilement confondre &lt;strong&gt;un langage de programmation&lt;/strong&gt; et &lt;strong&gt;un logiciel classique&lt;/strong&gt;, car dans les deux cas, il y a une installation et une interface à utiliser. Pourtant, ce sont deux choses très différentes.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Différence entre un fichier .py et un exécutable .exe</title>
-      <link>https://memlenz.github.io/blog/python/difference-exe-py/</link>
+      <link>http://localhost:1313/blog/python/difference-exe-py/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/difference-exe-py/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/difference-exe-py/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;C&amp;rsquo;est quoi un fichier .py par rapport à une application .exe ?&lt;/strong&gt; 
+    &lt;div id=&#34;c&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#c&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Quand on débute en programmation, on peut penser qu’un fichier &lt;code&gt;.py&lt;/code&gt; (lorsque notre fichier contient du code python) est une application comme un &lt;code&gt;.exe&lt;/code&gt;. En réalité, ils sont très différents ! Voici une explication claire pour bien comprendre.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique</title>
-      <link>https://memlenz.github.io/blog/python/bagels/</link>
+      <link>http://localhost:1313/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/bagels/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/bagels/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;🎮 Bagels – A Logic Game in Python 
+    &lt;div id=&#34;-bagels--a-logic-game-in-python&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-bagels--a-logic-game-in-python&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Hey everyone! Today, I’m sharing a fun little Python project: &lt;strong&gt;Bagels&lt;/strong&gt;, a deductive logic game. 🧠💡&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Pourquoi Python est un excellent premier langage ?</title>
-      <link>https://memlenz.github.io/blog/python/pourquoi-python/</link>
+      <link>http://localhost:1313/blog/python/pourquoi-python/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/python/pourquoi-python/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/python/pourquoi-python/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pourquoi Python est un excellent premier langage ?&lt;/strong&gt; 
+    &lt;div id=&#34;pourquoi-python-est-un-excellent-premier-langage-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pourquoi-python-est-un-excellent-premier-langage-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Je me souviens encore de mes premiers pas en programmation. J&amp;rsquo;avais ouvert un éditeur de code, prêt à écrire mes premières lignes&amp;hellip; et BAM ! Je suis tombé sur un bout de code en C plein d’accolades, de points-virgules et de trucs incompréhensibles. J&amp;rsquo;ai essayé de comprendre, mais j&amp;rsquo;avais l&amp;rsquo;impression de déchiffrer un langage alien.&lt;/p&gt;</description>
       
     </item>
     

@@ -2,61 +2,270 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Tweaks on </title>
-    <link>https://memlenz.github.io/blog/linux-tweaks/</link>
+    <link>http://localhost:1313/blog/linux-tweaks/</link>
     <description>Recent content in Linux Tweaks on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 01:27:38 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/blog/linux-tweaks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Mar 2025 01:27:38 +0100</lastBuildDate><atom:link href="http://localhost:1313/blog/linux-tweaks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configuration de base après installation d&#39;Arch Linux</title>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/config-base/</link>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/config-base/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Configuration de base après installation d&amp;rsquo;Arch Linux 
+    &lt;div id=&#34;configuration-de-base-après-installation-darch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#configuration-de-base-apr%c3%a8s-installation-darch-linux&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Après avoir installé Arch Linux et redémarré depuis le live USB, ton système est minimal.&lt;br&gt;
+Pour qu’il soit pleinement fonctionnel, il faut effectuer quelques &lt;strong&gt;configurations de base&lt;/strong&gt;, comme monter les partitions, définir la timezone, configurer les locales et préparer le système pour ton utilisateur.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</title>
+      <link>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;En entreprise, on entend souvent des expressions comme &lt;strong&gt;&amp;ldquo;mettre une machine sur l’intra ID&amp;rdquo;&lt;/strong&gt;.&lt;br&gt;
+Derrière ce jargon se cache une notion clé : &lt;strong&gt;l’intégration des postes de travail dans l’annuaire d’entreprise&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Partitions sous Linux : du simple au complexe</title>
+      <link>http://localhost:1313/blog/linux-tweaks/partitions/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/partitions/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Partitions sous Linux : du simple au complexe 
+    &lt;div id=&#34;partitions-sous-linux--du-simple-au-complexe&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#partitions-sous-linux--du-simple-au-complexe&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Quand tu installes Linux, l’étape des &lt;strong&gt;partitions&lt;/strong&gt; peut paraître mystique.&lt;br&gt;
+Tu tombes sur des mots comme &lt;code&gt;boot&lt;/code&gt;, &lt;code&gt;swap&lt;/code&gt;, &lt;code&gt;ext4&lt;/code&gt;, &lt;code&gt;btrfs&lt;/code&gt;, &lt;code&gt;GPT&lt;/code&gt;, &lt;code&gt;MBR&lt;/code&gt;… et là, tu te dis : &lt;em&gt;ok, je suis perdu&lt;/em&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Configurer le WiFi sous Arch Linux</title>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/wifi/</link>
+      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/wifi/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Configurer le WiFi sous Arch Linux 
+    &lt;div id=&#34;configurer-le-wifi-sous-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#configurer-le-wifi-sous-arch-linux&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Si tu installes Arch Linux sur un laptop, la &lt;strong&gt;connexion WiFi&lt;/strong&gt; est souvent la première étape après avoir booté sur ta clé USB.&lt;br&gt;
+Bonne nouvelle : c’est simple, mais faut savoir quelles commandes taper.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Prise en main du terminal Linux</title>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/terminal/</link>
+      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/terminal/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Prise en main du terminal Linux 
+    &lt;div id=&#34;prise-en-main-du-terminal-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#prise-en-main-du-terminal-linux&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Le terminal, c’est l’endroit où &lt;strong&gt;la magie opère&lt;/strong&gt; sous Linux.&lt;br&gt;
+Pas d’icônes, pas de clics interminables, juste un écran noir et un curseur qui t’attend.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Installation Arch Linux : Guide accessible et complet</title>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</link>
+      <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Installation Arch Linux 
+    &lt;div id=&#34;installation-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#installation-arch-linux&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Linux, c’est un monde où tu peux littéralement choisir ce que tu veux devenir.&lt;br&gt;
+Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu</title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/mysql-mariadb/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi choisir MariaDB au lieu de MySQL ? 
+    &lt;div id=&#34;pourquoi-choisir-mariadb-au-lieu-de-mysql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pourquoi-choisir-mariadb-au-lieu-de-mysql-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;MariaDB est un &lt;strong&gt;fork open source de MySQL&lt;/strong&gt; initié par les développeurs originaux de MySQL. Il a été créé en réponse aux inquiétudes concernant le rachat de MySQL par Oracle.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Installer PostgreSQL sur Arch, Void Linux et Debian/Ubuntu</title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/postgre-sql/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/postgre-sql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/postgre-sql/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/linux-tweaks/postgre-sql/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🐘 Pourquoi PostgreSQL ? 
+    &lt;div id=&#34;-pourquoi-postgresql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-pourquoi-postgresql-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;PostgreSQL est un &lt;strong&gt;SGBD relationnel open source&lt;/strong&gt; puissant, robuste et très utilisé dans les environnements de production modernes. Il est apprécié pour :&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Bienvenue dans le Void : Installer Void Linux pas à pas</title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/voidlinux-installation/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/voidlinux-installation/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🖤 &lt;strong&gt;Bienvenue dans le Void !&lt;/strong&gt; 
+    &lt;div id=&#34;-bienvenue-dans-le-void-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-bienvenue-dans-le-void-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Ce tutoriel va te guider &lt;strong&gt;pas à pas&lt;/strong&gt; dans l’installation de Void Linux, une distribution &lt;strong&gt;légère et flexible&lt;/strong&gt; qui te donne un &lt;strong&gt;contrôle total&lt;/strong&gt; sur ton système. Prêt à relever le défi ? 🚀&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>De LazyVim à l&#39;exécution de son premier script Python</title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/lazyvim/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/lazyvim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/lazyvim/</guid>
-      <description></description>
+      <guid>http://localhost:1313/blog/linux-tweaks/lazyvim/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Installer Neovim et Git&lt;/strong&gt; 
+    &lt;div id=&#34;1-installer-neovim-et-git&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1-installer-neovim-et-git&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;LazyVim repose sur &lt;strong&gt;Neovim&lt;/strong&gt;, donc on l’installe :&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pour Ubuntu/Debian :&lt;/strong&gt; 
+    &lt;div id=&#34;pour-ubuntudebian-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pour-ubuntudebian-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo apt update &lt;span class=&#34;o&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo apt install -y neovim git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pour Arch Linux :&lt;/strong&gt; 
+    &lt;div id=&#34;pour-arch-linux-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pour-arch-linux-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo pacman -S neovim git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pour Void Linux :&lt;/strong&gt; 
+    &lt;div id=&#34;pour-void-linux-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#pour-void-linux-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo xbps-install -S neovim git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Vérifie l’installation :&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://memlenz.github.io/blog/linux-tweaks/java-setup/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/java-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/blog/linux-tweaks/java-setup/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/java-setup/</guid>
+      <description>&lt;h3 class=&#34;relative group&#34;&gt;🚀 &lt;strong&gt;Plan d’Apprentissage Structuré pour Devenir un Bon Développeur&lt;/strong&gt; 
+    &lt;div id=&#34;-plan-dapprentissage-structuré-pour-devenir-un-bon-développeur&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-plan-dapprentissage-structur%c3%a9-pour-devenir-un-bon-d%c3%a9veloppeur&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;Ce plan te guidera &lt;strong&gt;de zéro à un niveau avancé&lt;/strong&gt; avec une progression bien définie. L’idée est de &lt;strong&gt;comprendre, pratiquer et construire&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/linux-tweaks/maconfigterminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/linux-tweaks/maconfigterminal/</guid>
       <description></description>
       
     </item>

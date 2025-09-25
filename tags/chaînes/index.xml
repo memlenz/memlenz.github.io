@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaînes on </title>
-    <link>https://memlenz.github.io/tags/cha%C3%AEnes/</link>
+    <link>http://localhost:1313/tags/cha%C3%AEnes/</link>
     <description>Recent content in Chaînes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 17:50:25 +0100</lastBuildDate><atom:link href="https://memlenz.github.io/tags/cha%C3%AEnes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 17:50:25 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/cha%C3%AEnes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les Strings en Python</title>
-      <link>https://memlenz.github.io/courses/python/strings/</link>
+      <link>http://localhost:1313/courses/python/strings/</link>
       <pubDate>Thu, 27 Feb 2025 17:50:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://memlenz.github.io/courses/python/strings/</guid>
-      <description></description>
+      <guid>http://localhost:1313/courses/python/strings/</guid>
+      <description>&lt;p&gt;Les strings, ou chaînes de caractères, sont l&amp;rsquo;un des types de données les plus utilisés en Python. Que ce soit pour manipuler des données d&amp;rsquo;entrée utilisateur, traiter des fichiers texte ou encore générer du contenu dynamique, les chaînes de caractères sont partout. Mais comment les utiliser efficacement et tirer le meilleur parti de leurs fonctionnalités ? C’est ce qu&amp;rsquo;on va explorer ici, avec un petit détour par les bonnes pratiques.&lt;/p&gt;</description>
       
     </item>
     
