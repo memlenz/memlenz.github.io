@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on </title>
-    <link>http://localhost:1313/tags/introduction/</link>
+    <link>https://blog.memlenz.com/tags/introduction/</link>
     <description>Recent content in Introduction on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 01:59:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 01:59:02 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction à Python</title>
-      <link>http://localhost:1313/courses/python/introduction/</link>
+      <link>https://blog.memlenz.com/courses/python/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/introduction/</guid>
+      <guid>https://blog.memlenz.com/courses/python/introduction/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Python : Introduction et premiers pas 
     &lt;div id=&#34;python--introduction-et-premiers-pas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -32,10 +32,10 @@
     
     <item>
       <title>Introduction to SQL</title>
-      <link>http://localhost:1313/courses/sql/introduction/</link>
+      <link>https://blog.memlenz.com/courses/sql/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/sql/introduction/</guid>
+      <guid>https://blog.memlenz.com/courses/sql/introduction/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;SQL : Structured Query Language 
     &lt;div id=&#34;sql--structured-query-language&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

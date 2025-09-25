@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>With on </title>
-    <link>http://localhost:1313/tags/with/</link>
+    <link>https://blog.memlenz.com/tags/with/</link>
     <description>Recent content in With on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 04 Apr 2025 10:55:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/with/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Apr 2025 10:55:18 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/with/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comprendre et maîtriser with et open en Python</title>
-      <link>http://localhost:1313/courses/python/json-en-python/</link>
+      <link>https://blog.memlenz.com/courses/python/json-en-python/</link>
       <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/json-en-python/</guid>
+      <guid>https://blog.memlenz.com/courses/python/json-en-python/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Manipulation des fichiers JSON en Python : Maîtrisez l&amp;rsquo;Art du Stockage de Données&lt;/strong&gt; 
     &lt;div id=&#34;manipulation-des-fichiers-json-en-python--maîtrisez-l&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -32,10 +32,10 @@
     
     <item>
       <title>Comprendre et maîtriser with et open en Python</title>
-      <link>http://localhost:1313/courses/python/with-open/</link>
+      <link>https://blog.memlenz.com/courses/python/with-open/</link>
       <pubDate>Thu, 03 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/with-open/</guid>
+      <guid>https://blog.memlenz.com/courses/python/with-open/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;&lt;code&gt;with open()&lt;/code&gt; en Python : Gérer les fichiers comme un pro&lt;/strong&gt; 
     &lt;div id=&#34;with-open&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

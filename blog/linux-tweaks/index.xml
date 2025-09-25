@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Tweaks on </title>
-    <link>http://localhost:1313/blog/linux-tweaks/</link>
+    <link>https://blog.memlenz.com/blog/linux-tweaks/</link>
     <description>Recent content in Linux Tweaks on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 01:27:38 +0100</lastBuildDate><atom:link href="http://localhost:1313/blog/linux-tweaks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Mar 2025 01:27:38 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/blog/linux-tweaks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Configuration de base après installation d&#39;Arch Linux</title>
-      <link>http://localhost:1313/blog/linux-tweaks/archlinux/config-base/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/config-base/</link>
       <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/config-base/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/config-base/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Configuration de base après installation d&amp;rsquo;Arch Linux 
     &lt;div id=&#34;configuration-de-base-après-installation-darch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -33,10 +33,10 @@ Pour qu’il soit pleinement fonctionnel, il faut effectuer quelques &lt;strong&
     
     <item>
       <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</title>
-      <link>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -53,10 +53,10 @@ Derrière ce jargon se cache une notion clé : &lt;strong&gt;l’intégration de
     
     <item>
       <title>Partitions sous Linux : du simple au complexe</title>
-      <link>http://localhost:1313/blog/linux-tweaks/partitions/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/partitions/</link>
       <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/partitions/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/partitions/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Partitions sous Linux : du simple au complexe 
     &lt;div id=&#34;partitions-sous-linux--du-simple-au-complexe&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -73,10 +73,10 @@ Tu tombes sur des mots comme &lt;code&gt;boot&lt;/code&gt;, &lt;code&gt;swap&lt;
     
     <item>
       <title>Configurer le WiFi sous Arch Linux</title>
-      <link>http://localhost:1313/blog/linux-tweaks/archlinux/wifi/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/wifi/</link>
       <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/wifi/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/wifi/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Configurer le WiFi sous Arch Linux 
     &lt;div id=&#34;configurer-le-wifi-sous-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -93,10 +93,10 @@ Bonne nouvelle : c’est simple, mais faut savoir quelles commandes taper.&lt;/p
     
     <item>
       <title>Prise en main du terminal Linux</title>
-      <link>http://localhost:1313/blog/linux-tweaks/archlinux/terminal/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/terminal/</link>
       <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/terminal/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/terminal/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Prise en main du terminal Linux 
     &lt;div id=&#34;prise-en-main-du-terminal-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -113,10 +113,10 @@ Pas d’icônes, pas de clics interminables, juste un écran noir et un curseur 
     
     <item>
       <title>Installation Arch Linux : Guide accessible et complet</title>
-      <link>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</link>
       <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Installation Arch Linux 
     &lt;div id=&#34;installation-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -133,10 +133,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu</title>
-      <link>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/mysql-mariadb/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/mysql-mariadb/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi choisir MariaDB au lieu de MySQL ? 
     &lt;div id=&#34;pourquoi-choisir-mariadb-au-lieu-de-mysql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -152,10 +152,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Installer PostgreSQL sur Arch, Void Linux et Debian/Ubuntu</title>
-      <link>http://localhost:1313/blog/linux-tweaks/postgre-sql/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/postgre-sql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/postgre-sql/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/postgre-sql/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🐘 Pourquoi PostgreSQL ? 
     &lt;div id=&#34;-pourquoi-postgresql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -171,10 +171,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Bienvenue dans le Void : Installer Void Linux pas à pas</title>
-      <link>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🖤 &lt;strong&gt;Bienvenue dans le Void !&lt;/strong&gt; 
     &lt;div id=&#34;-bienvenue-dans-le-void-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -190,10 +190,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>De LazyVim à l&#39;exécution de son premier script Python</title>
-      <link>http://localhost:1313/blog/linux-tweaks/lazyvim/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/lazyvim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/lazyvim/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/lazyvim/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Installer Neovim et Git&lt;/strong&gt; 
     &lt;div id=&#34;1-installer-neovim-et-git&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -243,10 +243,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/linux-tweaks/java-setup/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/java-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/java-setup/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/java-setup/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;🚀 &lt;strong&gt;Plan d’Apprentissage Structuré pour Devenir un Bon Développeur&lt;/strong&gt; 
     &lt;div id=&#34;-plan-dapprentissage-structuré-pour-devenir-un-bon-développeur&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -262,10 +262,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/blog/linux-tweaks/maconfigterminal/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/maconfigterminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/maconfigterminal/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/maconfigterminal/</guid>
       <description></description>
       
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sécurité on </title>
-    <link>http://localhost:1313/tags/s%C3%A9curit%C3%A9/</link>
+    <link>https://blog.memlenz.com/tags/s%C3%A9curit%C3%A9/</link>
     <description>Recent content in Sécurité on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/s%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/s%C3%A9curit%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</title>
-      <link>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

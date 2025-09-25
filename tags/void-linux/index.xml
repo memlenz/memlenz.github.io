@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Void Linux on </title>
-    <link>http://localhost:1313/tags/void-linux/</link>
+    <link>https://blog.memlenz.com/tags/void-linux/</link>
     <description>Recent content in Void Linux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 01:48:30 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/void-linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Mar 2025 01:48:30 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/void-linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bienvenue dans le Void : Installer Void Linux pas à pas</title>
-      <link>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🖤 &lt;strong&gt;Bienvenue dans le Void !&lt;/strong&gt; 
     &lt;div id=&#34;-bienvenue-dans-le-void-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

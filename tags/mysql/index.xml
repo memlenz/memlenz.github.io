@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mysql on </title>
-    <link>http://localhost:1313/tags/mysql/</link>
+    <link>https://blog.memlenz.com/tags/mysql/</link>
     <description>Recent content in Mysql on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu</title>
-      <link>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/mysql-mariadb/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/mysql-mariadb/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi choisir MariaDB au lieu de MySQL ? 
     &lt;div id=&#34;pourquoi-choisir-mariadb-au-lieu-de-mysql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
