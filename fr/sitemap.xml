@@ -3,447 +3,448 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.memlenz.com/</loc>
     <lastmod>2025-09-25T13:30:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/en/"
+      href="https://blog.memlenz.com/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="http://localhost:1313/"
+      href="https://blog.memlenz.com/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/archlinux/config-base/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/archlinux/config-base/</loc>
     <lastmod>2025-09-25T13:30:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/systmes-reseaux/intra-id/</loc>
+    <loc>https://blog.memlenz.com/blog/systmes-reseaux/intra-id/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/partitions/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/partitions/</loc>
     <lastmod>2025-07-30T09:59:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/archlinux/wifi/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/archlinux/wifi/</loc>
     <lastmod>2025-07-20T11:15:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/archlinux/terminal/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/archlinux/terminal/</loc>
     <lastmod>2025-07-10T10:30:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</loc>
     <lastmod>2025-07-01T09:59:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/organiser-ses-scripts/</loc>
+    <loc>https://blog.memlenz.com/blog/python/organiser-ses-scripts/</loc>
     <lastmod>2025-04-25T23:09:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/les-chemins/</loc>
+    <loc>https://blog.memlenz.com/blog/python/les-chemins/</loc>
     <lastmod>2025-04-20T23:09:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/python2-vs-python3/</loc>
+    <loc>https://blog.memlenz.com/blog/python/python2-vs-python3/</loc>
     <lastmod>2025-04-17T23:09:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/mysql-mariadb/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/postgre-sql/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/postgre-sql/</loc>
     <lastmod>2025-04-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/passwordmanager/</loc>
+    <loc>https://blog.memlenz.com/blog/python/passwordmanager/</loc>
     <lastmod>2025-04-13T04:34:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/installation-python/</loc>
+    <loc>https://blog.memlenz.com/blog/python/installation-python/</loc>
     <lastmod>2025-04-10T23:09:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/bulletpointadder/</loc>
+    <loc>https://blog.memlenz.com/blog/python/bulletpointadder/</loc>
     <lastmod>2025-04-09T21:29:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/pourquoi-installer-python/</loc>
+    <loc>https://blog.memlenz.com/blog/python/pourquoi-installer-python/</loc>
     <lastmod>2025-04-05T23:09:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/json-en-python/</loc>
+    <loc>https://blog.memlenz.com/courses/python/json-en-python/</loc>
     <lastmod>2025-04-04T10:55:18+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/with-open/</loc>
+    <loc>https://blog.memlenz.com/courses/python/with-open/</loc>
     <lastmod>2025-04-03T10:55:18+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/argparse-en-python/</loc>
+    <loc>https://blog.memlenz.com/courses/python/argparse-en-python/</loc>
     <lastmod>2025-03-31T10:55:18+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</loc>
     <lastmod>2025-03-30T01:48:30+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/lazyvim/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/lazyvim/</loc>
     <lastmod>2025-03-30T01:32:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/environnement-de-travail/</loc>
+    <loc>https://blog.memlenz.com/blog/python/environnement-de-travail/</loc>
     <lastmod>2025-03-30T00:19:25+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/interpreteur-vs-fichier/</loc>
+    <loc>https://blog.memlenz.com/blog/python/interpreteur-vs-fichier/</loc>
     <lastmod>2025-03-29T23:37:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</loc>
+    <loc>https://blog.memlenz.com/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</loc>
     <lastmod>2025-03-29T23:09:59+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/difference-logiciel-langage/</loc>
+    <loc>https://blog.memlenz.com/blog/python/difference-logiciel-langage/</loc>
     <lastmod>2025-03-29T22:10:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/difference-exe-py/</loc>
+    <loc>https://blog.memlenz.com/blog/python/difference-exe-py/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/bagels/</loc>
+    <loc>https://blog.memlenz.com/blog/python/bagels/</loc>
     <lastmod>2025-03-26T21:29:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/try-except/</loc>
+    <loc>https://blog.memlenz.com/courses/python/try-except/</loc>
     <lastmod>2025-03-04T02:08:27+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/pip/</loc>
+    <loc>https://blog.memlenz.com/courses/python/pip/</loc>
     <lastmod>2025-03-04T02:03:48+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/module-regex/</loc>
+    <loc>https://blog.memlenz.com/courses/python/module-regex/</loc>
     <lastmod>2025-03-04T01:42:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/module-json/</loc>
+    <loc>https://blog.memlenz.com/courses/python/module-json/</loc>
     <lastmod>2025-03-04T01:37:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/module-math/</loc>
+    <loc>https://blog.memlenz.com/courses/python/module-math/</loc>
     <lastmod>2025-03-04T01:32:43+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/dates/</loc>
+    <loc>https://blog.memlenz.com/courses/python/dates/</loc>
     <lastmod>2025-03-04T01:27:53+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/modules/</loc>
+    <loc>https://blog.memlenz.com/courses/python/modules/</loc>
     <lastmod>2025-03-04T01:19:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/portee/</loc>
+    <loc>https://blog.memlenz.com/courses/python/portee/</loc>
     <lastmod>2025-03-03T05:57:31+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/polymorphisme/</loc>
+    <loc>https://blog.memlenz.com/courses/python/polymorphisme/</loc>
     <lastmod>2025-03-03T05:53:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/heritage/</loc>
+    <loc>https://blog.memlenz.com/courses/python/heritage/</loc>
     <lastmod>2025-03-03T05:50:46+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/classes/</loc>
+    <loc>https://blog.memlenz.com/courses/python/classes/</loc>
     <lastmod>2025-03-03T05:46:06+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/array/</loc>
+    <loc>https://blog.memlenz.com/courses/python/array/</loc>
     <lastmod>2025-03-03T05:40:20+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/lambda/</loc>
+    <loc>https://blog.memlenz.com/courses/python/lambda/</loc>
     <lastmod>2025-02-27T19:57:54+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/fonction/</loc>
+    <loc>https://blog.memlenz.com/courses/python/fonction/</loc>
     <lastmod>2025-02-27T19:54:14+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/boucles/</loc>
+    <loc>https://blog.memlenz.com/courses/python/boucles/</loc>
     <lastmod>2025-02-27T19:47:35+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/conditions/</loc>
+    <loc>https://blog.memlenz.com/courses/python/conditions/</loc>
     <lastmod>2025-02-27T19:39:29+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/dictionnaires/</loc>
+    <loc>https://blog.memlenz.com/courses/python/dictionnaires/</loc>
     <lastmod>2025-02-27T19:30:48+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/sets/</loc>
+    <loc>https://blog.memlenz.com/courses/python/sets/</loc>
     <lastmod>2025-02-27T19:27:26+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/tuples/</loc>
+    <loc>https://blog.memlenz.com/courses/python/tuples/</loc>
     <lastmod>2025-02-27T18:50:12+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/list/</loc>
+    <loc>https://blog.memlenz.com/courses/python/list/</loc>
     <lastmod>2025-02-27T18:47:13+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/operateurs/</loc>
+    <loc>https://blog.memlenz.com/courses/python/operateurs/</loc>
     <lastmod>2025-02-27T18:44:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/booleen/</loc>
+    <loc>https://blog.memlenz.com/courses/python/booleen/</loc>
     <lastmod>2025-02-27T18:38:35+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/strings/</loc>
+    <loc>https://blog.memlenz.com/courses/python/strings/</loc>
     <lastmod>2025-02-27T17:50:25+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/casting/</loc>
+    <loc>https://blog.memlenz.com/courses/python/casting/</loc>
     <lastmod>2025-02-27T14:34:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/nombres/</loc>
+    <loc>https://blog.memlenz.com/courses/python/nombres/</loc>
     <lastmod>2025-02-27T12:30:01+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/type-donnee/</loc>
+    <loc>https://blog.memlenz.com/courses/python/type-donnee/</loc>
     <lastmod>2025-02-27T10:22:53+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/syntaxe/</loc>
+    <loc>https://blog.memlenz.com/courses/python/syntaxe/</loc>
     <lastmod>2025-02-26T02:29:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/variables/</loc>
+    <loc>https://blog.memlenz.com/courses/python/variables/</loc>
     <lastmod>2025-02-26T02:26:44+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/python/introduction/</loc>
+    <loc>https://blog.memlenz.com/courses/python/introduction/</loc>
     <lastmod>2025-02-25T01:59:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/sql/introduction/</loc>
+    <loc>https://blog.memlenz.com/courses/sql/introduction/</loc>
     <lastmod>2025-02-25T01:59:02+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/python/pourquoi-python/</loc>
+    <loc>https://blog.memlenz.com/blog/python/pourquoi-python/</loc>
     <lastmod>2025-02-15T13:39:54+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://blog.memlenz.com/blog/</loc>
     <lastmod>2025-02-15T13:39:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</loc>
+    <loc>https://blog.memlenz.com/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</loc>
     <lastmod>2025-02-15T03:36:29+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/project2/</loc>
+    <loc>https://blog.memlenz.com/portfolio/project2/</loc>
     <lastmod>2025-02-15T03:06:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/project1/</loc>
+    <loc>https://blog.memlenz.com/portfolio/project1/</loc>
     <lastmod>2025-02-15T03:06:29+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://blog.memlenz.com/portfolio/</loc>
     <lastmod>2025-02-15T03:04:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tutorials/hugo-setup/</loc>
+    <loc>https://blog.memlenz.com/tutorials/hugo-setup/</loc>
     <lastmod>2025-02-15T03:04:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tutorials/git-workflows/</loc>
+    <loc>https://blog.memlenz.com/tutorials/git-workflows/</loc>
     <lastmod>2025-02-15T03:03:34+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tutorials/git-workflows/git-commands/</loc>
+    <loc>https://blog.memlenz.com/tutorials/git-workflows/git-commands/</loc>
     <lastmod>2025-02-15T03:02:07+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tutorials/</loc>
+    <loc>https://blog.memlenz.com/tutorials/</loc>
     <lastmod>2025-02-15T02:58:58+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/courses/</loc>
+    <loc>https://blog.memlenz.com/courses/</loc>
     <lastmod>2025-02-15T02:55:22+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/dsa-guide/dsa-intro/</loc>
+    <loc>https://blog.memlenz.com/blog/dsa-guide/dsa-intro/</loc>
     <lastmod>2025-02-15T02:55:22+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/java-setup/</loc>
+    <loc>https://blog.memlenz.com/parcours/</loc>
+    <lastmod>2025-02-15T02:55:22+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/linux-tweaks/maconfigterminal/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/java-setup/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/parcours/</loc>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/maconfigterminal/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

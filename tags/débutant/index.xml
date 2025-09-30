@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Débutant on </title>
-    <link>http://localhost:1313/tags/d%C3%A9butant/</link>
+    <link>https://blog.memlenz.com/tags/d%C3%A9butant/</link>
     <description>Recent content in Débutant on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 20 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/d%C3%A9butant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/d%C3%A9butant/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
-      <link>http://localhost:1313/blog/python/les-chemins/</link>
+      <link>https://blog.memlenz.com/blog/python/les-chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/les-chemins/</guid>
+      <guid>https://blog.memlenz.com/blog/python/les-chemins/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Introduction : Pourquoi les chemins système sont importants ?&lt;/strong&gt; 
     &lt;div id=&#34;introduction--pourquoi-les-chemins-système-sont-importants-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -32,10 +32,10 @@
     
     <item>
       <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
-      <link>http://localhost:1313/blog/python/python2-vs-python3/</link>
+      <link>https://blog.memlenz.com/blog/python/python2-vs-python3/</link>
       <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/python2-vs-python3/</guid>
+      <guid>https://blog.memlenz.com/blog/python/python2-vs-python3/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Python 2 vs Python 3 : Un duel dépassé ?&lt;/strong&gt; 
     &lt;div id=&#34;python-2-vs-python-3--un-duel-dépassé-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -51,10 +51,10 @@
     
     <item>
       <title>Pourquoi Python doit être installé pour fonctionner ?</title>
-      <link>http://localhost:1313/blog/python/pourquoi-installer-python/</link>
+      <link>https://blog.memlenz.com/blog/python/pourquoi-installer-python/</link>
       <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/pourquoi-installer-python/</guid>
+      <guid>https://blog.memlenz.com/blog/python/pourquoi-installer-python/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pourquoi Python doit être installé pour fonctionner ?&lt;/strong&gt; 
     &lt;div id=&#34;pourquoi-python-doit-être-installé-pour-fonctionner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -70,10 +70,10 @@
     
     <item>
       <title>De LazyVim à l&#39;exécution de son premier script Python</title>
-      <link>http://localhost:1313/blog/linux-tweaks/lazyvim/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/lazyvim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/lazyvim/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/lazyvim/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Installer Neovim et Git&lt;/strong&gt; 
     &lt;div id=&#34;1-installer-neovim-et-git&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -123,10 +123,10 @@
     
     <item>
       <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
-      <link>http://localhost:1313/blog/python/environnement-de-travail/</link>
+      <link>https://blog.memlenz.com/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/environnement-de-travail/</guid>
+      <guid>https://blog.memlenz.com/blog/python/environnement-de-travail/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Choisir son environnement de travail 
     &lt;div id=&#34;choisir-son-environnement-de-travail&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -142,10 +142,10 @@
     
     <item>
       <title>Différence entre un langage interprété et un langage compilé</title>
-      <link>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
+      <link>https://blog.memlenz.com/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+      <guid>https://blog.memlenz.com/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Langage interprété vs langage compilé : Quelle est la différence ?&lt;/strong&gt; 
     &lt;div id=&#34;langage-interprété-vs-langage-compilé--quelle-est-la-différence-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -161,10 +161,10 @@
     
     <item>
       <title>Différence entre un fichier .py et un exécutable .exe</title>
-      <link>http://localhost:1313/blog/python/difference-exe-py/</link>
+      <link>https://blog.memlenz.com/blog/python/difference-exe-py/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/difference-exe-py/</guid>
+      <guid>https://blog.memlenz.com/blog/python/difference-exe-py/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;C&amp;rsquo;est quoi un fichier .py par rapport à une application .exe ?&lt;/strong&gt; 
     &lt;div id=&#34;c&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -180,10 +180,10 @@
     
     <item>
       <title>Introduction à Python</title>
-      <link>http://localhost:1313/courses/python/introduction/</link>
+      <link>https://blog.memlenz.com/courses/python/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/introduction/</guid>
+      <guid>https://blog.memlenz.com/courses/python/introduction/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Python : Introduction et premiers pas 
     &lt;div id=&#34;python--introduction-et-premiers-pas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

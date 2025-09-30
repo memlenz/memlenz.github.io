@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="fr">
@@ -22,7 +22,7 @@
   <meta name="keywords" content="Python,LazyVim,LSP,Neovim,Débutant,">
   
   
-  <link rel="canonical" href="http://localhost:1313/blog/linux-tweaks/lazyvim/">
+  <link rel="canonical" href="https://blog.memlenz.com/blog/linux-tweaks/lazyvim/">
   
   
   
@@ -99,7 +99,7 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/blog/linux-tweaks/lazyvim/">
+  <meta property="og:url" content="https://blog.memlenz.com/blog/linux-tweaks/lazyvim/">
   <meta property="og:title" content="De LazyVim à l&#39;exécution de son premier script Python">
   <meta property="og:description" content="Installer LazyVim, configurer les extras et les LSP pour coder en Python efficacement.">
   <meta property="og:locale" content="fr">
@@ -128,7 +128,7 @@
     "description": "Installer LazyVim, configurer les extras et les LSP pour coder en Python efficacement.",
     "abstract": "\u003ch2 class=\u0022relative group\u0022\u003e\u003cstrong\u003e1. Installer Neovim et Git\u003c\/strong\u003e \n    \u003cdiv id=\u00221-installer-neovim-et-git\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#1-installer-neovim-et-git\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003eLazyVim repose sur \u003cstrong\u003eNeovim\u003c\/strong\u003e, donc on l’installe :\u003c\/p\u003e\n\n\u003ch3 class=\u0022relative group\u0022\u003e\u003cstrong\u003ePour Ubuntu\/Debian :\u003c\/strong\u003e \n    \u003cdiv id=\u0022pour-ubuntudebian-\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#pour-ubuntudebian-\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h3\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-sh\u0022 data-lang=\u0022sh\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003esudo apt update \u003cspan class=\u0022o\u0022\u003e\u0026amp;\u0026amp;\u003c\/span\u003e sudo apt install -y neovim git\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\n\u003ch3 class=\u0022relative group\u0022\u003e\u003cstrong\u003ePour Arch Linux :\u003c\/strong\u003e \n    \u003cdiv id=\u0022pour-arch-linux-\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#pour-arch-linux-\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h3\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-sh\u0022 data-lang=\u0022sh\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003esudo pacman -S neovim git\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\n\u003ch3 class=\u0022relative group\u0022\u003e\u003cstrong\u003ePour Void Linux :\u003c\/strong\u003e \n    \u003cdiv id=\u0022pour-void-linux-\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#pour-void-linux-\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h3\u003e\n\u003cdiv class=\u0022highlight\u0022\u003e\u003cpre tabindex=\u00220\u0022 class=\u0022chroma\u0022\u003e\u003ccode class=\u0022language-sh\u0022 data-lang=\u0022sh\u0022\u003e\u003cspan class=\u0022line\u0022\u003e\u003cspan class=\u0022cl\u0022\u003esudo xbps-install -S neovim git\n\u003c\/span\u003e\u003c\/span\u003e\u003c\/code\u003e\u003c\/pre\u003e\u003c\/div\u003e\u003cp\u003eVérifie l’installation :\u003c\/p\u003e",
     "inLanguage": "fr",
-    "url" : "http:\/\/localhost:1313\/blog\/linux-tweaks\/lazyvim\/",
+    "url" : "https:\/\/blog.memlenz.com\/blog\/linux-tweaks\/lazyvim\/",
     "author" : {
       "@type": "Person",
       "name": "Châ-Fine Ayédoun ADEBI"
@@ -1295,7 +1295,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="http://localhost:1313/">
+  data-url="https://blog.memlenz.com/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

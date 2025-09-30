@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on </title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://blog.memlenz.com/series/</link>
     <description>Recent content in Series on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 13:30:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2025 13:30:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Arch Linux</title>
-      <link>http://localhost:1313/series/arch-linux/</link>
+      <link>https://blog.memlenz.com/series/arch-linux/</link>
       <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/series/arch-linux/</guid>
+      <guid>https://blog.memlenz.com/series/arch-linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Systèmes &amp; Réseaux</title>
-      <link>http://localhost:1313/series/syst%C3%A8mes--r%C3%A9seaux/</link>
+      <link>https://blog.memlenz.com/series/syst%C3%A8mes--r%C3%A9seaux/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/series/syst%C3%A8mes--r%C3%A9seaux/</guid>
+      <guid>https://blog.memlenz.com/series/syst%C3%A8mes--r%C3%A9seaux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux Essentials</title>
-      <link>http://localhost:1313/series/linux-essentials/</link>
+      <link>https://blog.memlenz.com/series/linux-essentials/</link>
       <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/series/linux-essentials/</guid>
+      <guid>https://blog.memlenz.com/series/linux-essentials/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Apprendre Python</title>
-      <link>http://localhost:1313/series/apprendre-python/</link>
+      <link>https://blog.memlenz.com/series/apprendre-python/</link>
       <pubDate>Thu, 03 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/series/apprendre-python/</guid>
+      <guid>https://blog.memlenz.com/series/apprendre-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Getting Started With SQL</title>
-      <link>http://localhost:1313/series/getting-started-with-sql/</link>
+      <link>https://blog.memlenz.com/series/getting-started-with-sql/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/series/getting-started-with-sql/</guid>
+      <guid>https://blog.memlenz.com/series/getting-started-with-sql/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Getting Started With Python</title>
-      <link>http://localhost:1313/series/getting-started-with-python/</link>
+      <link>https://blog.memlenz.com/series/getting-started-with-python/</link>
       <pubDate>Sat, 15 Feb 2025 02:55:22 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/series/getting-started-with-python/</guid>
+      <guid>https://blog.memlenz.com/series/getting-started-with-python/</guid>
       <description></description>
       
     </item>
