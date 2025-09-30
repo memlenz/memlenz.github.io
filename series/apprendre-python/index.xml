@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apprendre Python on </title>
-    <link>https://blog.memlenz.com/series/apprendre-python/</link>
+    <link>http://localhost:1313/series/apprendre-python/</link>
     <description>Recent content in Apprendre Python on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Apr 2025 10:55:18 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/series/apprendre-python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Apr 2025 10:55:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/series/apprendre-python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Comprendre et maîtriser with et open en Python</title>
-      <link>https://blog.memlenz.com/courses/python/with-open/</link>
+      <link>http://localhost:1313/courses/python/with-open/</link>
       <pubDate>Thu, 03 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/with-open/</guid>
+      <guid>http://localhost:1313/courses/python/with-open/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;&lt;code&gt;with open()&lt;/code&gt; en Python : Gérer les fichiers comme un pro&lt;/strong&gt; 
     &lt;div id=&#34;with-open&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -32,10 +32,10 @@
     
     <item>
       <title>Comprendre et maîtriser argparse en Python</title>
-      <link>https://blog.memlenz.com/courses/python/argparse-en-python/</link>
+      <link>http://localhost:1313/courses/python/argparse-en-python/</link>
       <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/argparse-en-python/</guid>
+      <guid>http://localhost:1313/courses/python/argparse-en-python/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;🚀 Maîtriser argparse en Python : Guide complet 
     &lt;div id=&#34;-maîtriser-argparse-en-python--guide-complet&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -70,10 +70,10 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Les exceptions en Python</title>
-      <link>https://blog.memlenz.com/courses/python/try-except/</link>
+      <link>http://localhost:1313/courses/python/try-except/</link>
       <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/try-except/</guid>
+      <guid>http://localhost:1313/courses/python/try-except/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Les Blocs Try/Except en Python : Gérez Vos Erreurs comme un Pro !&lt;/strong&gt; 
     &lt;div id=&#34;les-blocs-tryexcept-en-python--gérez-vos-erreurs-comme-un-pro-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -89,10 +89,10 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Le gestionnaire de packet PIP</title>
-      <link>https://blog.memlenz.com/courses/python/pip/</link>
+      <link>http://localhost:1313/courses/python/pip/</link>
       <pubDate>Tue, 04 Mar 2025 02:03:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/pip/</guid>
+      <guid>http://localhost:1313/courses/python/pip/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;PIP en Python : Gérez vos Packages comme un Pro&lt;/strong&gt; 
     &lt;div id=&#34;pip-en-python--gérez-vos-packages-comme-un-pro&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -108,10 +108,10 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Module RegEx</title>
-      <link>https://blog.memlenz.com/courses/python/module-regex/</link>
+      <link>http://localhost:1313/courses/python/module-regex/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/module-regex/</guid>
+      <guid>http://localhost:1313/courses/python/module-regex/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Les RegEx en Python : Domptez la Puissance des Expressions Régulières&lt;/strong&gt; 
     &lt;div id=&#34;les-regex-en-python--domptez-la-puissance-des-expressions-régulières&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -127,100 +127,100 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Module JSON</title>
-      <link>https://blog.memlenz.com/courses/python/module-json/</link>
+      <link>http://localhost:1313/courses/python/module-json/</link>
       <pubDate>Tue, 04 Mar 2025 01:37:05 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/module-json/</guid>
+      <guid>http://localhost:1313/courses/python/module-json/</guid>
       <description>&lt;p&gt;JSON (&lt;em&gt;JavaScript Object Notation&lt;/em&gt;) est un format ultra-populaire pour échanger des données. Léger, lisible et facile à parser, il est utilisé partout : API, bases de données, fichiers de configuration&amp;hellip; Bref, si vous codez en Python, vous allez souvent bosser avec du JSON.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Module Math</title>
-      <link>https://blog.memlenz.com/courses/python/module-math/</link>
+      <link>http://localhost:1313/courses/python/module-math/</link>
       <pubDate>Tue, 04 Mar 2025 01:32:43 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/module-math/</guid>
+      <guid>http://localhost:1313/courses/python/module-math/</guid>
       <description>&lt;p&gt;En programmation, il est fréquent de devoir manipuler des nombres, calculer des racines carrées, arrondir des valeurs ou encore travailler avec des constantes mathématiques comme π (pi). C&amp;rsquo;est là qu&amp;rsquo;intervient le module &lt;code&gt;math&lt;/code&gt; de Python, une boîte à outils ultra pratique pour gérer les calculs numériques sans se casser la tête.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les Dates en Python</title>
-      <link>https://blog.memlenz.com/courses/python/dates/</link>
+      <link>http://localhost:1313/courses/python/dates/</link>
       <pubDate>Tue, 04 Mar 2025 01:27:53 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/dates/</guid>
+      <guid>http://localhost:1313/courses/python/dates/</guid>
       <description>&lt;p&gt;La gestion des dates et des heures est une facette incontournable de la programmation, et Python met à votre disposition des outils puissants pour travailler avec ces données temporelles. Dans cet article, nous allons explorer les bases de la manipulation des dates en Python, en mettant l&amp;rsquo;accent sur le module intégré &lt;code&gt;datetime&lt;/code&gt;, ainsi que quelques astuces pratiques pour formater, comparer et transformer vos dates.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les Modules en Python</title>
-      <link>https://blog.memlenz.com/courses/python/modules/</link>
+      <link>http://localhost:1313/courses/python/modules/</link>
       <pubDate>Tue, 04 Mar 2025 01:19:13 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/modules/</guid>
+      <guid>http://localhost:1313/courses/python/modules/</guid>
       <description>&lt;p&gt;Python est bien plus qu’un simple langage de programmation : c’est un écosystème où chaque fichier de code peut devenir une brique de votre projet. Pour tous ceux qui veulent écrire un code clair, réutilisable et modulable, les modules Python sont vos meilleurs alliés. Dans cet article, nous allons explorer ce concept essentiel et découvrir comment les modules transforment notre manière de programmer.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>La portee en Python</title>
-      <link>https://blog.memlenz.com/courses/python/portee/</link>
+      <link>http://localhost:1313/courses/python/portee/</link>
       <pubDate>Mon, 03 Mar 2025 05:57:31 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/portee/</guid>
+      <guid>http://localhost:1313/courses/python/portee/</guid>
       <description>&lt;p&gt;Si t’as déjà eu un bug chelou où une variable semble disparaître ou changer toute seule, bienvenue dans le monde de la &lt;strong&gt;portée&lt;/strong&gt; (scope) en Python. C’est un concept simple mais fondamental : il définit où une variable est accessible dans ton code. Et si tu veux éviter des surprises, mieux vaut le maîtriser.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Polymorphisme</title>
-      <link>https://blog.memlenz.com/courses/python/polymorphisme/</link>
+      <link>http://localhost:1313/courses/python/polymorphisme/</link>
       <pubDate>Mon, 03 Mar 2025 05:53:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/polymorphisme/</guid>
+      <guid>http://localhost:1313/courses/python/polymorphisme/</guid>
       <description>&lt;p&gt;T’as déjà entendu parler du polymorphisme en Python, mais ça te semble encore flou ? Imagine un ninja qui change de technique en fonction de son adversaire : le polymorphisme, c’est un peu ça en programmation. Il permet d’utiliser une même interface pour différents types d’objets, rendant ton code plus flexible et réutilisable.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>L&#39; Heritage en Python</title>
-      <link>https://blog.memlenz.com/courses/python/heritage/</link>
+      <link>http://localhost:1313/courses/python/heritage/</link>
       <pubDate>Mon, 03 Mar 2025 05:50:46 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/heritage/</guid>
+      <guid>http://localhost:1313/courses/python/heritage/</guid>
       <description>&lt;p&gt;Si tu veux devenir un tueur en Python, comprendre l’héritage est un passage obligé. Que ce soit pour organiser ton code proprement, réutiliser des fonctionnalités ou construire des systèmes modulaires, l’héritage est un outil puissant. Mais mal utilisé, il peut aussi transformer ton code en une usine à gaz difficile à maintenir.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les Classes en Python</title>
-      <link>https://blog.memlenz.com/courses/python/classes/</link>
+      <link>http://localhost:1313/courses/python/classes/</link>
       <pubDate>Mon, 03 Mar 2025 05:46:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/classes/</guid>
+      <guid>http://localhost:1313/courses/python/classes/</guid>
       <description>&lt;p&gt;Si t’as déjà croisé des mots comme &lt;em&gt;POO&lt;/em&gt;, &lt;em&gt;classes&lt;/em&gt;, &lt;em&gt;objets&lt;/em&gt; et que ça t’a donné envie de fuir… t’inquiète, on va rendre ça simple et digeste. La programmation orientée objet (&lt;em&gt;POO&lt;/em&gt; pour les intimes) est une manière d’organiser ton code pour qu’il soit plus réutilisable, propre et logique.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les array en Python</title>
-      <link>https://blog.memlenz.com/courses/python/array/</link>
+      <link>http://localhost:1313/courses/python/array/</link>
       <pubDate>Mon, 03 Mar 2025 05:40:20 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/array/</guid>
+      <guid>http://localhost:1313/courses/python/array/</guid>
       <description>&lt;p&gt;Les &lt;strong&gt;arrays&lt;/strong&gt; en Python, c’est un peu le truc que tout le monde confond avec les listes. Pourtant, ce sont deux structures bien différentes, et si tu veux vraiment coder efficacement, autant comprendre quand utiliser l’un ou l’autre.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les fonctions lambda en Python</title>
-      <link>https://blog.memlenz.com/courses/python/lambda/</link>
+      <link>http://localhost:1313/courses/python/lambda/</link>
       <pubDate>Thu, 27 Feb 2025 19:57:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/lambda/</guid>
+      <guid>http://localhost:1313/courses/python/lambda/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Les Fonctions Lambda en Python : Des Fonctions Ultra-Compactes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Si tu es déjà familiarisé avec les fonctions classiques en Python, tu sais qu&amp;rsquo;elles peuvent parfois être un peu longues à écrire pour des tâches simples. C’est là que &lt;strong&gt;les fonctions lambda&lt;/strong&gt; entrent en scène pour te simplifier la vie. Elles te permettent de créer des fonctions anonymes, en une seule ligne, super efficaces et parfaites pour les cas où tu n’as pas besoin de nommer ta fonction.&lt;/p&gt;</description>
       
@@ -228,10 +228,10 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Les fonction en python</title>
-      <link>https://blog.memlenz.com/courses/python/fonction/</link>
+      <link>http://localhost:1313/courses/python/fonction/</link>
       <pubDate>Thu, 27 Feb 2025 19:54:14 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/fonction/</guid>
+      <guid>http://localhost:1313/courses/python/fonction/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Les Fonctions en Python : La Clé de l&amp;rsquo;Efficacité&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tu veux rendre ton code plus propre, plus modulaire, et surtout réutilisable sans avoir à tout réécrire à chaque fois ? Les &lt;strong&gt;fonctions&lt;/strong&gt; sont là pour ça. Elles te permettent de regrouper un ensemble d&amp;rsquo;instructions sous un seul nom, que tu peux ensuite appeler à tout moment dans ton code, en y passant des paramètres, et en récupérant des résultats.&lt;/p&gt;</description>
       
@@ -239,10 +239,10 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Les boucles en Python</title>
-      <link>https://blog.memlenz.com/courses/python/boucles/</link>
+      <link>http://localhost:1313/courses/python/boucles/</link>
       <pubDate>Thu, 27 Feb 2025 19:47:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/boucles/</guid>
+      <guid>http://localhost:1313/courses/python/boucles/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Les Structures de Boucles en Python : Reprends le Contrôle de ton Code&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Quand tu veux que ton programme répète une série d’actions plusieurs fois sans avoir à tout coder à la main, les boucles sont ton meilleur ami. En Python, elles sont simples à comprendre et te permettent de faire des actions répétitives de manière efficace et élégante.&lt;/p&gt;</description>
       
@@ -250,40 +250,40 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Les structures conditionnelles avec Python</title>
-      <link>https://blog.memlenz.com/courses/python/conditions/</link>
+      <link>http://localhost:1313/courses/python/conditions/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/conditions/</guid>
+      <guid>http://localhost:1313/courses/python/conditions/</guid>
       <description>&lt;p&gt;Si la programmation était une histoire, les structures conditionnelles seraient les moments où l&amp;rsquo;intrigue prend un tournant. Tu sais, ces points où ton programme doit choisir quel chemin emprunter. &lt;strong&gt;Les structures conditionnelles&lt;/strong&gt; te permettent de dire à ton code : &amp;ldquo;Si cette condition est vraie, fais ça, sinon fais autre chose.&amp;rdquo; C’est un peu comme dans la vraie vie, où tu choisis une action en fonction de ce qui se passe autour de toi.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les dictionnaires en Python</title>
-      <link>https://blog.memlenz.com/courses/python/dictionnaires/</link>
+      <link>http://localhost:1313/courses/python/dictionnaires/</link>
       <pubDate>Thu, 27 Feb 2025 19:30:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/dictionnaires/</guid>
+      <guid>http://localhost:1313/courses/python/dictionnaires/</guid>
       <description>&lt;p&gt;Tu veux stocker des données sous forme de paires clé-valeur, comme une sorte de carnet où chaque information est associée à un identifiant unique ? Les &lt;strong&gt;dictionnaires&lt;/strong&gt; en Python sont faits pour toi. Imagine un annuaire téléphonique où chaque nom est lié à un numéro, ou une base de données où chaque identifiant est lié à des informations spécifiques. C’est exactement ce que fait un dictionnaire, mais en bien plus flexible et puissant.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les sets en Python</title>
-      <link>https://blog.memlenz.com/courses/python/sets/</link>
+      <link>http://localhost:1313/courses/python/sets/</link>
       <pubDate>Thu, 27 Feb 2025 19:27:26 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/sets/</guid>
+      <guid>http://localhost:1313/courses/python/sets/</guid>
       <description>&lt;p&gt;Tu cherches à stocker des éléments sans te prendre la tête avec des doublons ? Les &lt;strong&gt;sets&lt;/strong&gt; en Python sont là pour ça. Ces collections sont super utiles lorsque tu veux garantir que chaque élément dans ta collection soit unique. En plus, ils offrent une vitesse de recherche et de suppression ultra rapide. Bref, si tu veux de la simplicité et de l&amp;rsquo;efficacité, les sets devraient rapidement devenir tes alliés dans ton code Python.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les tuples en Python</title>
-      <link>https://blog.memlenz.com/courses/python/tuples/</link>
+      <link>http://localhost:1313/courses/python/tuples/</link>
       <pubDate>Thu, 27 Feb 2025 18:50:12 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/tuples/</guid>
+      <guid>http://localhost:1313/courses/python/tuples/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Les Tuples en Python : Les Collections Inaltérables&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tu cherches une structure de données rapide, simple et &lt;strong&gt;inaltérable&lt;/strong&gt; pour stocker des informations ? Le &lt;strong&gt;tuple&lt;/strong&gt; en Python est ce qu&amp;rsquo;il te faut ! Un peu comme une liste, mais en version solide. Une fois créé, tu ne peux pas le modifier — ce qui le rend encore plus fiable quand tu as besoin d&amp;rsquo;une collection dont tu es sûr qu&amp;rsquo;elle ne changera jamais.&lt;/p&gt;</description>
       
@@ -291,30 +291,30 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Les list en Python</title>
-      <link>https://blog.memlenz.com/courses/python/list/</link>
+      <link>http://localhost:1313/courses/python/list/</link>
       <pubDate>Thu, 27 Feb 2025 18:47:13 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/list/</guid>
+      <guid>http://localhost:1313/courses/python/list/</guid>
       <description>&lt;p&gt;Tu veux stocker plusieurs valeurs dans une seule variable sans te prendre la tête avec des déclarations interminables ? Les listes en Python sont la solution idéale. C&amp;rsquo;est un peu comme un panier où tu peux jeter tous tes éléments — des nombres, des chaînes de caractères, ou même d&amp;rsquo;autres listes — et les récupérer à tout moment pour les manipuler.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les operateurs en Python</title>
-      <link>https://blog.memlenz.com/courses/python/operateurs/</link>
+      <link>http://localhost:1313/courses/python/operateurs/</link>
       <pubDate>Thu, 27 Feb 2025 18:44:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/operateurs/</guid>
+      <guid>http://localhost:1313/courses/python/operateurs/</guid>
       <description>&lt;p&gt;En Python, les opérateurs sont des outils essentiels. Ils sont la base pour effectuer des calculs, manipuler des données et prendre des décisions dans ton code. Qu&amp;rsquo;il s&amp;rsquo;agisse d&amp;rsquo;additionner des nombres, de comparer des valeurs, ou de combiner des expressions logiques, tu vas constamment utiliser des opérateurs. Mais attention, ils ne sont pas tous les mêmes ! Python te donne tout un arsenal d’opérateurs pour accomplir différents types d&amp;rsquo;actions, et comprendre comment ils fonctionnent est indispensable pour bien programmer.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les booleen en Python</title>
-      <link>https://blog.memlenz.com/courses/python/booleen/</link>
+      <link>http://localhost:1313/courses/python/booleen/</link>
       <pubDate>Thu, 27 Feb 2025 18:38:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/booleen/</guid>
+      <guid>http://localhost:1313/courses/python/booleen/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Les Booléens en Python : La Vérité est Toute Simple&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Les booléens, c’est un peu comme la lumière au bout du tunnel dans le monde de la programmation. Ils ne sont pas nombreux, mais ils sont cruciaux. En Python, tu vas souvent tomber sur ces petites valeurs qui, au fond, ne peuvent être que &lt;strong&gt;Vrai (True)&lt;/strong&gt; ou &lt;strong&gt;Faux (False)&lt;/strong&gt;. Et pourtant, ils sont derrière des décisions importantes dans ton code. C’est grâce à eux qu&amp;rsquo;on peut contrôler le flux du programme, tester des conditions, et prendre des décisions stratégiques dans le code.&lt;/p&gt;</description>
       
@@ -322,30 +322,30 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Les Strings en Python</title>
-      <link>https://blog.memlenz.com/courses/python/strings/</link>
+      <link>http://localhost:1313/courses/python/strings/</link>
       <pubDate>Thu, 27 Feb 2025 17:50:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/strings/</guid>
+      <guid>http://localhost:1313/courses/python/strings/</guid>
       <description>&lt;p&gt;Les strings, ou chaînes de caractères, sont l&amp;rsquo;un des types de données les plus utilisés en Python. Que ce soit pour manipuler des données d&amp;rsquo;entrée utilisateur, traiter des fichiers texte ou encore générer du contenu dynamique, les chaînes de caractères sont partout. Mais comment les utiliser efficacement et tirer le meilleur parti de leurs fonctionnalités ? C’est ce qu&amp;rsquo;on va explorer ici, avec un petit détour par les bonnes pratiques.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Le casting en Python</title>
-      <link>https://blog.memlenz.com/courses/python/casting/</link>
+      <link>http://localhost:1313/courses/python/casting/</link>
       <pubDate>Thu, 27 Feb 2025 14:34:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/casting/</guid>
+      <guid>http://localhost:1313/courses/python/casting/</guid>
       <description>&lt;p&gt;Le casting, ou la conversion de types, en Python, c’est comme jouer au magicien des données. T&amp;rsquo;as des types différents dans tes variables, et parfois, tu veux les transformer pour qu&amp;rsquo;ils collent mieux à tes besoins. Pas de souci, Python te permet de faire tout ça de manière ultra simple. Et comme c’est un langage qui aime la flexibilité, le casting devient une des compétences de base pour rendre ton code encore plus fluide et efficace.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Les nombres en Python</title>
-      <link>https://blog.memlenz.com/courses/python/nombres/</link>
+      <link>http://localhost:1313/courses/python/nombres/</link>
       <pubDate>Thu, 27 Feb 2025 12:30:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/nombres/</guid>
+      <guid>http://localhost:1313/courses/python/nombres/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Les Nombres en Python : De l&amp;rsquo;Intégrale à la Décimale&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Les nombres sont, sans surprise, l&amp;rsquo;une des pierres angulaires de la programmation. Et en Python, c&amp;rsquo;est un terrain de jeu assez large que tu vas découvrir. Que tu manipules des entiers pour compter des objets ou des flottants pour des calculs de précision, Python te fournit tout un arsenal pour travailler avec des chiffres de manière fluide et intuitive. Dans cet article, on plonge dans les différentes facettes des nombres en Python, avec des exemples concrets et quelques astuces qui te faciliteront la vie.&lt;/p&gt;</description>
       
@@ -353,30 +353,30 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Les type de donnée en python</title>
-      <link>https://blog.memlenz.com/courses/python/type-donnee/</link>
+      <link>http://localhost:1313/courses/python/type-donnee/</link>
       <pubDate>Thu, 27 Feb 2025 10:22:53 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/type-donnee/</guid>
+      <guid>http://localhost:1313/courses/python/type-donnee/</guid>
       <description>&lt;p&gt;Quand tu débutes en Python, l&amp;rsquo;un des concepts essentiels à comprendre, c&amp;rsquo;est celui des types de données. Chaque valeur que tu manipules en Python appartient à un type spécifique. Ces types déterminent non seulement ce que tu peux faire avec les données, mais aussi la manière dont elles sont stockées et manipulées en mémoire. Dans cet article, on va explorer les types de données les plus utilisés en Python, en décryptant leur fonctionnement et leurs applications avec des exemples concrets.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Syntaxe du langage Python</title>
-      <link>https://blog.memlenz.com/courses/python/syntaxe/</link>
+      <link>http://localhost:1313/courses/python/syntaxe/</link>
       <pubDate>Wed, 26 Feb 2025 02:29:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/syntaxe/</guid>
+      <guid>http://localhost:1313/courses/python/syntaxe/</guid>
       <description>&lt;p&gt;Lorsque tu te lances dans la programmation Python, l&amp;rsquo;une des premières choses que tu remarqueras, c’est à quel point la syntaxe du langage est simple et épurée. C’est un peu comme une respiration dans un océan de langages parfois trop verbeux. Dans cet article, on va décortiquer ensemble les bases de la syntaxe Python, en te donnant des clés pour écrire du code propre, lisible, et qui roule sans accroc.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Variables et commentaires en python</title>
-      <link>https://blog.memlenz.com/courses/python/variables/</link>
+      <link>http://localhost:1313/courses/python/variables/</link>
       <pubDate>Wed, 26 Feb 2025 02:26:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/variables/</guid>
+      <guid>http://localhost:1313/courses/python/variables/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Les Variables en Python : Le cœur de ton code 
     &lt;div id=&#34;les-variables-en-python--le-cœur-de-ton-code&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -392,10 +392,10 @@ Si tu fais juste :&lt;/p&gt;</description>
     
     <item>
       <title>Introduction à Python</title>
-      <link>https://blog.memlenz.com/courses/python/introduction/</link>
+      <link>http://localhost:1313/courses/python/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/introduction/</guid>
+      <guid>http://localhost:1313/courses/python/introduction/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Python : Introduction et premiers pas 
     &lt;div id=&#34;python--introduction-et-premiers-pas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

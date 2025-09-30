@@ -2,231 +2,231 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>https://blog.memlenz.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 13:30:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2025 13:30:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Arch Linux</title>
-      <link>https://blog.memlenz.com/categories/arch-linux/</link>
+      <link>http://localhost:1313/categories/arch-linux/</link>
       <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/arch-linux/</guid>
+      <guid>http://localhost:1313/categories/arch-linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://blog.memlenz.com/categories/linux/</link>
+      <link>http://localhost:1313/categories/linux/</link>
       <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/linux/</guid>
+      <guid>http://localhost:1313/categories/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutoriel</title>
-      <link>https://blog.memlenz.com/categories/tutoriel/</link>
+      <link>http://localhost:1313/categories/tutoriel/</link>
       <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/tutoriel/</guid>
+      <guid>http://localhost:1313/categories/tutoriel/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Systèmes &amp; Réseaux</title>
-      <link>https://blog.memlenz.com/categories/syst%C3%A8mes--r%C3%A9seaux/</link>
+      <link>http://localhost:1313/categories/syst%C3%A8mes--r%C3%A9seaux/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/syst%C3%A8mes--r%C3%A9seaux/</guid>
+      <guid>http://localhost:1313/categories/syst%C3%A8mes--r%C3%A9seaux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux-Basics</title>
-      <link>https://blog.memlenz.com/categories/linux-basics/</link>
+      <link>http://localhost:1313/categories/linux-basics/</link>
       <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/linux-basics/</guid>
+      <guid>http://localhost:1313/categories/linux-basics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Réseau</title>
-      <link>https://blog.memlenz.com/categories/r%C3%A9seau/</link>
+      <link>http://localhost:1313/categories/r%C3%A9seau/</link>
       <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/r%C3%A9seau/</guid>
+      <guid>http://localhost:1313/categories/r%C3%A9seau/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Terminal</title>
-      <link>https://blog.memlenz.com/categories/terminal/</link>
+      <link>http://localhost:1313/categories/terminal/</link>
       <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/terminal/</guid>
+      <guid>http://localhost:1313/categories/terminal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blog Python</title>
-      <link>https://blog.memlenz.com/categories/blog-python/</link>
+      <link>http://localhost:1313/categories/blog-python/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/blog-python/</guid>
+      <guid>http://localhost:1313/categories/blog-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Base De Données</title>
-      <link>https://blog.memlenz.com/categories/base-de-donn%C3%A9es/</link>
+      <link>http://localhost:1313/categories/base-de-donn%C3%A9es/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/base-de-donn%C3%A9es/</guid>
+      <guid>http://localhost:1313/categories/base-de-donn%C3%A9es/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Devops</title>
-      <link>https://blog.memlenz.com/categories/devops/</link>
+      <link>http://localhost:1313/categories/devops/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/devops/</guid>
+      <guid>http://localhost:1313/categories/devops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projets Python</title>
-      <link>https://blog.memlenz.com/categories/projets-python/</link>
+      <link>http://localhost:1313/categories/projets-python/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/projets-python/</guid>
+      <guid>http://localhost:1313/categories/projets-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cours Python</title>
-      <link>https://blog.memlenz.com/categories/cours-python/</link>
+      <link>http://localhost:1313/categories/cours-python/</link>
       <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/cours-python/</guid>
+      <guid>http://localhost:1313/categories/cours-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://blog.memlenz.com/categories/python/</link>
+      <link>http://localhost:1313/categories/python/</link>
       <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/python/</guid>
+      <guid>http://localhost:1313/categories/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tutoriels</title>
-      <link>https://blog.memlenz.com/categories/tutoriels/</link>
+      <link>http://localhost:1313/categories/tutoriels/</link>
       <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/tutoriels/</guid>
+      <guid>http://localhost:1313/categories/tutoriels/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blog Linux</title>
-      <link>https://blog.memlenz.com/categories/blog-linux/</link>
+      <link>http://localhost:1313/categories/blog-linux/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/blog-linux/</guid>
+      <guid>http://localhost:1313/categories/blog-linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction À Python</title>
-      <link>https://blog.memlenz.com/categories/introduction-%C3%A0-python/</link>
+      <link>http://localhost:1313/categories/introduction-%C3%A0-python/</link>
       <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/introduction-%C3%A0-python/</guid>
+      <guid>http://localhost:1313/categories/introduction-%C3%A0-python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Débutant</title>
-      <link>https://blog.memlenz.com/categories/d%C3%A9butant/</link>
+      <link>http://localhost:1313/categories/d%C3%A9butant/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/d%C3%A9butant/</guid>
+      <guid>http://localhost:1313/categories/d%C3%A9butant/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Jeux Et Algorithmes</title>
-      <link>https://blog.memlenz.com/categories/jeux-et-algorithmes/</link>
+      <link>http://localhost:1313/categories/jeux-et-algorithmes/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/jeux-et-algorithmes/</guid>
+      <guid>http://localhost:1313/categories/jeux-et-algorithmes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>SQL Course</title>
-      <link>https://blog.memlenz.com/categories/sql-course/</link>
+      <link>http://localhost:1313/categories/sql-course/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/sql-course/</guid>
+      <guid>http://localhost:1313/categories/sql-course/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Expérience Personnelle</title>
-      <link>https://blog.memlenz.com/categories/exp%C3%A9rience-personnelle/</link>
+      <link>http://localhost:1313/categories/exp%C3%A9rience-personnelle/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/exp%C3%A9rience-personnelle/</guid>
+      <guid>http://localhost:1313/categories/exp%C3%A9rience-personnelle/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Informatique</title>
-      <link>https://blog.memlenz.com/categories/informatique/</link>
+      <link>http://localhost:1313/categories/informatique/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/informatique/</guid>
+      <guid>http://localhost:1313/categories/informatique/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux &amp; Open Source</title>
-      <link>https://blog.memlenz.com/categories/linux--open-source/</link>
+      <link>http://localhost:1313/categories/linux--open-source/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/categories/linux--open-source/</guid>
+      <guid>http://localhost:1313/categories/linux--open-source/</guid>
       <description></description>
       
     </item>

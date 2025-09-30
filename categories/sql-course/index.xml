@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SQL Course on </title>
-    <link>https://blog.memlenz.com/categories/sql-course/</link>
+    <link>http://localhost:1313/categories/sql-course/</link>
     <description>Recent content in SQL Course on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 25 Feb 2025 01:59:02 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/categories/sql-course/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 01:59:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/sql-course/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction to SQL</title>
-      <link>https://blog.memlenz.com/courses/sql/introduction/</link>
+      <link>http://localhost:1313/courses/sql/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/sql/introduction/</guid>
+      <guid>http://localhost:1313/courses/sql/introduction/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;SQL : Structured Query Language 
     &lt;div id=&#34;sql--structured-query-language&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

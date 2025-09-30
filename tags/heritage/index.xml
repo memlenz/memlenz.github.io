@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heritage on </title>
-    <link>https://blog.memlenz.com/tags/heritage/</link>
+    <link>http://localhost:1313/tags/heritage/</link>
     <description>Recent content in Heritage on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 05:50:46 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/heritage/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Mar 2025 05:50:46 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/heritage/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>L&#39; Heritage en Python</title>
-      <link>https://blog.memlenz.com/courses/python/heritage/</link>
+      <link>http://localhost:1313/courses/python/heritage/</link>
       <pubDate>Mon, 03 Mar 2025 05:50:46 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/heritage/</guid>
+      <guid>http://localhost:1313/courses/python/heritage/</guid>
       <description>&lt;p&gt;Si tu veux devenir un tueur en Python, comprendre l’héritage est un passage obligé. Que ce soit pour organiser ton code proprement, réutiliser des fonctionnalités ou construire des systèmes modulaires, l’héritage est un outil puissant. Mais mal utilisé, il peut aussi transformer ton code en une usine à gaz difficile à maintenir.&lt;/p&gt;</description>
       
     </item>
