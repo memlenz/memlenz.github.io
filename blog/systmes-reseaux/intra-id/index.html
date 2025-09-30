@@ -14,15 +14,15 @@
   <meta name="theme-color">
 
   
-  <title>Git Commands &middot; </title>
-    <meta name="title" content="Git Commands &middot; ">
+  <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines &middot; </title>
+    <meta name="title" content="Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines &middot; ">
 
   
+  <meta name="description" content="Qu’est-ce que signifie mettre une machine sur l’Intra ID ? Découvre la différence entre Active Directory et Azure AD (Entra ID), et comment les entreprises gèrent les identités et les postes de travail.">
+  <meta name="keywords" content="Active Directory,Azure AD,Entra ID,Administration Système,Sécurité,">
   
   
-  
-  
-  <link rel="canonical" href="https://blog.memlenz.com/tutorials/git-workflows/git-commands/">
+  <link rel="canonical" href="https://blog.memlenz.com/blog/systmes-reseaux/intra-id/">
   
   
   
@@ -99,43 +99,51 @@
   
 
   
-  <meta property="og:url" content="https://blog.memlenz.com/tutorials/git-workflows/git-commands/">
-  <meta property="og:title" content="Git Commands">
+  <meta property="og:url" content="https://blog.memlenz.com/blog/systmes-reseaux/intra-id/">
+  <meta property="og:title" content="Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines">
+  <meta property="og:description" content="Qu’est-ce que signifie mettre une machine sur l’Intra ID ? Découvre la différence entre Active Directory et Azure AD (Entra ID), et comment les entreprises gèrent les identités et les postes de travail.">
   <meta property="og:locale" content="fr">
   <meta property="og:type" content="article">
-    <meta property="article:section" content="tutorials">
-    <meta property="article:published_time" content="2025-02-15T03:02:07+01:00">
-    <meta property="article:modified_time" content="2025-02-15T03:02:07+01:00">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2025-09-25T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-09-25T00:00:00+00:00">
+    <meta property="article:tag" content="Active Directory">
+    <meta property="article:tag" content="Azure AD">
+    <meta property="article:tag" content="Entra ID">
+    <meta property="article:tag" content="Administration Système">
+    <meta property="article:tag" content="Sécurité">
+      <meta property="og:see_also" content="https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Git Commands">
+  <meta name="twitter:title" content="Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines">
+  <meta name="twitter:description" content="Qu’est-ce que signifie mettre une machine sur l’Intra ID ? Découvre la différence entre Active Directory et Azure AD (Entra ID), et comment les entreprises gèrent les identités et les postes de travail.">
 
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "Tutorials",
-    "name": "Git Commands",
-    "headline": "Git Commands",
-    
-    
+    "articleSection": "Langage",
+    "name": "Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines",
+    "headline": "Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines",
+    "description": "Qu’est-ce que signifie mettre une machine sur l’Intra ID ? Découvre la différence entre Active Directory et Azure AD (Entra ID), et comment les entreprises gèrent les identités et les postes de travail.",
+    "abstract": "\u003ch1 class=\u0022relative group\u0022\u003eIntroduction \n    \u003cdiv id=\u0022introduction\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#introduction\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h1\u003e\n\u003cp\u003eEn entreprise, on entend souvent des expressions comme \u003cstrong\u003e\u0026ldquo;mettre une machine sur l’intra ID\u0026rdquo;\u003c\/strong\u003e.\u003cbr\u003e\nDerrière ce jargon se cache une notion clé : \u003cstrong\u003el’intégration des postes de travail dans l’annuaire d’entreprise\u003c\/strong\u003e.\u003c\/p\u003e",
     "inLanguage": "fr",
-    "url" : "https:\/\/blog.memlenz.com\/tutorials\/git-workflows\/git-commands\/",
+    "url" : "https:\/\/blog.memlenz.com\/blog\/systmes-reseaux\/intra-id\/",
     "author" : {
       "@type": "Person",
       "name": "Châ-Fine Ayédoun ADEBI"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-02-15T03:02:07\u002b01:00",
-    "datePublished": "2025-02-15T03:02:07\u002b01:00",
+    "dateCreated": "2025-09-25T00:00:00\u002b00:00",
+    "datePublished": "2025-09-25T00:00:00\u002b00:00",
     
-    "dateModified": "2025-02-15T03:02:07\u002b01:00",
+    "dateModified": "2025-09-25T00:00:00\u002b00:00",
     
-    
+    "keywords": ["Active Directory","Azure AD","Entra ID","Administration Système","Sécurité"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "0"
+    "wordCount": "633"
   }]
   </script>
 
@@ -522,8 +530,6 @@
   
     
   
-    
-  
   <li class="hidden">
     <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/"
       ></a
@@ -532,22 +538,15 @@
 
   
   <li class="inline">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/tutorials/"
-      >Tutorials</a
-    ><span class="px-1 text-primary-500">/</span>
-  </li>
-
-  
-  <li class="inline">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/tutorials/git-workflows/"
-      >Git Workflows</a
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/"
+      >Langage</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
   
   <li class="hidden">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/tutorials/git-workflows/git-commands/"
-      >Git Commands</a
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/systmes-reseaux/intra-id/"
+      >Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -556,7 +555,7 @@
 
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Git Commands
+        Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -586,7 +585,11 @@
   
 
   
+    
+  
 
+  
+    
   
 
   
@@ -603,6 +606,8 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
+      <span>633 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">3 mins</span>
+    
 
     
     
@@ -618,11 +623,75 @@
       
         
           
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/categories/syst%C3%A8mes--r%C3%A9seaux/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Systèmes &amp; Réseaux
+  </span>
+</span>
+</a
+              >
+            
+          
         
       
         
       
         
+          
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/active-directory/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Active Directory
+  </span>
+</span>
+</a
+              >
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/azure-ad/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Azure AD
+  </span>
+</span>
+</a
+              >
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/entra-id/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Entra ID
+  </span>
+</span>
+</a
+              >
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/administration-syst%C3%A8me/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Administration Système
+  </span>
+</span>
+</a
+              >
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/s%C3%A9curit%C3%A9/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Sécurité
+  </span>
+</span>
+</a
+              >
+            
           
         
       
@@ -751,19 +820,380 @@
       
       
       
+        <div class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+          <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+            
+              <details
+  open
+  id="TOCView"
+  class="toc-right mt-0 overflow-y-auto overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Sommaire
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#sous-windows">Sous Windows</a></li>
+        <li><a href="#sous-linux">Sous Linux</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Sommaire
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#sous-windows">Sous Windows</a></li>
+        <li><a href="#sous-linux">Sous Linux</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+
+<script>
+  (function () {
+    'use strict'
+
+    const SCROLL_OFFSET_RATIO = 0.33
+    const TOC_SELECTOR = '#TableOfContents'
+    const ANCHOR_SELECTOR = '.anchor'
+    const TOC_LINK_SELECTOR = 'a[href^="#"]'
+    const NESTED_LIST_SELECTOR = 'li ul'
+    const ACTIVE_CLASS = 'active'
+
+    function getActiveAnchorId(anchors, offsetRatio) {
+      const threshold = window.scrollY + window.innerHeight * offsetRatio
+      const tocLinks = [...document.querySelectorAll('#TableOfContents a[href^="#"]')]
+      const tocIds = new Set(tocLinks.map(link => link.getAttribute('href').substring(1)))
+
+      for (let i = anchors.length - 1; i >= 0; i--) {
+        const top = anchors[i].getBoundingClientRect().top + window.scrollY
+        if (top <= threshold && tocIds.has(anchors[i].id)) {
+          return anchors[i].id
+        }
+      }
+      return anchors.find(anchor => tocIds.has(anchor.id))?.id || ''
+    }
+
+    function updateTOC({ toc, anchors, links, scrollOffset, collapseInactive }) {
+      const activeId = getActiveAnchorId(anchors, scrollOffset)
+      if (!activeId) return
+
+      links.forEach(link => {
+        const isActive = link.getAttribute('href') === `#${activeId}`
+        link.classList.toggle(ACTIVE_CLASS, isActive)
+
+        if (collapseInactive) {
+          const ul = link.closest('li')?.querySelector('ul')
+          if (ul) ul.style.display = isActive ? '' : 'none'
+        }
+      })
+
+      if (collapseInactive) {
+        const activeLink = toc.querySelector(`a[href="#${CSS.escape(activeId)}"]`)
+        let el = activeLink
+        while (el && el !== toc) {
+          if (el.tagName === 'UL') el.style.display = ''
+          if (el.tagName === 'LI') el.querySelector('ul')?.style.setProperty('display', '')
+          el = el.parentElement
+        }
+      }
+    }
+
+    function initTOC() {
+      const toc = document.querySelector(TOC_SELECTOR)
+      if (!toc) return
+
+      const collapseInactive = false
+      const anchors = [...document.querySelectorAll(ANCHOR_SELECTOR)]
+      const links = [...toc.querySelectorAll(TOC_LINK_SELECTOR)]
+
+      if (collapseInactive) {
+        toc.querySelectorAll(NESTED_LIST_SELECTOR).forEach(ul => ul.style.display = 'none')
+      }
+
+      const config = {
+        toc,
+        anchors,
+        links,
+        scrollOffset: SCROLL_OFFSET_RATIO,
+        collapseInactive
+      }
+
+      window.addEventListener('scroll', () => updateTOC(config), { passive: true })
+      window.addEventListener('hashchange', () => updateTOC(config), { passive: true })
+
+      updateTOC(config)
+    }
+
+    document.readyState === 'loading'
+      ? document.addEventListener('DOMContentLoaded', initTOC)
+      : initTOC()
+  })()
+</script>
+
+
+            
+            
+          </div>
+        </div>
+      
 
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
+  <details
+    class="mt-2 mb-5 overflow-hidden rounded-lg ltr:ml-0 ltr:pl-5 rtl:mr-0 rtl:pr-5"
+    open>
+    
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
+    Systèmes &amp; Réseaux -
+    Cet article fait partie d&#39;une série.
+  </summary>
+  
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/blog/linux-tweaks/systmes-reseaux/intra-id/">
+          Partie 0:
+          Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        Partie 0:
+        Cet article
+      </div>
+    
+  
+
+
+  </details>
+
 
         <div class="article-content max-w-prose mb-20">
           
+<h1 class="relative group">Introduction 
+    <div id="introduction" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#introduction" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+<p>En entreprise, on entend souvent des expressions comme <strong>&ldquo;mettre une machine sur l’intra ID&rdquo;</strong>.<br>
+Derrière ce jargon se cache une notion clé : <strong>l’intégration des postes de travail dans l’annuaire d’entreprise</strong>.</p>
+<p>Mais que signifie réellement cette opération ?<br>
+Et surtout, quelle est la différence entre l’<strong>Active Directory (AD classique)</strong> et l’<strong>Azure Active Directory (désormais Entra ID)</strong> ?</p>
+<p>Cet article a pour objectif de clarifier ces points, avec une vision simple mais technique.</p>
+<hr>
+
+<h1 class="relative group">Active Directory (AD) : l’annuaire historique 
+    <div id="active-directory-ad--lannuaire-historique" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#active-directory-ad--lannuaire-historique" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+<p>Active Directory (AD) est le système d’annuaire <strong>on-premise</strong> de Microsoft, utilisé depuis des décennies dans les entreprises.</p>
+<ul>
+<li>Les machines sont <strong>jointes à un domaine</strong> (ex. <code>entreprise.local</code>).</li>
+<li>Les utilisateurs s’authentifient avec un compte unique géré par l’IT.</li>
+<li>L’authentification repose sur des protocoles comme <strong>Kerberos</strong> et <strong>NTLM</strong>.</li>
+<li>L’IT applique des <strong>politiques de groupe (GPO)</strong>, déploie des logiciels et centralise la sécurité.</li>
+</ul>
+<p>👉 En résumé : AD est le <strong>cœur du réseau interne</strong> de nombreuses entreprises.</p>
+<hr>
+
+<h1 class="relative group">Azure Active Directory (Entra ID) : l’évolution cloud 
+    <div id="azure-active-directory-entra-id--lévolution-cloud" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#azure-active-directory-entra-id--l%c3%a9volution-cloud" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+<p>Avec l’arrivée du cloud et du travail hybride, Microsoft a lancé <strong>Azure Active Directory (Azure AD)</strong>, désormais renommé <strong>Entra ID</strong>.</p>
+<ul>
+<li>100% cloud, pas besoin de serveurs locaux.</li>
+<li>Gestion des identités pour <strong>Office 365, Teams, SharePoint, applications SaaS, VPN</strong>.</li>
+<li>Authentification moderne : <strong>OAuth2, OpenID Connect, SAML</strong>.</li>
+<li>Les machines peuvent être <strong>jointes directement à Azure AD</strong> ou fonctionner en <strong>mode hybride</strong> (via Azure AD Connect).</li>
+</ul>
+<p>👉 En résumé : Entra ID étend la gestion des identités de l’entreprise <strong>au cloud et aux applications SaaS</strong>.</p>
+<hr>
+
+<h1 class="relative group">&ldquo;Mettre une machine sur l’intra ID&rdquo; : concrètement 
+    <div id="mettre-une-machine-sur-lintra-id--concrètement" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#mettre-une-machine-sur-lintra-id--concr%c3%a8tement" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+<p>Dans le langage courant de l’entreprise, <strong>mettre une machine sur l’intra ID</strong> signifie :</p>
+<ol>
+<li><strong>Intégrer la machine à l’annuaire</strong> (AD local ou Azure AD).</li>
+<li><strong>Permettre à l’utilisateur d’utiliser son compte entreprise</strong> (plutôt qu’un compte local).</li>
+<li><strong>Centraliser la gestion et la sécurité</strong> du poste via l’IT.</li>
+</ol>
+<p>Selon le contexte :</p>
+<ul>
+<li>🔹 Si l’entreprise utilise un <strong>AD interne</strong> → la machine est intégrée au domaine classique.</li>
+<li>🔹 Si elle s’appuie sur le <strong>cloud Microsoft</strong> → la machine est rattachée à <strong>Azure AD / Entra ID</strong>.</li>
+</ul>
+<hr>
+
+<h1 class="relative group">Vérifier l’appartenance d’une machine 
+    <div id="vérifier-lappartenance-dune-machine" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#v%c3%a9rifier-lappartenance-dune-machine" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+
+<h3 class="relative group">Sous Windows 
+    <div id="sous-windows" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#sous-windows" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li><strong>Active Directory (AD local)</strong> :<br>
+Aller dans <em>Paramètres &gt; Système &gt; Informations système</em> → <em>Domaine : entreprise.local</em>.</li>
+<li><strong>Azure AD (Entra ID)</strong> :<br>
+Aller dans <em>Paramètres &gt; Comptes &gt; Accès professionnel ou scolaire</em> → <em>Connecté à Azure AD</em>.</li>
+</ul>
+
+<h3 class="relative group">Sous Linux 
+    <div id="sous-linux" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#sous-linux" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>
+<p>L’intégration se fait via des outils comme <strong>SSSD, realmd ou Samba</strong>.</p>
+</li>
+<li>
+<p>Vérification avec :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">realm list
+</span></span><span class="line"><span class="cl">id utilisateur@entreprise.local
+</span></span></code></pre></div></li>
+</ul>
+<pre tabindex="0"><code>
+---
+
+# Conclusion
+
+👉 Mettre une machine sur l’**intra ID**, c’est en réalité **l’intégrer dans le système d’identité de l’entreprise**.
+
+* Avec **Active Directory**, ce système est interne et local.
+* Avec **Azure AD / Entra ID**, il s’ouvre vers le cloud et les applications modernes.
+
+Pour les administrateurs systèmes et réseaux, comprendre cette distinction est essentiel pour anticiper la **transition du modèle on-premise vers le modèle cloud**.
+
+---
+
+# Pour aller plus loin
+
+* [Documentation Microsoft sur Active Directory](https://learn.microsoft.com/fr-fr/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
+* [Présentation d’Entra ID (Azure AD)](https://learn.microsoft.com/fr-fr/entra/fundamentals/whatis)
+* [Différences AD vs Azure AD](https://learn.microsoft.com/fr-fr/azure/active-directory/fundamentals/active-directory-whatis)
+
+```
+
+---
+
+## 🚀 Exemple de post LinkedIn relié à l’article  
+
+&gt; Quand je suis arrivé en entreprise, on m’a demandé de **&#34;mettre des machines sur l’intra ID&#34;**.  
+&gt;  
+&gt; Derrière cette expression se cache un sujet fondamental : **l’intégration des postes dans un annuaire d’entreprise**.  
+&gt;  
+&gt; 👉 Mais de quel annuaire parle-t-on ?  
+&gt; - **Active Directory classique (on-premise)** ?  
+&gt; - **Azure Active Directory (Entra ID)**, la version cloud ?  
+&gt;  
+&gt; J’ai écrit un article pour clarifier la différence, expliquer ce que cela change dans la gestion des machines, et montrer comment vérifier si une machine est jointe à AD ou Azure AD.  
+&gt;  
+&gt; 🔗 Lis l’article complet ici : [Lien vers ton blog]  
+&gt;  
+&gt; Et toi, ton entreprise est encore 100% AD ou déjà passée au cloud (Entra ID) ?  
+
+---
+</code></pre>
           
           
           
         </div>
         
         
+  <details class="mt-2 mb-5 overflow-hidden rounded-lg ltr:ml-0 ltr:pl-5 rtl:mr-0 rtl:pr-5">
+    
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
+    Systèmes &amp; Réseaux -
+    Cet article fait partie d&#39;une série.
+  </summary>
+  
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/blog/linux-tweaks/systmes-reseaux/intra-id/">
+          Partie 0:
+          Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        Partie 0:
+        Cet article
+      </div>
+    
+  
+
+
+  </details>
+
 
         
 
@@ -784,8 +1214,8 @@
           type="text/javascript"
           src="/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js"
           integrity="sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA=="
-          data-oid="views_tutorials/git-workflows/git-commands.md"
-          data-oid-likes="likes_tutorials/git-workflows/git-commands.md"></script>
+          data-oid="views_blog/systmes-reseaux/intra-id.md"
+          data-oid-likes="likes_blog/systmes-reseaux/intra-id.md"></script>
       
     </section>
 
@@ -793,13 +1223,78 @@
     <footer class="pt-8 max-w-prose print:hidden">
       
   
+    
+    
+    
+      
+      
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
+      <div class="flex justify-between pt-3">
+        <span>
+          
+            <a class="flex group mr-3" href="/blog/linux-tweaks/systmes-reseaux/intra-id/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                </span>
+              </span>
+            </a>
+          
+        </span>
+        <span>
+          
+            <a class="flex text-right group ml-3" href="/blog/linux-tweaks/partitions/">
+              <span class="flex flex-col">
+                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Partitions sous Linux : du simple au complexe</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
+          
+        </span>
+      </div>
+    </div>
+  
 
 
       
     </footer>
   </article>
 
-        
+        <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0 z-10">
+  <a
+    href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Faire défiler jusqu&#39;au bas de la page"
+    title="Faire défiler jusqu&#39;au bas de la page">
+    &uarr;
+  </a>
+</div>
+
       </main><footer id="site-footer" class="py-10 print:hidden">
   
   

@@ -2,25 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ricing on </title>
-    <link>https://blog.memlenz.com/tags/ricing/</link>
+    <link>http://localhost:1313/tags/ricing/</link>
     <description>Recent content in Ricing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 01:27:38 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/ricing/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Linux Tweaks</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/</link>
-      <pubDate>Sun, 30 Mar 2025 01:27:38 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/</guid>
-      <description>&lt;p&gt;Une section pour partarger tout ce que je fais sur linux, ricing, utilisation d&amp;rsquo;outils
-ou encore même test et avis sur des solutions. Bref beaucoup de critiques.&lt;/p&gt;</description>
-      
-    </item>
+    <atom:link href="http://localhost:1313/tags/ricing/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

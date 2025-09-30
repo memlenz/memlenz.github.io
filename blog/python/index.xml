@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog Python on </title>
-    <link>https://blog.memlenz.com/blog/python/</link>
+    <link>http://localhost:1313/blog/python/</link>
     <description>Recent content in Blog Python on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 16 Feb 2025 02:55:22 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/blog/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 02:55:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/blog/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Organiser ses scripts Python proprement sur chaque OS</title>
-      <link>https://blog.memlenz.com/blog/python/organiser-ses-scripts/</link>
+      <link>http://localhost:1313/blog/python/organiser-ses-scripts/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/organiser-ses-scripts/</guid>
+      <guid>http://localhost:1313/blog/python/organiser-ses-scripts/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi organiser ses scripts Python ? 
     &lt;div id=&#34;pourquoi-organiser-ses-scripts-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -32,10 +32,10 @@
     
     <item>
       <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
-      <link>https://blog.memlenz.com/blog/python/les-chemins/</link>
+      <link>http://localhost:1313/blog/python/les-chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/les-chemins/</guid>
+      <guid>http://localhost:1313/blog/python/les-chemins/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Introduction : Pourquoi les chemins système sont importants ?&lt;/strong&gt; 
     &lt;div id=&#34;introduction--pourquoi-les-chemins-système-sont-importants-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -51,10 +51,10 @@
     
     <item>
       <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
-      <link>https://blog.memlenz.com/blog/python/python2-vs-python3/</link>
+      <link>http://localhost:1313/blog/python/python2-vs-python3/</link>
       <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/python2-vs-python3/</guid>
+      <guid>http://localhost:1313/blog/python/python2-vs-python3/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Python 2 vs Python 3 : Un duel dépassé ?&lt;/strong&gt; 
     &lt;div id=&#34;python-2-vs-python-3--un-duel-dépassé-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -70,10 +70,10 @@
     
     <item>
       <title>🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python</title>
-      <link>https://blog.memlenz.com/blog/python/passwordmanager/</link>
+      <link>http://localhost:1313/blog/python/passwordmanager/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/passwordmanager/</guid>
+      <guid>http://localhost:1313/blog/python/passwordmanager/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Créer un Gestionnaire de Mots de Passe en CLI avec Python 
     &lt;div id=&#34;créer-un-gestionnaire-de-mots-de-passe-en-cli-avec-python&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -89,10 +89,10 @@
     
     <item>
       <title>Installer Python sur Windows, Linux et Mac</title>
-      <link>https://blog.memlenz.com/blog/python/installation-python/</link>
+      <link>http://localhost:1313/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/installation-python/</guid>
+      <guid>http://localhost:1313/blog/python/installation-python/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi installer Python ? 
     &lt;div id=&#34;pourquoi-installer-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -108,10 +108,10 @@
     
     <item>
       <title>🎯 Implémentation d&#39;un foramateur de texte en python</title>
-      <link>https://blog.memlenz.com/blog/python/bulletpointadder/</link>
+      <link>http://localhost:1313/blog/python/bulletpointadder/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/bulletpointadder/</guid>
+      <guid>http://localhost:1313/blog/python/bulletpointadder/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Maîtriser la Manipulation de Texte avec Python : Création d&amp;rsquo;un Formateur de Liste à Puces 
     &lt;div id=&#34;maîtriser-la-manipulation-de-texte-avec-python--création-dun-formateur-de-liste-à-puces&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -127,10 +127,10 @@
     
     <item>
       <title>Pourquoi Python doit être installé pour fonctionner ?</title>
-      <link>https://blog.memlenz.com/blog/python/pourquoi-installer-python/</link>
+      <link>http://localhost:1313/blog/python/pourquoi-installer-python/</link>
       <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/pourquoi-installer-python/</guid>
+      <guid>http://localhost:1313/blog/python/pourquoi-installer-python/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pourquoi Python doit être installé pour fonctionner ?&lt;/strong&gt; 
     &lt;div id=&#34;pourquoi-python-doit-être-installé-pour-fonctionner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -146,10 +146,10 @@
     
     <item>
       <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
-      <link>https://blog.memlenz.com/blog/python/environnement-de-travail/</link>
+      <link>http://localhost:1313/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/environnement-de-travail/</guid>
+      <guid>http://localhost:1313/blog/python/environnement-de-travail/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Choisir son environnement de travail 
     &lt;div id=&#34;choisir-son-environnement-de-travail&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -165,20 +165,20 @@
     
     <item>
       <title>Différence entre l’interpréteur Python (Shell interactif) et un fichier Python</title>
-      <link>https://blog.memlenz.com/blog/python/interpreteur-vs-fichier/</link>
+      <link>http://localhost:1313/blog/python/interpreteur-vs-fichier/</link>
       <pubDate>Sat, 29 Mar 2025 23:37:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/interpreteur-vs-fichier/</guid>
+      <guid>http://localhost:1313/blog/python/interpreteur-vs-fichier/</guid>
       <description>&lt;p&gt;Quand on commence avec Python, une des premières confusions vient du fait qu’on peut taper des commandes dans un terminal et voir immédiatement un résultat, mais aussi écrire du code dans un fichier &lt;code&gt;.py&lt;/code&gt;. Pourquoi ces deux modes existent-ils ? Et surtout, quand utiliser l’un ou l’autre ?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Différence entre un langage interprété et un langage compilé</title>
-      <link>https://blog.memlenz.com/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
+      <link>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+      <guid>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Langage interprété vs langage compilé : Quelle est la différence ?&lt;/strong&gt; 
     &lt;div id=&#34;langage-interprété-vs-langage-compilé--quelle-est-la-différence-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -194,10 +194,10 @@
     
     <item>
       <title>🖥️ Différence entre un langage de programmation et un logiciel classique</title>
-      <link>https://blog.memlenz.com/blog/python/difference-logiciel-langage/</link>
+      <link>http://localhost:1313/blog/python/difference-logiciel-langage/</link>
       <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/difference-logiciel-langage/</guid>
+      <guid>http://localhost:1313/blog/python/difference-logiciel-langage/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Différence entre un langage de programmation et un logiciel classique&lt;/strong&gt; 
     &lt;div id=&#34;différence-entre-un-langage-de-programmation-et-un-logiciel-classique&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -213,10 +213,10 @@
     
     <item>
       <title>Différence entre un fichier .py et un exécutable .exe</title>
-      <link>https://blog.memlenz.com/blog/python/difference-exe-py/</link>
+      <link>http://localhost:1313/blog/python/difference-exe-py/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/difference-exe-py/</guid>
+      <guid>http://localhost:1313/blog/python/difference-exe-py/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;C&amp;rsquo;est quoi un fichier .py par rapport à une application .exe ?&lt;/strong&gt; 
     &lt;div id=&#34;c&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -232,10 +232,10 @@
     
     <item>
       <title>🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique</title>
-      <link>https://blog.memlenz.com/blog/python/bagels/</link>
+      <link>http://localhost:1313/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/bagels/</guid>
+      <guid>http://localhost:1313/blog/python/bagels/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;🎮 Bagels – A Logic Game in Python 
     &lt;div id=&#34;-bagels--a-logic-game-in-python&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -251,10 +251,10 @@
     
     <item>
       <title>Pourquoi Python est un excellent premier langage ?</title>
-      <link>https://blog.memlenz.com/blog/python/pourquoi-python/</link>
+      <link>http://localhost:1313/blog/python/pourquoi-python/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/pourquoi-python/</guid>
+      <guid>http://localhost:1313/blog/python/pourquoi-python/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pourquoi Python est un excellent premier langage ?&lt;/strong&gt; 
     &lt;div id=&#34;pourquoi-python-est-un-excellent-premier-langage-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

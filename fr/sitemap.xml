@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://blog.memlenz.com/blog/linux-tweaks/archlinux/config-base/</loc>
-    <lastmod>2025-09-25T13:30:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://blog.memlenz.com/</loc>
     <lastmod>2025-09-25T13:30:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -25,7 +19,19 @@
     />
   </url>
   <url>
+    <loc>https://blog.memlenz.com/blog/linux-tweaks/archlinux/config-base/</loc>
+    <lastmod>2025-09-25T13:30:00+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</loc>
+    <lastmod>2025-09-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://blog.memlenz.com/blog/systmes-reseaux/intra-id/</loc>
     <lastmod>2025-09-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -135,12 +141,6 @@
   <url>
     <loc>https://blog.memlenz.com/blog/linux-tweaks/lazyvim/</loc>
     <lastmod>2025-03-30T01:32:00+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://blog.memlenz.com/blog/linux-tweaks/</loc>
-    <lastmod>2025-03-30T01:27:38+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -361,12 +361,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.memlenz.com/blog/python/</loc>
-    <lastmod>2025-02-16T02:55:22+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://blog.memlenz.com/blog/python/pourquoi-python/</loc>
     <lastmod>2025-02-15T13:39:54+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -374,7 +368,7 @@
   </url>
   <url>
     <loc>https://blog.memlenz.com/blog/</loc>
-    <lastmod>2025-02-15T13:39:44+01:00</lastmod>
+    <lastmod>2025-02-15T13:39:39+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

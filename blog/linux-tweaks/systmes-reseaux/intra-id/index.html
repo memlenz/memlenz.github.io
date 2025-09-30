@@ -112,6 +112,7 @@
     <meta property="article:tag" content="Entra ID">
     <meta property="article:tag" content="Administration Système">
     <meta property="article:tag" content="Sécurité">
+      <meta property="og:see_also" content="https://blog.memlenz.com/blog/systmes-reseaux/intra-id/">
 
   
   <meta name="twitter:card" content="summary">
@@ -126,7 +127,7 @@
     "name": "Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines",
     "headline": "Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines",
     "description": "Qu’est-ce que signifie mettre une machine sur l’Intra ID ? Découvre la différence entre Active Directory et Azure AD (Entra ID), et comment les entreprises gèrent les identités et les postes de travail.",
-    "abstract": "\u003ch1 class=\u0022relative group\u0022\u003eIntroduction \n    \u003cdiv id=\u0022introduction\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#introduction\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h1\u003e\n\u003cp\u003eEn entreprise, on entend souvent des expressions comme \u003cstrong\u003e\u0026ldquo;mettre une machine sur l’intra ID\u0026rdquo;\u003c\/strong\u003e.\u003cbr\u003e\nDerrière ce jargon se cache une notion clé : \u003cstrong\u003el’intégration des postes de travail dans l’annuaire d’entreprise\u003c\/strong\u003e.\u003c\/p\u003e",
+    "abstract": "\u003ch1 class=\u0022relative group\u0022\u003eIntroduction \n    \u003cdiv id=\u0022introduction\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#introduction\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h1\u003e\n\u003cp\u003eEn entreprise, on entend souvent des expressions comme \u003cstrong\u003e\u0026ldquo;mettre une machine sur l’intra ID\u0026rdquo;\u003c\/strong\u003e.\u003cbr\u003e\nDerrière ce jargon se cache une question cruciale : \u003cstrong\u003el’avenir de l’identité numérique des postes — restera-t-il on-premise avec Active Directory, ou migrera-t-il vers le cloud avec Entra ID ?\u003c\/strong\u003e\u003c\/p\u003e",
     "inLanguage": "fr",
     "url" : "https:\/\/blog.memlenz.com\/blog\/linux-tweaks\/systmes-reseaux\/intra-id\/",
     "author" : {
@@ -142,7 +143,7 @@
     "keywords": ["Active Directory","Azure AD","Entra ID","Administration Système","Sécurité"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "633"
+    "wordCount": "587"
   }]
   </script>
 
@@ -529,11 +530,9 @@
   
     
   
-    
-  
   <li class="hidden">
     <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/"
-      >Memlenz – Chroniques de Code, DevOps &amp; Linux</a
+      ></a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -541,13 +540,6 @@
   <li class="inline">
     <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/"
       >Langage</a
-    ><span class="px-1 text-primary-500">/</span>
-  </li>
-
-  
-  <li class="inline">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/linux-tweaks/"
-      >Linux Tweaks</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -614,7 +606,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span>633 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">3 mins</span>
+      <span>587 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">3 mins</span>
     
 
     
@@ -985,6 +977,16 @@
       </div>
     
   
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/blog/systmes-reseaux/intra-id/">
+          Partie 0:
+          Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines
+        </a>
+      </div>
+    
+  
 
 
   </details>
@@ -1002,10 +1004,8 @@
     
 </h1>
 <p>En entreprise, on entend souvent des expressions comme <strong>&ldquo;mettre une machine sur l’intra ID&rdquo;</strong>.<br>
-Derrière ce jargon se cache une notion clé : <strong>l’intégration des postes de travail dans l’annuaire d’entreprise</strong>.</p>
-<p>Mais que signifie réellement cette opération ?<br>
-Et surtout, quelle est la différence entre l’<strong>Active Directory (AD classique)</strong> et l’<strong>Azure Active Directory (désormais Entra ID)</strong> ?</p>
-<p>Cet article a pour objectif de clarifier ces points, avec une vision simple mais technique.</p>
+Derrière ce jargon se cache une question cruciale : <strong>l’avenir de l’identité numérique des postes — restera-t-il on-premise avec Active Directory, ou migrera-t-il vers le cloud avec Entra ID ?</strong></p>
+<p>Cet article a pour objectif de clarifier cette distinction, avec une vision simple mais technique.</p>
 <hr>
 
 <h1 class="relative group">Active Directory (AD) : l’annuaire historique 
@@ -1017,11 +1017,11 @@ Et surtout, quelle est la différence entre l’<strong>Active Directory (AD cla
     </span>        
     
 </h1>
-<p>Active Directory (AD) est le système d’annuaire <strong>on-premise</strong> de Microsoft, utilisé depuis des décennies dans les entreprises.</p>
+<p>Active Directory (AD) est le système d’annuaire <strong>on-premise</strong> de Microsoft, utilisé depuis plus de 20 ans dans les entreprises.</p>
 <ul>
 <li>Les machines sont <strong>jointes à un domaine</strong> (ex. <code>entreprise.local</code>).</li>
 <li>Les utilisateurs s’authentifient avec un compte unique géré par l’IT.</li>
-<li>L’authentification repose sur des protocoles comme <strong>Kerberos</strong> et <strong>NTLM</strong>.</li>
+<li>L’authentification repose sur <strong>Kerberos</strong> et <strong>NTLM</strong>.</li>
 <li>L’IT applique des <strong>politiques de groupe (GPO)</strong>, déploie des logiciels et centralise la sécurité.</li>
 </ul>
 <p>👉 En résumé : AD est le <strong>cœur du réseau interne</strong> de nombreuses entreprises.</p>
@@ -1042,8 +1042,61 @@ Et surtout, quelle est la différence entre l’<strong>Active Directory (AD cla
 <li>Gestion des identités pour <strong>Office 365, Teams, SharePoint, applications SaaS, VPN</strong>.</li>
 <li>Authentification moderne : <strong>OAuth2, OpenID Connect, SAML</strong>.</li>
 <li>Les machines peuvent être <strong>jointes directement à Azure AD</strong> ou fonctionner en <strong>mode hybride</strong> (via Azure AD Connect).</li>
+<li>Gestion de la sécurité moderne : <strong>MFA, Conditional Access, Zero Trust</strong>.</li>
 </ul>
-<p>👉 En résumé : Entra ID étend la gestion des identités de l’entreprise <strong>au cloud et aux applications SaaS</strong>.</p>
+<p>👉 En résumé : Entra ID étend la gestion des identités de l’entreprise <strong>au cloud et aux applications SaaS</strong>, avec une sécurité adaptée aux nouveaux usages.</p>
+<hr>
+
+<h1 class="relative group">Comparatif AD vs Entra ID 
+    <div id="comparatif-ad-vs-entra-id" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#comparatif-ad-vs-entra-id" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+<table>
+  <thead>
+      <tr>
+          <th><strong>Critère</strong></th>
+          <th><strong>Active Directory (On-Premise)</strong></th>
+          <th><strong>Azure AD / Entra ID (Cloud)</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Hébergement</td>
+          <td>Serveurs locaux</td>
+          <td>Cloud Microsoft (Azure)</td>
+      </tr>
+      <tr>
+          <td>Authentification</td>
+          <td>Kerberos / NTLM</td>
+          <td>OAuth2, OIDC, SAML</td>
+      </tr>
+      <tr>
+          <td>Gestion des machines</td>
+          <td>Jointes au domaine interne</td>
+          <td>Jointes au cloud / hybride</td>
+      </tr>
+      <tr>
+          <td>Politiques (GPO)</td>
+          <td>Oui (déploiement centralisé)</td>
+          <td>Non (remplacé par Intune)</td>
+      </tr>
+      <tr>
+          <td>Usage principal</td>
+          <td>Réseau interne, PC fixes</td>
+          <td>SaaS, travail hybride, BYOD</td>
+      </tr>
+      <tr>
+          <td>Sécurité</td>
+          <td>Classique, périmètre réseau</td>
+          <td>MFA, Zero Trust, accès contextuel</td>
+      </tr>
+  </tbody>
+</table>
 <hr>
 
 <h1 class="relative group">&ldquo;Mettre une machine sur l’intra ID&rdquo; : concrètement 
@@ -1055,7 +1108,7 @@ Et surtout, quelle est la différence entre l’<strong>Active Directory (AD cla
     </span>        
     
 </h1>
-<p>Dans le langage courant de l’entreprise, <strong>mettre une machine sur l’intra ID</strong> signifie :</p>
+<p>Dans le langage courant, <strong>mettre une machine sur l’intra ID</strong> signifie :</p>
 <ol>
 <li><strong>Intégrer la machine à l’annuaire</strong> (AD local ou Azure AD).</li>
 <li><strong>Permettre à l’utilisateur d’utiliser son compte entreprise</strong> (plutôt qu’un compte local).</li>
@@ -1063,8 +1116,8 @@ Et surtout, quelle est la différence entre l’<strong>Active Directory (AD cla
 </ol>
 <p>Selon le contexte :</p>
 <ul>
-<li>🔹 Si l’entreprise utilise un <strong>AD interne</strong> → la machine est intégrée au domaine classique.</li>
-<li>🔹 Si elle s’appuie sur le <strong>cloud Microsoft</strong> → la machine est rattachée à <strong>Azure AD / Entra ID</strong>.</li>
+<li>🔹 Avec un <strong>AD interne</strong> → la machine est intégrée au domaine classique.</li>
+<li>🔹 Avec <strong>Entra ID</strong> → la machine est directement rattachée au cloud.</li>
 </ul>
 <hr>
 
@@ -1103,58 +1156,55 @@ Aller dans <em>Paramètres &gt; Comptes &gt; Accès professionnel ou scolaire</e
     </span>        
     
 </h3>
-<ul>
-<li>
-<p>L’intégration se fait via des outils comme <strong>SSSD, realmd ou Samba</strong>.</p>
-</li>
-<li>
-<p>Vérification avec :</p>
+<p>L’intégration Linux dans AD ou Entra est plus rare mais utile pour les serveurs.<br>
+Elle se fait via <strong>SSSD, realmd ou Samba</strong>.<br>
+Vérification avec :</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">realm list
 </span></span><span class="line"><span class="cl">id utilisateur@entreprise.local
-</span></span></code></pre></div></li>
+</span></span></code></pre></div><hr>
+
+<h1 class="relative group">Conclusion 
+    <div id="conclusion" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#conclusion" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+<p>👉 Mettre une machine sur l’<strong>intra ID</strong>, c’est en réalité <strong>l’intégrer dans le système d’identité de l’entreprise</strong>.</p>
+<ul>
+<li>Avec <strong>Active Directory</strong>, ce système est interne et local.</li>
+<li>Avec <strong>Azure AD / Entra ID</strong>, il s’ouvre vers le cloud et les applications modernes, avec une sécurité renforcée.</li>
 </ul>
-<pre tabindex="0"><code>
----
+<p>Pour les administrateurs systèmes et réseaux, comprendre cette distinction est essentiel pour accompagner la <strong>transition du modèle on-premise vers le modèle cloud</strong>.
+Car le futur de la gestion des identités ne se joue plus seulement dans les salles serveurs, mais aussi dans le cloud.</p>
+<hr>
 
-# Conclusion
+<h1 class="relative group">Pour aller plus loin 
+    <div id="pour-aller-plus-loin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#pour-aller-plus-loin" aria-label="Ancre">#</a>
+    </span>        
+    
+</h1>
+<ul>
+<li><a
+  href="https://learn.microsoft.com/fr-fr/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview"
+    target="_blank"
+  >Documentation Microsoft sur Active Directory</a></li>
+<li><a
+  href="https://learn.microsoft.com/fr-fr/entra/fundamentals/whatis"
+    target="_blank"
+  >Présentation d’Entra ID (Azure AD)</a></li>
+<li><a
+  href="https://learn.microsoft.com/fr-fr/azure/active-directory/fundamentals/active-directory-whatis"
+    target="_blank"
+  >Différences AD vs Azure AD</a></li>
+</ul>
 
-👉 Mettre une machine sur l’**intra ID**, c’est en réalité **l’intégrer dans le système d’identité de l’entreprise**.
-
-* Avec **Active Directory**, ce système est interne et local.
-* Avec **Azure AD / Entra ID**, il s’ouvre vers le cloud et les applications modernes.
-
-Pour les administrateurs systèmes et réseaux, comprendre cette distinction est essentiel pour anticiper la **transition du modèle on-premise vers le modèle cloud**.
-
----
-
-# Pour aller plus loin
-
-* [Documentation Microsoft sur Active Directory](https://learn.microsoft.com/fr-fr/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
-* [Présentation d’Entra ID (Azure AD)](https://learn.microsoft.com/fr-fr/entra/fundamentals/whatis)
-* [Différences AD vs Azure AD](https://learn.microsoft.com/fr-fr/azure/active-directory/fundamentals/active-directory-whatis)
-
-```
-
----
-
-## 🚀 Exemple de post LinkedIn relié à l’article  
-
-&gt; Quand je suis arrivé en entreprise, on m’a demandé de **&#34;mettre des machines sur l’intra ID&#34;**.  
-&gt;  
-&gt; Derrière cette expression se cache un sujet fondamental : **l’intégration des postes dans un annuaire d’entreprise**.  
-&gt;  
-&gt; 👉 Mais de quel annuaire parle-t-on ?  
-&gt; - **Active Directory classique (on-premise)** ?  
-&gt; - **Azure Active Directory (Entra ID)**, la version cloud ?  
-&gt;  
-&gt; J’ai écrit un article pour clarifier la différence, expliquer ce que cela change dans la gestion des machines, et montrer comment vérifier si une machine est jointe à AD ou Azure AD.  
-&gt;  
-&gt; 🔗 Lis l’article complet ici : [Lien vers ton blog]  
-&gt;  
-&gt; Et toi, ton entreprise est encore 100% AD ou déjà passée au cloud (Entra ID) ?  
-
----
-</code></pre>
           
           
           
@@ -1175,6 +1225,16 @@ Pour les administrateurs systèmes et réseaux, comprendre cette distinction est
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
         Partie 0:
         Cet article
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/blog/systmes-reseaux/intra-id/">
+          Partie 0:
+          Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines
+        </a>
       </div>
     
   
@@ -1244,10 +1304,10 @@ Pour les administrateurs systèmes et réseaux, comprendre cette distinction est
         </span>
         <span>
           
-            <a class="flex text-right group ml-3" href="/blog/linux-tweaks/partitions/">
+            <a class="flex text-right group ml-3" href="/blog/systmes-reseaux/intra-id/">
               <span class="flex flex-col">
                 <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Partitions sous Linux : du simple au complexe</span
+                  >Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
