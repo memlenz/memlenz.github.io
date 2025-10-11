@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Casting on </title>
-    <link>https://blog.memlenz.com/tags/casting/</link>
+    <link>http://localhost:1313/tags/casting/</link>
     <description>Recent content in Casting on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 14:34:02 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/casting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 14:34:02 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/casting/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Le casting en Python</title>
-      <link>https://blog.memlenz.com/courses/python/casting/</link>
+      <link>http://localhost:1313/courses/python/casting/</link>
       <pubDate>Thu, 27 Feb 2025 14:34:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/casting/</guid>
+      <guid>http://localhost:1313/courses/python/casting/</guid>
       <description>&lt;p&gt;Le casting, ou la conversion de types, en Python, c’est comme jouer au magicien des données. T&amp;rsquo;as des types différents dans tes variables, et parfois, tu veux les transformer pour qu&amp;rsquo;ils collent mieux à tes besoins. Pas de souci, Python te permet de faire tout ça de manière ultra simple. Et comme c’est un langage qui aime la flexibilité, le casting devient une des compétences de base pour rendre ton code encore plus fluide et efficace.&lt;/p&gt;</description>
       
     </item>

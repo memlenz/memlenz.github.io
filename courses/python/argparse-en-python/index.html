@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head>
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="fr">
@@ -22,7 +22,7 @@
   <meta name="keywords" content="python,cli,argparse,">
   
   
-  <link rel="canonical" href="https://blog.memlenz.com/courses/python/argparse-en-python/">
+  <link rel="canonical" href="http://localhost:1313/courses/python/argparse-en-python/">
   
   
   
@@ -40,8 +40,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.3af42d55441c82e4673b9a58702f4a93244078371f3892d0fd44b31998829d77ce5a9621c0d3700a31fda5794a4c7ede8647c3901cdbf6129c72349dfb488e9f.css"
-    integrity="sha512-OvQtVUQcguRnO5pYcC9KkyRAeDcfOJLQ/USzGZiCnXfOWpYhwNNwCjH9pXlKTH7ehkfDkBzb9hKccjSd&#43;0iOnw==">
+    href="/css/main.bundle.min.5b142caeccbeaf291f79e451e0cac7def539ed13c1b1e68929461e98f2d97d7cd677a2f431a200c2300a2666be24719ca5a35d24980b3e0dc97160d29eb4bc3a.css"
+    integrity="sha512-WxQsrsy&#43;rykfeeRR4MrH3vU57RPBseaJKUYemPLZfXzWd6L0MaIAwjAKJma&#43;JHGcpaNdJJgLPg3JcWDSnrS8Og==">
 
   
   
@@ -99,7 +99,7 @@
   
 
   
-  <meta property="og:url" content="https://blog.memlenz.com/courses/python/argparse-en-python/">
+  <meta property="og:url" content="http://localhost:1313/courses/python/argparse-en-python/">
   <meta property="og:title" content="Comprendre et maîtriser argparse en Python">
   <meta property="og:description" content="🚀 Maîtriser argparse en Python : Guide complet # 🔥 Pourquoi ce tuto ?
 Tu veux faire des scripts en ligne de commande propres et puissants ? Marre de sys.argv et du parsing manuel des arguments ? Tu veux des options, des flags, de l’aide automatique, et même des sous-commandes ? 📌 Pourquoi argparse et pas sys.argv ? # 🔥 Comment un script Python récupère-t-il des arguments en ligne de commande ?
@@ -112,12 +112,12 @@ Si tu fais juste :">
     <meta property="article:tag" content="Python">
     <meta property="article:tag" content="Cli">
     <meta property="article:tag" content="Argparse">
-      <meta property="og:see_also" content="https://blog.memlenz.com/courses/python/with-open/">
-      <meta property="og:see_also" content="https://blog.memlenz.com/courses/python/try-except/">
-      <meta property="og:see_also" content="https://blog.memlenz.com/courses/python/pip/">
-      <meta property="og:see_also" content="https://blog.memlenz.com/courses/python/module-regex/">
-      <meta property="og:see_also" content="https://blog.memlenz.com/courses/python/module-json/">
-      <meta property="og:see_also" content="https://blog.memlenz.com/courses/python/module-math/">
+      <meta property="og:see_also" content="http://localhost:1313/courses/python/with-open/">
+      <meta property="og:see_also" content="http://localhost:1313/courses/python/try-except/">
+      <meta property="og:see_also" content="http://localhost:1313/courses/python/pip/">
+      <meta property="og:see_also" content="http://localhost:1313/courses/python/module-regex/">
+      <meta property="og:see_also" content="http://localhost:1313/courses/python/module-json/">
+      <meta property="og:see_also" content="http://localhost:1313/courses/python/module-math/">
 
   
   <meta name="twitter:card" content="summary">
@@ -136,7 +136,7 @@ Si tu fais juste :">
     
     "abstract": "\u003ch1 class=\u0022relative group\u0022\u003e🚀 Maîtriser argparse en Python : Guide complet \n    \u003cdiv id=\u0022-maîtriser-argparse-en-python--guide-complet\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#-ma%c3%aetriser-argparse-en-python--guide-complet\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h1\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cstrong\u003e🔥 Pourquoi ce tuto ?\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eTu veux faire des scripts \u003cstrong\u003een ligne de commande\u003c\/strong\u003e propres et puissants ?\u003c\/li\u003e\n\u003cli\u003eMarre de \u003ccode\u003esys.argv\u003c\/code\u003e et du parsing manuel des arguments ?\u003c\/li\u003e\n\u003cli\u003eTu veux \u003cstrong\u003edes options, des flags, de l\u0026rsquo;aide automatique, et même des sous-commandes\u003c\/strong\u003e ?\u003c\/li\u003e\n\u003c\/ul\u003e\u003c\/blockquote\u003e\n\u003chr\u003e\n\n\u003ch2 class=\u0022relative group\u0022\u003e📌 Pourquoi \u003ccode\u003eargparse\u003c\/code\u003e et pas \u003ccode\u003esys.argv\u003c\/code\u003e ? \n    \u003cdiv id=\u0022-pourquoi-argparse-et-pas-sysargv-\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#-pourquoi-argparse-et-pas-sysargv-\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003e🔥 \u003cem\u003eComment un script Python récupère-t-il des arguments en ligne de commande ?\u003c\/em\u003e\u003cbr\u003e\nSi tu fais juste :\u003c\/p\u003e",
     "inLanguage": "fr",
-    "url" : "https:\/\/blog.memlenz.com\/courses\/python\/argparse-en-python\/",
+    "url" : "http:\/\/localhost:1313\/courses\/python\/argparse-en-python\/",
     "author" : {
       "@type": "Person",
       "name": "Châ-Fine Ayédoun ADEBI"
@@ -1982,7 +1982,7 @@ Si tu fais juste :</p>
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-500"
-  data-url="https://blog.memlenz.com/">
+  data-url="http://localhost:1313/">
   <div
     id="search-modal"
     class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800">

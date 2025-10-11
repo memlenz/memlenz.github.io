@@ -2,1161 +2,1191 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://blog.memlenz.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 13:30:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Arch Linux</title>
-      <link>https://blog.memlenz.com/tags/arch-linux/</link>
-      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <title>Alternatives</title>
+      <link>http://localhost:1313/tags/alternatives/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/arch-linux/</guid>
+      <guid>http://localhost:1313/tags/alternatives/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Chroot</title>
-      <link>https://blog.memlenz.com/tags/chroot/</link>
-      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <title>Liberté Numérique</title>
+      <link>http://localhost:1313/tags/libert%C3%A9-num%C3%A9rique/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/chroot/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Configuration</title>
-      <link>https://blog.memlenz.com/tags/configuration/</link>
-      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/configuration/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Fstab</title>
-      <link>https://blog.memlenz.com/tags/fstab/</link>
-      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/fstab/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Locales</title>
-      <link>https://blog.memlenz.com/tags/locales/</link>
-      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/locales/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Post-Installation</title>
-      <link>https://blog.memlenz.com/tags/post-installation/</link>
-      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/post-installation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Timezone</title>
-      <link>https://blog.memlenz.com/tags/timezone/</link>
-      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/timezone/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Active Directory</title>
-      <link>https://blog.memlenz.com/tags/active-directory/</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/active-directory/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Administration Système</title>
-      <link>https://blog.memlenz.com/tags/administration-syst%C3%A8me/</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/administration-syst%C3%A8me/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Azure AD</title>
-      <link>https://blog.memlenz.com/tags/azure-ad/</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/azure-ad/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Entra ID</title>
-      <link>https://blog.memlenz.com/tags/entra-id/</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/entra-id/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sécurité</title>
-      <link>https://blog.memlenz.com/tags/s%C3%A9curit%C3%A9/</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/s%C3%A9curit%C3%A9/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Btrfs</title>
-      <link>https://blog.memlenz.com/tags/btrfs/</link>
-      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/btrfs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ext4</title>
-      <link>https://blog.memlenz.com/tags/ext4/</link>
-      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/ext4/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Gpt</title>
-      <link>https://blog.memlenz.com/tags/gpt/</link>
-      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/gpt/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Installation</title>
-      <link>https://blog.memlenz.com/tags/installation/</link>
-      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/installation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Legacy</title>
-      <link>https://blog.memlenz.com/tags/legacy/</link>
-      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/legacy/</guid>
+      <guid>http://localhost:1313/tags/libert%C3%A9-num%C3%A9rique/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://blog.memlenz.com/tags/linux/</link>
-      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/linux/</guid>
+      <guid>http://localhost:1313/tags/linux/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Mbr</title>
-      <link>https://blog.memlenz.com/tags/mbr/</link>
-      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <title>Système D&#39;exploitation</title>
+      <link>http://localhost:1313/tags/syst%C3%A8me-dexploitation/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/mbr/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Partition</title>
-      <link>https://blog.memlenz.com/tags/partition/</link>
-      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/partition/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Uefi</title>
-      <link>https://blog.memlenz.com/tags/uefi/</link>
-      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/uefi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Internet</title>
-      <link>https://blog.memlenz.com/tags/internet/</link>
-      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/internet/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Iwctl</title>
-      <link>https://blog.memlenz.com/tags/iwctl/</link>
-      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/iwctl/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Réseau</title>
-      <link>https://blog.memlenz.com/tags/r%C3%A9seau/</link>
-      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/r%C3%A9seau/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Wifi</title>
-      <link>https://blog.memlenz.com/tags/wifi/</link>
-      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/wifi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Wpa_supplicant</title>
-      <link>https://blog.memlenz.com/tags/wpa_supplicant/</link>
-      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/wpa_supplicant/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bash</title>
-      <link>https://blog.memlenz.com/tags/bash/</link>
-      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/bash/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Commandes Linux</title>
-      <link>https://blog.memlenz.com/tags/commandes-linux/</link>
-      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/commandes-linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ligne De Commande</title>
-      <link>https://blog.memlenz.com/tags/ligne-de-commande/</link>
-      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/ligne-de-commande/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Terminal</title>
-      <link>https://blog.memlenz.com/tags/terminal/</link>
-      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/terminal/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Zsh</title>
-      <link>https://blog.memlenz.com/tags/zsh/</link>
-      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/zsh/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Guide</title>
-      <link>https://blog.memlenz.com/tags/guide/</link>
-      <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/guide/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Fichiers</title>
-      <link>https://blog.memlenz.com/tags/fichiers/</link>
-      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/fichiers/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Organisation</title>
-      <link>https://blog.memlenz.com/tags/organisation/</link>
-      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/organisation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>OS</title>
-      <link>https://blog.memlenz.com/tags/os/</link>
-      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/os/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://blog.memlenz.com/tags/python/</link>
-      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Chemins</title>
-      <link>https://blog.memlenz.com/tags/chemins/</link>
-      <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/chemins/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Débutant</title>
-      <link>https://blog.memlenz.com/tags/d%C3%A9butant/</link>
-      <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/d%C3%A9butant/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PATH</title>
-      <link>https://blog.memlenz.com/tags/path/</link>
-      <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/path/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Interpréteur</title>
-      <link>https://blog.memlenz.com/tags/interpr%C3%A9teur/</link>
-      <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/interpr%C3%A9teur/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Versions</title>
-      <link>https://blog.memlenz.com/tags/versions/</link>
-      <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/versions/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Archlinux</title>
-      <link>https://blog.memlenz.com/tags/archlinux/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/archlinux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Base De Données</title>
-      <link>https://blog.memlenz.com/tags/base-de-donn%C3%A9es/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/base-de-donn%C3%A9es/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Database</title>
-      <link>https://blog.memlenz.com/tags/database/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/database/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Debian</title>
-      <link>https://blog.memlenz.com/tags/debian/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/debian/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux Tweaks</title>
-      <link>https://blog.memlenz.com/tags/linux-tweaks/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/linux-tweaks/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mariadb</title>
-      <link>https://blog.memlenz.com/tags/mariadb/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/mariadb/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mysql</title>
-      <link>https://blog.memlenz.com/tags/mysql/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/mysql/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Postgresql</title>
-      <link>https://blog.memlenz.com/tags/postgresql/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/postgresql/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutoriel</title>
-      <link>https://blog.memlenz.com/tags/tutoriel/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/tutoriel/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://blog.memlenz.com/tags/ubuntu/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/ubuntu/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Voidlinux</title>
-      <link>https://blog.memlenz.com/tags/voidlinux/</link>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/voidlinux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Cli</title>
-      <link>https://blog.memlenz.com/tags/cli/</link>
-      <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/cli/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Gestion De Mots De Passe</title>
-      <link>https://blog.memlenz.com/tags/gestion-de-mots-de-passe/</link>
-      <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/gestion-de-mots-de-passe/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mac</title>
-      <link>https://blog.memlenz.com/tags/mac/</link>
-      <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/mac/</guid>
+      <guid>http://localhost:1313/tags/syst%C3%A8me-dexploitation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Windows</title>
-      <link>https://blog.memlenz.com/tags/windows/</link>
+      <link>http://localhost:1313/tags/windows/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/windows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arch Linux</title>
+      <link>http://localhost:1313/tags/arch-linux/</link>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/arch-linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chroot</title>
+      <link>http://localhost:1313/tags/chroot/</link>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/chroot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>http://localhost:1313/tags/configuration/</link>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/configuration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fstab</title>
+      <link>http://localhost:1313/tags/fstab/</link>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/fstab/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Locales</title>
+      <link>http://localhost:1313/tags/locales/</link>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/locales/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Post-Installation</title>
+      <link>http://localhost:1313/tags/post-installation/</link>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/post-installation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Timezone</title>
+      <link>http://localhost:1313/tags/timezone/</link>
+      <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/timezone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Active Directory</title>
+      <link>http://localhost:1313/tags/active-directory/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/active-directory/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Administration Système</title>
+      <link>http://localhost:1313/tags/administration-syst%C3%A8me/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/administration-syst%C3%A8me/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Azure AD</title>
+      <link>http://localhost:1313/tags/azure-ad/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/azure-ad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Entra ID</title>
+      <link>http://localhost:1313/tags/entra-id/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/entra-id/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sécurité</title>
+      <link>http://localhost:1313/tags/s%C3%A9curit%C3%A9/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/s%C3%A9curit%C3%A9/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Btrfs</title>
+      <link>http://localhost:1313/tags/btrfs/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/btrfs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ext4</title>
+      <link>http://localhost:1313/tags/ext4/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/ext4/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gpt</title>
+      <link>http://localhost:1313/tags/gpt/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/gpt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/tags/installation/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/installation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Legacy</title>
+      <link>http://localhost:1313/tags/legacy/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/legacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mbr</title>
+      <link>http://localhost:1313/tags/mbr/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/mbr/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Partition</title>
+      <link>http://localhost:1313/tags/partition/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/partition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Uefi</title>
+      <link>http://localhost:1313/tags/uefi/</link>
+      <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/uefi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>http://localhost:1313/tags/internet/</link>
+      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/internet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Iwctl</title>
+      <link>http://localhost:1313/tags/iwctl/</link>
+      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/iwctl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Réseau</title>
+      <link>http://localhost:1313/tags/r%C3%A9seau/</link>
+      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/r%C3%A9seau/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wifi</title>
+      <link>http://localhost:1313/tags/wifi/</link>
+      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/wifi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wpa_supplicant</title>
+      <link>http://localhost:1313/tags/wpa_supplicant/</link>
+      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/wpa_supplicant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>http://localhost:1313/tags/bash/</link>
+      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/bash/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Commandes Linux</title>
+      <link>http://localhost:1313/tags/commandes-linux/</link>
+      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/commandes-linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ligne De Commande</title>
+      <link>http://localhost:1313/tags/ligne-de-commande/</link>
+      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/ligne-de-commande/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Terminal</title>
+      <link>http://localhost:1313/tags/terminal/</link>
+      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/terminal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Zsh</title>
+      <link>http://localhost:1313/tags/zsh/</link>
+      <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/zsh/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/tags/guide/</link>
+      <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/guide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fichiers</title>
+      <link>http://localhost:1313/tags/fichiers/</link>
+      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/fichiers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Organisation</title>
+      <link>http://localhost:1313/tags/organisation/</link>
+      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/organisation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OS</title>
+      <link>http://localhost:1313/tags/os/</link>
+      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/os/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Chemins</title>
+      <link>http://localhost:1313/tags/chemins/</link>
+      <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/chemins/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Débutant</title>
+      <link>http://localhost:1313/tags/d%C3%A9butant/</link>
+      <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/d%C3%A9butant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PATH</title>
+      <link>http://localhost:1313/tags/path/</link>
+      <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/path/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Interpréteur</title>
+      <link>http://localhost:1313/tags/interpr%C3%A9teur/</link>
+      <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/interpr%C3%A9teur/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Versions</title>
+      <link>http://localhost:1313/tags/versions/</link>
+      <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/versions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Archlinux</title>
+      <link>http://localhost:1313/tags/archlinux/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/archlinux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Base De Données</title>
+      <link>http://localhost:1313/tags/base-de-donn%C3%A9es/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/base-de-donn%C3%A9es/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>http://localhost:1313/tags/database/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/database/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Debian</title>
+      <link>http://localhost:1313/tags/debian/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/debian/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux Tweaks</title>
+      <link>http://localhost:1313/tags/linux-tweaks/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/linux-tweaks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mariadb</title>
+      <link>http://localhost:1313/tags/mariadb/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/mariadb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>http://localhost:1313/tags/mysql/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/mysql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Postgresql</title>
+      <link>http://localhost:1313/tags/postgresql/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/postgresql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutoriel</title>
+      <link>http://localhost:1313/tags/tutoriel/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/tutoriel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/tags/ubuntu/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/ubuntu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Voidlinux</title>
+      <link>http://localhost:1313/tags/voidlinux/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/voidlinux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cli</title>
+      <link>http://localhost:1313/tags/cli/</link>
+      <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/cli/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gestion De Mots De Passe</title>
+      <link>http://localhost:1313/tags/gestion-de-mots-de-passe/</link>
+      <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/gestion-de-mots-de-passe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>http://localhost:1313/tags/mac/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/windows/</guid>
+      <guid>http://localhost:1313/tags/mac/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Algorithmie</title>
-      <link>https://blog.memlenz.com/tags/algorithmie/</link>
+      <link>http://localhost:1313/tags/algorithmie/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/algorithmie/</guid>
+      <guid>http://localhost:1313/tags/algorithmie/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Open</title>
-      <link>https://blog.memlenz.com/tags/open/</link>
+      <link>http://localhost:1313/tags/open/</link>
       <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/open/</guid>
+      <guid>http://localhost:1313/tags/open/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>With</title>
-      <link>https://blog.memlenz.com/tags/with/</link>
+      <link>http://localhost:1313/tags/with/</link>
       <pubDate>Fri, 04 Apr 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/with/</guid>
+      <guid>http://localhost:1313/tags/with/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Argparse</title>
-      <link>https://blog.memlenz.com/tags/argparse/</link>
+      <link>http://localhost:1313/tags/argparse/</link>
       <pubDate>Mon, 31 Mar 2025 10:55:18 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/argparse/</guid>
+      <guid>http://localhost:1313/tags/argparse/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Minimalisme</title>
-      <link>https://blog.memlenz.com/tags/minimalisme/</link>
+      <link>http://localhost:1313/tags/minimalisme/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/minimalisme/</guid>
+      <guid>http://localhost:1313/tags/minimalisme/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Void Linux</title>
-      <link>https://blog.memlenz.com/tags/void-linux/</link>
+      <link>http://localhost:1313/tags/void-linux/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/void-linux/</guid>
+      <guid>http://localhost:1313/tags/void-linux/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LazyVim</title>
-      <link>https://blog.memlenz.com/tags/lazyvim/</link>
+      <link>http://localhost:1313/tags/lazyvim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/lazyvim/</guid>
+      <guid>http://localhost:1313/tags/lazyvim/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LSP</title>
-      <link>https://blog.memlenz.com/tags/lsp/</link>
+      <link>http://localhost:1313/tags/lsp/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/lsp/</guid>
+      <guid>http://localhost:1313/tags/lsp/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Neovim</title>
-      <link>https://blog.memlenz.com/tags/neovim/</link>
+      <link>http://localhost:1313/tags/neovim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/neovim/</guid>
+      <guid>http://localhost:1313/tags/neovim/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Éditeur De Texte</title>
-      <link>https://blog.memlenz.com/tags/%C3%A9diteur-de-texte/</link>
+      <link>http://localhost:1313/tags/%C3%A9diteur-de-texte/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/%C3%A9diteur-de-texte/</guid>
+      <guid>http://localhost:1313/tags/%C3%A9diteur-de-texte/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>IDE</title>
-      <link>https://blog.memlenz.com/tags/ide/</link>
+      <link>http://localhost:1313/tags/ide/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/ide/</guid>
+      <guid>http://localhost:1313/tags/ide/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Compilation</title>
-      <link>https://blog.memlenz.com/tags/compilation/</link>
+      <link>http://localhost:1313/tags/compilation/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/compilation/</guid>
+      <guid>http://localhost:1313/tags/compilation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Exécutable</title>
-      <link>https://blog.memlenz.com/tags/ex%C3%A9cutable/</link>
+      <link>http://localhost:1313/tags/ex%C3%A9cutable/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/ex%C3%A9cutable/</guid>
+      <guid>http://localhost:1313/tags/ex%C3%A9cutable/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Jeu</title>
-      <link>https://blog.memlenz.com/tags/jeu/</link>
+      <link>http://localhost:1313/tags/jeu/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/jeu/</guid>
+      <guid>http://localhost:1313/tags/jeu/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Logique</title>
-      <link>https://blog.memlenz.com/tags/logique/</link>
+      <link>http://localhost:1313/tags/logique/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/logique/</guid>
+      <guid>http://localhost:1313/tags/logique/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Exceptions</title>
-      <link>https://blog.memlenz.com/tags/exceptions/</link>
+      <link>http://localhost:1313/tags/exceptions/</link>
       <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/exceptions/</guid>
+      <guid>http://localhost:1313/tags/exceptions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Try ... Except</title>
-      <link>https://blog.memlenz.com/tags/try-...-except/</link>
+      <link>http://localhost:1313/tags/try-...-except/</link>
       <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/try-...-except/</guid>
+      <guid>http://localhost:1313/tags/try-...-except/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PIP</title>
-      <link>https://blog.memlenz.com/tags/pip/</link>
+      <link>http://localhost:1313/tags/pip/</link>
       <pubDate>Tue, 04 Mar 2025 02:03:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/pip/</guid>
+      <guid>http://localhost:1313/tags/pip/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Module</title>
-      <link>https://blog.memlenz.com/tags/module/</link>
+      <link>http://localhost:1313/tags/module/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/module/</guid>
+      <guid>http://localhost:1313/tags/module/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>RegEx</title>
-      <link>https://blog.memlenz.com/tags/regex/</link>
+      <link>http://localhost:1313/tags/regex/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/regex/</guid>
+      <guid>http://localhost:1313/tags/regex/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JSON</title>
-      <link>https://blog.memlenz.com/tags/json/</link>
+      <link>http://localhost:1313/tags/json/</link>
       <pubDate>Tue, 04 Mar 2025 01:37:05 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/json/</guid>
+      <guid>http://localhost:1313/tags/json/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Math</title>
-      <link>https://blog.memlenz.com/tags/math/</link>
+      <link>http://localhost:1313/tags/math/</link>
       <pubDate>Tue, 04 Mar 2025 01:32:43 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/math/</guid>
+      <guid>http://localhost:1313/tags/math/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dates</title>
-      <link>https://blog.memlenz.com/tags/dates/</link>
+      <link>http://localhost:1313/tags/dates/</link>
       <pubDate>Tue, 04 Mar 2025 01:27:53 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/dates/</guid>
+      <guid>http://localhost:1313/tags/dates/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Modules</title>
-      <link>https://blog.memlenz.com/tags/modules/</link>
+      <link>http://localhost:1313/tags/modules/</link>
       <pubDate>Tue, 04 Mar 2025 01:19:13 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/modules/</guid>
+      <guid>http://localhost:1313/tags/modules/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Portée</title>
-      <link>https://blog.memlenz.com/tags/port%C3%A9e/</link>
+      <link>http://localhost:1313/tags/port%C3%A9e/</link>
       <pubDate>Mon, 03 Mar 2025 05:57:31 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/port%C3%A9e/</guid>
+      <guid>http://localhost:1313/tags/port%C3%A9e/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Polymorphisme</title>
-      <link>https://blog.memlenz.com/tags/polymorphisme/</link>
+      <link>http://localhost:1313/tags/polymorphisme/</link>
       <pubDate>Mon, 03 Mar 2025 05:53:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/polymorphisme/</guid>
+      <guid>http://localhost:1313/tags/polymorphisme/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Heritage</title>
-      <link>https://blog.memlenz.com/tags/heritage/</link>
+      <link>http://localhost:1313/tags/heritage/</link>
       <pubDate>Mon, 03 Mar 2025 05:50:46 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/heritage/</guid>
+      <guid>http://localhost:1313/tags/heritage/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Classes</title>
-      <link>https://blog.memlenz.com/tags/classes/</link>
+      <link>http://localhost:1313/tags/classes/</link>
       <pubDate>Mon, 03 Mar 2025 05:46:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/classes/</guid>
+      <guid>http://localhost:1313/tags/classes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Objets</title>
-      <link>https://blog.memlenz.com/tags/objets/</link>
+      <link>http://localhost:1313/tags/objets/</link>
       <pubDate>Mon, 03 Mar 2025 05:46:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/objets/</guid>
+      <guid>http://localhost:1313/tags/objets/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Array</title>
-      <link>https://blog.memlenz.com/tags/array/</link>
+      <link>http://localhost:1313/tags/array/</link>
       <pubDate>Mon, 03 Mar 2025 05:40:20 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/array/</guid>
+      <guid>http://localhost:1313/tags/array/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lambda</title>
-      <link>https://blog.memlenz.com/tags/lambda/</link>
+      <link>http://localhost:1313/tags/lambda/</link>
       <pubDate>Thu, 27 Feb 2025 19:57:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/lambda/</guid>
+      <guid>http://localhost:1313/tags/lambda/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fonctions</title>
-      <link>https://blog.memlenz.com/tags/fonctions/</link>
+      <link>http://localhost:1313/tags/fonctions/</link>
       <pubDate>Thu, 27 Feb 2025 19:54:14 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/fonctions/</guid>
+      <guid>http://localhost:1313/tags/fonctions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>For</title>
-      <link>https://blog.memlenz.com/tags/for/</link>
+      <link>http://localhost:1313/tags/for/</link>
       <pubDate>Thu, 27 Feb 2025 19:47:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/for/</guid>
+      <guid>http://localhost:1313/tags/for/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>While</title>
-      <link>https://blog.memlenz.com/tags/while/</link>
+      <link>http://localhost:1313/tags/while/</link>
       <pubDate>Thu, 27 Feb 2025 19:47:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/while/</guid>
+      <guid>http://localhost:1313/tags/while/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Conditions</title>
-      <link>https://blog.memlenz.com/tags/conditions/</link>
+      <link>http://localhost:1313/tags/conditions/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/conditions/</guid>
+      <guid>http://localhost:1313/tags/conditions/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Elif</title>
-      <link>https://blog.memlenz.com/tags/elif/</link>
+      <link>http://localhost:1313/tags/elif/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/elif/</guid>
+      <guid>http://localhost:1313/tags/elif/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Else</title>
-      <link>https://blog.memlenz.com/tags/else/</link>
+      <link>http://localhost:1313/tags/else/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/else/</guid>
+      <guid>http://localhost:1313/tags/else/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>If</title>
-      <link>https://blog.memlenz.com/tags/if/</link>
+      <link>http://localhost:1313/tags/if/</link>
       <pubDate>Thu, 27 Feb 2025 19:39:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/if/</guid>
+      <guid>http://localhost:1313/tags/if/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dictionnaires</title>
-      <link>https://blog.memlenz.com/tags/dictionnaires/</link>
+      <link>http://localhost:1313/tags/dictionnaires/</link>
       <pubDate>Thu, 27 Feb 2025 19:30:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/dictionnaires/</guid>
+      <guid>http://localhost:1313/tags/dictionnaires/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sets</title>
-      <link>https://blog.memlenz.com/tags/sets/</link>
+      <link>http://localhost:1313/tags/sets/</link>
       <pubDate>Thu, 27 Feb 2025 19:27:26 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/sets/</guid>
+      <guid>http://localhost:1313/tags/sets/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tuples</title>
-      <link>https://blog.memlenz.com/tags/tuples/</link>
+      <link>http://localhost:1313/tags/tuples/</link>
       <pubDate>Thu, 27 Feb 2025 18:50:12 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/tuples/</guid>
+      <guid>http://localhost:1313/tags/tuples/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Listes</title>
-      <link>https://blog.memlenz.com/tags/listes/</link>
+      <link>http://localhost:1313/tags/listes/</link>
       <pubDate>Thu, 27 Feb 2025 18:47:13 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/listes/</guid>
+      <guid>http://localhost:1313/tags/listes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Opérateurs</title>
-      <link>https://blog.memlenz.com/tags/op%C3%A9rateurs/</link>
+      <link>http://localhost:1313/tags/op%C3%A9rateurs/</link>
       <pubDate>Thu, 27 Feb 2025 18:44:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/op%C3%A9rateurs/</guid>
+      <guid>http://localhost:1313/tags/op%C3%A9rateurs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Booléen</title>
-      <link>https://blog.memlenz.com/tags/bool%C3%A9en/</link>
+      <link>http://localhost:1313/tags/bool%C3%A9en/</link>
       <pubDate>Thu, 27 Feb 2025 18:38:35 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/bool%C3%A9en/</guid>
+      <guid>http://localhost:1313/tags/bool%C3%A9en/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chaînes</title>
-      <link>https://blog.memlenz.com/tags/cha%C3%AEnes/</link>
+      <link>http://localhost:1313/tags/cha%C3%AEnes/</link>
       <pubDate>Thu, 27 Feb 2025 17:50:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/cha%C3%AEnes/</guid>
+      <guid>http://localhost:1313/tags/cha%C3%AEnes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Casting</title>
-      <link>https://blog.memlenz.com/tags/casting/</link>
+      <link>http://localhost:1313/tags/casting/</link>
       <pubDate>Thu, 27 Feb 2025 14:34:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/casting/</guid>
+      <guid>http://localhost:1313/tags/casting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nombres</title>
-      <link>https://blog.memlenz.com/tags/nombres/</link>
+      <link>http://localhost:1313/tags/nombres/</link>
       <pubDate>Thu, 27 Feb 2025 12:30:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/nombres/</guid>
+      <guid>http://localhost:1313/tags/nombres/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Type De Donnée</title>
-      <link>https://blog.memlenz.com/tags/type-de-donn%C3%A9e/</link>
+      <link>http://localhost:1313/tags/type-de-donn%C3%A9e/</link>
       <pubDate>Thu, 27 Feb 2025 10:22:53 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/type-de-donn%C3%A9e/</guid>
+      <guid>http://localhost:1313/tags/type-de-donn%C3%A9e/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Syntaxe</title>
-      <link>https://blog.memlenz.com/tags/syntaxe/</link>
+      <link>http://localhost:1313/tags/syntaxe/</link>
       <pubDate>Wed, 26 Feb 2025 02:29:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/syntaxe/</guid>
+      <guid>http://localhost:1313/tags/syntaxe/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Variables</title>
-      <link>https://blog.memlenz.com/tags/variables/</link>
+      <link>http://localhost:1313/tags/variables/</link>
       <pubDate>Wed, 26 Feb 2025 02:26:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/variables/</guid>
+      <guid>http://localhost:1313/tags/variables/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Beginner</title>
-      <link>https://blog.memlenz.com/tags/beginner/</link>
+      <link>http://localhost:1313/tags/beginner/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/beginner/</guid>
+      <guid>http://localhost:1313/tags/beginner/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://blog.memlenz.com/tags/introduction/</link>
+      <link>http://localhost:1313/tags/introduction/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/introduction/</guid>
+      <guid>http://localhost:1313/tags/introduction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sql</title>
-      <link>https://blog.memlenz.com/tags/sql/</link>
+      <link>http://localhost:1313/tags/sql/</link>
       <pubDate>Tue, 25 Feb 2025 01:59:02 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/sql/</guid>
+      <guid>http://localhost:1313/tags/sql/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>https://blog.memlenz.com/tags/c&#43;&#43;/</link>
+      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:39 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://blog.memlenz.com/tags/java/</link>
+      <link>http://localhost:1313/tags/java/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:39 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/java/</guid>
+      <guid>http://localhost:1313/tags/java/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Développement</title>
-      <link>https://blog.memlenz.com/tags/d%C3%A9veloppement/</link>
+      <link>http://localhost:1313/tags/d%C3%A9veloppement/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/d%C3%A9veloppement/</guid>
+      <guid>http://localhost:1313/tags/d%C3%A9veloppement/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Open Source</title>
-      <link>https://blog.memlenz.com/tags/open-source/</link>
+      <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/open-source/</guid>
+      <guid>http://localhost:1313/tags/open-source/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Productivité</title>
-      <link>https://blog.memlenz.com/tags/productivit%C3%A9/</link>
+      <link>http://localhost:1313/tags/productivit%C3%A9/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/productivit%C3%A9/</guid>
+      <guid>http://localhost:1313/tags/productivit%C3%A9/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Portfolio</title>
-      <link>https://blog.memlenz.com/tags/portfolio/</link>
+      <link>http://localhost:1313/tags/portfolio/</link>
       <pubDate>Sat, 15 Feb 2025 03:04:58 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/tags/portfolio/</guid>
+      <guid>http://localhost:1313/tags/portfolio/</guid>
       <description></description>
       
     </item>

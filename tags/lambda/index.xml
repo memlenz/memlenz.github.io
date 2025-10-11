@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lambda on </title>
-    <link>https://blog.memlenz.com/tags/lambda/</link>
+    <link>http://localhost:1313/tags/lambda/</link>
     <description>Recent content in Lambda on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 19:57:54 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/lambda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 19:57:54 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/lambda/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les fonctions lambda en Python</title>
-      <link>https://blog.memlenz.com/courses/python/lambda/</link>
+      <link>http://localhost:1313/courses/python/lambda/</link>
       <pubDate>Thu, 27 Feb 2025 19:57:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/lambda/</guid>
+      <guid>http://localhost:1313/courses/python/lambda/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Les Fonctions Lambda en Python : Des Fonctions Ultra-Compactes&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Si tu es déjà familiarisé avec les fonctions classiques en Python, tu sais qu&amp;rsquo;elles peuvent parfois être un peu longues à écrire pour des tâches simples. C’est là que &lt;strong&gt;les fonctions lambda&lt;/strong&gt; entrent en scène pour te simplifier la vie. Elles te permettent de créer des fonctions anonymes, en une seule ligne, super efficaces et parfaites pour les cas où tu n’as pas besoin de nommer ta fonction.&lt;/p&gt;</description>
       

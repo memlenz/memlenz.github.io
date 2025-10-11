@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on </title>
-    <link>https://blog.memlenz.com/tags/java/</link>
+    <link>http://localhost:1313/tags/java/</link>
     <description>Recent content in Java on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 15 Feb 2025 13:39:39 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 13:39:39 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Langage</title>
-      <link>https://blog.memlenz.com/blog/</link>
+      <link>http://localhost:1313/blog/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:39 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/</guid>
+      <guid>http://localhost:1313/blog/</guid>
       <description>&lt;p&gt;Dans ce coin du blog, nous allons plonger dans l&amp;rsquo;univers fascinant des
 langages de programmation et de l&amp;rsquo;informatique en général.
 Découvrez les dernières tendances, les meilleures pratiques et les

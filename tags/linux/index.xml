@@ -2,21 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on </title>
-    <link>https://blog.memlenz.com/tags/linux/</link>
+    <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 30 Jul 2025 09:59:44 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Et si Windows n’était pas votre seule option ? Découvrez un monde d’alternatives</title>
+      <link>http://localhost:1313/blog/why-linux/linux_for_beginners/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/why-linux/linux_for_beginners/</guid>
+      <description>&lt;hr&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Introduction : Le monde ne tourne pas (que) autour de Windows 
+    &lt;div id=&#34;introduction--le-monde-ne-tourne-pas-que-autour-de-windows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction--le-monde-ne-tourne-pas-que-autour-de-windows&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Quand on parle d’ordinateurs, une image s’impose souvent : le logo Windows, bleu et familier, qui s’affiche au démarrage. Pourtant, derrière cette façade omniprésente se cache un univers bien plus vaste. &lt;strong&gt;Windows n’est pas le seul système d’exploitation au monde&lt;/strong&gt;, et surtout, il n’est pas forcément le meilleur choix pour tout le monde.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Partitions sous Linux : du simple au complexe</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/partitions/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/partitions/</link>
       <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/partitions/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/partitions/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Partitions sous Linux : du simple au complexe 
     &lt;div id=&#34;partitions-sous-linux--du-simple-au-complexe&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -33,10 +54,10 @@ Tu tombes sur des mots comme &lt;code&gt;boot&lt;/code&gt;, &lt;code&gt;swap&lt;
     
     <item>
       <title>Installation Arch Linux : Guide accessible et complet</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</link>
       <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Installation Arch Linux 
     &lt;div id=&#34;installation-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -53,10 +74,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Installer PostgreSQL sur Arch, Void Linux et Debian/Ubuntu</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/postgre-sql/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/postgre-sql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/postgre-sql/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/postgre-sql/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🐘 Pourquoi PostgreSQL ? 
     &lt;div id=&#34;-pourquoi-postgresql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -72,10 +93,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Installer Python sur Windows, Linux et Mac</title>
-      <link>https://blog.memlenz.com/blog/python/installation-python/</link>
+      <link>http://localhost:1313/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/installation-python/</guid>
+      <guid>http://localhost:1313/blog/python/installation-python/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi installer Python ? 
     &lt;div id=&#34;pourquoi-installer-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -91,10 +112,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Bienvenue dans le Void : Installer Void Linux pas à pas</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🖤 &lt;strong&gt;Bienvenue dans le Void !&lt;/strong&gt; 
     &lt;div id=&#34;-bienvenue-dans-le-void-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -110,10 +131,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Why Linux</title>
-      <link>https://blog.memlenz.com/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
+      <link>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
+      <guid>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Le Déclic : Pourquoi Linux M’a Fait Gagner&lt;/strong&gt; 🚀 
     &lt;div id=&#34;1-le-déclic--pourquoi-linux-ma-fait-gagner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

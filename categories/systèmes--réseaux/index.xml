@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Systèmes &amp; Réseaux on </title>
-    <link>https://blog.memlenz.com/categories/syst%C3%A8mes--r%C3%A9seaux/</link>
+    <link>http://localhost:1313/categories/syst%C3%A8mes--r%C3%A9seaux/</link>
     <description>Recent content in Systèmes &amp; Réseaux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/categories/syst%C3%A8mes--r%C3%A9seaux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/syst%C3%A8mes--r%C3%A9seaux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -33,10 +33,10 @@ Derrière ce jargon se cache une question cruciale : &lt;strong&gt;l’avenir de
     
     <item>
       <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</title>
-      <link>https://blog.memlenz.com/blog/systmes-reseaux/intra-id/</link>
+      <link>http://localhost:1313/blog/systmes-reseaux/intra-id/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/systmes-reseaux/intra-id/</guid>
+      <guid>http://localhost:1313/blog/systmes-reseaux/intra-id/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
