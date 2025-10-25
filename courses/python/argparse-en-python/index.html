@@ -112,12 +112,12 @@ Si tu fais juste :">
     <meta property="article:tag" content="Python">
     <meta property="article:tag" content="Cli">
     <meta property="article:tag" content="Argparse">
+      <meta property="og:see_also" content="http://localhost:1313/courses/python/les-langages/">
       <meta property="og:see_also" content="http://localhost:1313/courses/python/with-open/">
       <meta property="og:see_also" content="http://localhost:1313/courses/python/try-except/">
       <meta property="og:see_also" content="http://localhost:1313/courses/python/pip/">
       <meta property="og:see_also" content="http://localhost:1313/courses/python/module-regex/">
       <meta property="og:see_also" content="http://localhost:1313/courses/python/module-json/">
-      <meta property="og:see_also" content="http://localhost:1313/courses/python/module-math/">
 
   
   <meta name="twitter:card" content="summary">
@@ -134,7 +134,7 @@ Si tu fais juste :">
     "name": "Comprendre et maîtriser argparse en Python",
     "headline": "Comprendre et maîtriser argparse en Python",
     
-    "abstract": "\u003ch1 class=\u0022relative group\u0022\u003e🚀 Maîtriser argparse en Python : Guide complet \n    \u003cdiv id=\u0022-maîtriser-argparse-en-python--guide-complet\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#-ma%c3%aetriser-argparse-en-python--guide-complet\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h1\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cstrong\u003e🔥 Pourquoi ce tuto ?\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eTu veux faire des scripts \u003cstrong\u003een ligne de commande\u003c\/strong\u003e propres et puissants ?\u003c\/li\u003e\n\u003cli\u003eMarre de \u003ccode\u003esys.argv\u003c\/code\u003e et du parsing manuel des arguments ?\u003c\/li\u003e\n\u003cli\u003eTu veux \u003cstrong\u003edes options, des flags, de l\u0026rsquo;aide automatique, et même des sous-commandes\u003c\/strong\u003e ?\u003c\/li\u003e\n\u003c\/ul\u003e\u003c\/blockquote\u003e\n\u003chr\u003e\n\n\u003ch2 class=\u0022relative group\u0022\u003e📌 Pourquoi \u003ccode\u003eargparse\u003c\/code\u003e et pas \u003ccode\u003esys.argv\u003c\/code\u003e ? \n    \u003cdiv id=\u0022-pourquoi-argparse-et-pas-sysargv-\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#-pourquoi-argparse-et-pas-sysargv-\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003e🔥 \u003cem\u003eComment un script Python récupère-t-il des arguments en ligne de commande ?\u003c\/em\u003e\u003cbr\u003e\nSi tu fais juste :\u003c\/p\u003e",
+    "abstract": "\u003ch1 class=\u0022relative group\u0022\u003e🚀 Maîtriser argparse en Python : Guide complet \n    \u003cdiv id=\u0022-maîtriser-argparse-en-python--guide-complet\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#-ma%c3%aetriser-argparse-en-python--guide-complet\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h1\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cstrong\u003e🔥 Pourquoi ce tuto ?\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eTu veux faire des scripts \u003cstrong\u003een ligne de commande\u003c\/strong\u003e propres et puissants ?\u003c\/li\u003e\n\u003cli\u003eMarre de \u003ccode\u003esys.argv\u003c\/code\u003e et du parsing manuel des arguments ?\u003c\/li\u003e\n\u003cli\u003eTu veux \u003cstrong\u003edes options, des flags, de l\u0026rsquo;aide automatique, et même des sous-commandes\u003c\/strong\u003e ?\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003c\/blockquote\u003e\n\u003chr\u003e\n\n\u003ch2 class=\u0022relative group\u0022\u003e📌 Pourquoi \u003ccode\u003eargparse\u003c\/code\u003e et pas \u003ccode\u003esys.argv\u003c\/code\u003e ? \n    \u003cdiv id=\u0022-pourquoi-argparse-et-pas-sysargv-\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#-pourquoi-argparse-et-pas-sysargv-\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003e🔥 \u003cem\u003eComment un script Python récupère-t-il des arguments en ligne de commande ?\u003c\/em\u003e\u003cbr\u003e\nSi tu fais juste :\u003c\/p\u003e",
     "inLanguage": "fr",
     "url" : "http:\/\/localhost:1313\/courses\/python\/argparse-en-python\/",
     "author" : {
@@ -1231,6 +1231,16 @@ Si tu fais juste :">
     
       <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/courses/python/les-langages/">
+          Partie 27:
+          Church, Turing et les Langages de Programmation : Une Plongée Théorique et Pratique
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
         <a href="/courses/python/pip/">
           Partie 27:
           Le gestionnaire de packet PIP
@@ -1298,7 +1308,8 @@ Si tu fais juste :">
 <li>Tu veux faire des scripts <strong>en ligne de commande</strong> propres et puissants ?</li>
 <li>Marre de <code>sys.argv</code> et du parsing manuel des arguments ?</li>
 <li>Tu veux <strong>des options, des flags, de l&rsquo;aide automatique, et même des sous-commandes</strong> ?</li>
-</ul></blockquote>
+</ul>
+</blockquote>
 <hr>
 
 <h2 class="relative group">📌 Pourquoi <code>argparse</code> et pas <code>sys.argv</code> ? 
@@ -1788,6 +1799,16 @@ Si tu fais juste :</p>
         <a href="/courses/python/module-regex/">
           Partie 26:
           Module RegEx
+        </a>
+      </div>
+    
+  
+    
+      <div
+        class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+        <a href="/courses/python/les-langages/">
+          Partie 27:
+          Church, Turing et les Langages de Programmation : Une Plongée Théorique et Pratique
         </a>
       </div>
     

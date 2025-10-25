@@ -9,7 +9,27 @@
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 03 Apr 2025 10:55:18 +0100</lastBuildDate><atom:link href="http://localhost:1313/series/apprendre-python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 02:55:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/series/apprendre-python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Church, Turing et les Langages de Programmation : Une Plongée Théorique et Pratique</title>
+      <link>http://localhost:1313/courses/python/les-langages/</link>
+      <pubDate>Sat, 25 Oct 2025 02:55:22 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/courses/python/les-langages/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Church, Turing et les Langages de Programmation : Une Plongée Théorique et Pratique 
+    &lt;div id=&#34;church-turing-et-les-langages-de-programmation--une-plongée-théorique-et-pratique&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#church-turing-et-les-langages-de-programmation--une-plong%c3%a9e-th%c3%a9orique-et-pratique&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;
+L’informatique moderne repose sur des concepts théoriques profonds, souvent méconnus des développeurs. Parmi eux, &lt;strong&gt;l’hypothèse de Church-Turing&lt;/strong&gt; est un pilier qui a façonné tous les langages de programmation que nous utilisons aujourd’hui. Dans cet article, nous allons explorer :&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Comprendre et maîtriser with et open en Python</title>
@@ -51,7 +71,8 @@
 &lt;li&gt;Tu veux faire des scripts &lt;strong&gt;en ligne de commande&lt;/strong&gt; propres et puissants ?&lt;/li&gt;
 &lt;li&gt;Marre de &lt;code&gt;sys.argv&lt;/code&gt; et du parsing manuel des arguments ?&lt;/li&gt;
 &lt;li&gt;Tu veux &lt;strong&gt;des options, des flags, de l&amp;rsquo;aide automatique, et même des sous-commandes&lt;/strong&gt; ?&lt;/li&gt;
-&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;📌 Pourquoi &lt;code&gt;argparse&lt;/code&gt; et pas &lt;code&gt;sys.argv&lt;/code&gt; ? 

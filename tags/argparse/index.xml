@@ -32,7 +32,8 @@
 &lt;li&gt;Tu veux faire des scripts &lt;strong&gt;en ligne de commande&lt;/strong&gt; propres et puissants ?&lt;/li&gt;
 &lt;li&gt;Marre de &lt;code&gt;sys.argv&lt;/code&gt; et du parsing manuel des arguments ?&lt;/li&gt;
 &lt;li&gt;Tu veux &lt;strong&gt;des options, des flags, de l&amp;rsquo;aide automatique, et même des sous-commandes&lt;/strong&gt; ?&lt;/li&gt;
-&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;📌 Pourquoi &lt;code&gt;argparse&lt;/code&gt; et pas &lt;code&gt;sys.argv&lt;/code&gt; ? 

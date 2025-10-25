@@ -9,7 +9,17 @@
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 02:55:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Apprendre Python</title>
+      <link>http://localhost:1313/series/apprendre-python/</link>
+      <pubDate>Sat, 25 Oct 2025 02:55:22 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/series/apprendre-python/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Le Monde De Linux</title>
@@ -47,16 +57,6 @@
       <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/series/linux-essentials/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Apprendre Python</title>
-      <link>http://localhost:1313/series/apprendre-python/</link>
-      <pubDate>Thu, 03 Apr 2025 10:55:18 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/series/apprendre-python/</guid>
       <description></description>
       
     </item>

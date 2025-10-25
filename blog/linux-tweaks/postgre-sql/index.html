@@ -1225,7 +1225,8 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo apt update
 </span></span><span class="line"><span class="cl">sudo apt install postgresql
 </span></span></code></pre></div><blockquote>
-<p>PostgreSQL est automatiquement initialisé et activé avec systemd.</p></blockquote>
+<p>PostgreSQL est automatiquement initialisé et activé avec systemd.</p>
+</blockquote>
 
 <h3 class="relative group">2. Vérifier que le service est actif 
     <div id="2-vérifier-que-le-service-est-actif" class="anchor"></div>
@@ -1266,7 +1267,8 @@
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="k">CREATE</span><span class="w"> </span><span class="k">DATABASE</span><span class="w"> </span><span class="n">projet</span><span class="w"> </span><span class="k">OWNER</span><span class="w"> </span><span class="n">dev</span><span class="p">;</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="k">GRANT</span><span class="w"> </span><span class="k">ALL</span><span class="w"> </span><span class="k">PRIVILEGES</span><span class="w"> </span><span class="k">ON</span><span class="w"> </span><span class="k">DATABASE</span><span class="w"> </span><span class="n">projet</span><span class="w"> </span><span class="k">TO</span><span class="w"> </span><span class="n">dev</span><span class="p">;</span><span class="w">
 </span></span></span></code></pre></div><blockquote>
-<p>Tu peux ensuite te connecter avec :</p></blockquote>
+<p>Tu peux ensuite te connecter avec :</p>
+</blockquote>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">psql -U dev -d projet -h localhost
 </span></span></code></pre></div><hr>
 
@@ -1303,7 +1305,8 @@
 <p>PostgreSQL est désormais installé et prêt à l’emploi sur ta distro Linux préférée.<br>
 Chaque distribution a ses petites particularités (init, services), mais la logique reste la même.</p>
 <blockquote>
-<p>Astuce : pense à installer <code>pgcli</code> pour une meilleure expérience en ligne de commande !</p></blockquote>
+<p>Astuce : pense à installer <code>pgcli</code> pour une meilleure expérience en ligne de commande !</p>
+</blockquote>
 <hr>
 
           

@@ -9,7 +9,107 @@
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 02:55:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Church-Turing</title>
+      <link>http://localhost:1313/tags/church-turing/</link>
+      <pubDate>Sat, 25 Oct 2025 02:55:22 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/church-turing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Informatique Théorique</title>
+      <link>http://localhost:1313/tags/informatique-th%C3%A9orique/</link>
+      <pubDate>Sat, 25 Oct 2025 02:55:22 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/informatique-th%C3%A9orique/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lambda Calculus</title>
+      <link>http://localhost:1313/tags/lambda-calculus/</link>
+      <pubDate>Sat, 25 Oct 2025 02:55:22 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/lambda-calculus/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Langages De Programmation</title>
+      <link>http://localhost:1313/tags/langages-de-programmation/</link>
+      <pubDate>Sat, 25 Oct 2025 02:55:22 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/langages-de-programmation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine De Turing</title>
+      <link>http://localhost:1313/tags/machine-de-turing/</link>
+      <pubDate>Sat, 25 Oct 2025 02:55:22 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/machine-de-turing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>http://localhost:1313/tags/devops/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/devops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>http://localhost:1313/tags/django/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/django/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pip</title>
+      <link>http://localhost:1313/tags/pip/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/pip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Poetry</title>
+      <link>http://localhost:1313/tags/poetry/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/poetry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Alternatives</title>
@@ -402,16 +502,6 @@
     </item>
     
     <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Chemins</title>
       <link>http://localhost:1313/tags/chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
@@ -767,16 +857,6 @@
       <pubDate>Tue, 04 Mar 2025 02:08:27 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/tags/try-...-except/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PIP</title>
-      <link>http://localhost:1313/tags/pip/</link>
-      <pubDate>Tue, 04 Mar 2025 02:03:48 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/pip/</guid>
       <description></description>
       
     </item>
