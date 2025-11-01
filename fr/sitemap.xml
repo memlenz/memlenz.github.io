@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-25T02:55:22+01:00</lastmod>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,6 +17,30 @@
       hreflang="fr"
       href="http://localhost:1313/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/python/bot-telegram/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/parcours/moi-un/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/parcours/</loc>
+    <lastmod>2025-10-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/courses/python/les-langages/</loc>
@@ -385,12 +409,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-02-15T13:39:39+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</loc>
     <lastmod>2025-02-15T03:36:29+01:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -457,11 +475,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/blog/linux-tweaks/maconfigterminal/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/parcours/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
