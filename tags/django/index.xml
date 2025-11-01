@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Django on </title>
-    <link>http://localhost:1313/tags/django/</link>
+    <link>https://blog.memlenz.com/tags/django/</link>
     <description>Recent content in Django on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pip vs Poetry : Le duel pour gérer vos dépendances Python</title>
-      <link>http://localhost:1313/courses/python/pip-vs-poetry/</link>
+      <link>https://blog.memlenz.com/courses/python/pip-vs-poetry/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/pip-vs-poetry/</guid>
+      <guid>https://blog.memlenz.com/courses/python/pip-vs-poetry/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Pip vs Poetry : Le duel pour gérer vos dépendances Python ⚔️ 
     &lt;div id=&#34;pip-vs-poetry--le-duel-pour-gérer-vos-dépendances-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

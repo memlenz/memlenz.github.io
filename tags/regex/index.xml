@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RegEx on </title>
-    <link>http://localhost:1313/tags/regex/</link>
+    <link>https://blog.memlenz.com/tags/regex/</link>
     <description>Recent content in RegEx on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 01:42:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/regex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 01:42:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/regex/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Module RegEx</title>
-      <link>http://localhost:1313/courses/python/module-regex/</link>
+      <link>https://blog.memlenz.com/courses/python/module-regex/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/module-regex/</guid>
+      <guid>https://blog.memlenz.com/courses/python/module-regex/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Les RegEx en Python : Domptez la Puissance des Expressions Régulières&lt;/strong&gt; 
     &lt;div id=&#34;les-regex-en-python--domptez-la-puissance-des-expressions-régulières&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

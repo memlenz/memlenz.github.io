@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminal on </title>
-    <link>http://localhost:1313/tags/terminal/</link>
+    <link>https://blog.memlenz.com/tags/terminal/</link>
     <description>Recent content in Terminal on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 10 Jul 2025 10:30:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jul 2025 10:30:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Prise en main du terminal Linux</title>
-      <link>http://localhost:1313/blog/linux-tweaks/archlinux/terminal/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/terminal/</link>
       <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/terminal/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/terminal/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Prise en main du terminal Linux 
     &lt;div id=&#34;prise-en-main-du-terminal-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -33,10 +33,10 @@ Pas d’icônes, pas de clics interminables, juste un écran noir et un curseur 
     
     <item>
       <title>Installation Arch Linux : Guide accessible et complet</title>
-      <link>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</link>
       <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Installation Arch Linux 
     &lt;div id=&#34;installation-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -53,10 +53,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
-      <link>http://localhost:1313/blog/python/les-chemins/</link>
+      <link>https://blog.memlenz.com/blog/python/les-chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/les-chemins/</guid>
+      <guid>https://blog.memlenz.com/blog/python/les-chemins/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Introduction : Pourquoi les chemins système sont importants ?&lt;/strong&gt; 
     &lt;div id=&#34;introduction--pourquoi-les-chemins-système-sont-importants-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

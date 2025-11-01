@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on </title>
-    <link>http://localhost:1313/tags/portfolio/</link>
+    <link>https://blog.memlenz.com/tags/portfolio/</link>
     <description>Recent content in Portfolio on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 15 Feb 2025 03:04:58 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Feb 2025 03:04:58 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
+      <link>https://blog.memlenz.com/portfolio/</link>
       <pubDate>Sat, 15 Feb 2025 03:04:58 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/portfolio/</guid>
+      <guid>https://blog.memlenz.com/portfolio/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;
   &lt;img src=&#34;https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Hello!&amp;height=100&amp;section=header&#34;/&gt;
 &lt;/p&gt;
