@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-02T22:29:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,8 +19,20 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/parcours/pagerank-algorithme-google/</loc>
+    <lastmod>2025-11-02T22:29:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/parcours/</loc>
-    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-02T22:29:56+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/parcours/hypocrisie-professionnelle-strategie-paraitre/</loc>
+    <lastmod>2025-11-02T21:29:56+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication on </title>
+    <link>http://localhost:1313/tags/communication/</link>
+    <description>Recent content in Communication on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 02 Nov 2025 21:29:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>L’hypocrisie professionnelle ou la stratégie du paraître ?</title>
+      <link>http://localhost:1313/parcours/hypocrisie-professionnelle-strategie-paraitre/</link>
+      <pubDate>Sun, 02 Nov 2025 21:29:56 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/parcours/hypocrisie-professionnelle-strategie-paraitre/</guid>
+      <description>&lt;p&gt;Sur les réseaux professionnels, un rituel s’est installé.&lt;br&gt;
+Des publications qui commencent par « J’ai beaucoup appris de ce stage » ou « Cette expérience m’a permis de grandir » inondent les fils d’actualité.&lt;br&gt;
+Des phrases polies, souvent interchangeables, où la gratitude devient une monnaie d’échange sociale.&lt;br&gt;
+Mais derrière cette uniformité de ton, une question dérangeante surgit : &lt;strong&gt;s’agit-il d’authenticité ou de simple stratégie ?&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -14,15 +14,15 @@
   <meta name="theme-color">
 
   
-  <title>Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font &middot; </title>
-    <meta name="title" content="Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font &middot; ">
+  <title>PageRank : le cœur mathématique de Google &middot; </title>
+    <meta name="title" content="PageRank : le cœur mathématique de Google &middot; ">
 
   
-  <meta name="description" content="On ne comprend vraiment la programmation que lorsqu’on construit pour les autres. C’est là que le code cesse d’être un exercice et devient un système vivant.">
-  <meta name="keywords" content="programmation,architecture,apprentissage,maturité-technique,">
+  <meta name="description" content="Une exploration détaillée du PageRank, l’algorithme fondateur de Google, entre théorie mathématique, logique de réputation et héritage algorithmique.">
+  <meta name="keywords" content="algorithmes,mathématiques,web,moteur de recherche,google,graphe,">
   
   
-  <link rel="canonical" href="http://localhost:1313/parcours/developpeurs-comprehension-reelle/">
+  <link rel="canonical" href="http://localhost:1313/parcours/pagerank-algorithme-google/">
   
   
   
@@ -99,49 +99,51 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/parcours/developpeurs-comprehension-reelle/">
-  <meta property="og:title" content="Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font">
-  <meta property="og:description" content="On ne comprend vraiment la programmation que lorsqu’on construit pour les autres. C’est là que le code cesse d’être un exercice et devient un système vivant.">
+  <meta property="og:url" content="http://localhost:1313/parcours/pagerank-algorithme-google/">
+  <meta property="og:title" content="PageRank : le cœur mathématique de Google">
+  <meta property="og:description" content="Une exploration détaillée du PageRank, l’algorithme fondateur de Google, entre théorie mathématique, logique de réputation et héritage algorithmique.">
   <meta property="og:locale" content="fr">
   <meta property="og:type" content="article">
     <meta property="article:section" content="parcours">
-    <meta property="article:published_time" content="2025-11-02T00:00:00+00:00">
-    <meta property="article:modified_time" content="2025-11-02T00:00:00+00:00">
-    <meta property="article:tag" content="Programmation">
-    <meta property="article:tag" content="Architecture">
-    <meta property="article:tag" content="Apprentissage">
-    <meta property="article:tag" content="Maturité-Technique">
+    <meta property="article:published_time" content="2025-11-02T22:29:56+01:00">
+    <meta property="article:modified_time" content="2025-11-02T22:29:56+01:00">
+    <meta property="article:tag" content="Algorithmes">
+    <meta property="article:tag" content="Mathématiques">
+    <meta property="article:tag" content="Web">
+    <meta property="article:tag" content="Moteur De Recherche">
+    <meta property="article:tag" content="Google">
+    <meta property="article:tag" content="Graphe">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font">
-  <meta name="twitter:description" content="On ne comprend vraiment la programmation que lorsqu’on construit pour les autres. C’est là que le code cesse d’être un exercice et devient un système vivant.">
+  <meta name="twitter:title" content="PageRank : le cœur mathématique de Google">
+  <meta name="twitter:description" content="Une exploration détaillée du PageRank, l’algorithme fondateur de Google, entre théorie mathématique, logique de réputation et héritage algorithmique.">
 
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Parcours",
-    "name": "Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font",
-    "headline": "Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font",
-    "description": "On ne comprend vraiment la programmation que lorsqu’on construit pour les autres. C’est là que le code cesse d’être un exercice et devient un système vivant.",
-    "abstract": "\u003ch2 class=\u0022relative group\u0022\u003eQuand le code devient réel \n    \u003cdiv id=\u0022quand-le-code-devient-réel\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#quand-le-code-devient-r%c3%a9el\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003eIl y a un moment précis dans la vie d’un développeur où tout change : celui où il ne code plus seulement \u003cstrong\u003epour apprendre\u003c\/strong\u003e, mais \u003cstrong\u003epour servir\u003c\/strong\u003e.\u003cbr\u003e\nC’est souvent discret. On veut automatiser une tâche qu’on faisait à la main, ou simplifier un processus pour une autre personne. Mais c’est là que commence la véritable compréhension du métier.\u003c\/p\u003e",
+    "name": "PageRank : le cœur mathématique de Google",
+    "headline": "PageRank : le cœur mathématique de Google",
+    "description": "Une exploration détaillée du PageRank, l’algorithme fondateur de Google, entre théorie mathématique, logique de réputation et héritage algorithmique.",
+    "abstract": "\u003ch2 class=\u0022relative group\u0022\u003eIntroduction \n    \u003cdiv id=\u0022introduction\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#introduction\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003eSi le Web est un océan d’informations, Google en est le navigateur.\u003cbr\u003e\nMais comment un moteur de recherche parvient-il à distinguer \u003cstrong\u003el’essentiel du bruit\u003c\/strong\u003e, \u003cstrong\u003ela crédibilité de la popularité\u003c\/strong\u003e ?\u003cbr\u003e\nLa réponse tient en un algorithme devenu mythique : \u003cstrong\u003ePageRank\u003c\/strong\u003e.\u003c\/p\u003e",
     "inLanguage": "fr",
-    "url" : "http:\/\/localhost:1313\/parcours\/developpeurs-comprehension-reelle\/",
+    "url" : "http:\/\/localhost:1313\/parcours\/pagerank-algorithme-google\/",
     "author" : {
       "@type": "Person",
       "name": "Châ-Fine Ayédoun ADEBI"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-11-02T00:00:00\u002b00:00",
-    "datePublished": "2025-11-02T00:00:00\u002b00:00",
+    "dateCreated": "2025-11-02T22:29:56\u002b01:00",
+    "datePublished": "2025-11-02T22:29:56\u002b01:00",
     
-    "dateModified": "2025-11-02T00:00:00\u002b00:00",
+    "dateModified": "2025-11-02T22:29:56\u002b01:00",
     
-    "keywords": ["programmation","architecture","apprentissage","maturité-technique"],
+    "keywords": ["algorithmes","mathématiques","web","moteur de recherche","google","graphe"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "546"
+    "wordCount": "991"
   }]
   </script>
 
@@ -573,8 +575,8 @@
 
   
   <li class="hidden">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/parcours/developpeurs-comprehension-reelle/"
-      >Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font</a
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/parcours/pagerank-algorithme-google/"
+      >PageRank : le cœur mathématique de Google</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -583,7 +585,7 @@
 
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font
+        PageRank : le cœur mathématique de Google
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -634,7 +636,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span>546 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">3 mins</span>
+      <span>991 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">5 mins</span>
     
 
     
@@ -658,41 +660,61 @@
         
           
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/programmation/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/algorithmes/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Programmation
+    Algorithmes
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/architecture/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/math%C3%A9matiques/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Architecture
+    Mathématiques
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/apprentissage/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/web/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Apprentissage
+    Web
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/maturit%C3%A9-technique/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/moteur-de-recherche/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Maturité-Technique
+    Moteur De Recherche
+  </span>
+</span>
+</a
+              >
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/google/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Google
+  </span>
+</span>
+</a
+              >
+            
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/graphe/"
+                ><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Graphe
   </span>
 </span>
 </a
@@ -841,14 +863,30 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#quand-le-code-devient-réel">Quand le code devient réel</a>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#1-lintuition-fondatrice--la-réputation-par-les-liens">1. L’intuition fondatrice : la réputation par les liens</a></li>
+    <li><a href="#2-le-modèle-mathématique">2. Le modèle mathématique</a>
       <ul>
-        <li><a href="#lexpérience-du-réel">L’expérience du réel</a></li>
-        <li><a href="#le-moment-de-bascule">Le moment de bascule</a></li>
-        <li><a href="#la-véritable-école-du-développement">La véritable école du développement</a></li>
-        <li><a href="#en-conclusion">En conclusion</a></li>
+        <li><a href="#interprétation">Interprétation</a></li>
       </ul>
     </li>
+    <li><a href="#3-calcul-du-pagerank">3. Calcul du PageRank</a>
+      <ul>
+        <li><a href="#exemple-conceptuel">Exemple conceptuel</a></li>
+      </ul>
+    </li>
+    <li><a href="#4-lélégance-et-la-puissance-du-modèle">4. L’élégance et la puissance du modèle</a></li>
+    <li><a href="#5-les-limites-du-pagerank">5. Les limites du PageRank</a>
+      <ul>
+        <li><a href="#a-manipulation-et-spam">a. Manipulation et spam</a></li>
+        <li><a href="#b-absence-de-sémantique">b. Absence de sémantique</a></li>
+        <li><a href="#c-injustice-pour-les-nouveaux-sites">c. Injustice pour les nouveaux sites</a></li>
+        <li><a href="#d-inadaptation-au-web-moderne">d. Inadaptation au Web moderne</a></li>
+      </ul>
+    </li>
+    <li><a href="#6-lévolution-dans-les-algorithmes-de-google">6. L’évolution dans les algorithmes de Google</a></li>
+    <li><a href="#7-héritage-et-portée-conceptuelle">7. Héritage et portée conceptuelle</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
   </div>
@@ -862,14 +900,30 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#quand-le-code-devient-réel">Quand le code devient réel</a>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#1-lintuition-fondatrice--la-réputation-par-les-liens">1. L’intuition fondatrice : la réputation par les liens</a></li>
+    <li><a href="#2-le-modèle-mathématique">2. Le modèle mathématique</a>
       <ul>
-        <li><a href="#lexpérience-du-réel">L’expérience du réel</a></li>
-        <li><a href="#le-moment-de-bascule">Le moment de bascule</a></li>
-        <li><a href="#la-véritable-école-du-développement">La véritable école du développement</a></li>
-        <li><a href="#en-conclusion">En conclusion</a></li>
+        <li><a href="#interprétation">Interprétation</a></li>
       </ul>
     </li>
+    <li><a href="#3-calcul-du-pagerank">3. Calcul du PageRank</a>
+      <ul>
+        <li><a href="#exemple-conceptuel">Exemple conceptuel</a></li>
+      </ul>
+    </li>
+    <li><a href="#4-lélégance-et-la-puissance-du-modèle">4. L’élégance et la puissance du modèle</a></li>
+    <li><a href="#5-les-limites-du-pagerank">5. Les limites du PageRank</a>
+      <ul>
+        <li><a href="#a-manipulation-et-spam">a. Manipulation et spam</a></li>
+        <li><a href="#b-absence-de-sémantique">b. Absence de sémantique</a></li>
+        <li><a href="#c-injustice-pour-les-nouveaux-sites">c. Injustice pour les nouveaux sites</a></li>
+        <li><a href="#d-inadaptation-au-web-moderne">d. Inadaptation au Web moderne</a></li>
+      </ul>
+    </li>
+    <li><a href="#6-lévolution-dans-les-algorithmes-de-google">6. L’évolution dans les algorithmes de Google</a></li>
+    <li><a href="#7-héritage-et-portée-conceptuelle">7. Héritage et portée conceptuelle</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
   </div>
@@ -971,91 +1025,280 @@
 
         <div class="article-content max-w-prose mb-20">
           
-<h2 class="relative group">Quand le code devient réel 
-    <div id="quand-le-code-devient-réel" class="anchor"></div>
+<h2 class="relative group">Introduction 
+    <div id="introduction" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#quand-le-code-devient-r%c3%a9el" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#introduction" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>Il y a un moment précis dans la vie d’un développeur où tout change : celui où il ne code plus seulement <strong>pour apprendre</strong>, mais <strong>pour servir</strong>.<br>
-C’est souvent discret. On veut automatiser une tâche qu’on faisait à la main, ou simplifier un processus pour une autre personne. Mais c’est là que commence la véritable compréhension du métier.</p>
-<p>Tant que l’on écrit du code pour soi, tout est simple : les erreurs sont tolérées, les lenteurs supportables, et la logique reste confinée dans une seule tête — la nôtre.<br>
-Mais dès qu’une application doit fonctionner <strong>pour plusieurs personnes en même temps</strong>, tout se transforme : l’innocente suite d’instructions devient un organisme vivant.</p>
-<hr>
-
-<h3 class="relative group">L’expérience du réel 
-    <div id="lexpérience-du-réel" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#lexp%c3%a9rience-du-r%c3%a9el" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<p>Quand on déploie pour la première fois une application que d’autres vont utiliser, on découvre une vérité brutale : notre code n’est pas un texte, c’est un <strong>système</strong>.<br>
-Ce système doit résister à la simultanéité, à l’imprévisible, à l’erreur humaine, à la surcharge, aux latences réseau, aux sessions multiples.</p>
-<p>C’est là que les notions abstraites apprises en théorie — <strong>transactions</strong>, <strong>verrouillage</strong>, <strong>concurrence</strong>, <strong>intégrité des données</strong> — cessent d’être des mots et deviennent des urgences.</p>
-<p>On comprend que gérer une base de données, ce n’est pas “enregistrer des choses”, mais <strong>maintenir la cohérence d’un monde</strong> partagé par plusieurs volontés à la fois.<br>
-On apprend la valeur d’un <code>commit</code>, la différence entre un <code>read</code> et un <code>read-committed</code>, la raison d’être des files de messages et des tâches asynchrones.<br>
-Et surtout, on découvre que le code n’est pas qu’un outil intellectuel — c’est une responsabilité envers les autres.</p>
-<hr>
-
-<h3 class="relative group">Le moment de bascule 
-    <div id="le-moment-de-bascule" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#le-moment-de-bascule" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<p>Ce moment où l’on commence à penser :</p>
+<p>Si le Web est un océan d’informations, Google en est le navigateur.<br>
+Mais comment un moteur de recherche parvient-il à distinguer <strong>l’essentiel du bruit</strong>, <strong>la crédibilité de la popularité</strong> ?<br>
+La réponse tient en un algorithme devenu mythique : <strong>PageRank</strong>.</p>
+<p>Conçu à la fin des années 1990 par <strong>Larry Page</strong> et <strong>Sergey Brin</strong> à l’Université Stanford, PageRank a révolutionné la recherche sur Internet en introduisant une idée simple et élégante :</p>
 <blockquote>
-<p>“Et si 1000 utilisateurs faisaient ça en même temps ?”<br>
-est celui où l’on cesse d’être simplement programmeur et où l’on devient ingénieur.</p>
+<p><em>la valeur d’une page dépend de celles qui la citent.</em></p>
 </blockquote>
-<p>On ne code plus pour que <em>ça marche chez moi</em>, mais pour que <em>ça tienne chez tout le monde</em>.<br>
-On ne pense plus à la fonctionnalité, mais à l’<strong>expérience</strong>.<br>
-On ne s’intéresse plus seulement à l’algorithme, mais à la <strong>résilience</strong>.</p>
-<p>C’est une forme de maturité technique, mais aussi philosophique.<br>
-On comprend que le code n’a de sens que dans son <strong>interaction avec la réalité</strong> — avec les gens, leurs comportements, leurs erreurs et leurs besoins.</p>
+<p>C’est cette intuition, d’une sobriété mathématique remarquable, qui a transformé Google en empire informationnel.</p>
 <hr>
 
-<h3 class="relative group">La véritable école du développement 
-    <div id="la-véritable-école-du-développement" class="anchor"></div>
+<h2 class="relative group">1. L’intuition fondatrice : la réputation par les liens 
+    <div id="1-lintuition-fondatrice--la-réputation-par-les-liens" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#la-v%c3%a9ritable-%c3%a9cole-du-d%c3%a9veloppement" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-lintuition-fondatrice--la-r%c3%a9putation-par-les-liens" aria-label="Ancre">#</a>
     </span>        
     
-</h3>
-<p>C’est pourquoi les projets personnels destinés à un public réel valent mille tutos.<br>
-Créer une application que d’autres utiliseront, c’est s’exposer à la complexité du monde : celle des serveurs, des sessions, des utilisateurs, du réseau, du temps.</p>
-<p>C’est aussi là que naît le respect pour l’infrastructure, la sécurité, la performance, la maintenance.<br>
-Et c’est là, paradoxalement, que l’on commence à goûter le vrai plaisir du code : celui de <strong>créer quelque chose qui vit</strong>.</p>
+</h2>
+<p>Avant PageRank, les moteurs de recherche se contentaient d’analyser les mots-clés. Une page contenant souvent le mot « voiture » était jugée plus pertinente pour ce terme.<br>
+Mais cette approche textuelle favorisait le <strong>bourrage de mots</strong> et ignorait la <strong>crédibilité des sources</strong>.</p>
+<p>PageRank a introduit un principe de <strong>démocratie hypertextuelle</strong> :<br>
+chaque lien vers une page est considéré comme un <strong>vote de confiance</strong>, une marque de reconnaissance.<br>
+Et plus un site reconnu vote pour vous, plus votre autorité augmente.</p>
+<p>Autrement dit :</p>
+<ul>
+<li>Un lien d’un site obscur a peu de poids.</li>
+<li>Un lien depuis une page influente (par exemple Wikipédia) vaut beaucoup plus.</li>
+</ul>
 <hr>
 
-<h3 class="relative group">En conclusion 
-    <div id="en-conclusion" class="anchor"></div>
+<h2 class="relative group">2. Le modèle mathématique 
+    <div id="2-le-modèle-mathématique" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#en-conclusion" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-le-mod%c3%a8le-math%c3%a9matique" aria-label="Ancre">#</a>
     </span>        
     
-</h3>
-<p>Les développeurs ne comprennent réellement ce qu’ils font que lorsqu’ils voient <strong>leurs lignes de code se confronter à la vie réelle</strong>.<br>
-C’est à ce moment-là que le métier cesse d’être une suite de commandes et devient un art d’équilibre : entre logique et imprévisible, entre machines et humains, entre contrôle et confiance.</p>
-<p>Le code devient alors ce qu’il aurait toujours dû être :<br>
-un langage pour parler <strong>au monde</strong>.</p>
-<hr>
+</h2>
+<p>
+
+
+
+
+
+
+<figure>
+      <img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="low"
+    alt="pagerank"
+    srcset="
+      /pagerank/pagerank_hu_a46181fbeddbd563.png  330w,
+      /pagerank/pagerank_hu_d72b5ec0b00dbc16.png  660w,
+      /pagerank/pagerank_hu_208387716abb5b23.png 1280w
+    "
+    data-zoom-src="/pagerank/pagerank.png"
+    src="/pagerank/pagerank.png">
+
+  
+</figure>
+</p>
+<p>Pour formaliser cette idée, Larry Page et Sergey Brin ont modélisé le Web comme un <strong>graphe orienté</strong> :</p>
+<ul>
+<li>chaque <strong>page web</strong> est un nœud ;</li>
+<li>chaque <strong>lien hypertexte</strong> est une flèche d’un nœud vers un autre.</li>
+</ul>
+<p>La <strong>formule fondamentale</strong> du PageRank est :</p>
 <blockquote>
-<p><em>“Un programme n’est pas terminé quand il fonctionne, mais quand il fonctionne pour les autres.”</em></p>
+<p>PR(A) = (1 - d) + d * Σ [ PR(T_i) / C(T_i) ]</p>
 </blockquote>
+<p>où :</p>
+<ul>
+<li>( PR(A) ) : score de PageRank de la page A</li>
+<li>( T_i ) : pages contenant un lien vers A</li>
+<li>( C(T_i) ) : nombre de liens sortants de la page ( T_i )</li>
+<li>( d ) : <strong>facteur d’amortissement</strong> (souvent ≈ 0,85)</li>
+</ul>
+
+<h3 class="relative group">Interprétation 
+    <div id="interprétation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#interpr%c3%a9tation" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Imagine un internaute fictif, le <strong>surfeur aléatoire</strong>, qui parcourt le Web en cliquant sur des liens :</p>
+<ul>
+<li>avec probabilité ( d ), il suit un lien depuis la page actuelle ;</li>
+<li>avec probabilité ( 1 - d ), il saute vers une page au hasard.</li>
+</ul>
+<p>Le PageRank correspond à la <strong>probabilité à long terme</strong> que ce surfeur se trouve sur une page donnée.<br>
+Mathématiquement, il s’agit du <strong>vecteur propre principal</strong> d’une matrice de transition stochastique — autrement dit, une <strong>chaîne de Markov</strong> appliquée au graphe du Web.</p>
+<hr>
+
+<h2 class="relative group">3. Calcul du PageRank 
+    <div id="3-calcul-du-pagerank" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#3-calcul-du-pagerank" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Le calcul se fait de manière <strong>itérative</strong> :</p>
+<ol>
+<li>Initialiser toutes les pages avec le même score (souvent 1/N).</li>
+<li>Appliquer la formule pour recalculer le score de chaque page.</li>
+<li>Répéter jusqu’à ce que les valeurs convergent (différence entre deux itérations &lt; seuil).</li>
+</ol>
+<p>Cette méthode est connue sous le nom de <strong>méthode de la puissance</strong> (<em>power iteration</em>), utilisée pour trouver le vecteur propre dominant d’une matrice.</p>
+
+<h3 class="relative group">Exemple conceptuel 
+    <div id="exemple-conceptuel" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#exemple-conceptuel" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Si la page A pointe vers B et C, et que B et C pointent vers A, le système converge vers un équilibre où chaque page reçoit un score proportionnel à sa popularité structurelle.</p>
+<hr>
+
+<h2 class="relative group">4. L’élégance et la puissance du modèle 
+    <div id="4-lélégance-et-la-puissance-du-modèle" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#4-l%c3%a9l%c3%a9gance-et-la-puissance-du-mod%c3%a8le" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Ce qui a rendu PageRank si révolutionnaire, c’est qu’il reposait sur :</p>
+<ul>
+<li><strong>la topologie du Web</strong>, et non sur le texte ;</li>
+<li>une <strong>formule récursive</strong> simple mais expressive ;</li>
+<li>une <strong>base probabiliste solide</strong>, garantissant stabilité et convergence.</li>
+</ul>
+<p>Ce système récompensait naturellement les <strong>pages de qualité</strong> (souvent citées) plutôt que celles truffées de mots-clés.<br>
+C’est ainsi que Google, dès ses débuts, a surpassé ses concurrents (Altavista, Yahoo, Lycos) en pertinence.</p>
+<hr>
+
+<h2 class="relative group">5. Les limites du PageRank 
+    <div id="5-les-limites-du-pagerank" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#5-les-limites-du-pagerank" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Aussi élégant soit-il, PageRank n’est pas parfait.<br>
+Son modèle a montré plusieurs failles avec le temps :</p>
+
+<h3 class="relative group">a. Manipulation et spam 
+    <div id="a-manipulation-et-spam" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#a-manipulation-et-spam" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Des <strong>fermes de liens</strong> (link farms) sont apparues pour gonfler artificiellement le score d’un site.<br>
+L’idée : créer des centaines de pages qui se citent entre elles pour simuler de la popularité.</p>
+
+<h3 class="relative group">b. Absence de sémantique 
+    <div id="b-absence-de-sémantique" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#b-absence-de-s%c3%a9mantique" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>PageRank ne comprend pas <strong>le sens</strong> du contenu.<br>
+Un lien peut être critique ou ironique — l’algorithme le considère toujours comme un vote positif.</p>
+
+<h3 class="relative group">c. Injustice pour les nouveaux sites 
+    <div id="c-injustice-pour-les-nouveaux-sites" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#c-injustice-pour-les-nouveaux-sites" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Une page sans liens entrants commence avec un score faible, même si son contenu est excellent.<br>
+Il faut du temps (et des citations) pour émerger.</p>
+
+<h3 class="relative group">d. Inadaptation au Web moderne 
+    <div id="d-inadaptation-au-web-moderne" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#d-inadaptation-au-web-moderne" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>À l’époque de sa conception, le Web était plus statique.<br>
+Aujourd’hui, les pages sont dynamiques, éphémères, personnalisées — un terrain où la structure des liens n’est plus aussi stable.</p>
+<hr>
+
+<h2 class="relative group">6. L’évolution dans les algorithmes de Google 
+    <div id="6-lévolution-dans-les-algorithmes-de-google" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#6-l%c3%a9volution-dans-les-algorithmes-de-google" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Google n’a jamais abandonné l’idée du PageRank, mais il l’a <strong>intégré dans un écosystème algorithmique bien plus vaste</strong>.<br>
+Le classement actuel des pages repose sur <strong>des centaines de signaux</strong> :</p>
+<ul>
+<li><strong>Contenu sémantique</strong> (traité par des modèles de langage comme <em>BERT</em>).</li>
+<li><strong>Qualité du site</strong> (critères E-E-A-T : <em>Experience, Expertise, Authoritativeness, Trustworthiness</em>).</li>
+<li><strong>Comportement utilisateur</strong> (clics, rebonds, durée de visite).</li>
+<li><strong>Performance technique</strong> (vitesse, mobile, HTTPS…).</li>
+</ul>
+<p>Le PageRank moderne reste présent sous une forme pondérée, combiné à des métriques de <strong>confiance</strong> et <strong>pertinence contextuelle</strong>.</p>
+<hr>
+
+<h2 class="relative group">7. Héritage et portée conceptuelle 
+    <div id="7-héritage-et-portée-conceptuelle" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#7-h%c3%a9ritage-et-port%c3%a9e-conceptuelle" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>PageRank n’est pas seulement un algorithme ; c’est une <strong>philosophie de la connaissance</strong> :<br>
+celle selon laquelle la <strong>valeur d’une information</strong> émerge de <strong>l’écosystème de références</strong> qui l’entoure.</p>
+<p>Son principe d’autorité par les liens a inspiré :</p>
+<ul>
+<li>les <strong>systèmes de recommandation</strong>,</li>
+<li>les <strong>algorithmes de citation académique</strong> (comme <em>Eigenfactor</em>),</li>
+<li>et même des approches de <strong>classement social</strong> ou de <strong>centralité dans les graphes</strong> (<em>network science</em>).</li>
+</ul>
+<hr>
+
+<h2 class="relative group">Conclusion 
+    <div id="conclusion" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#conclusion" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Le PageRank demeure une leçon de sobriété algorithmique :<br>
+une équation, une intuition, et un monde bouleversé.</p>
+<p>Sa force n’a jamais résidé dans la complexité, mais dans sa <strong>capacité à formaliser une idée humaine</strong> :</p>
+<blockquote>
+<p>la crédibilité se construit par reconnaissance mutuelle.</p>
+</blockquote>
+<p>Dans l’ère du machine learning et des grands modèles de langage, PageRank nous rappelle que la pertinence peut encore naître d’un raisonnement mathématique simple — pour peu qu’il s’appuie sur une intuition juste de la manière dont les humains donnent du sens à l’information.</p>
+<hr>
 
           
           
@@ -1083,8 +1326,8 @@ un langage pour parler <strong>au monde</strong>.</p>
           type="text/javascript"
           src="/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js"
           integrity="sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA=="
-          data-oid="views_parcours/la-maturation-dev.md"
-          data-oid-likes="likes_parcours/la-maturation-dev.md"></script>
+          data-oid="views_parcours/pagerank.md"
+          data-oid-likes="likes_parcours/pagerank.md"></script>
       
     </section>
 
@@ -1103,32 +1346,13 @@ un langage pour parler <strong>au monde</strong>.</p>
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/parcours/hypocrisie-professionnelle-strategie-paraitre/">
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span class="flex flex-col">
-                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >L’hypocrisie professionnelle ou la stratégie du paraître ?</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                </span>
-              </span>
-            </a>
-          
         </span>
         <span>
           
-            <a class="flex text-right group ml-3" href="/parcours/a-l-ecole/">
+            <a class="flex text-right group ml-3" href="/parcours/hypocrisie-professionnelle-strategie-paraitre/">
               <span class="flex flex-col">
                 <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Quand l’école s’arrête, pourquoi notre apprentissage s’éteint</span
+                  >L’hypocrisie professionnelle ou la stratégie du paraître ?</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
