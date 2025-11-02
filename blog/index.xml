@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on </title>
-    <link>https://blog.memlenz.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub</title>
-      <link>https://blog.memlenz.com/blog/python/bot-telegram/</link>
+      <link>http://localhost:1313/blog/python/bot-telegram/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/bot-telegram/</guid>
+      <guid>http://localhost:1313/blog/python/bot-telegram/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Imaginez un assistant virtuel qui répond à vos commandes, crie en majuscules pour s&amp;rsquo;amuser, et navigue dans des menus interactifs tout ça dans Telegram. C&amp;rsquo;est ce que j&amp;rsquo;ai codé, et je vous montre comment le reproduire !
 &lt;/div&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>Et si Windows n’était pas votre seule option ? Découvrez un monde d’alternatives</title>
-      <link>https://blog.memlenz.com/blog/why-linux/linux_for_beginners/</link>
+      <link>http://localhost:1313/blog/why-linux/linux_for_beginners/</link>
       <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/why-linux/linux_for_beginners/</guid>
+      <guid>http://localhost:1313/blog/why-linux/linux_for_beginners/</guid>
       <description>&lt;hr&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Introduction : Le monde ne tourne pas (que) autour de Windows 
@@ -58,10 +58,10 @@
     
     <item>
       <title>Configuration de base après installation d&#39;Arch Linux</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/config-base/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/config-base/</link>
       <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/config-base/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/config-base/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Configuration de base après installation d&amp;rsquo;Arch Linux 
     &lt;div id=&#34;configuration-de-base-après-installation-darch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -78,10 +78,10 @@ Pour qu’il soit pleinement fonctionnel, il faut effectuer quelques &lt;strong&
     
     <item>
       <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -98,10 +98,10 @@ Derrière ce jargon se cache une question cruciale : &lt;strong&gt;l’avenir de
     
     <item>
       <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</title>
-      <link>https://blog.memlenz.com/blog/systmes-reseaux/intra-id/</link>
+      <link>http://localhost:1313/blog/systmes-reseaux/intra-id/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/systmes-reseaux/intra-id/</guid>
+      <guid>http://localhost:1313/blog/systmes-reseaux/intra-id/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -118,10 +118,10 @@ Derrière ce jargon se cache une question cruciale : &lt;strong&gt;l’avenir de
     
     <item>
       <title>Partitions sous Linux : du simple au complexe</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/partitions/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/partitions/</link>
       <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/partitions/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/partitions/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Partitions sous Linux : du simple au complexe 
     &lt;div id=&#34;partitions-sous-linux--du-simple-au-complexe&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -138,10 +138,10 @@ Tu tombes sur des mots comme &lt;code&gt;boot&lt;/code&gt;, &lt;code&gt;swap&lt;
     
     <item>
       <title>Configurer le WiFi sous Arch Linux</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/wifi/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/wifi/</link>
       <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/wifi/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/wifi/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Configurer le WiFi sous Arch Linux 
     &lt;div id=&#34;configurer-le-wifi-sous-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -158,10 +158,10 @@ Bonne nouvelle : c’est simple, mais faut savoir quelles commandes taper.&lt;/p
     
     <item>
       <title>Prise en main du terminal Linux</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/terminal/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/terminal/</link>
       <pubDate>Thu, 10 Jul 2025 10:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/terminal/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/terminal/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Prise en main du terminal Linux 
     &lt;div id=&#34;prise-en-main-du-terminal-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -178,10 +178,10 @@ Pas d’icônes, pas de clics interminables, juste un écran noir et un curseur 
     
     <item>
       <title>Installation Arch Linux : Guide accessible et complet</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</link>
       <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Installation Arch Linux 
     &lt;div id=&#34;installation-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -198,10 +198,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Organiser ses scripts Python proprement sur chaque OS</title>
-      <link>https://blog.memlenz.com/blog/python/organiser-ses-scripts/</link>
+      <link>http://localhost:1313/blog/python/organiser-ses-scripts/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/organiser-ses-scripts/</guid>
+      <guid>http://localhost:1313/blog/python/organiser-ses-scripts/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi organiser ses scripts Python ? 
     &lt;div id=&#34;pourquoi-organiser-ses-scripts-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -217,10 +217,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Comprendre les chemins système sous Windows, Linux et macOS</title>
-      <link>https://blog.memlenz.com/blog/python/les-chemins/</link>
+      <link>http://localhost:1313/blog/python/les-chemins/</link>
       <pubDate>Sun, 20 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/les-chemins/</guid>
+      <guid>http://localhost:1313/blog/python/les-chemins/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Introduction : Pourquoi les chemins système sont importants ?&lt;/strong&gt; 
     &lt;div id=&#34;introduction--pourquoi-les-chemins-système-sont-importants-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -236,10 +236,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Python 2 vs Python 3 : Pourquoi c’est important ?</title>
-      <link>https://blog.memlenz.com/blog/python/python2-vs-python3/</link>
+      <link>http://localhost:1313/blog/python/python2-vs-python3/</link>
       <pubDate>Thu, 17 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/python2-vs-python3/</guid>
+      <guid>http://localhost:1313/blog/python/python2-vs-python3/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Python 2 vs Python 3 : Un duel dépassé ?&lt;/strong&gt; 
     &lt;div id=&#34;python-2-vs-python-3--un-duel-dépassé-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -255,10 +255,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Installer MariaDB sur Arch Linux, Void Linux, et Debian/Ubuntu</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/mysql-mariadb/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/mysql-mariadb/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/mysql-mariadb/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi choisir MariaDB au lieu de MySQL ? 
     &lt;div id=&#34;pourquoi-choisir-mariadb-au-lieu-de-mysql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -274,10 +274,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Installer PostgreSQL sur Arch, Void Linux et Debian/Ubuntu</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/postgre-sql/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/postgre-sql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/postgre-sql/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/postgre-sql/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🐘 Pourquoi PostgreSQL ? 
     &lt;div id=&#34;-pourquoi-postgresql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -293,10 +293,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python</title>
-      <link>https://blog.memlenz.com/blog/python/passwordmanager/</link>
+      <link>http://localhost:1313/blog/python/passwordmanager/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/passwordmanager/</guid>
+      <guid>http://localhost:1313/blog/python/passwordmanager/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Créer un Gestionnaire de Mots de Passe en CLI avec Python 
     &lt;div id=&#34;créer-un-gestionnaire-de-mots-de-passe-en-cli-avec-python&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -312,10 +312,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Installer Python sur Windows, Linux et Mac</title>
-      <link>https://blog.memlenz.com/blog/python/installation-python/</link>
+      <link>http://localhost:1313/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/installation-python/</guid>
+      <guid>http://localhost:1313/blog/python/installation-python/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi installer Python ? 
     &lt;div id=&#34;pourquoi-installer-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -331,10 +331,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>🎯 Implémentation d&#39;un foramateur de texte en python</title>
-      <link>https://blog.memlenz.com/blog/python/bulletpointadder/</link>
+      <link>http://localhost:1313/blog/python/bulletpointadder/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/bulletpointadder/</guid>
+      <guid>http://localhost:1313/blog/python/bulletpointadder/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Maîtriser la Manipulation de Texte avec Python : Création d&amp;rsquo;un Formateur de Liste à Puces 
     &lt;div id=&#34;maîtriser-la-manipulation-de-texte-avec-python--création-dun-formateur-de-liste-à-puces&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -350,10 +350,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Pourquoi Python doit être installé pour fonctionner ?</title>
-      <link>https://blog.memlenz.com/blog/python/pourquoi-installer-python/</link>
+      <link>http://localhost:1313/blog/python/pourquoi-installer-python/</link>
       <pubDate>Sat, 05 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/pourquoi-installer-python/</guid>
+      <guid>http://localhost:1313/blog/python/pourquoi-installer-python/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pourquoi Python doit être installé pour fonctionner ?&lt;/strong&gt; 
     &lt;div id=&#34;pourquoi-python-doit-être-installé-pour-fonctionner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -369,10 +369,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Bienvenue dans le Void : Installer Void Linux pas à pas</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🖤 &lt;strong&gt;Bienvenue dans le Void !&lt;/strong&gt; 
     &lt;div id=&#34;-bienvenue-dans-le-void-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -388,10 +388,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>De LazyVim à l&#39;exécution de son premier script Python</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/lazyvim/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/lazyvim/</link>
       <pubDate>Sun, 30 Mar 2025 01:32:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/lazyvim/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/lazyvim/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Installer Neovim et Git&lt;/strong&gt; 
     &lt;div id=&#34;1-installer-neovim-et-git&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -441,10 +441,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Comprendre les différentes options pour coder en Python et choisir l&#39;environnement qui convient le mieux.</title>
-      <link>https://blog.memlenz.com/blog/python/environnement-de-travail/</link>
+      <link>http://localhost:1313/blog/python/environnement-de-travail/</link>
       <pubDate>Sun, 30 Mar 2025 00:19:25 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/environnement-de-travail/</guid>
+      <guid>http://localhost:1313/blog/python/environnement-de-travail/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Choisir son environnement de travail 
     &lt;div id=&#34;choisir-son-environnement-de-travail&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -460,20 +460,20 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Différence entre l’interpréteur Python (Shell interactif) et un fichier Python</title>
-      <link>https://blog.memlenz.com/blog/python/interpreteur-vs-fichier/</link>
+      <link>http://localhost:1313/blog/python/interpreteur-vs-fichier/</link>
       <pubDate>Sat, 29 Mar 2025 23:37:06 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/interpreteur-vs-fichier/</guid>
+      <guid>http://localhost:1313/blog/python/interpreteur-vs-fichier/</guid>
       <description>&lt;p&gt;Quand on commence avec Python, une des premières confusions vient du fait qu’on peut taper des commandes dans un terminal et voir immédiatement un résultat, mais aussi écrire du code dans un fichier &lt;code&gt;.py&lt;/code&gt;. Pourquoi ces deux modes existent-ils ? Et surtout, quand utiliser l’un ou l’autre ?&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Différence entre un langage interprété et un langage compilé</title>
-      <link>https://blog.memlenz.com/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
+      <link>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</link>
       <pubDate>Sat, 29 Mar 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
+      <guid>http://localhost:1313/blog/python/difference-interpr%C3%A9t%C3%A9-compil%C3%A9/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;Langage interprété vs langage compilé : Quelle est la différence ?&lt;/strong&gt; 
     &lt;div id=&#34;langage-interprété-vs-langage-compilé--quelle-est-la-différence-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -489,10 +489,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>🖥️ Différence entre un langage de programmation et un logiciel classique</title>
-      <link>https://blog.memlenz.com/blog/python/difference-logiciel-langage/</link>
+      <link>http://localhost:1313/blog/python/difference-logiciel-langage/</link>
       <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/difference-logiciel-langage/</guid>
+      <guid>http://localhost:1313/blog/python/difference-logiciel-langage/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Différence entre un langage de programmation et un logiciel classique&lt;/strong&gt; 
     &lt;div id=&#34;différence-entre-un-langage-de-programmation-et-un-logiciel-classique&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -508,10 +508,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Différence entre un fichier .py et un exécutable .exe</title>
-      <link>https://blog.memlenz.com/blog/python/difference-exe-py/</link>
+      <link>http://localhost:1313/blog/python/difference-exe-py/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/difference-exe-py/</guid>
+      <guid>http://localhost:1313/blog/python/difference-exe-py/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;C&amp;rsquo;est quoi un fichier .py par rapport à une application .exe ?&lt;/strong&gt; 
     &lt;div id=&#34;c&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -527,10 +527,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique</title>
-      <link>https://blog.memlenz.com/blog/python/bagels/</link>
+      <link>http://localhost:1313/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/bagels/</guid>
+      <guid>http://localhost:1313/blog/python/bagels/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;🎮 Bagels – A Logic Game in Python 
     &lt;div id=&#34;-bagels--a-logic-game-in-python&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -546,10 +546,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Pourquoi Python est un excellent premier langage ?</title>
-      <link>https://blog.memlenz.com/blog/python/pourquoi-python/</link>
+      <link>http://localhost:1313/blog/python/pourquoi-python/</link>
       <pubDate>Sat, 15 Feb 2025 13:39:54 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/pourquoi-python/</guid>
+      <guid>http://localhost:1313/blog/python/pourquoi-python/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Pourquoi Python est un excellent premier langage ?&lt;/strong&gt; 
     &lt;div id=&#34;pourquoi-python-est-un-excellent-premier-langage-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -565,10 +565,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Why Linux</title>
-      <link>https://blog.memlenz.com/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
+      <link>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
+      <guid>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Le Déclic : Pourquoi Linux M’a Fait Gagner&lt;/strong&gt; 🚀 
     &lt;div id=&#34;1-le-déclic--pourquoi-linux-ma-fait-gagner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -584,20 +584,20 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>DSA</title>
-      <link>https://blog.memlenz.com/blog/dsa-guide/dsa-intro/</link>
+      <link>http://localhost:1313/blog/dsa-guide/dsa-intro/</link>
       <pubDate>Sat, 15 Feb 2025 02:55:22 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/dsa-guide/dsa-intro/</guid>
+      <guid>http://localhost:1313/blog/dsa-guide/dsa-intro/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/java-setup/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/java-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/java-setup/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/java-setup/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;🚀 &lt;strong&gt;Plan d’Apprentissage Structuré pour Devenir un Bon Développeur&lt;/strong&gt; 
     &lt;div id=&#34;-plan-dapprentissage-structuré-pour-devenir-un-bon-développeur&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -613,10 +613,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/maconfigterminal/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/maconfigterminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/maconfigterminal/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/maconfigterminal/</guid>
       <description></description>
       
     </item>

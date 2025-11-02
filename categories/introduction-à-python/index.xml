@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction À Python on </title>
-    <link>https://blog.memlenz.com/categories/introduction-%C3%A0-python/</link>
+    <link>http://localhost:1313/categories/introduction-%C3%A0-python/</link>
     <description>Recent content in Introduction À Python on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 29 Mar 2025 22:10:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/categories/introduction-%C3%A0-python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 22:10:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/introduction-%C3%A0-python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🖥️ Différence entre un langage de programmation et un logiciel classique</title>
-      <link>https://blog.memlenz.com/blog/python/difference-logiciel-langage/</link>
+      <link>http://localhost:1313/blog/python/difference-logiciel-langage/</link>
       <pubDate>Sat, 29 Mar 2025 22:10:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/difference-logiciel-langage/</guid>
+      <guid>http://localhost:1313/blog/python/difference-logiciel-langage/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Différence entre un langage de programmation et un logiciel classique&lt;/strong&gt; 
     &lt;div id=&#34;différence-entre-un-langage-de-programmation-et-un-logiciel-classique&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

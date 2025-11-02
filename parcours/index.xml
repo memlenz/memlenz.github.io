@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parcours on </title>
-    <link>https://blog.memlenz.com/parcours/</link>
+    <link>http://localhost:1313/parcours/</link>
     <description>Recent content in Parcours on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/parcours/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/parcours/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font</title>
+      <link>http://localhost:1313/parcours/developpeurs-comprehension-reelle/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/parcours/developpeurs-comprehension-reelle/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Quand le code devient réel 
+    &lt;div id=&#34;quand-le-code-devient-réel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#quand-le-code-devient-r%c3%a9el&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Il y a un moment précis dans la vie d’un développeur où tout change : celui où il ne code plus seulement &lt;strong&gt;pour apprendre&lt;/strong&gt;, mais &lt;strong&gt;pour servir&lt;/strong&gt;.&lt;br&gt;
+C’est souvent discret. On veut automatiser une tâche qu’on faisait à la main, ou simplifier un processus pour une autre personne. Mais c’est là que commence la véritable compréhension du métier.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Quand l’école s’arrête, pourquoi notre apprentissage s’éteint</title>
-      <link>https://blog.memlenz.com/parcours/a-l-ecole/</link>
+      <link>http://localhost:1313/parcours/a-l-ecole/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/parcours/a-l-ecole/</guid>
+      <guid>http://localhost:1313/parcours/a-l-ecole/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;« L’éducation n’est pas la préparation à la vie ; l’éducation est la vie elle-même. »&lt;br&gt;
 — John Dewey&lt;/p&gt;
@@ -38,10 +58,10 @@
     
     <item>
       <title>L’école n’a jamais été faite pour te rendre riche</title>
-      <link>https://blog.memlenz.com/parcours/moi-un/</link>
+      <link>http://localhost:1313/parcours/moi-un/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/parcours/moi-un/</guid>
+      <guid>http://localhost:1313/parcours/moi-un/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Après des heures interminables passées à coder des algorithmes que personne n&amp;rsquo;utilisera, je me pose des questions existentielles : comment devenir riche ? Et si l&amp;rsquo;école, ce temple du savoir, n&amp;rsquo;était pas la clé du coffre-fort ?
 &lt;/div&gt;

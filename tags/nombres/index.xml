@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nombres on </title>
-    <link>https://blog.memlenz.com/tags/nombres/</link>
+    <link>http://localhost:1313/tags/nombres/</link>
     <description>Recent content in Nombres on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 12:30:01 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/nombres/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 12:30:01 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/nombres/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les nombres en Python</title>
-      <link>https://blog.memlenz.com/courses/python/nombres/</link>
+      <link>http://localhost:1313/courses/python/nombres/</link>
       <pubDate>Thu, 27 Feb 2025 12:30:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/nombres/</guid>
+      <guid>http://localhost:1313/courses/python/nombres/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Les Nombres en Python : De l&amp;rsquo;Intégrale à la Décimale&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Les nombres sont, sans surprise, l&amp;rsquo;une des pierres angulaires de la programmation. Et en Python, c&amp;rsquo;est un terrain de jeu assez large que tu vas découvrir. Que tu manipules des entiers pour compter des objets ou des flottants pour des calculs de précision, Python te fournit tout un arsenal pour travailler avec des chiffres de manière fluide et intuitive. Dans cet article, on plonge dans les différentes facettes des nombres en Python, avec des exemples concrets et quelques astuces qui te faciliteront la vie.&lt;/p&gt;</description>
       
