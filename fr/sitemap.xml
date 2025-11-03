@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-02T22:29:56+01:00</lastmod>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,6 +17,18 @@
       hreflang="fr"
       href="http://localhost:1313/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/python/scalabilite-django/</loc>
+    <lastmod>2025-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/parcours/pagerank-algorithme-google/</loc>
@@ -39,12 +51,6 @@
   <url>
     <loc>http://localhost:1313/parcours/developpeurs-comprehension-reelle/</loc>
     <lastmod>2025-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

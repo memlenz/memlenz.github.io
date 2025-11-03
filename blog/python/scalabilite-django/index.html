@@ -14,15 +14,15 @@
   <meta name="theme-color">
 
   
-  <title>Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub &middot; </title>
-    <meta name="title" content="Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub &middot; ">
+  <title>Quand j’ai découvert la scalabilité avec Django &middot; </title>
+    <meta name="title" content="Quand j’ai découvert la scalabilité avec Django &middot; ">
 
   
-  <meta name="description" content="Découvrez comment j&#39;ai développé un bot Telegram simple et éducatif en Python, avec un tutoriel pas à pas, des fonctionnalités interactives et des insights sur l&#39;évolution des bots Telegram depuis 2015.">
-  <meta name="keywords" content="python,telegram,bot,développement,open-source,">
+  <meta name="description" content="Ce que j’ai appris en cherchant à faire tourner une application Django capable de gérer plusieurs utilisateurs simultanément.">
+  <meta name="keywords" content="django,scalabilité,déploiement,architecture web,">
   
   
-  <link rel="canonical" href="http://localhost:1313/blog/python/bot-telegram/">
+  <link rel="canonical" href="http://localhost:1313/blog/python/scalabilite-django/">
   
   
   
@@ -99,50 +99,49 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/blog/python/bot-telegram/">
-  <meta property="og:title" content="Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub">
-  <meta property="og:description" content="Découvrez comment j&#39;ai développé un bot Telegram simple et éducatif en Python, avec un tutoriel pas à pas, des fonctionnalités interactives et des insights sur l&#39;évolution des bots Telegram depuis 2015.">
+  <meta property="og:url" content="http://localhost:1313/blog/python/scalabilite-django/">
+  <meta property="og:title" content="Quand j’ai découvert la scalabilité avec Django">
+  <meta property="og:description" content="Ce que j’ai appris en cherchant à faire tourner une application Django capable de gérer plusieurs utilisateurs simultanément.">
   <meta property="og:locale" content="fr">
   <meta property="og:type" content="article">
     <meta property="article:section" content="blog">
-    <meta property="article:published_time" content="2025-11-01T00:00:00+00:00">
-    <meta property="article:modified_time" content="2025-11-01T00:00:00+00:00">
-    <meta property="article:tag" content="Python">
-    <meta property="article:tag" content="Telegram">
-    <meta property="article:tag" content="Bot">
-    <meta property="article:tag" content="Développement">
-    <meta property="article:tag" content="Open Source">
+    <meta property="article:published_time" content="2025-11-03T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-11-03T00:00:00+00:00">
+    <meta property="article:tag" content="Django">
+    <meta property="article:tag" content="Scalabilité">
+    <meta property="article:tag" content="Déploiement">
+    <meta property="article:tag" content="Architecture Web">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub">
-  <meta name="twitter:description" content="Découvrez comment j&#39;ai développé un bot Telegram simple et éducatif en Python, avec un tutoriel pas à pas, des fonctionnalités interactives et des insights sur l&#39;évolution des bots Telegram depuis 2015.">
+  <meta name="twitter:title" content="Quand j’ai découvert la scalabilité avec Django">
+  <meta name="twitter:description" content="Ce que j’ai appris en cherchant à faire tourner une application Django capable de gérer plusieurs utilisateurs simultanément.">
 
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Blogs",
-    "name": "Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub",
-    "headline": "Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub",
-    "description": "Découvrez comment j\u0027ai développé un bot Telegram simple et éducatif en Python, avec un tutoriel pas à pas, des fonctionnalités interactives et des insights sur l\u0027évolution des bots Telegram depuis 2015.",
-    "abstract": "\u003cdiv class=\u0022lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl\u0022\u003e\n  Imaginez un assistant virtuel qui répond à vos commandes, crie en majuscules pour s\u0026rsquo;amuser, et navigue dans des menus interactifs tout ça dans Telegram. C\u0026rsquo;est ce que j\u0026rsquo;ai codé, et je vous montre comment le reproduire !\n\u003c\/div\u003e\n\n\n\u003ch2 class=\u0022relative group\u0022\u003eL\u0026rsquo;Évolution des Bots Telegram : De 2015 à l\u0026rsquo;Ère des Mini-Apps \n    \u003cdiv id=\u0022lévolution-des-bots-telegram--de-2015-à-lère-des-mini-apps\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#l%c3%a9volution-des-bots-telegram--de-2015-%c3%a0-l%c3%a8re-des-mini-apps\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003eLes bots Telegram ont révolutionné la messagerie instantanée depuis leur lancement en 2015 par la plateforme Telegram. Créés par les frères Durov, fondateurs de Telegram, ces petits programmes automatisés permettent d\u0026rsquo;intégrer des services complexes directement dans l\u0026rsquo;app, sans quitter la conversation. Aujourd\u0026rsquo;hui, la plateforme héberge plus de 10 millions de bots, utilisés pour tout : du e-commerce aux jeux, en passant par les paiements et les outils personnalisés.\u003c\/p\u003e",
+    "name": "Quand j’ai découvert la scalabilité avec Django",
+    "headline": "Quand j’ai découvert la scalabilité avec Django",
+    "description": "Ce que j’ai appris en cherchant à faire tourner une application Django capable de gérer plusieurs utilisateurs simultanément.",
+    "abstract": "\u003ch2 class=\u0022relative group\u0022\u003eIntroduction \n    \u003cdiv id=\u0022introduction\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#introduction\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003eJe développe depuis quelque temps des applications avec Django, mais je n’avais jamais réellement pensé à la question de la \u003cstrong\u003escalabilité\u003c\/strong\u003e.\u003cbr\u003e\nC’est seulement lorsque j’ai voulu créer une application où \u003cstrong\u003eplusieurs utilisateurs se connectent et interagissent en même temps\u003c\/strong\u003e que j’ai découvert que faire tourner un projet localement et le faire tenir sous charge sont deux mondes totalement différents.\u003c\/p\u003e",
     "inLanguage": "fr",
-    "url" : "http:\/\/localhost:1313\/blog\/python\/bot-telegram\/",
+    "url" : "http:\/\/localhost:1313\/blog\/python\/scalabilite-django\/",
     "author" : {
       "@type": "Person",
       "name": "Châ-Fine Ayédoun ADEBI"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-11-01T00:00:00\u002b00:00",
-    "datePublished": "2025-11-01T00:00:00\u002b00:00",
+    "dateCreated": "2025-11-03T00:00:00\u002b00:00",
+    "datePublished": "2025-11-03T00:00:00\u002b00:00",
     
-    "dateModified": "2025-11-01T00:00:00\u002b00:00",
+    "dateModified": "2025-11-03T00:00:00\u002b00:00",
     
-    "keywords": ["python","telegram","bot","développement","open-source"],
+    "keywords": ["django","scalabilité","déploiement","architecture web"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "556"
+    "wordCount": "810"
   }]
   </script>
 
@@ -199,21 +198,6 @@
 
 
 
-
-  
-  
-  <link
-    type="text/css"
-    rel="stylesheet"
-    href="/css/components/carousel.8e65f2c27285218feed8ca2a6e12a80ec2fb4be8f774b7c74d9642f1bc528a3352288a700a64a0e1e3c38a40b74c978b5dbbeb38346202b5f7613d8fc023e3c9.css"
-    integrity="sha512-jmXywnKFIY/u2MoqbhKoDsL7S&#43;j3dLfHTZZC8bxSijNSKIpwCmSg4ePDikC3TJeLXbvrODRiArX3YT2PwCPjyQ==">
-  
-  
-  <script
-    defer
-    type="text/javascript"
-    src="/lib/tw-elements/index.min.5ffccf337b773ee831515cdde152c8039e972dd479f7dffb0532a79de9a6de5926154ae2587f181ed6c06a99aee25667096bcf6495da5aa86e235d98baee5943.js"
-    integrity="sha512-X/zPM3t3PugxUVzd4VLIA56XLdR599/7BTKnnemm3lkmFUriWH8YHtbAapmu4lZnCWvPZJXaWqhuI12Yuu5ZQw=="></script>
 
 
 
@@ -589,8 +573,8 @@
 
   
   <li class="hidden">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/python/bot-telegram/"
-      >Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub</a
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/python/scalabilite-django/"
+      >Quand j’ai découvert la scalabilité avec Django</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -599,7 +583,7 @@
 
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub
+        Quand j’ai découvert la scalabilité avec Django
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -650,7 +634,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span>556 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">3 mins</span>
+      <span>810 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">4 mins</span>
     
 
     
@@ -674,51 +658,41 @@
         
           
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/python/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/django/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Python
+    Django
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/telegram/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/scalabilit%C3%A9/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Telegram
+    Scalabilité
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/bot/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/d%C3%A9ploiement/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Bot
+    Déploiement
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/d%C3%A9veloppement/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/architecture-web/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Développement
-  </span>
-</span>
-</a
-              >
-            
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/open-source/"
-                ><span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Open Source
+    Architecture Web
   </span>
 </span>
 </a
@@ -867,11 +841,22 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#lévolution-des-bots-telegram--de-2015-à-lère-des-mini-apps">L&rsquo;Évolution des Bots Telegram : De 2015 à l&rsquo;Ère des Mini-Apps</a></li>
-    <li><a href="#pourquoi-python-pour-les-bots-telegram--la-popularité-de-la-librairie-python-telegram-bot">Pourquoi Python pour les Bots Telegram ? La Popularité de la Librairie python-telegram-bot</a></li>
-    <li><a href="#présentation-de-mon-bot--fonctionnalités-et-utilisation">Présentation de Mon Bot : Fonctionnalités et Utilisation</a></li>
-    <li><a href="#tutoriel-pas-à-pas--installation-et-lancement">Tutoriel Pas à Pas : Installation et Lancement</a></li>
-    <li><a href="#conclusion--lancez-vous-et-contribuez">Conclusion : Lancez-Vous et Contribuez</a></li>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#1-quest-ce-que-la-scalabilité-">1. Qu’est-ce que la scalabilité ?</a></li>
+    <li><a href="#2-pourquoi-cest-important-pour-django-">2. Pourquoi c’est important pour Django ?</a></li>
+    <li><a href="#3-comprendre-la-gestion-des-connexions-simultanées">3. Comprendre la gestion des connexions simultanées</a></li>
+    <li><a href="#4-la-montée-en-charge-avec-django">4. La montée en charge avec Django</a>
+      <ul>
+        <li><a href="#a-utiliser-une-base-de-données-adaptée">a) Utiliser une base de données adaptée</a></li>
+        <li><a href="#b-configurer-le-cache">b) Configurer le cache</a></li>
+        <li><a href="#c-servir-les-fichiers-statiques-et-médias-séparément">c) Servir les fichiers statiques et médias séparément</a></li>
+        <li><a href="#d-passer-à-asgi-pour-la-concurrence">d) Passer à ASGI pour la concurrence</a></li>
+        <li><a href="#e-load-balancing-et-scaling-horizontal">e) Load balancing et scaling horizontal</a></li>
+      </ul>
+    </li>
+    <li><a href="#5-tests-de-performance-et-outils-utiles">5. Tests de performance et outils utiles</a></li>
+    <li><a href="#6-ce-que-jai-appris">6. Ce que j’ai appris</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
   </div>
@@ -885,11 +870,22 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#lévolution-des-bots-telegram--de-2015-à-lère-des-mini-apps">L&rsquo;Évolution des Bots Telegram : De 2015 à l&rsquo;Ère des Mini-Apps</a></li>
-    <li><a href="#pourquoi-python-pour-les-bots-telegram--la-popularité-de-la-librairie-python-telegram-bot">Pourquoi Python pour les Bots Telegram ? La Popularité de la Librairie python-telegram-bot</a></li>
-    <li><a href="#présentation-de-mon-bot--fonctionnalités-et-utilisation">Présentation de Mon Bot : Fonctionnalités et Utilisation</a></li>
-    <li><a href="#tutoriel-pas-à-pas--installation-et-lancement">Tutoriel Pas à Pas : Installation et Lancement</a></li>
-    <li><a href="#conclusion--lancez-vous-et-contribuez">Conclusion : Lancez-Vous et Contribuez</a></li>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#1-quest-ce-que-la-scalabilité-">1. Qu’est-ce que la scalabilité ?</a></li>
+    <li><a href="#2-pourquoi-cest-important-pour-django-">2. Pourquoi c’est important pour Django ?</a></li>
+    <li><a href="#3-comprendre-la-gestion-des-connexions-simultanées">3. Comprendre la gestion des connexions simultanées</a></li>
+    <li><a href="#4-la-montée-en-charge-avec-django">4. La montée en charge avec Django</a>
+      <ul>
+        <li><a href="#a-utiliser-une-base-de-données-adaptée">a) Utiliser une base de données adaptée</a></li>
+        <li><a href="#b-configurer-le-cache">b) Configurer le cache</a></li>
+        <li><a href="#c-servir-les-fichiers-statiques-et-médias-séparément">c) Servir les fichiers statiques et médias séparément</a></li>
+        <li><a href="#d-passer-à-asgi-pour-la-concurrence">d) Passer à ASGI pour la concurrence</a></li>
+        <li><a href="#e-load-balancing-et-scaling-horizontal">e) Load balancing et scaling horizontal</a></li>
+      </ul>
+    </li>
+    <li><a href="#5-tests-de-performance-et-outils-utiles">5. Tests de performance et outils utiles</a></li>
+    <li><a href="#6-ce-que-jai-appris">6. Ce que j’ai appris</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
   </div>
@@ -988,402 +984,229 @@
 
       <div class="min-w-0 min-h-0 max-w-fit">
         
-  <details
-    class="mt-2 mb-5 overflow-hidden rounded-lg ltr:ml-0 ltr:pl-5 rtl:mr-0 rtl:pr-5"
-    open>
-    
-  <summary
-    class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
-    66 -
-    Cet article fait partie d&#39;une série.
-  </summary>
-  
-  
-
-
-  </details>
-
 
         <div class="article-content max-w-prose mb-20">
-          <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-  Imaginez un assistant virtuel qui répond à vos commandes, crie en majuscules pour s&rsquo;amuser, et navigue dans des menus interactifs tout ça dans Telegram. C&rsquo;est ce que j&rsquo;ai codé, et je vous montre comment le reproduire !
-</div>
-
-
-<h2 class="relative group">L&rsquo;Évolution des Bots Telegram : De 2015 à l&rsquo;Ère des Mini-Apps 
-    <div id="lévolution-des-bots-telegram--de-2015-à-lère-des-mini-apps" class="anchor"></div>
+          
+<h2 class="relative group">Introduction 
+    <div id="introduction" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#l%c3%a9volution-des-bots-telegram--de-2015-%c3%a0-l%c3%a8re-des-mini-apps" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#introduction" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>Les bots Telegram ont révolutionné la messagerie instantanée depuis leur lancement en 2015 par la plateforme Telegram. Créés par les frères Durov, fondateurs de Telegram, ces petits programmes automatisés permettent d&rsquo;intégrer des services complexes directement dans l&rsquo;app, sans quitter la conversation. Aujourd&rsquo;hui, la plateforme héberge plus de 10 millions de bots, utilisés pour tout : du e-commerce aux jeux, en passant par les paiements et les outils personnalisés.</p>
-<p>Au fil des ans, les bots ont gagné en popularité, surtout dans le monde crypto où ils facilitent les trades et interactions blockchain.  Mais leur vrai pouvoir ? Remplacer des sites web entiers via des Mini-Apps, gérer des businesses, ou même monétiser via Telegram Stars. En tant que développeur, j&rsquo;ai voulu plonger dans cet univers avec un projet simple : un bot basique en Python, hébergé sur mon GitHub.</p>
+<p>Je développe depuis quelque temps des applications avec Django, mais je n’avais jamais réellement pensé à la question de la <strong>scalabilité</strong>.<br>
+C’est seulement lorsque j’ai voulu créer une application où <strong>plusieurs utilisateurs se connectent et interagissent en même temps</strong> que j’ai découvert que faire tourner un projet localement et le faire tenir sous charge sont deux mondes totalement différents.</p>
+<p>Cette expérience m’a forcé à comprendre ce qu’on appelle la <strong>scalabilité d’une application web</strong> : sa capacité à s’adapter à la croissance du nombre d’utilisateurs, des requêtes et des données sans s’effondrer.</p>
+<hr>
 
-<h2 class="relative group">Pourquoi Python pour les Bots Telegram ? La Popularité de la Librairie python-telegram-bot 
-    <div id="pourquoi-python-pour-les-bots-telegram--la-popularité-de-la-librairie-python-telegram-bot" class="anchor"></div>
+<h2 class="relative group">1. Qu’est-ce que la scalabilité ? 
+    <div id="1-quest-ce-que-la-scalabilité-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#pourquoi-python-pour-les-bots-telegram--la-popularit%c3%a9-de-la-librairie-python-telegram-bot" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-quest-ce-que-la-scalabilit%c3%a9-" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>Python domine le développement de bots Telegram grâce à sa simplicité et à des librairies puissantes. Parmi elles, <code>python-telegram-bot</code> se distingue : avec plus de 11 500 étoiles sur GitHub et des milliers d&rsquo;utilisateurs, c&rsquo;est l&rsquo;une des plus populaires et actives.  Elle supporte Python 3.10+, est asynchrone pour une performance optimale, et est maintenue par une communauté vibrante.</p>
-<p>Comparée à d&rsquo;autres comme Pyrogram ou Telethon, elle excelle pour les débutants avec son API intuitive.  C&rsquo;est celle que j&rsquo;ai choisie pour mon bot, car elle gère facilement les commandes, callbacks et messages.</p>
-<div class="flex flex-row flex-wrap items-center space-x-2">
-
-<div class="flex mt-2">
-  <span
-    class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal">
-    <span class="flex flex-row items-center">
-      
-        <span class="mr-1"></span>
-      
-      <span><strong>Simplicité</strong> : Code asynchrone et handlers intuitifs.</span>
-    </span>
-  </span>
-</div>
-
-
-<div class="flex mt-2">
-  <span
-    class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal">
-    <span class="flex flex-row items-center">
-      
-        <span class="mr-1"><span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z"/></svg></span></span>
-      
-      <span><strong>Popularité</strong> : 11.5k+ étoiles GitHub, communauté active.</span>
-    </span>
-  </span>
-</div>
-
-
-<div class="flex mt-2">
-  <span
-    class="rounded-full bg-primary-500 dark:bg-primary-400 text-neutral-50 dark:text-neutral-800 px-1.5 py-[1px] text-xs font-normal">
-    <span class="flex flex-row items-center">
-      
-        <span class="mr-1"></span>
-      
-      <span><strong>Performance</strong> : Idéale pour bots scalables.</span>
-    </span>
-  </span>
-</div>
-
-</div>
-
-
-<h2 class="relative group">Présentation de Mon Bot : Fonctionnalités et Utilisation 
-    <div id="présentation-de-mon-bot--fonctionnalités-et-utilisation" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#pr%c3%a9sentation-de-mon-bot--fonctionnalit%c3%a9s-et-utilisation" aria-label="Ancre">#</a>
-    </span>        
-    
-</h2>
-<p>Mon dépôt GitHub, <a
-  href="https://github.com/memlenz/TelegramBot"
-    target="_blank"
-  >memlenz/TelegramBot</a>, est un tutoriel vivant. Il démontre un bot simple avec :</p>
+<p>La <strong>scalabilité</strong> (ou <em>scaling</em>) désigne la capacité d’un système à <strong>maintenir de bonnes performances</strong> quand la charge augmente.<br>
+En clair : une app scalable doit pouvoir supporter plus d’utilisateurs, plus de requêtes, plus de données, <strong>sans se ralentir ou planter</strong>.</p>
+<p>Il existe deux types principaux de scalabilité :</p>
 <ul>
-<li><strong>Commandes Basiques</strong> : <code>/start</code> pour accueillir, <code>/menu</code> pour un menu interactif, <code>/scream</code> pour majuscules, <code>/whisper</code> pour normal.</li>
-<li><strong>Menus Interactifs</strong> : Boutons inline avec callbacks pour navigation.</li>
-<li><strong>Gestion des Messages</strong> : Echo des inputs, avec mode &ldquo;cri&rdquo; optionnel.</li>
+<li><strong>Scalabilité verticale</strong> : augmenter la puissance d’un seul serveur (plus de RAM, plus de CPU).</li>
+<li><strong>Scalabilité horizontale</strong> : ajouter plusieurs serveurs qui partagent la charge (load balancing, réplication, etc.).</li>
 </ul>
-<p>C&rsquo;est éducatif : parfait pour apprendre les bases sans complexité.</p>
-<div class="github-card-wrapper">
-    <a id="github-226d6525ff8ab07e50ec3e610d5e8073" target="_blank" href="https://github.com/memlenz/TelegramBot" class="cursor-pointer">
-      <div
-        class="w-full md:w-auto p-0 m-0 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl"><div class="w-full nozoom">
-            <img
-              src="https://opengraph.githubassets.com/0/memlenz/TelegramBot"
-              alt="GitHub Repository Thumbnail"
-              class="nozoom mt-0 mb-0 w-full h-full object-cover">
-          </div><div class="w-full md:w-auto pt-3 p-5">
-          <div class="flex items-center">
-            <span class="text-2xl text-neutral-800 dark:text-neutral mr-[10px]">
-              <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
-</span>
-            </span>
-            <div
-              id="github-226d6525ff8ab07e50ec3e610d5e8073-full_name"
-              class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
-              memlenz/TelegramBot
-            </div>
-          </div>
+<p>Django peut très bien s’adapter à ces deux approches, à condition de <strong>penser l’architecture</strong> dès le départ.</p>
+<hr>
 
-          <p id="github-226d6525ff8ab07e50ec3e610d5e8073-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
-            a basic telegram bot
-          </p>
-
-          <div class="m-0 mt-2 flex items-center">
-            <span
-              class="mr-1 inline-block h-3 w-3 rounded-full"
-              style="background-color: #3572A5"></span>
-            <div class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-              Python
-            </div>
-
-            <span class="text-md mr-1 text-neutral-800 dark:text-neutral">
-              <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path fill="currentColor" d="M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z"/></svg></span>
-            </span>
-            <div id="github-226d6525ff8ab07e50ec3e610d5e8073-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-              0
-            </div>
-
-            <span class="text-md mr-1 text-neutral-800 dark:text-neutral">
-              <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z"/></svg></span>
-            </span>
-            <div id="github-226d6525ff8ab07e50ec3e610d5e8073-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
-              0
-            </div>
-          </div>
-        </div>
-      </div>
-      
-      
-      <script
-        async
-        type="text/javascript"
-        src="/js/fetch-repo.min.8dc62397739c6bad3fd13945b87f251ff474c15ca4745cc6af8e12276050ddef337daedf284a830acbb2e456c9f599e2220477a38807ae76b4a342acdbe071d3.js"
-        integrity="sha512-jcYjl3Oca60/0TlFuH8lH/R0wVykdFzGr44SJ2BQ3e8zfa7fKEqDCsuy5FbJ9ZniIgR3o4gHrna0o0Ks2&#43;Bx0w=="
-        data-repo-url="https://api.github.com/repos/memlenz/TelegramBot"
-        data-repo-id="github-226d6525ff8ab07e50ec3e610d5e8073"></script>
-    </a>
-  </div>
-
-<h2 class="relative group">Tutoriel Pas à Pas : Installation et Lancement 
-    <div id="tutoriel-pas-à-pas--installation-et-lancement" class="anchor"></div>
+<h2 class="relative group">2. Pourquoi c’est important pour Django ? 
+    <div id="2-pourquoi-cest-important-pour-django-" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#tutoriel-pas-%c3%a0-pas--installation-et-lancement" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-pourquoi-cest-important-pour-django-" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>Suivez ces étapes pour cloner et running mon bot.</p>
-<ol class="border-l-2 border-primary-500 dark:border-primary-300 list-none">
+<p>Django est un framework complet — ORM, sessions, middleware, templates, etc. — ce qui le rend pratique mais aussi parfois lourd.<br>
+Quand un seul utilisateur teste ton app, tout fonctionne à merveille.<br>
+Mais quand <strong>100 utilisateurs</strong> effectuent des requêtes simultanément, tu découvres des choses comme :</p>
+<ul>
+<li>Les <strong>verrous de base de données</strong> (locks) ;</li>
+<li>Les <strong>requêtes lentes</strong> ;</li>
+<li>Les <strong>sessions partagées</strong> ou mal gérées ;</li>
+<li>Les <strong>timeouts</strong> liés au serveur web (Gunicorn, Daphne, etc.) ;</li>
+<li>Et les limites de ton <strong>serveur SQLite</strong> s’il n’a pas été remplacé par PostgreSQL ou MySQL.</li>
+</ul>
+<hr>
 
-
-
-
-
-<li>
-  <div class="flex flex-start">
-    <div
-      class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
-      <span class="relative block icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-<path fill="currentColor" d="M288 32c0-17.7-14.3-32-32-32s-32 14.3-32 32V274.7l-73.4-73.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l128 128c12.5 12.5 32.8 12.5 45.3 0l128-128c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L288 274.7V32zM64 352c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V416c0-35.3-28.7-64-64-64H346.5l-45.3 45.3c-25 25-65.5 25-90.5 0L165.5 352H64zM432 456c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
-    </div>
-    <div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
-      <div class="flex justify-between">
-        
-          <h2 class="mt-0">Prérequis</h2>
-        
-        
-          <h3 class="">
-            <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Python 3.11&#43;
-  </span>
-</span>
-
-          </h3>
-        
-      </div>
-      
-        <h4 class="mt-0">
-          Token via @BotFather
-        </h4>
-      
-      <div class="mb-6">
-Installez Python et obtenez un token de bot depuis Telegram's BotFather.
-</div>
-    </div>
-  </div>
-</li>
-
-
-
-
-
-
-<li>
-  <div class="flex flex-start">
-    <div
-      class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
-      
-    </div>
-    <div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
-      <div class="flex justify-between">
-        
-          <h2 class="mt-0">Cloner le Repo</h2>
-        
-        
-          <h3 class="">
-            <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Git Clone
-  </span>
-</span>
-
-          </h3>
-        
-      </div>
-      
-        <h4 class="mt-0">
-          Installation
-        </h4>
-      
-      <div class="mb-6">
-
-```
-git clone https://github.com/memlenz/TelegramBot.git
-cd TelegramBot
-python -m venv .venv
-source .venv/bin/activate
-pip install python-telegram-bot
-```
-
-</div>
-    </div>
-  </div>
-</li>
-
-
-
-
-
-
-<li>
-  <div class="flex flex-start">
-    <div
-      class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
-      
-    </div>
-    <div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
-      <div class="flex justify-between">
-        
-          <h2 class="mt-0">Configurer le Token</h2>
-        
-        
-          <h3 class="">
-            <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Env ou Code
-  </span>
-</span>
-
-          </h3>
-        
-      </div>
-      
-        <h4 class="mt-0">
-          Sécurité
-        </h4>
-      
-      <div class="mb-6">
-Exportez `TELEGRAM_BOT_TOKEN` ou éditez `TelegramBot.py`.
-</div>
-    </div>
-  </div>
-</li>
-
-
-
-
-
-
-<li>
-  <div class="flex flex-start">
-    <div
-      class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
-      
-    </div>
-    <div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words">
-      <div class="flex justify-between">
-        
-          <h2 class="mt-0">Lancer le Bot</h2>
-        
-        
-          <h3 class="">
-            <span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Run
-  </span>
-</span>
-
-          </h3>
-        
-      </div>
-      
-        <h4 class="mt-0">
-          Test
-        </h4>
-      
-      <div class="mb-6">
-
-```
-python TelegramBot.py
-```
-
-Testez avec `/start` dans Telegram !
-</div>
-    </div>
-  </div>
-</li>
-
-
-</ol>
-
-<p>Pour étendre : Ajoutez des handlers pour commandes custom ou intégrez des APIs externes. Attention aux rate limits Telegram !</p>
-
-  
-  
-  
-  
-
-
-
-<div
-  
-    class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
-  
-  >
-  <span
-    
-      class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
-    
-    >
-    
-  </span>
-
-  <span
-    
-      class="dark:text-neutral-300"
-    
-    ><strong>Avertissement :</strong> Ne commitez jamais votre token ! Utilisez .env et .gitignore.</span>
-</div>
-
-
-<h2 class="relative group">Conclusion : Lancez-Vous et Contribuez 
-    <div id="conclusion--lancez-vous-et-contribuez" class="anchor"></div>
+<h2 class="relative group">3. Comprendre la gestion des connexions simultanées 
+    <div id="3-comprendre-la-gestion-des-connexions-simultanées" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#conclusion--lancez-vous-et-contribuez" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#3-comprendre-la-gestion-des-connexions-simultan%c3%a9es" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>Ce bot est mon entrée dans l&rsquo;univers Telegram – simple, mais extensible pour des projets fous comme des bots crypto ou IA. Avec plus de 10 millions de bots actifs, l&rsquo;opportunité est immense. Forkez mon repo, ajoutez des features, et ouvrez une PR !</p>
+<p>Quand plusieurs utilisateurs accèdent à ton app Django en même temps, il faut comprendre qu’ils ne parlent <strong>pas directement à Django</strong>, mais à une <strong>pile complète</strong> :</p>
+<pre tabindex="0"><code>
+Navigateur → Serveur HTTP (Nginx) → WSGI/ASGI (Gunicorn/Daphne/Uvicorn) → Django → Base de données
+</code></pre><p>Chaque requête suit ce chemin.<br>
+Si Django ou la base de données ne peuvent pas traiter toutes les requêtes à temps, certaines seront mises en file d’attente ou rejetées.</p>
+<p>Les principaux points à surveiller sont donc :</p>
+<ul>
+<li>Le <strong>nombre de workers</strong> de ton serveur (Gunicorn/Daphne) ;</li>
+<li>Le <strong>type d’architecture</strong> (synchrone ou asynchrone) ;</li>
+<li>Le <strong>pool de connexions</strong> à la base de données ;</li>
+<li>Et la <strong>gestion de la mémoire</strong> (cache, sessions, fichiers temporaires).</li>
+</ul>
+<hr>
+
+<h2 class="relative group">4. La montée en charge avec Django 
+    <div id="4-la-montée-en-charge-avec-django" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#4-la-mont%c3%a9e-en-charge-avec-django" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Pour rendre ton app scalable, voici les leviers principaux :</p>
+
+<h3 class="relative group">a) Utiliser une base de données adaptée 
+    <div id="a-utiliser-une-base-de-données-adaptée" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#a-utiliser-une-base-de-donn%c3%a9es-adapt%c3%a9e" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Évite <strong>SQLite</strong> pour un environnement multi-utilisateur.</li>
+<li>Privilégie <strong>PostgreSQL</strong>, robuste et compatible avec des outils de scaling (réplication, partitions…).</li>
+</ul>
+
+<h3 class="relative group">b) Configurer le cache 
+    <div id="b-configurer-le-cache" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#b-configurer-le-cache" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Django prend en charge plusieurs backends de cache (Redis, Memcached…).<br>
+Le cache est indispensable pour réduire les accès à la base de données.</p>
+<p>Exemple dans <code>settings.py</code> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="n">CACHES</span> <span class="o">=</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="s2">&#34;default&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="s2">&#34;BACKEND&#34;</span><span class="p">:</span> <span class="s2">&#34;django.core.cache.backends.redis.RedisCache&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">        <span class="s2">&#34;LOCATION&#34;</span><span class="p">:</span> <span class="s2">&#34;redis://127.0.0.1:6379/1&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div>
+<h3 class="relative group">c) Servir les fichiers statiques et médias séparément 
+    <div id="c-servir-les-fichiers-statiques-et-médias-séparément" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#c-servir-les-fichiers-statiques-et-m%c3%a9dias-s%c3%a9par%c3%a9ment" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Ne fais <strong>jamais</strong> servir les fichiers statiques (CSS, images…) par Django en production.
+Utilise Nginx ou un CDN.</p>
+
+<h3 class="relative group">d) Passer à ASGI pour la concurrence 
+    <div id="d-passer-à-asgi-pour-la-concurrence" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#d-passer-%c3%a0-asgi-pour-la-concurrence" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Si ton app gère des <strong>WebSockets</strong>, du <strong>temps réel</strong>, ou des tâches concurrentes, opte pour <strong>Django Channels</strong> ou <strong>ASGI</strong> (avec Daphne ou Uvicorn).
+Cela permet à Django de gérer plusieurs connexions simultanées sans blocage.</p>
+
+<h3 class="relative group">e) Load balancing et scaling horizontal 
+    <div id="e-load-balancing-et-scaling-horizontal" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#e-load-balancing-et-scaling-horizontal" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Quand un seul serveur ne suffit plus :</p>
+<ul>
+<li>Mets un <strong>reverse proxy (Nginx)</strong> devant plusieurs serveurs Django.</li>
+<li>Utilise un <strong>load balancer</strong> (HAProxy, Traefik, ou un service cloud).</li>
+<li>Pense à <strong>Dockeriser</strong> ton app pour faciliter la réplication.</li>
+</ul>
+<hr>
+
+<h2 class="relative group">5. Tests de performance et outils utiles 
+    <div id="5-tests-de-performance-et-outils-utiles" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#5-tests-de-performance-et-outils-utiles" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Pour mesurer la scalabilité, il faut <strong>tester</strong> sous charge.
+Voici quelques outils utiles :</p>
+<ul>
+<li><strong>Locust</strong> : tests de charge en Python (très lisible).</li>
+<li><strong>Apache Bench (<code>ab</code>)</strong> : outil en ligne de commande rapide.</li>
+<li><strong>k6</strong> : pour les scénarios complexes en JavaScript.</li>
+</ul>
+<p>Exemple de test simple :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">ab -n <span class="m">1000</span> -c <span class="m">50</span> http://localhost:8000/
+</span></span></code></pre></div><p>Cela simule 1000 requêtes avec 50 utilisateurs simultanés.</p>
+<hr>
+
+<h2 class="relative group">6. Ce que j’ai appris 
+    <div id="6-ce-que-jai-appris" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#6-ce-que-jai-appris" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>En cherchant à rendre mon application Django multi-utilisateurs, j’ai compris que la <strong>scalabilité n’est pas un bonus</strong>, c’est une <strong>condition de survie</strong> d’une application moderne.
+Elle repose moins sur le code lui-même que sur la <strong>conception de l’architecture</strong> autour de Django.</p>
+<p>La scalabilité, c’est ce qui transforme un projet personnel en une application <strong>capable de croître</strong> avec ses utilisateurs.</p>
+<hr>
+
+<h2 class="relative group">Conclusion 
+    <div id="conclusion" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#conclusion" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Si tu n’as jamais eu à te soucier de la scalabilité, c’est peut-être que ton app n’a pas encore été assez utilisée.
+Mais le jour où plusieurs utilisateurs se connectent en même temps, tu comprendras — comme moi — que c’est un défi aussi passionnant que nécessaire.</p>
+<hr>
+<p><strong>Ressources utiles :</strong></p>
+<ul>
+<li><a
+  href="https://docs.djangoproject.com/en/stable/howto/deployment/checklist/"
+    target="_blank"
+  >Django Deployment Checklist – Documentation officielle</a></li>
+<li><a
+  href="https://highperformancedjango.com/"
+    target="_blank"
+  >High performance Django (livre gratuit)</a></li>
+</ul>
 
           
           
@@ -1391,19 +1214,6 @@ Testez avec `/start` dans Telegram !
         </div>
         
         
-  <details class="mt-2 mb-5 overflow-hidden rounded-lg ltr:ml-0 ltr:pl-5 rtl:mr-0 rtl:pr-5">
-    
-  <summary
-    class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
-    66 -
-    Cet article fait partie d&#39;une série.
-  </summary>
-  
-  
-
-
-  </details>
-
 
         
 
@@ -1424,8 +1234,8 @@ Testez avec `/start` dans Telegram !
           type="text/javascript"
           src="/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js"
           integrity="sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA=="
-          data-oid="views_blog/Python/bot-telegram.md"
-          data-oid-likes="likes_blog/Python/bot-telegram.md"></script>
+          data-oid="views_blog/Python/scalabilite-django.md"
+          data-oid-likes="likes_blog/Python/scalabilite-django.md"></script>
       
     </section>
 
@@ -1444,32 +1254,13 @@ Testez avec `/start` dans Telegram !
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/blog/python/scalabilite-django/">
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span class="flex flex-col">
-                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Quand j’ai découvert la scalabilité avec Django</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                </span>
-              </span>
-            </a>
-          
         </span>
         <span>
           
-            <a class="flex text-right group ml-3" href="/blog/why-linux/linux_for_beginners/">
+            <a class="flex text-right group ml-3" href="/blog/python/bot-telegram/">
               <span class="flex flex-col">
                 <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Et si Windows n’était pas votre seule option ? Découvrez un monde d’alternatives</span
+                  >Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
