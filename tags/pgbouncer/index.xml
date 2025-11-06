@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pgbouncer on </title>
+    <link>http://localhost:1313/tags/pgbouncer/</link>
+    <description>Recent content in Pgbouncer on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 06 Nov 2025 01:29:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/pgbouncer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comment gérer les connexions à la base de données dans une application Django scalable</title>
+      <link>http://localhost:1313/blog/python/django-scal-db/</link>
+      <pubDate>Thu, 06 Nov 2025 01:29:56 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/python/django-scal-db/</guid>
+      <description>Dans une architecture distribuée avec plusieurs workers et conteneurs, une mauvaise gestion des connexions à la base de données peut saturer le serveur. Cet article explique comment les géants du web maîtrisent ce problème grâce au pooling et à des stratégies éprouvées.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

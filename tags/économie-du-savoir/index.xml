@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Économie Du Savoir on </title>
+    <link>http://localhost:1313/tags/%C3%A9conomie-du-savoir/</link>
+    <description>Recent content in Économie Du Savoir on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 03 Nov 2025 20:29:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/%C3%A9conomie-du-savoir/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pourquoi être employé en informatique peut être une perte de temps</title>
+      <link>http://localhost:1313/parcours/les-devs-salaries/</link>
+      <pubDate>Mon, 03 Nov 2025 20:29:56 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/parcours/les-devs-salaries/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
+    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#introduction&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Dire qu’être employé est une perte de temps semble provocateur. Pourtant, dans certains contextes — et particulièrement en informatique — cette idée mérite d’être examinée avec rigueur.&lt;br&gt;
+Le salariat, conçu pour l’ère industrielle, n’est peut-être plus adapté à un monde où un individu seul peut créer, automatiser et distribuer de la valeur à l’échelle mondiale.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
