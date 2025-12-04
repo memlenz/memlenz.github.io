@@ -14,15 +14,15 @@
   <meta name="theme-color">
 
   
-  <title>Pourquoi le terminal reste l’outil le plus efficace pour coder &middot; </title>
-    <meta name="title" content="Pourquoi le terminal reste l’outil le plus efficace pour coder &middot; ">
+  <title>Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter) &middot; </title>
+    <meta name="title" content="Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter) &middot; ">
 
   
-  <meta name="description" content="Découvrez pourquoi le terminal, souvent perçu comme un vestige du passé, est en réalité l’outil le plus puissant et efficace pour coder en 2025. Une plongée dans ses avantages, ses astuces et son potentiel insoupçonné.">
-  <meta name="keywords" content="Linux,Productivité,Développement,Terminal,Outils,">
+  <meta name="description" content="Découvrez les 4 nouveautés majeures de Django 6.0 (Template Partials, Background Tasks, CSP, Email API) et comment les exploiter dans vos projets. Guide pratique pour migrer sans stress.">
+  <meta name="keywords" content="Django,Python,Backend,Release,Tutoriel,">
   
   
-  <link rel="canonical" href="http://localhost:1313/blog/why-linux/why-terminal/">
+  <link rel="canonical" href="http://localhost:1313/blog/python/django-release/">
   
   
   
@@ -101,50 +101,50 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/blog/why-linux/why-terminal/">
-  <meta property="og:title" content="Pourquoi le terminal reste l’outil le plus efficace pour coder">
-  <meta property="og:description" content="Découvrez pourquoi le terminal, souvent perçu comme un vestige du passé, est en réalité l’outil le plus puissant et efficace pour coder en 2025. Une plongée dans ses avantages, ses astuces et son potentiel insoupçonné.">
+  <meta property="og:url" content="http://localhost:1313/blog/python/django-release/">
+  <meta property="og:title" content="Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter)">
+  <meta property="og:description" content="Découvrez les 4 nouveautés majeures de Django 6.0 (Template Partials, Background Tasks, CSP, Email API) et comment les exploiter dans vos projets. Guide pratique pour migrer sans stress.">
   <meta property="og:locale" content="fr">
   <meta property="og:type" content="article">
     <meta property="article:section" content="blog">
-    <meta property="article:published_time" content="2025-12-03T00:00:00+00:00">
-    <meta property="article:modified_time" content="2025-12-03T00:00:00+00:00">
-    <meta property="article:tag" content="Linux">
-    <meta property="article:tag" content="Productivité">
-    <meta property="article:tag" content="Développement">
-    <meta property="article:tag" content="Terminal">
-    <meta property="article:tag" content="Outils">
+    <meta property="article:published_time" content="2025-12-04T10:00:00+01:00">
+    <meta property="article:modified_time" content="2025-12-04T10:00:00+01:00">
+    <meta property="article:tag" content="Django">
+    <meta property="article:tag" content="Python">
+    <meta property="article:tag" content="Backend">
+    <meta property="article:tag" content="Release">
+    <meta property="article:tag" content="Tutoriel">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Pourquoi le terminal reste l’outil le plus efficace pour coder">
-  <meta name="twitter:description" content="Découvrez pourquoi le terminal, souvent perçu comme un vestige du passé, est en réalité l’outil le plus puissant et efficace pour coder en 2025. Une plongée dans ses avantages, ses astuces et son potentiel insoupçonné.">
+  <meta name="twitter:title" content="Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter)">
+  <meta name="twitter:description" content="Découvrez les 4 nouveautés majeures de Django 6.0 (Template Partials, Background Tasks, CSP, Email API) et comment les exploiter dans vos projets. Guide pratique pour migrer sans stress.">
 
   <script type="application/ld+json">
   [{
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Blogs",
-    "name": "Pourquoi le terminal reste l’outil le plus efficace pour coder",
-    "headline": "Pourquoi le terminal reste l’outil le plus efficace pour coder",
-    "description": "Découvrez pourquoi le terminal, souvent perçu comme un vestige du passé, est en réalité l’outil le plus puissant et efficace pour coder en 2025. Une plongée dans ses avantages, ses astuces et son potentiel insoupçonné.",
-    "abstract": "\u003ch2 class=\u0022relative group\u0022\u003ePourquoi le terminal reste l’outil le plus efficace pour coder \n    \u003cdiv id=\u0022pourquoi-le-terminal-reste-loutil-le-plus-efficace-pour-coder\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#pourquoi-le-terminal-reste-loutil-le-plus-efficace-pour-coder\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\n\u003ch3 class=\u0022relative group\u0022\u003eIntroduction : Le terminal, votre atelier numérique \n    \u003cdiv id=\u0022introduction--le-terminal-votre-atelier-numérique\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#introduction--le-terminal-votre-atelier-num%c3%a9rique\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h3\u003e\n\u003cp\u003e\n\n\n\n\n\n\n\u003cfigure\u003e\n      \u003cimg\n    class=\u0022my-0 rounded-md\u0022\n    loading=\u0022lazy\u0022\n    decoding=\u0022async\u0022\n    fetchpriority=\u0022low\u0022\n    alt=\u0022vs-code vs termianl\u0022\n    srcset=\u0022\n      \/outils-dev\/vscode-terminal_hu_784c23c784ef9075.jpg  330w,\n      \/outils-dev\/vscode-terminal_hu_dec971211aa9d2aa.jpg  660w,\n      \/outils-dev\/vscode-terminal_hu_330cfe455e318119.jpg 1280w\n    \u0022\n    data-zoom-src=\u0022\/outils-dev\/vscode-terminal.jpg\u0022\n    src=\u0022\/outils-dev\/vscode-terminal.jpg\u0022\u003e\n\n  \n\u003c\/figure\u003e\n\u003c\/p\u003e",
+    "name": "Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter)",
+    "headline": "Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter)",
+    "description": "Découvrez les 4 nouveautés majeures de Django 6.0 (Template Partials, Background Tasks, CSP, Email API) et comment les exploiter dans vos projets. Guide pratique pour migrer sans stress.",
+    "abstract": "\u003ch2 class=\u0022relative group\u0022\u003e\u003cstrong\u003e🚀 Introduction : Pourquoi Django 6.0 est une révolution discrète\u003c\/strong\u003e \n    \u003cdiv id=\u0022-introduction--pourquoi-django-60-est-une-révolution-discrète\u0022 class=\u0022anchor\u0022\u003e\u003c\/div\u003e\n    \n    \u003cspan\n        class=\u0022absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none\u0022\u003e\n        \u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline\u0022 href=\u0022#-introduction--pourquoi-django-60-est-une-r%c3%a9volution-discr%c3%a8te\u0022 aria-label=\u0022Ancre\u0022\u003e#\u003c\/a\u003e\n    \u003c\/span\u003e        \n    \n\u003c\/h2\u003e\n\u003cp\u003eSi tu es développeur Python, tu connais Django : le framework \u0026ldquo;batteries included\u0026rdquo; qui powers Instagram, Pinterest, et des milliers d’apps moins connues mais tout aussi critiques. \u003cstrong\u003eDjango 6.0\u003c\/strong\u003e, sorti le 3 décembre 2025, n’est pas une simple mise à jour. C’est une \u003cstrong\u003eévolution majeure\u003c\/strong\u003e qui répond à trois enjeux modernes :\u003c\/p\u003e",
     "inLanguage": "fr",
-    "url" : "http:\/\/localhost:1313\/blog\/why-linux\/why-terminal\/",
+    "url" : "http:\/\/localhost:1313\/blog\/python\/django-release\/",
     "author" : {
       "@type": "Person",
       "name": "Châ-Fine Ayédoun ADEBI"
     },
     "copyrightYear": "2025",
-    "dateCreated": "2025-12-03T00:00:00\u002b00:00",
-    "datePublished": "2025-12-03T00:00:00\u002b00:00",
+    "dateCreated": "2025-12-04T10:00:00\u002b01:00",
+    "datePublished": "2025-12-04T10:00:00\u002b01:00",
     
-    "dateModified": "2025-12-03T00:00:00\u002b00:00",
+    "dateModified": "2025-12-04T10:00:00\u002b01:00",
     
-    "keywords": ["Linux","Productivité","Développement","Terminal","Outils"],
+    "keywords": ["Django 6.0","Template Partials","Background Tasks","CSP Django","migration Django","Python","Backend","WebDev"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "597"
+    "wordCount": "1040"
   }]
   </script>
 
@@ -576,8 +576,8 @@
 
   
   <li class="hidden">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/why-linux/why-terminal/"
-      >Pourquoi le terminal reste l’outil le plus efficace pour coder</a
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/blog/python/django-release/"
+      >Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter)</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -586,7 +586,7 @@
 
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Pourquoi le terminal reste l’outil le plus efficace pour coder
+        Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter)
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -637,7 +637,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span>597 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">3 mins</span>
+      <span>1040 mots</span><span class="px-2 text-primary-500">&middot;</span><span title="Temps de lecture">5 mins</span>
     
 
     
@@ -655,11 +655,11 @@
         
           
             
-              <a class="relative mt-[0.5rem] mr-2" href="/categories/technologie/"
+              <a class="relative mt-[0.5rem] mr-2" href="/categories/d%C3%A9veloppement-web/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Technologie
+    Développement Web
   </span>
 </span>
 </a
@@ -673,51 +673,51 @@
         
           
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/linux/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/django/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Linux
+    Django
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/productivit%C3%A9/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/python/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Productivité
+    Python
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/d%C3%A9veloppement/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/backend/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Développement
+    Backend
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/terminal/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/release/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Terminal
+    Release
   </span>
 </span>
 </a
               >
             
-              <a class="relative mt-[0.5rem] mr-2" href="/tags/outils/"
+              <a class="relative mt-[0.5rem] mr-2" href="/tags/tutoriel/"
                 ><span class="flex cursor-pointer">
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Outils
+    Tutoriel
   </span>
 </span>
 </a
@@ -866,30 +866,41 @@
     class="min-w-[220px] py-2 border-dotted ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#pourquoi-le-terminal-reste-loutil-le-plus-efficace-pour-coder">Pourquoi le terminal reste l’outil le plus efficace pour coder</a>
+    <li><a href="#-introduction--pourquoi-django-60-est-une-révolution-discrète"><strong>🚀 Introduction : Pourquoi Django 6.0 est une révolution discrète</strong></a></li>
+    <li><a href="#-les-4-nouveautés-qui-vont-booster-ta-productivité"><strong>🔍 Les 4 nouveautés qui vont booster ta productivité</strong></a>
       <ul>
-        <li><a href="#introduction--le-terminal-votre-atelier-numérique">Introduction : Le terminal, votre atelier numérique</a></li>
+        <li><a href="#1-template-partials--la-fin-des-templates-monolithiques"><strong>1️⃣ Template Partials : La fin des templates monolithiques</strong></a></li>
+        <li><a href="#2-background-tasks--lasynchrone-sans-celery"><strong>2️⃣ Background Tasks : L’asynchrone sans Celery</strong></a></li>
+        <li><a href="#3-content-security-policy-csp--la-sécurité-devient-un-jeu-denfant"><strong>3️⃣ Content Security Policy (CSP) : La sécurité devient un jeu d’enfant</strong></a></li>
+        <li><a href="#4-modernized-email-api--enfin-des-emails-sans-prise-de-tête"><strong>4️⃣ Modernized Email API : Enfin des emails sans prise de tête</strong></a></li>
       </ul>
     </li>
-    <li><a href="#partie-1--les-bases--pourquoi-le-terminal-est-il-si-puissant-">Partie 1 : Les bases – Pourquoi le terminal est-il si puissant ?</a>
+    <li><a href="#-ce-qui-change-pour-tes-projets-existants"><strong>⚠️ Ce qui change pour tes projets existants</strong></a>
       <ul>
-        <li><a href="#1-vitesse-et-efficacité">1. <strong>Vitesse et efficacité</strong></a></li>
-        <li><a href="#2-automatisation-et-scripts">2. <strong>Automatisation et scripts</strong></a></li>
-        <li><a href="#3-contrôle-total">3. <strong>Contrôle total</strong></a></li>
-        <li><a href="#4-universalité">4. <strong>Universalité</strong></a></li>
+        <li><a href="#1-fin-du-support-pour-django-52"><strong>1. Fin du support pour Django 5.2</strong></a></li>
+        <li><a href="#2-vérifie-tes-dépendances"><strong>2. Vérifie tes dépendances</strong></a></li>
+        <li><a href="#3-teste-en-staging"><strong>3. Teste en staging</strong></a></li>
       </ul>
     </li>
-    <li><a href="#partie-2--aller-plus-loin--le-terminal-comme-super-pouvoir">Partie 2 : Aller plus loin – Le terminal comme super-pouvoir</a>
+    <li><a href="#-comment-migrer-vers-django-60--guide-pas-à-pas"><strong>🛠️ Comment migrer vers Django 6.0 ? Guide pas à pas</strong></a>
       <ul>
-        <li><a href="#1-personnalisation-extrême">1. <strong>Personnalisation extrême</strong></a></li>
-        <li><a href="#2-intégration-avec-dautres-outils">2. <strong>Intégration avec d’autres outils</strong></a></li>
-        <li><a href="#3-productivité-en-équipe">3. <strong>Productivité en équipe</strong></a></li>
-        <li><a href="#4-apprentissage-et-maîtrise">4. <strong>Apprentissage et maîtrise</strong></a></li>
+        <li><a href="#étape-1--crée-un-environnement-isolé"><strong>Étape 1 : Crée un environnement isolé</strong></a></li>
+        <li><a href="#étape-2--vérifie-les"><strong>Étape 2 : Vérifie les <em>deprecations</em></strong></a></li>
+        <li><a href="#étape-3--mets-à-jour-tes-templates"><strong>Étape 3 : Mets à jour tes templates</strong></a></li>
+        <li><a href="#étape-4--active-csp"><strong>Étape 4 : Active CSP</strong></a></li>
+        <li><a href="#étape-5--teste-les-background-tasks"><strong>Étape 5 : Teste les Background Tasks</strong></a></li>
       </ul>
     </li>
-    <li><a href="#conclusion--le-terminal-un-outil-intemporel">Conclusion : Le terminal, un outil intemporel</a>
+    <li><a href="#-mon-avis-de-dev-senior--faut-il-migrer-maintenant-"><strong>💡 Mon avis de dev senior : Faut-il migrer maintenant ?</strong></a>
       <ul>
-        <li><a href="#références-et-ressources-utiles">Références et ressources utiles</a></li>
+        <li><a href="#oui-si"><strong>Oui, si…</strong></a></li>
+        <li><a href="#attends-un-peu-si"><strong>Attends un peu si…</strong></a></li>
+      </ul>
+    </li>
+    <li><a href="#-conclusion--django-60-un-pas-de-géant-vers-la-modernité"><strong>📌 Conclusion : Django 6.0, un pas de géant vers la modernité</strong></a>
+      <ul>
+        <li><a href="#-prochaine-étape"><strong>🚀 Prochaine étape</strong></a></li>
+        <li><a href="#-ressources-utiles"><strong>🔗 Ressources utiles</strong></a></li>
       </ul>
     </li>
   </ul>
@@ -905,30 +916,41 @@
     class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#pourquoi-le-terminal-reste-loutil-le-plus-efficace-pour-coder">Pourquoi le terminal reste l’outil le plus efficace pour coder</a>
+    <li><a href="#-introduction--pourquoi-django-60-est-une-révolution-discrète"><strong>🚀 Introduction : Pourquoi Django 6.0 est une révolution discrète</strong></a></li>
+    <li><a href="#-les-4-nouveautés-qui-vont-booster-ta-productivité"><strong>🔍 Les 4 nouveautés qui vont booster ta productivité</strong></a>
       <ul>
-        <li><a href="#introduction--le-terminal-votre-atelier-numérique">Introduction : Le terminal, votre atelier numérique</a></li>
+        <li><a href="#1-template-partials--la-fin-des-templates-monolithiques"><strong>1️⃣ Template Partials : La fin des templates monolithiques</strong></a></li>
+        <li><a href="#2-background-tasks--lasynchrone-sans-celery"><strong>2️⃣ Background Tasks : L’asynchrone sans Celery</strong></a></li>
+        <li><a href="#3-content-security-policy-csp--la-sécurité-devient-un-jeu-denfant"><strong>3️⃣ Content Security Policy (CSP) : La sécurité devient un jeu d’enfant</strong></a></li>
+        <li><a href="#4-modernized-email-api--enfin-des-emails-sans-prise-de-tête"><strong>4️⃣ Modernized Email API : Enfin des emails sans prise de tête</strong></a></li>
       </ul>
     </li>
-    <li><a href="#partie-1--les-bases--pourquoi-le-terminal-est-il-si-puissant-">Partie 1 : Les bases – Pourquoi le terminal est-il si puissant ?</a>
+    <li><a href="#-ce-qui-change-pour-tes-projets-existants"><strong>⚠️ Ce qui change pour tes projets existants</strong></a>
       <ul>
-        <li><a href="#1-vitesse-et-efficacité">1. <strong>Vitesse et efficacité</strong></a></li>
-        <li><a href="#2-automatisation-et-scripts">2. <strong>Automatisation et scripts</strong></a></li>
-        <li><a href="#3-contrôle-total">3. <strong>Contrôle total</strong></a></li>
-        <li><a href="#4-universalité">4. <strong>Universalité</strong></a></li>
+        <li><a href="#1-fin-du-support-pour-django-52"><strong>1. Fin du support pour Django 5.2</strong></a></li>
+        <li><a href="#2-vérifie-tes-dépendances"><strong>2. Vérifie tes dépendances</strong></a></li>
+        <li><a href="#3-teste-en-staging"><strong>3. Teste en staging</strong></a></li>
       </ul>
     </li>
-    <li><a href="#partie-2--aller-plus-loin--le-terminal-comme-super-pouvoir">Partie 2 : Aller plus loin – Le terminal comme super-pouvoir</a>
+    <li><a href="#-comment-migrer-vers-django-60--guide-pas-à-pas"><strong>🛠️ Comment migrer vers Django 6.0 ? Guide pas à pas</strong></a>
       <ul>
-        <li><a href="#1-personnalisation-extrême">1. <strong>Personnalisation extrême</strong></a></li>
-        <li><a href="#2-intégration-avec-dautres-outils">2. <strong>Intégration avec d’autres outils</strong></a></li>
-        <li><a href="#3-productivité-en-équipe">3. <strong>Productivité en équipe</strong></a></li>
-        <li><a href="#4-apprentissage-et-maîtrise">4. <strong>Apprentissage et maîtrise</strong></a></li>
+        <li><a href="#étape-1--crée-un-environnement-isolé"><strong>Étape 1 : Crée un environnement isolé</strong></a></li>
+        <li><a href="#étape-2--vérifie-les"><strong>Étape 2 : Vérifie les <em>deprecations</em></strong></a></li>
+        <li><a href="#étape-3--mets-à-jour-tes-templates"><strong>Étape 3 : Mets à jour tes templates</strong></a></li>
+        <li><a href="#étape-4--active-csp"><strong>Étape 4 : Active CSP</strong></a></li>
+        <li><a href="#étape-5--teste-les-background-tasks"><strong>Étape 5 : Teste les Background Tasks</strong></a></li>
       </ul>
     </li>
-    <li><a href="#conclusion--le-terminal-un-outil-intemporel">Conclusion : Le terminal, un outil intemporel</a>
+    <li><a href="#-mon-avis-de-dev-senior--faut-il-migrer-maintenant-"><strong>💡 Mon avis de dev senior : Faut-il migrer maintenant ?</strong></a>
       <ul>
-        <li><a href="#références-et-ressources-utiles">Références et ressources utiles</a></li>
+        <li><a href="#oui-si"><strong>Oui, si…</strong></a></li>
+        <li><a href="#attends-un-peu-si"><strong>Attends un peu si…</strong></a></li>
+      </ul>
+    </li>
+    <li><a href="#-conclusion--django-60-un-pas-de-géant-vers-la-modernité"><strong>📌 Conclusion : Django 6.0, un pas de géant vers la modernité</strong></a>
+      <ul>
+        <li><a href="#-prochaine-étape"><strong>🚀 Prochaine étape</strong></a></li>
+        <li><a href="#-ressources-utiles"><strong>🔗 Ressources utiles</strong></a></li>
       </ul>
     </li>
   </ul>
@@ -1035,7 +1057,7 @@
     
   <summary
     class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
-    Maîtriser ses outils de développement -
+    Veille Technologique -
     Cet article fait partie d&#39;une série.
   </summary>
   
@@ -1043,7 +1065,7 @@
     
       <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        Partie 1:
+        Partie :
         Cet article
       </div>
     
@@ -1055,245 +1077,389 @@
 
         <div class="article-content max-w-prose mb-20">
           
-<h2 class="relative group">Pourquoi le terminal reste l’outil le plus efficace pour coder 
-    <div id="pourquoi-le-terminal-reste-loutil-le-plus-efficace-pour-coder" class="anchor"></div>
+<h2 class="relative group"><strong>🚀 Introduction : Pourquoi Django 6.0 est une révolution discrète</strong> 
+    <div id="-introduction--pourquoi-django-60-est-une-révolution-discrète" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#pourquoi-le-terminal-reste-loutil-le-plus-efficace-pour-coder" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-introduction--pourquoi-django-60-est-une-r%c3%a9volution-discr%c3%a8te" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Si tu es développeur Python, tu connais Django : le framework &ldquo;batteries included&rdquo; qui powers Instagram, Pinterest, et des milliers d’apps moins connues mais tout aussi critiques. <strong>Django 6.0</strong>, sorti le 3 décembre 2025, n’est pas une simple mise à jour. C’est une <strong>évolution majeure</strong> qui répond à trois enjeux modernes :</p>
+<ol>
+<li><strong>La modularité</strong> (avec les <em>Template Partials</em>),</li>
+<li><strong>L’asynchrone simplifié</strong> (avec les <em>Background Tasks</em>),</li>
+<li><strong>La sécurité par défaut</strong> (avec le <em>Content Security Policy</em> intégré).</li>
+</ol>
+<p>Dans cet article, je décortique <strong>ce qui change vraiment</strong>, avec des exemples concrets et des conseils pour migrer sans stress. Spoiler : même si tu es débutant, tu vas pouvoir exploiter ces nouveautés <strong>dès aujourd’hui</strong>.</p>
+<hr>
+
+<h2 class="relative group"><strong>🔍 Les 4 nouveautés qui vont booster ta productivité</strong> 
+    <div id="-les-4-nouveautés-qui-vont-booster-ta-productivité" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-les-4-nouveaut%c3%a9s-qui-vont-booster-ta-productivit%c3%a9" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
 
-<h3 class="relative group">Introduction : Le terminal, votre atelier numérique 
-    <div id="introduction--le-terminal-votre-atelier-numérique" class="anchor"></div>
+<h3 class="relative group"><strong>1️⃣ Template Partials : La fin des templates monolithiques</strong> 
+    <div id="1-template-partials--la-fin-des-templates-monolithiques" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#introduction--le-terminal-votre-atelier-num%c3%a9rique" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-template-partials--la-fin-des-templates-monolithiques" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>
-
-
-
-
-
-
-<figure>
-      <img
-    class="my-0 rounded-md"
-    loading="lazy"
-    decoding="async"
-    fetchpriority="low"
-    alt="vs-code vs termianl"
-    srcset="
-      /outils-dev/vscode-terminal_hu_784c23c784ef9075.jpg  330w,
-      /outils-dev/vscode-terminal_hu_dec971211aa9d2aa.jpg  660w,
-      /outils-dev/vscode-terminal_hu_330cfe455e318119.jpg 1280w
-    "
-    data-zoom-src="/outils-dev/vscode-terminal.jpg"
-    src="/outils-dev/vscode-terminal.jpg">
-
-  
-</figure>
-</p>
-<p>Imaginez un mécanicien qui, au lieu d’utiliser une boîte à outils complète, se contenterait d’un tournevis multifonction. Pratique, certes, mais limité. Le terminal, c’est l’atelier complet du développeur : un espace où chaque commande est un outil précis, où chaque script est une pièce sur mesure, et où la productivité n’a de limite que votre imagination.</p>
-<p>Dans un monde où les IDE graphiques pullulent, le terminal peut sembler austère, voire intimidant. Pourtant, il reste l’outil le plus efficace pour coder, et voici pourquoi.</p>
+<p><strong>Problème</strong> : Tes templates Django ressemblent à des spaghettis ? Les <code>{% include %}</code> s’accumulent, et modifier un header devient un cauchemar de maintenance.</p>
+<p><strong>Solution</strong> : Django 6.0 introduit les <strong>Template Partials</strong>, inspirés des frameworks modernes comme Laravel ou Hugo. <strong>Concrètement</strong> :</p>
+<ul>
+<li>
+<p>Tu définis des blocs réutilisables <strong>directement dans tes templates</strong> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{% partial &#34;header&#34; %}
+</span></span><span class="line"><span class="cl">  <span class="p">&lt;</span><span class="nt">nav</span><span class="p">&gt;</span>Mon menu dynamique<span class="p">&lt;/</span><span class="nt">nav</span><span class="p">&gt;</span>
+</span></span><span class="line"><span class="cl">{% endpartial %}
+</span></span></code></pre></div></li>
+<li>
+<p>Tu peux <strong>surcharger</strong> ces blocs dans les templates enfants (comme un <code>{% block %}</code> mais plus flexible).</p>
+</li>
+<li>
+<p><strong>Exemple réel</strong> : Sur un projet e-commerce, j’ai réduit de 40% la duplication de code en remplaçant mes <code>{% include %}</code> par des partials.</p>
+</li>
+</ul>
+<p><strong>Pourquoi c’est utile ?</strong>
+✅ Moins de fichiers à gérer.
+✅ Meilleure lisibilité (le code est là où tu t’y attends).
+✅ Idéal pour les équipes (front-end/back-end collaborent plus facilement).</p>
 <hr>
 
-<h2 class="relative group">Partie 1 : Les bases – Pourquoi le terminal est-il si puissant ? 
-    <div id="partie-1--les-bases--pourquoi-le-terminal-est-il-si-puissant-" class="anchor"></div>
+<h3 class="relative group"><strong>2️⃣ Background Tasks : L’asynchrone sans Celery</strong> 
+    <div id="2-background-tasks--lasynchrone-sans-celery" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#partie-1--les-bases--pourquoi-le-terminal-est-il-si-puissant-" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-background-tasks--lasynchrone-sans-celery" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p><strong>Problème</strong> : Tu veux envoyer un email après une inscription, ou traiter un fichier Excel en arrière-plan… mais configurer Celery, c’est la galère.</p>
+<p><strong>Solution</strong> : Django 6.0 intègre un système de tâches asynchrones <strong>natif</strong> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">from</span> <span class="nn">django.core.tasks</span> <span class="kn">import</span> <span class="n">background</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nd">@background</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">send_welcome_email</span><span class="p">(</span><span class="n">user_email</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Email envoyé à </span><span class="si">{</span><span class="n">user_email</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>  <span class="c1"># Remplace par ton code d&#39;envoi</span>
+</span></span></code></pre></div><p><strong>Cas d’usage</strong> :</p>
+<ul>
+<li><strong>Batchs</strong> : Traiter 1000 lignes d’un CSV sans bloquer l’UI.</li>
+<li><strong>Notifications</strong> : Envoyer un email après un téléchargement.</li>
+<li><strong>Nettoyage</strong> : Supprimer des fichiers temporaires 1h après leur création.</li>
+</ul>
+<p><strong>Attention</strong> : Ce n’est pas un remplacement complet de Celery (pas de tâches périodiques ou de retries avancés), mais c’est <strong>parfait pour 80% des cas simples</strong>.</p>
+<hr>
+
+<h3 class="relative group"><strong>3️⃣ Content Security Policy (CSP) : La sécurité devient un jeu d’enfant</strong> 
+    <div id="3-content-security-policy-csp--la-sécurité-devient-un-jeu-denfant" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#3-content-security-policy-csp--la-s%c3%a9curit%c3%a9-devient-un-jeu-denfant" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p><strong>Problème</strong> : Les attaques XSS (injection de scripts malveillants) sont encore trop fréquentes, et configurer CSP manuellement, c’est fastidieux.</p>
+<p><strong>Solution</strong> : Django 6.0 intègre CSP <strong>nativement</strong> via le middleware <code>SecurityMiddleware</code>. <strong>Exemple de config</strong> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># settings.py</span>
+</span></span><span class="line"><span class="cl"><span class="n">CSP_DEFAULT_SRC</span> <span class="o">=</span> <span class="p">(</span><span class="s2">&#34;&#39;self&#39;&#34;</span><span class="p">,)</span>
+</span></span><span class="line"><span class="cl"><span class="n">CSP_SCRIPT_SRC</span> <span class="o">=</span> <span class="p">(</span><span class="s2">&#34;&#39;self&#39;&#34;</span><span class="p">,</span> <span class="s2">&#34;https://cdn.jsdelivr.net&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><p><strong>Résultat</strong> :</p>
+<ul>
+<li>Bloque les scripts non autorisés (ex: <code>&lt;script src=&quot;https://hacker.com/malware.js&quot;&gt;</code>).</li>
+<li>Protège tes utilisateurs <strong>sans effort</strong>.</li>
+</ul>
+<p><strong>Pourquoi c’est critique ?</strong>
+🔒 Obligatoire pour les apps sensibles (e-commerce, SaaS).
+🛡️ Réduit les risques de fuites de données (RGPD, conformité).</p>
+<hr>
+
+<h3 class="relative group"><strong>4️⃣ Modernized Email API : Enfin des emails sans prise de tête</strong> 
+    <div id="4-modernized-email-api--enfin-des-emails-sans-prise-de-tête" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#4-modernized-email-api--enfin-des-emails-sans-prise-de-t%c3%aate" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p><strong>Problème</strong> : Envoyer un email avec une pièce jointe en HTML, c’était verbeux et peu intuitif.</p>
+<p><strong>Solution</strong> : Django 6.0 utilise désormais <code>EmailMessage</code> de Python, avec une syntaxe <strong>propre et moderne</strong> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">from</span> <span class="nn">django.core.mail</span> <span class="kn">import</span> <span class="n">EmailMessage</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="n">email</span> <span class="o">=</span> <span class="n">EmailMessage</span><span class="p">(</span>
+</span></span><span class="line"><span class="cl">    <span class="n">subject</span><span class="o">=</span><span class="s2">&#34;Votre rapport 📊&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">body</span><span class="o">=</span><span class="s2">&#34;Bonjour, voici votre &lt;strong&gt;rapport&lt;/strong&gt;.&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl">    <span class="n">to</span><span class="o">=</span><span class="p">[</span><span class="s2">&#34;client@example.com&#34;</span><span class="p">],</span>
+</span></span><span class="line"><span class="cl"><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">email</span><span class="o">.</span><span class="n">content_subtype</span> <span class="o">=</span> <span class="s2">&#34;html&#34;</span>  <span class="c1"># Active le HTML</span>
+</span></span><span class="line"><span class="cl"><span class="n">email</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="s2">&#34;rapport.pdf&#34;</span><span class="p">,</span> <span class="nb">open</span><span class="p">(</span><span class="s2">&#34;rapport.pdf&#34;</span><span class="p">,</span> <span class="s2">&#34;rb&#34;</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
+</span></span><span class="line"><span class="cl"><span class="n">email</span><span class="o">.</span><span class="n">send</span><span class="p">()</span>
+</span></span></code></pre></div><p><strong>Avantages</strong> :
+✅ Plus besoin de <code>EmailMultiAlternatives</code>.
+✅ Meilleure gestion des caractères spéciaux (emojis, accents).
+✅ Code <strong>2x plus court</strong>.</p>
+<hr>
+
+<h2 class="relative group"><strong>⚠️ Ce qui change pour tes projets existants</strong> 
+    <div id="-ce-qui-change-pour-tes-projets-existants" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-ce-qui-change-pour-tes-projets-existants" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
 
-<h3 class="relative group">1. <strong>Vitesse et efficacité</strong> 
-    <div id="1-vitesse-et-efficacité" class="anchor"></div>
+<h3 class="relative group"><strong>1. Fin du support pour Django 5.2</strong> 
+    <div id="1-fin-du-support-pour-django-52" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-vitesse-et-efficacit%c3%a9" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-fin-du-support-pour-django-52" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>
+<ul>
+<li><strong>Django 5.2</strong> ne recevra plus que des correctifs de sécurité jusqu’en <strong>avril 2028</strong>.</li>
+<li><strong>Action</strong> : Planifie ta migration vers 6.0 <strong>dès maintenant</strong> pour éviter les failles non corrigées.</li>
+</ul>
 
-
-
-
-
-
-<figure>
-      <img
-    class="my-0 rounded-md"
-    loading="lazy"
-    decoding="async"
-    fetchpriority="low"
-    alt="clics vs command"
-    srcset="
-      /outils-dev/clics-vs-term_hu_4335e21488b2c97d.jpg  330w,
-      /outils-dev/clics-vs-term_hu_778025a237d239d7.jpg  660w,
-      /outils-dev/clics-vs-term_hu_27d9e39fd0dfaacc.jpg 1280w
-    "
-    data-zoom-src="/outils-dev/clics-vs-term.jpg"
-    src="/outils-dev/clics-vs-term.jpg">
-
-  
-</figure>
-
-Avec le terminal, pas besoin de naviguer dans des menus ou de cliquer à l’infini. Une commande, et l’action est exécutée. Besoin de lancer un serveur ? <code>python3 -m http.server</code>. De chercher un fichier ? <code>grep -r &quot;ma_fonction&quot; .</code>. Tout est à portée de main, sans latence.</p>
-
-<h3 class="relative group">2. <strong>Automatisation et scripts</strong> 
-    <div id="2-automatisation-et-scripts" class="anchor"></div>
+<h3 class="relative group"><strong>2. Vérifie tes dépendances</strong> 
+    <div id="2-vérifie-tes-dépendances" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-automatisation-et-scripts" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-v%c3%a9rifie-tes-d%c3%a9pendances" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Le terminal permet d’automatiser des tâches répétitives avec des scripts shell. Un exemple simple : un script pour déployer votre application en une seule commande, au lieu de répéter manuellement 10 étapes. C’est du temps gagné, et une marge d’erreur réduite.</p>
+<ul>
+<li>
+<p>Certains packages tiers (Django REST Framework, Allauth) peuvent mettre quelques semaines à supporter Django 6.0.</p>
+</li>
+<li>
+<p><strong>Commande utile</strong> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">pip check
+</span></span></code></pre></div></li>
+</ul>
 
-<h3 class="relative group">3. <strong>Contrôle total</strong> 
-    <div id="3-contrôle-total" class="anchor"></div>
+<h3 class="relative group"><strong>3. Teste en staging</strong> 
+    <div id="3-teste-en-staging" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#3-contr%c3%b4le-total" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#3-teste-en-staging" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Contrairement aux interfaces graphiques, le terminal vous donne un contrôle granulaire sur votre système. Vous voulez surveiller l’utilisation de la mémoire en temps réel ? <code>htop</code>. Vous voulez analyser les logs d’un serveur ? <code>tail -f /var/log/nginx/error.log</code>. Rien ne vous échappe.</p>
-
-<h3 class="relative group">4. <strong>Universalité</strong> 
-    <div id="4-universalité" class="anchor"></div>
-    
-    <span
-        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#4-universalit%c3%a9" aria-label="Ancre">#</a>
-    </span>        
-    
-</h3>
-<p>Que vous soyez sur Linux, macOS ou même Windows (avec WSL), le terminal est partout. Vos compétences sont transférables, et vos scripts fonctionnent (presque) sans modification d’un système à l’autre.</p>
+<ul>
+<li>Les <em>Template Partials</em> et <em>Background Tasks</em> sont <strong>non rétrocompatibles</strong>. Teste sur une copie de ton projet avant de déployer.</li>
+</ul>
 <hr>
 
-<h2 class="relative group">Partie 2 : Aller plus loin – Le terminal comme super-pouvoir 
-    <div id="partie-2--aller-plus-loin--le-terminal-comme-super-pouvoir" class="anchor"></div>
+<h2 class="relative group"><strong>🛠️ Comment migrer vers Django 6.0 ? Guide pas à pas</strong> 
+    <div id="-comment-migrer-vers-django-60--guide-pas-à-pas" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#partie-2--aller-plus-loin--le-terminal-comme-super-pouvoir" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-comment-migrer-vers-django-60--guide-pas-%c3%a0-pas" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
 
-<h3 class="relative group">1. <strong>Personnalisation extrême</strong> 
-    <div id="1-personnalisation-extrême" class="anchor"></div>
+<h3 class="relative group"><strong>Étape 1 : Crée un environnement isolé</strong> 
+    <div id="étape-1--crée-un-environnement-isolé" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#1-personnalisation-extr%c3%aame" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%c3%a9tape-1--cr%c3%a9e-un-environnement-isol%c3%a9" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>
-
-
-
-
-
-
-<figure>
-      <img
-    class="my-0 rounded-md"
-    loading="lazy"
-    decoding="async"
-    fetchpriority="low"
-    alt="personnaliser le termianl"
-    srcset="
-      /outils-dev/mon-terminal_hu_7995592af07f46a9.jpg  330w,
-      /outils-dev/mon-terminal_hu_3a985730bd08134c.jpg  660w,
-      /outils-dev/mon-terminal_hu_1838a63c304ebbb1.jpg 1280w
-    "
-    data-zoom-src="/outils-dev/mon-terminal.jpg"
-    src="/outils-dev/mon-terminal.jpg">
-
-  
-</figure>
-
-Avec des outils comme <code>tmux</code>, <code>zsh</code> ou <code>oh-my-zsh</code>, vous pouvez transformer votre terminal en une machine de guerre personnalisée. Des alias pour raccourcir vos commandes, des thèmes pour le rendre visuellement agréable, et des plugins pour étendre ses fonctionnalités.</p>
-
-<h3 class="relative group">2. <strong>Intégration avec d’autres outils</strong> 
-    <div id="2-intégration-avec-dautres-outils" class="anchor"></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">python -m venv venv
+</span></span><span class="line"><span class="cl"><span class="nb">source</span> venv/bin/activate
+</span></span><span class="line"><span class="cl">pip install <span class="nv">django</span><span class="o">==</span>6.0
+</span></span></code></pre></div>
+<h3 class="relative group"><strong>Étape 2 : Vérifie les <em>deprecations</em></strong> 
+    <div id="étape-2--vérifie-les" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#2-int%c3%a9gration-avec-dautres-outils" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%c3%a9tape-2--v%c3%a9rifie-les" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Le terminal ne vit pas en vase clos. Il s’intègre parfaitement avec des outils modernes comme <code>git</code>, <code>docker</code>, ou même des APIs via <code>curl</code>. Par exemple, vous pouvez lancer un conteneur Docker, exécuter des tests, et pousser le tout sur GitHub… le temps de boire un café.</p>
-
-<h3 class="relative group">3. <strong>Productivité en équipe</strong> 
-    <div id="3-productivité-en-équipe" class="anchor"></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">python manage.py check --deploy
+</span></span></code></pre></div>
+<h3 class="relative group"><strong>Étape 3 : Mets à jour tes templates</strong> 
+    <div id="étape-3--mets-à-jour-tes-templates" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#3-productivit%c3%a9-en-%c3%a9quipe" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%c3%a9tape-3--mets-%c3%a0-jour-tes-templates" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Dans un environnement professionnel, le terminal est souvent le dénominateur commun. Que ce soit pour collaborer sur un serveur distant via <code>ssh</code>, ou pour partager des scripts avec votre équipe, il facilite la collaboration sans dépendre d’outils spécifiques.</p>
+<ul>
+<li>
+<p>Remplace les <code>{% include %}</code> obsolètes par des <code>{% partial %}</code> si besoin.</p>
+</li>
+<li>
+<p><strong>Exemple</strong> :</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{# Avant #}
+</span></span><span class="line"><span class="cl">{% include &#34;header.html&#34; %}
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">{# Après (si tu veux utiliser les partials) #}
+</span></span><span class="line"><span class="cl">{% partial &#34;header&#34; %}
+</span></span><span class="line"><span class="cl">  {% include &#34;header.html&#34; %}
+</span></span><span class="line"><span class="cl">{% endpartial %}
+</span></span></code></pre></div></li>
+</ul>
 
-<h3 class="relative group">4. <strong>Apprentissage et maîtrise</strong> 
-    <div id="4-apprentissage-et-maîtrise" class="anchor"></div>
+<h3 class="relative group"><strong>Étape 4 : Active CSP</strong> 
+    <div id="étape-4--active-csp" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#4-apprentissage-et-ma%c3%aetrise" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%c3%a9tape-4--active-csp" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
-<p>Maîtriser le terminal, c’est comme apprendre à conduire une voiture manuelle : au début, c’est compliqué, mais une fois que vous savez, vous comprenez vraiment comment fonctionne la machine. Et cette compréhension vous rend plus autonome et plus efficace.</p>
-<hr>
-
-<h2 class="relative group">Conclusion : Le terminal, un outil intemporel 
-    <div id="conclusion--le-terminal-un-outil-intemporel" class="anchor"></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># settings.py</span>
+</span></span><span class="line"><span class="cl"><span class="n">MIDDLEWARE</span> <span class="o">=</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl">    <span class="s1">&#39;django.middleware.security.SecurityMiddleware&#39;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"><span class="p">]</span>
+</span></span><span class="line"><span class="cl"><span class="n">CSP_DEFAULT_SRC</span> <span class="o">=</span> <span class="p">(</span><span class="s2">&#34;&#39;self&#39;&#34;</span><span class="p">,)</span>
+</span></span></code></pre></div>
+<h3 class="relative group"><strong>Étape 5 : Teste les Background Tasks</strong> 
+    <div id="étape-5--teste-les-background-tasks" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#conclusion--le-terminal-un-outil-intemporel" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%c3%a9tape-5--teste-les-background-tasks" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="c1"># tasks.py</span>
+</span></span><span class="line"><span class="cl"><span class="kn">from</span> <span class="nn">django.core.tasks</span> <span class="kn">import</span> <span class="n">background</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="nd">@background</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">log_message</span><span class="p">(</span><span class="n">message</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s2">&#34;Task executed: </span><span class="si">{</span><span class="n">message</span><span class="si">}</span><span class="s2">&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># views.py</span>
+</span></span><span class="line"><span class="cl"><span class="kn">from</span> <span class="nn">.tasks</span> <span class="kn">import</span> <span class="n">log_message</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="k">def</span> <span class="nf">home</span><span class="p">(</span><span class="n">request</span><span class="p">):</span>
+</span></span><span class="line"><span class="cl">    <span class="n">log_message</span><span class="o">.</span><span class="n">delay</span><span class="p">(</span><span class="s2">&#34;Bienvenue !&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">    <span class="k">return</span> <span class="n">HttpResponse</span><span class="p">(</span><span class="s2">&#34;Task lancée en arrière-plan !&#34;</span><span class="p">)</span>
+</span></span></code></pre></div><hr>
+
+<h2 class="relative group"><strong>💡 Mon avis de dev senior : Faut-il migrer maintenant ?</strong> 
+    <div id="-mon-avis-de-dev-senior--faut-il-migrer-maintenant-" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-mon-avis-de-dev-senior--faut-il-migrer-maintenant-" aria-label="Ancre">#</a>
     </span>        
     
 </h2>
-<p>Le terminal n’est pas un vestige du passé, mais un outil intemporel qui a su évoluer avec son temps. Il combine vitesse, contrôle, automatisation et universalité, tout en offrant une flexibilité inégalée. Alors oui, les IDE graphiques ont leur place, mais pour ceux qui veulent aller plus vite, plus loin, et plus profondément, le terminal reste roi.</p>
-<p><strong>Et vous, quel est votre rapport au terminal ? Un outil du quotidien, ou une découverte à faire ?</strong></p>
-<hr>
 
-<h3 class="relative group">Références et ressources utiles 
-    <div id="références-et-ressources-utiles" class="anchor"></div>
+<h3 class="relative group"><strong>Oui, si…</strong> 
+    <div id="oui-si" class="anchor"></div>
     
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
-        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#r%c3%a9f%c3%a9rences-et-ressources-utiles" aria-label="Ancre">#</a>
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#oui-si" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>✅ Tu démarres un <strong>nouveau projet</strong> (profite des nouveautés dès le début).
+✅ Tu gères une app <strong>sensible</strong> (e-commerce, SaaS) → CSP et sécurité renforcée.
+✅ Tu utilises beaucoup de <code>{% include %}</code> → les <em>Template Partials</em> vont simplifier ta vie.</p>
+
+<h3 class="relative group"><strong>Attends un peu si…</strong> 
+    <div id="attends-un-peu-si" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#attends-un-peu-si" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>⏳ Tu as un projet <strong>critique en production</strong> avec des dépendances non mises à jour.
+⏳ Tu utilises <strong>Celery pour des workflows complexes</strong> (les <em>Background Tasks</em> ne le remplacent pas totalement).</p>
+<hr>
+
+<h2 class="relative group"><strong>📌 Conclusion : Django 6.0, un pas de géant vers la modernité</strong> 
+    <div id="-conclusion--django-60-un-pas-de-géant-vers-la-modernité" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-conclusion--django-60-un-pas-de-g%c3%a9ant-vers-la-modernit%c3%a9" aria-label="Ancre">#</a>
+    </span>        
+    
+</h2>
+<p>Django 6.0 n’est pas une révolution bruyante, mais une <strong>évolution intelligente</strong> qui comble des lacunes historiques :</p>
+<ul>
+<li><strong>Moins de code</strong> (emails, templates),</li>
+<li><strong>Plus de sécurité</strong> (CSP intégré),</li>
+<li><strong>L’asynchrone simplifié</strong> (sans Celery pour les cas basiques).</li>
+</ul>
+<p><strong>Mon conseil</strong> :</p>
+<ul>
+<li><strong>Pour les débutants</strong> : Commence par les <em>Template Partials</em> et la nouvelle API email. C’est simple et impactant.</li>
+<li><strong>Pour les seniors</strong> : Explore les <em>Background Tasks</em> pour remplacer tes cron jobs basiques, et active CSP <strong>dès aujourd’hui</strong>.</li>
+</ul>
+<hr>
+
+<h3 class="relative group"><strong>🚀 Prochaine étape</strong> 
+    <div id="-prochaine-étape" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-prochaine-%c3%a9tape" aria-label="Ancre">#</a>
+    </span>        
+    
+</h3>
+<p>Tu veux <strong>tester Django 6.0</strong> ? Voici un mini-projet pour démarrer :</p>
+<ol>
+<li>Crée un projet avec <code>django-admin startproject test6</code>.</li>
+<li>Implémente un <em>Background Task</em> pour logger un message.</li>
+<li>Ajoute un <em>Template Partial</em> pour ton header.</li>
+</ol>
+<hr>
+
+<h3 class="relative group"><strong>🔗 Ressources utiles</strong> 
+    <div id="-ressources-utiles" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-ressources-utiles" aria-label="Ancre">#</a>
     </span>        
     
 </h3>
 <ul>
 <li><a
-  href="https://ohmyz.sh/"
+  href="https://docs.djangoproject.com/en/6.0/releases/6.0/"
     target="_blank"
-  >Oh My Zsh</a> – Pour personnaliser votre terminal.</li>
+  >Release Notes officielles</a></li>
 <li><a
-  href="https://github.com/jlevy/the-art-of-command-line"
+  href="https://docs.djangoproject.com/en/6.0/howto/upgrade-version/"
     target="_blank"
-  >The Art of Command Line</a> – Un guide complet pour maîtriser le terminal.</li>
+  >Guide de migration</a></li>
 </ul>
 
           
@@ -1306,7 +1472,7 @@ Avec des outils comme <code>tmux</code>, <code>zsh</code> ou <code>oh-my-zsh</co
     
   <summary
     class="py-1 text-lg font-semibold cursor-pointer bg-primary-200 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-primary-800 dark:text-neutral-100">
-    Maîtriser ses outils de développement -
+    Veille Technologique -
     Cet article fait partie d&#39;une série.
   </summary>
   
@@ -1314,7 +1480,7 @@ Avec des outils comme <code>tmux</code>, <code>zsh</code> ou <code>oh-my-zsh</co
     
       <div
         class="py-1 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
-        Partie 1:
+        Partie :
         Cet article
       </div>
     
@@ -1343,8 +1509,8 @@ Avec des outils comme <code>tmux</code>, <code>zsh</code> ou <code>oh-my-zsh</co
           type="text/javascript"
           src="/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js"
           integrity="sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA=="
-          data-oid="views_blog/why-linux/why-terminal.md"
-          data-oid-likes="likes_blog/why-linux/why-terminal.md"></script>
+          data-oid="views_blog/Python/django-release.md"
+          data-oid-likes="likes_blog/Python/django-release.md"></script>
       
     </section>
 
@@ -1363,32 +1529,13 @@ Avec des outils comme <code>tmux</code>, <code>zsh</code> ou <code>oh-my-zsh</co
       <div class="flex justify-between pt-3">
         <span>
           
-            <a class="flex group mr-3" href="/blog/python/django-release/">
-              <span
-                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
-                >&larr;</span
-              >
-              <span
-                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
-                >&rarr;</span
-              >
-              <span class="flex flex-col">
-                <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter)</span
-                >
-                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
-                  
-                </span>
-              </span>
-            </a>
-          
         </span>
         <span>
           
-            <a class="flex text-right group ml-3" href="/blog/webdesign/rest-css/">
+            <a class="flex text-right group ml-3" href="/blog/why-linux/why-terminal/">
               <span class="flex flex-col">
                 <span class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-                  >Reset CSS Ultime : Reprenez le Contrôle Total sur Vos Styles !</span
+                  >Pourquoi le terminal reste l’outil le plus efficace pour coder</span
                 >
                 <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
                   
