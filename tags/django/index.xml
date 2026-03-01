@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Django on </title>
-    <link>http://localhost:1313/tags/django/</link>
+    <link>https://blog.memlenz.com/tags/django/</link>
     <description>Recent content in Django on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 Dec 2025 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Dec 2025 10:00:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/django/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter)</title>
-      <link>http://localhost:1313/blog/python/django-release/</link>
+      <link>https://blog.memlenz.com/blog/python/django-release/</link>
       <pubDate>Thu, 04 Dec 2025 10:00:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/django-release/</guid>
+      <guid>https://blog.memlenz.com/blog/python/django-release/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;🚀 Introduction : Pourquoi Django 6.0 est une révolution discrète&lt;/strong&gt; 
     &lt;div id=&#34;-introduction--pourquoi-django-60-est-une-révolution-discrète&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -32,20 +32,20 @@
     
     <item>
       <title>Comment gérer les connexions à la base de données dans une application Django scalable</title>
-      <link>http://localhost:1313/blog/python/django-scal-db/</link>
+      <link>https://blog.memlenz.com/blog/python/django-scal-db/</link>
       <pubDate>Thu, 06 Nov 2025 01:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/django-scal-db/</guid>
+      <guid>https://blog.memlenz.com/blog/python/django-scal-db/</guid>
       <description>Dans une architecture distribuée avec plusieurs workers et conteneurs, une mauvaise gestion des connexions à la base de données peut saturer le serveur. Cet article explique comment les géants du web maîtrisent ce problème grâce au pooling et à des stratégies éprouvées.</description>
       
     </item>
     
     <item>
       <title>Comment Django gère réellement les requêtes : WSGI, workers et asynchronisme</title>
-      <link>http://localhost:1313/blog/python/django-wsgi-vs-asgi/</link>
+      <link>https://blog.memlenz.com/blog/python/django-wsgi-vs-asgi/</link>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/django-wsgi-vs-asgi/</guid>
+      <guid>https://blog.memlenz.com/blog/python/django-wsgi-vs-asgi/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;⚙️ 1. Le modèle d’exécution de Django (WSGI classique) 
     &lt;div id=&#34;-1-le-modèle-dexécution-de-django-wsgi-classique&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -72,10 +72,10 @@ chaque requête HTTP est traitée &lt;strong&gt;du début à la fin&lt;/strong&g
     
     <item>
       <title>Quand j’ai découvert la scalabilité avec Django</title>
-      <link>http://localhost:1313/blog/python/scalabilite-django/</link>
+      <link>https://blog.memlenz.com/blog/python/scalabilite-django/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/scalabilite-django/</guid>
+      <guid>https://blog.memlenz.com/blog/python/scalabilite-django/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -92,10 +92,10 @@ C’est seulement lorsque j’ai voulu créer une application où &lt;strong&gt;
     
     <item>
       <title>Pip vs Poetry : Le duel pour gérer vos dépendances Python</title>
-      <link>http://localhost:1313/courses/python/pip-vs-poetry/</link>
+      <link>https://blog.memlenz.com/courses/python/pip-vs-poetry/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/pip-vs-poetry/</guid>
+      <guid>https://blog.memlenz.com/courses/python/pip-vs-poetry/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Pip vs Poetry : Le duel pour gérer vos dépendances Python ⚔️ 
     &lt;div id=&#34;pip-vs-poetry--le-duel-pour-gérer-vos-dépendances-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

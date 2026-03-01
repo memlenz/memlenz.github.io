@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technologie on </title>
-    <link>http://localhost:1313/categories/technologie/</link>
+    <link>https://blog.memlenz.com/categories/technologie/</link>
     <description>Recent content in Technologie on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/technologie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/categories/technologie/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pourquoi le terminal reste l’outil le plus efficace pour coder</title>
-      <link>http://localhost:1313/blog/why-linux/why-terminal/</link>
+      <link>https://blog.memlenz.com/blog/why-linux/why-terminal/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/why-linux/why-terminal/</guid>
+      <guid>https://blog.memlenz.com/blog/why-linux/why-terminal/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi le terminal reste l’outil le plus efficace pour coder 
     &lt;div id=&#34;pourquoi-le-terminal-reste-loutil-le-plus-efficace-pour-coder&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -51,12 +51,12 @@
     fetchpriority=&#34;low&#34;
     alt=&#34;vs-code vs termianl&#34;
     srcset=&#34;
-      /outils-dev/vscode-terminal_hu_e174c14c76a4db9f.jpg  330w,
-      /outils-dev/vscode-terminal_hu_263e927396d7bd67.jpg  660w,
-      /outils-dev/vscode-terminal_hu_7e2f8b3717eef3bb.jpg 1280w
+      /outils-dev/vscode-terminal_hu_8361724370ddedf3.jpg  330w,
+      /outils-dev/vscode-terminal_hu_2591b4fe8f963f7a.jpg  660w,
+      /outils-dev/vscode-terminal_hu_f65b244def7a1134.jpg 1280w
     &#34;
-    data-zoom-src=&#34;http://localhost:1313/outils-dev/vscode-terminal.jpg&#34;
-    src=&#34;http://localhost:1313/outils-dev/vscode-terminal.jpg&#34;&gt;
+    data-zoom-src=&#34;https://blog.memlenz.com/outils-dev/vscode-terminal.jpg&#34;
+    src=&#34;https://blog.memlenz.com/outils-dev/vscode-terminal.jpg&#34;&gt;
 
   
 &lt;/figure&gt;

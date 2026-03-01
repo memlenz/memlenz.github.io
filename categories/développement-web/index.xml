@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Développement Web on </title>
-    <link>http://localhost:1313/categories/d%C3%A9veloppement-web/</link>
+    <link>https://blog.memlenz.com/categories/d%C3%A9veloppement-web/</link>
     <description>Recent content in Développement Web on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 Dec 2025 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/d%C3%A9veloppement-web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Dec 2025 10:00:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/categories/d%C3%A9veloppement-web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Django 6.0 est là : Pourquoi cette version change la donne (et comment en profiter)</title>
-      <link>http://localhost:1313/blog/python/django-release/</link>
+      <link>https://blog.memlenz.com/blog/python/django-release/</link>
       <pubDate>Thu, 04 Dec 2025 10:00:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/django-release/</guid>
+      <guid>https://blog.memlenz.com/blog/python/django-release/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;🚀 Introduction : Pourquoi Django 6.0 est une révolution discrète&lt;/strong&gt; 
     &lt;div id=&#34;-introduction--pourquoi-django-60-est-une-révolution-discrète&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

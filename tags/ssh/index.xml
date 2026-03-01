@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ssh on </title>
+    <link>https://blog.memlenz.com/tags/ssh/</link>
+    <description>Recent content in Ssh on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Administrer un serveur Linux distant via SSH (cas pratique avec Debian)</title>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/ssh/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/ssh/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  Administrer un serveur Linux signifie, dans la majorité des cas, ne jamais utiliser d’interface graphique locale. L’accès distant via SSH constitue la méthode standard, robuste et professionnelle.
+Dans cet article, nous simulons la prise en main d’un serveur distant à l’aide d’une machine virtuelle Debian, afin de mettre en place une configuration propre, sécurisée et reproductible.
+&lt;/div&gt;
+
+&lt;hr&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;1. Pourquoi administrer via SSH ? 
+    &lt;div id=&#34;1-pourquoi-administrer-via-ssh-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1-pourquoi-administrer-via-ssh-&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Dans un environnement réel (VPS, serveur dédié, machine en datacenter, infrastructure cloud), vous n’avez généralement :&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

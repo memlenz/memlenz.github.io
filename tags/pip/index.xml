@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PIP on </title>
-    <link>http://localhost:1313/tags/pip/</link>
-    <description>Recent content in PIP on </description>
+    <title>Pip on </title>
+    <link>https://blog.memlenz.com/tags/pip/</link>
+    <description>Recent content in Pip on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pip/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/pip/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pip vs Poetry : Le duel pour gérer vos dépendances Python</title>
-      <link>http://localhost:1313/courses/python/pip-vs-poetry/</link>
+      <link>https://blog.memlenz.com/courses/python/pip-vs-poetry/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/pip-vs-poetry/</guid>
+      <guid>https://blog.memlenz.com/courses/python/pip-vs-poetry/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Pip vs Poetry : Le duel pour gérer vos dépendances Python ⚔️ 
     &lt;div id=&#34;pip-vs-poetry--le-duel-pour-gérer-vos-dépendances-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -34,10 +34,10 @@ Dans cet article, on décortique leurs différences, leurs avantages, et comment
     
     <item>
       <title>Le gestionnaire de packet PIP</title>
-      <link>http://localhost:1313/courses/python/pip/</link>
+      <link>https://blog.memlenz.com/courses/python/pip/</link>
       <pubDate>Tue, 04 Mar 2025 02:03:48 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/pip/</guid>
+      <guid>https://blog.memlenz.com/courses/python/pip/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;PIP en Python : Gérez vos Packages comme un Pro&lt;/strong&gt; 
     &lt;div id=&#34;pip-en-python--gérez-vos-packages-comme-un-pro&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CSS on </title>
-    <link>http://localhost:1313/tags/css/</link>
+    <link>https://blog.memlenz.com/tags/css/</link>
     <description>Recent content in CSS on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Reset CSS Ultime : Reprenez le Contrôle Total sur Vos Styles !</title>
-      <link>http://localhost:1313/blog/webdesign/rest-css/</link>
+      <link>https://blog.memlenz.com/blog/webdesign/rest-css/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/webdesign/rest-css/</guid>
+      <guid>https://blog.memlenz.com/blog/webdesign/rest-css/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction : Pourquoi un Reset CSS ? 
     &lt;div id=&#34;introduction--pourquoi-un-reset-css-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

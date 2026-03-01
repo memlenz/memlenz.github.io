@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Active Directory on </title>
-    <link>http://localhost:1313/tags/active-directory/</link>
+    <link>https://blog.memlenz.com/tags/active-directory/</link>
     <description>Recent content in Active Directory on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/active-directory/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Feb 2026 21:00:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/active-directory/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Le rôle d’un annuaire dans un système d’information : comprendre avant de déployer</title>
+      <link>https://blog.memlenz.com/parcours/annuaire_active_directory/</link>
+      <pubDate>Wed, 11 Feb 2026 21:00:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://blog.memlenz.com/parcours/annuaire_active_directory/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;📌 Introduction : commencer par la question essentielle&lt;/strong&gt; 
+    &lt;div id=&#34;-introduction--commencer-par-la-question-essentielle&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-introduction--commencer-par-la-question-essentielle&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Lorsqu’on aborde Active Directory Domain Services, la tentation est immédiate :
+installer un contrôleur de domaine, créer des utilisateurs, configurer des stratégies.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
+      <link>https://blog.memlenz.com/portfolio/</link>
       <pubDate>Sun, 01 Feb 2026 10:00:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/portfolio/</guid>
+      <guid>https://blog.memlenz.com/portfolio/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;
   &lt;img src=&#34;https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;text=Bienvenue&amp;height=100&amp;section=header&#34;/&gt;
 &lt;/p&gt;
@@ -44,11 +64,30 @@
     </item>
     
     <item>
+      <title>Réalités du marché informatique au Bénin : pourquoi je me forme à Windows Server</title>
+      <link>https://blog.memlenz.com/parcours/de_luniversite_a_lentreprise/</link>
+      <pubDate>Sun, 01 Feb 2026 10:00:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://blog.memlenz.com/parcours/de_luniversite_a_lentreprise/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;📌 Introduction : quand la théorie rencontre enfin le terrain&lt;/strong&gt; 
+    &lt;div id=&#34;-introduction--quand-la-théorie-rencontre-enfin-le-terrain&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-introduction--quand-la-th%c3%a9orie-rencontre-enfin-le-terrain&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Pendant longtemps, j’ai pensé que la compétence en informatique se construisait principalement à travers les cours, les supports académiques et les formations structurées. Cette idée n’est pas absurde : l’école est censée préparer à la réalité professionnelle.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</title>
-      <link>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
+      <link>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
+      <guid>https://blog.memlenz.com/blog/linux-tweaks/systmes-reseaux/intra-id/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -65,10 +104,10 @@ Derrière ce jargon se cache une question cruciale : &lt;strong&gt;l’avenir de
     
     <item>
       <title>Active Directory, Azure AD et Intra ID : comprendre l’intégration des machines</title>
-      <link>http://localhost:1313/blog/systmes-reseaux/intra-id/</link>
+      <link>https://blog.memlenz.com/blog/systmes-reseaux/intra-id/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/systmes-reseaux/intra-id/</guid>
+      <guid>https://blog.memlenz.com/blog/systmes-reseaux/intra-id/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
