@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on </title>
-    <link>https://blog.memlenz.com/tags/linux/</link>
+    <link>http://localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Administrer un serveur Linux distant via SSH (cas pratique avec Debian)</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/ssh/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/ssh/</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/ssh/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/ssh/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Administrer un serveur Linux signifie, dans la majorité des cas, ne jamais utiliser d’interface graphique locale. L’accès distant via SSH constitue la méthode standard, robuste et professionnelle.
 Dans cet article, nous simulons la prise en main d’un serveur distant à l’aide d’une machine virtuelle Debian, afin de mettre en place une configuration propre, sécurisée et reproductible.
@@ -34,15 +34,15 @@ Dans cet article, nous simulons la prise en main d’un serveur distant à l’a
     
 &lt;/h1&gt;
 &lt;p&gt;Dans un environnement réel (VPS, serveur dédié, machine en datacenter, infrastructure cloud), vous n’avez généralement :&lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/linux-tweaks/ssh/featured.jpg" />
     </item>
     
     <item>
       <title>Pourquoi le terminal reste l’outil le plus efficace pour coder</title>
-      <link>https://blog.memlenz.com/blog/why-linux/why-terminal/</link>
+      <link>http://localhost:1313/blog/why-linux/why-terminal/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/why-linux/why-terminal/</guid>
+      <guid>http://localhost:1313/blog/why-linux/why-terminal/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi le terminal reste l’outil le plus efficace pour coder 
     &lt;div id=&#34;pourquoi-le-terminal-reste-loutil-le-plus-efficace-pour-coder&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -77,25 +77,25 @@ Dans cet article, nous simulons la prise en main d’un serveur distant à l’a
     fetchpriority=&#34;low&#34;
     alt=&#34;vs-code vs termianl&#34;
     srcset=&#34;
-      /outils-dev/vscode-terminal_hu_8361724370ddedf3.jpg  330w,
-      /outils-dev/vscode-terminal_hu_2591b4fe8f963f7a.jpg  660w,
-      /outils-dev/vscode-terminal_hu_f65b244def7a1134.jpg 1280w
+      /outils-dev/vscode-terminal_hu_92347bc05c4dd3.jpg  330w,
+      /outils-dev/vscode-terminal_hu_b337eb0bc79acd2e.jpg  660w,
+      /outils-dev/vscode-terminal_hu_59383e8459a61b04.jpg 1280w
     &#34;
-    data-zoom-src=&#34;https://blog.memlenz.com/outils-dev/vscode-terminal.jpg&#34;
-    src=&#34;https://blog.memlenz.com/outils-dev/vscode-terminal.jpg&#34;&gt;
+    data-zoom-src=&#34;http://localhost:1313/outils-dev/vscode-terminal.jpg&#34;
+    src=&#34;http://localhost:1313/outils-dev/vscode-terminal.jpg&#34;&gt;
 
   
 &lt;/figure&gt;
 &lt;/p&gt;</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/why-linux/why-terminal/featured.jpg" />
     </item>
     
     <item>
       <title>Et si Windows n’était pas votre seule option ? Découvrez un monde d’alternatives</title>
-      <link>https://blog.memlenz.com/blog/why-linux/linux_for_beginners/</link>
+      <link>http://localhost:1313/blog/why-linux/linux_for_beginners/</link>
       <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/why-linux/linux_for_beginners/</guid>
+      <guid>http://localhost:1313/blog/why-linux/linux_for_beginners/</guid>
       <description>&lt;hr&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Introduction : Le monde ne tourne pas (que) autour de Windows 
@@ -113,10 +113,10 @@ Dans cet article, nous simulons la prise en main d’un serveur distant à l’a
     
     <item>
       <title>Partitions sous Linux : du simple au complexe</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/partitions/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/partitions/</link>
       <pubDate>Wed, 30 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/partitions/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/partitions/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Partitions sous Linux : du simple au complexe 
     &lt;div id=&#34;partitions-sous-linux--du-simple-au-complexe&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -133,10 +133,10 @@ Tu tombes sur des mots comme &lt;code&gt;boot&lt;/code&gt;, &lt;code&gt;swap&lt;
     
     <item>
       <title>Installation Arch Linux : Guide accessible et complet</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</link>
       <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Installation Arch Linux 
     &lt;div id=&#34;installation-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -153,10 +153,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Installer PostgreSQL sur Arch, Void Linux et Debian/Ubuntu</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/postgre-sql/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/postgre-sql/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/postgre-sql/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/postgre-sql/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🐘 Pourquoi PostgreSQL ? 
     &lt;div id=&#34;-pourquoi-postgresql-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -172,10 +172,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Installer Python sur Windows, Linux et Mac</title>
-      <link>https://blog.memlenz.com/blog/python/installation-python/</link>
+      <link>http://localhost:1313/blog/python/installation-python/</link>
       <pubDate>Thu, 10 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/installation-python/</guid>
+      <guid>http://localhost:1313/blog/python/installation-python/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi installer Python ? 
     &lt;div id=&#34;pourquoi-installer-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -191,10 +191,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Bienvenue dans le Void : Installer Void Linux pas à pas</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</link>
       <pubDate>Sun, 30 Mar 2025 01:48:30 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/voidlinux-installation/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/voidlinux-installation/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🖤 &lt;strong&gt;Bienvenue dans le Void !&lt;/strong&gt; 
     &lt;div id=&#34;-bienvenue-dans-le-void-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -210,10 +210,10 @@ Mais encore faut-il savoir ce que tu cherches.&lt;/p&gt;</description>
     
     <item>
       <title>Why Linux</title>
-      <link>https://blog.memlenz.com/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
+      <link>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
+      <guid>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Le Déclic : Pourquoi Linux M’a Fait Gagner&lt;/strong&gt; 🚀 
     &lt;div id=&#34;1-le-déclic--pourquoi-linux-ma-fait-gagner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

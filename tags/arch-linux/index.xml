@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arch Linux on </title>
-    <link>https://blog.memlenz.com/tags/arch-linux/</link>
+    <link>http://localhost:1313/tags/arch-linux/</link>
     <description>Recent content in Arch Linux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 13:30:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2025 13:30:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Configuration de base après installation d&#39;Arch Linux</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/config-base/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/config-base/</link>
       <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/config-base/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/config-base/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Configuration de base après installation d&amp;rsquo;Arch Linux 
     &lt;div id=&#34;configuration-de-base-après-installation-darch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -33,10 +33,10 @@ Pour qu’il soit pleinement fonctionnel, il faut effectuer quelques &lt;strong&
     
     <item>
       <title>Configurer le WiFi sous Arch Linux</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/wifi/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/wifi/</link>
       <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/wifi/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/wifi/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Configurer le WiFi sous Arch Linux 
     &lt;div id=&#34;configurer-le-wifi-sous-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -53,10 +53,10 @@ Bonne nouvelle : c’est simple, mais faut savoir quelles commandes taper.&lt;/p
     
     <item>
       <title>Installation Arch Linux : Guide accessible et complet</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</link>
       <pubDate>Tue, 01 Jul 2025 09:59:44 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/archlinux/installation-archlinux/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Installation Arch Linux 
     &lt;div id=&#34;installation-arch-linux&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
