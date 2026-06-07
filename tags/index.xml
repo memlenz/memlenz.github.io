@@ -9,14 +9,14 @@
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Debian</title>
-      <link>http://localhost:1313/tags/debian/</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <title>C</title>
+      <link>http://localhost:1313/tags/c/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/debian/</guid>
+      <guid>http://localhost:1313/tags/c/</guid>
       <description></description>
       
     </item>
@@ -24,9 +24,69 @@
     <item>
       <title>Linux</title>
       <link>http://localhost:1313/tags/linux/</link>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Low-Level</title>
+      <link>http://localhost:1313/tags/low-level/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/low-level/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>http://localhost:1313/tags/networking/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/networking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Réseau</title>
+      <link>http://localhost:1313/tags/r%C3%A9seau/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/r%C3%A9seau/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sockets</title>
+      <link>http://localhost:1313/tags/sockets/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/sockets/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Wireshark</title>
+      <link>http://localhost:1313/tags/wireshark/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/wireshark/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Debian</title>
+      <link>http://localhost:1313/tags/debian/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/debian/</guid>
       <description></description>
       
     </item>
@@ -67,6 +127,36 @@
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/tags/xfce/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programmation</title>
+      <link>http://localhost:1313/tags/programmation/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/programmation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Réseaux</title>
+      <link>http://localhost:1313/tags/r%C3%A9seaux/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/r%C3%A9seaux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Systèmes</title>
+      <link>http://localhost:1313/tags/syst%C3%A8mes/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/syst%C3%A8mes/</guid>
       <description></description>
       
     </item>
@@ -137,16 +227,6 @@
       <pubDate>Wed, 11 Feb 2026 21:00:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/tags/fondamentaux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Systèmes</title>
-      <link>http://localhost:1313/tags/syst%C3%A8mes/</link>
-      <pubDate>Wed, 11 Feb 2026 21:00:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/syst%C3%A8mes/</guid>
       <description></description>
       
     </item>
@@ -612,16 +692,6 @@
     </item>
     
     <item>
-      <title>Programmation</title>
-      <link>http://localhost:1313/tags/programmation/</link>
-      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/programmation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Bot</title>
       <link>http://localhost:1313/tags/bot/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
@@ -792,7 +862,7 @@
     </item>
     
     <item>
-      <title>Pip</title>
+      <title>PIP</title>
       <link>http://localhost:1313/tags/pip/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
@@ -1047,16 +1117,6 @@
       <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/tags/iwctl/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Réseau</title>
-      <link>http://localhost:1313/tags/r%C3%A9seau/</link>
-      <pubDate>Sun, 20 Jul 2025 11:15:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/r%C3%A9seau/</guid>
       <description></description>
       
     </item>
