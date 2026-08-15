@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Listes on </title>
-    <link>http://localhost:1313/tags/listes/</link>
+    <link>https://blog.memlenz.com/tags/listes/</link>
     <description>Recent content in Listes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 18:47:13 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/listes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 18:47:13 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/listes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les list en Python</title>
-      <link>http://localhost:1313/courses/python/list/</link>
+      <link>https://blog.memlenz.com/courses/python/list/</link>
       <pubDate>Thu, 27 Feb 2025 18:47:13 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/list/</guid>
+      <guid>https://blog.memlenz.com/courses/python/list/</guid>
       <description>&lt;p&gt;Tu veux stocker plusieurs valeurs dans une seule variable sans te prendre la tête avec des déclarations interminables ? Les listes en Python sont la solution idéale. C&amp;rsquo;est un peu comme un panier où tu peux jeter tous tes éléments — des nombres, des chaînes de caractères, ou même d&amp;rsquo;autres listes — et les récupérer à tout moment pour les manipuler.&lt;/p&gt;</description>
       
     </item>

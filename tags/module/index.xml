@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Module on </title>
-    <link>http://localhost:1313/tags/module/</link>
+    <link>https://blog.memlenz.com/tags/module/</link>
     <description>Recent content in Module on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 04 Mar 2025 01:42:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/module/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 01:42:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/module/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Module RegEx</title>
-      <link>http://localhost:1313/courses/python/module-regex/</link>
+      <link>https://blog.memlenz.com/courses/python/module-regex/</link>
       <pubDate>Tue, 04 Mar 2025 01:42:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/module-regex/</guid>
+      <guid>https://blog.memlenz.com/courses/python/module-regex/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;strong&gt;Les RegEx en Python : Domptez la Puissance des Expressions Régulières&lt;/strong&gt; 
     &lt;div id=&#34;les-regex-en-python--domptez-la-puissance-des-expressions-régulières&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -32,20 +32,20 @@
     
     <item>
       <title>Module JSON</title>
-      <link>http://localhost:1313/courses/python/module-json/</link>
+      <link>https://blog.memlenz.com/courses/python/module-json/</link>
       <pubDate>Tue, 04 Mar 2025 01:37:05 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/module-json/</guid>
+      <guid>https://blog.memlenz.com/courses/python/module-json/</guid>
       <description>&lt;p&gt;JSON (&lt;em&gt;JavaScript Object Notation&lt;/em&gt;) est un format ultra-populaire pour échanger des données. Léger, lisible et facile à parser, il est utilisé partout : API, bases de données, fichiers de configuration&amp;hellip; Bref, si vous codez en Python, vous allez souvent bosser avec du JSON.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Module Math</title>
-      <link>http://localhost:1313/courses/python/module-math/</link>
+      <link>https://blog.memlenz.com/courses/python/module-math/</link>
       <pubDate>Tue, 04 Mar 2025 01:32:43 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/module-math/</guid>
+      <guid>https://blog.memlenz.com/courses/python/module-math/</guid>
       <description>&lt;p&gt;En programmation, il est fréquent de devoir manipuler des nombres, calculer des racines carrées, arrondir des valeurs ou encore travailler avec des constantes mathématiques comme π (pi). C&amp;rsquo;est là qu&amp;rsquo;intervient le module &lt;code&gt;math&lt;/code&gt; de Python, une boîte à outils ultra pratique pour gérer les calculs numériques sans se casser la tête.&lt;/p&gt;</description>
       
     </item>

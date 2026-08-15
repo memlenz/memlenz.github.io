@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fondamentaux on </title>
-    <link>http://localhost:1313/tags/fondamentaux/</link>
+    <link>https://blog.memlenz.com/tags/fondamentaux/</link>
     <description>Recent content in Fondamentaux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Feb 2026 21:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/fondamentaux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Feb 2026 21:00:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/fondamentaux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Le rôle d’un annuaire dans un système d’information : comprendre avant de déployer</title>
-      <link>http://localhost:1313/parcours/annuaire_active_directory/</link>
+      <link>https://blog.memlenz.com/parcours/annuaire_active_directory/</link>
       <pubDate>Wed, 11 Feb 2026 21:00:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/annuaire_active_directory/</guid>
+      <guid>https://blog.memlenz.com/parcours/annuaire_active_directory/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;📌 Introduction : commencer par la question essentielle&lt;/strong&gt; 
     &lt;div id=&#34;-introduction--commencer-par-la-question-essentielle&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

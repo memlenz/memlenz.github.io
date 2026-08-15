@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture Web on </title>
-    <link>http://localhost:1313/tags/architecture-web/</link>
+    <link>https://blog.memlenz.com/tags/architecture-web/</link>
     <description>Recent content in Architecture Web on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/architecture-web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/architecture-web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Quand j’ai découvert la scalabilité avec Django</title>
-      <link>http://localhost:1313/blog/python/scalabilite-django/</link>
+      <link>https://blog.memlenz.com/blog/python/scalabilite-django/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/scalabilite-django/</guid>
+      <guid>https://blog.memlenz.com/blog/python/scalabilite-django/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

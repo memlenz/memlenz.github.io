@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projets Python on </title>
-    <link>http://localhost:1313/categories/projets-python/</link>
+    <link>https://blog.memlenz.com/categories/projets-python/</link>
     <description>Recent content in Projets Python on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 04:34:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/projets-python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Apr 2025 04:34:56 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/categories/projets-python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>🔒 Créer un Gestionnaire de Mots de Passe en CLI avec Python</title>
-      <link>http://localhost:1313/blog/python/passwordmanager/</link>
+      <link>https://blog.memlenz.com/blog/python/passwordmanager/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/passwordmanager/</guid>
+      <guid>https://blog.memlenz.com/blog/python/passwordmanager/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Créer un Gestionnaire de Mots de Passe en CLI avec Python 
     &lt;div id=&#34;créer-un-gestionnaire-de-mots-de-passe-en-cli-avec-python&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -32,10 +32,10 @@
     
     <item>
       <title>🎯 Implémentation d&#39;un foramateur de texte en python</title>
-      <link>http://localhost:1313/blog/python/bulletpointadder/</link>
+      <link>https://blog.memlenz.com/blog/python/bulletpointadder/</link>
       <pubDate>Wed, 09 Apr 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/bulletpointadder/</guid>
+      <guid>https://blog.memlenz.com/blog/python/bulletpointadder/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Maîtriser la Manipulation de Texte avec Python : Création d&amp;rsquo;un Formateur de Liste à Puces 
     &lt;div id=&#34;maîtriser-la-manipulation-de-texte-avec-python--création-dun-formateur-de-liste-à-puces&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -51,10 +51,10 @@
     
     <item>
       <title>🎯 Implémentation du jeu Bagels en Python : Un défi de déduction logique</title>
-      <link>http://localhost:1313/blog/python/bagels/</link>
+      <link>https://blog.memlenz.com/blog/python/bagels/</link>
       <pubDate>Wed, 26 Mar 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/python/bagels/</guid>
+      <guid>https://blog.memlenz.com/blog/python/bagels/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;🎮 Bagels – A Logic Game in Python 
     &lt;div id=&#34;-bagels--a-logic-game-in-python&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

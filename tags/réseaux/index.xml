@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Réseaux on </title>
-    <link>http://localhost:1313/tags/r%C3%A9seaux/</link>
+    <link>https://blog.memlenz.com/tags/r%C3%A9seaux/</link>
     <description>Recent content in Réseaux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/r%C3%A9seaux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/r%C3%A9seaux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les Artisans d&#39;Internet : reconstruire le réseau, un protocole à la fois</title>
-      <link>http://localhost:1313/blog/network-craftsman/</link>
+      <link>https://blog.memlenz.com/blog/network-craftsman/</link>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/network-craftsman/</guid>
+      <guid>https://blog.memlenz.com/blog/network-craftsman/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Pourquoi cette série ? 
     &lt;div id=&#34;pourquoi-cette-série-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

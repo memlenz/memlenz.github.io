@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Parcours on </title>
-    <link>http://localhost:1313/parcours/</link>
+    <link>https://blog.memlenz.com/parcours/</link>
     <description>Recent content in Parcours on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 11 Feb 2026 21:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/parcours/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Feb 2026 21:00:00 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/parcours/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Le rôle d’un annuaire dans un système d’information : comprendre avant de déployer</title>
-      <link>http://localhost:1313/parcours/annuaire_active_directory/</link>
+      <link>https://blog.memlenz.com/parcours/annuaire_active_directory/</link>
       <pubDate>Wed, 11 Feb 2026 21:00:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/annuaire_active_directory/</guid>
+      <guid>https://blog.memlenz.com/parcours/annuaire_active_directory/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;📌 Introduction : commencer par la question essentielle&lt;/strong&gt; 
     &lt;div id=&#34;-introduction--commencer-par-la-question-essentielle&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -33,10 +33,10 @@ installer un contrôleur de domaine, créer des utilisateurs, configurer des str
     
     <item>
       <title>Réalités du marché informatique au Bénin : pourquoi je me forme à Windows Server</title>
-      <link>http://localhost:1313/parcours/de_luniversite_a_lentreprise/</link>
+      <link>https://blog.memlenz.com/parcours/de_luniversite_a_lentreprise/</link>
       <pubDate>Sun, 01 Feb 2026 10:00:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/de_luniversite_a_lentreprise/</guid>
+      <guid>https://blog.memlenz.com/parcours/de_luniversite_a_lentreprise/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;&lt;strong&gt;📌 Introduction : quand la théorie rencontre enfin le terrain&lt;/strong&gt; 
     &lt;div id=&#34;-introduction--quand-la-théorie-rencontre-enfin-le-terrain&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -52,10 +52,10 @@ installer un contrôleur de domaine, créer des utilisateurs, configurer des str
     
     <item>
       <title>Pourquoi être employé en informatique peut être une perte de temps</title>
-      <link>http://localhost:1313/parcours/les-devs-salaries/</link>
+      <link>https://blog.memlenz.com/parcours/les-devs-salaries/</link>
       <pubDate>Mon, 03 Nov 2025 20:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/les-devs-salaries/</guid>
+      <guid>https://blog.memlenz.com/parcours/les-devs-salaries/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -72,10 +72,10 @@ Le salariat, conçu pour l’ère industrielle, n’est peut-être plus adapté 
     
     <item>
       <title>PageRank : le cœur mathématique de Google</title>
-      <link>http://localhost:1313/parcours/pagerank-algorithme-google/</link>
+      <link>https://blog.memlenz.com/parcours/pagerank-algorithme-google/</link>
       <pubDate>Sun, 02 Nov 2025 22:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/pagerank-algorithme-google/</guid>
+      <guid>https://blog.memlenz.com/parcours/pagerank-algorithme-google/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction 
     &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -93,10 +93,10 @@ La réponse tient en un algorithme devenu mythique : &lt;strong&gt;PageRank&lt;/
     
     <item>
       <title>L’hypocrisie professionnelle ou la stratégie du paraître ?</title>
-      <link>http://localhost:1313/parcours/hypocrisie-professionnelle-strategie-paraitre/</link>
+      <link>https://blog.memlenz.com/parcours/hypocrisie-professionnelle-strategie-paraitre/</link>
       <pubDate>Sun, 02 Nov 2025 21:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/hypocrisie-professionnelle-strategie-paraitre/</guid>
+      <guid>https://blog.memlenz.com/parcours/hypocrisie-professionnelle-strategie-paraitre/</guid>
       <description>&lt;p&gt;Sur les réseaux professionnels, un rituel s’est installé.&lt;br&gt;
 Des publications qui commencent par « J’ai beaucoup appris de ce stage » ou « Cette expérience m’a permis de grandir » inondent les fils d’actualité.&lt;br&gt;
 Des phrases polies, souvent interchangeables, où la gratitude devient une monnaie d’échange sociale.&lt;br&gt;
@@ -106,10 +106,10 @@ Mais derrière cette uniformité de ton, une question dérangeante surgit : &lt;
     
     <item>
       <title>Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font</title>
-      <link>http://localhost:1313/parcours/developpeurs-comprehension-reelle/</link>
+      <link>https://blog.memlenz.com/parcours/developpeurs-comprehension-reelle/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/developpeurs-comprehension-reelle/</guid>
+      <guid>https://blog.memlenz.com/parcours/developpeurs-comprehension-reelle/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Quand le code devient réel 
     &lt;div id=&#34;quand-le-code-devient-réel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -126,10 +126,10 @@ C’est souvent discret. On veut automatiser une tâche qu’on faisait à la ma
     
     <item>
       <title>Quand l’école s’arrête, pourquoi notre apprentissage s’éteint</title>
-      <link>http://localhost:1313/parcours/a-l-ecole/</link>
+      <link>https://blog.memlenz.com/parcours/a-l-ecole/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/a-l-ecole/</guid>
+      <guid>https://blog.memlenz.com/parcours/a-l-ecole/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;« L’éducation n’est pas la préparation à la vie ; l’éducation est la vie elle-même. »&lt;br&gt;
 — John Dewey&lt;/p&gt;
@@ -151,10 +151,10 @@ C’est souvent discret. On veut automatiser une tâche qu’on faisait à la ma
     
     <item>
       <title>L’école n’a jamais été faite pour te rendre riche</title>
-      <link>http://localhost:1313/parcours/moi-un/</link>
+      <link>https://blog.memlenz.com/parcours/moi-un/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/moi-un/</guid>
+      <guid>https://blog.memlenz.com/parcours/moi-un/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Après des heures interminables passées à coder des algorithmes que personne n&amp;rsquo;utilisera, je me pose des questions existentielles : comment devenir riche ? Et si l&amp;rsquo;école, ce temple du savoir, n&amp;rsquo;était pas la clé du coffre-fort ?
 &lt;/div&gt;

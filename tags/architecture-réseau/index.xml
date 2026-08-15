@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architecture Réseau on </title>
+    <link>https://blog.memlenz.com/tags/architecture-r%C3%A9seau/</link>
+    <description>Recent content in Architecture Réseau on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 15 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/architecture-r%C3%A9seau/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pourquoi ne pas avoir un adressage L2 réellement utilisable pour les communications locales, et réserver L3 au routage inter-réseaux ?</title>
+      <link>https://blog.memlenz.com/blog/network-craftsman/get-rid-of-mac-for-l2/</link>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>https://blog.memlenz.com/blog/network-craftsman/get-rid-of-mac-for-l2/</guid>
+      <description>&lt;p&gt;Il y a une différence entre &lt;strong&gt;apprendre comment fonctionne un système&lt;/strong&gt; et commencer à se demander &lt;strong&gt;pourquoi il fonctionne de cette manière&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;C&amp;rsquo;est précisément cette transition qui m&amp;rsquo;a amené à cette réflexion.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.memlenz.com/blog/network-craftsman/get-rid-of-mac-for-l2/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

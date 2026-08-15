@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sets on </title>
-    <link>http://localhost:1313/tags/sets/</link>
+    <link>https://blog.memlenz.com/tags/sets/</link>
     <description>Recent content in Sets on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 19:27:26 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/sets/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 19:27:26 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/sets/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les sets en Python</title>
-      <link>http://localhost:1313/courses/python/sets/</link>
+      <link>https://blog.memlenz.com/courses/python/sets/</link>
       <pubDate>Thu, 27 Feb 2025 19:27:26 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/courses/python/sets/</guid>
+      <guid>https://blog.memlenz.com/courses/python/sets/</guid>
       <description>&lt;p&gt;Tu cherches à stocker des éléments sans te prendre la tête avec des doublons ? Les &lt;strong&gt;sets&lt;/strong&gt; en Python sont là pour ça. Ces collections sont super utiles lorsque tu veux garantir que chaque élément dans ta collection soit unique. En plus, ils offrent une vitesse de recherche et de suppression ultra rapide. Bref, si tu veux de la simplicité et de l&amp;rsquo;efficacité, les sets devraient rapidement devenir tes alliés dans ton code Python.&lt;/p&gt;</description>
       
     </item>

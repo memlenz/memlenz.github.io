@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programmation on </title>
-    <link>http://localhost:1313/tags/programmation/</link>
+    <link>https://blog.memlenz.com/tags/programmation/</link>
     <description>Recent content in Programmation on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/programmation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/programmation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les Artisans d&#39;Internet : reconstruire le réseau, un protocole à la fois</title>
-      <link>http://localhost:1313/blog/network-craftsman/</link>
+      <link>https://blog.memlenz.com/blog/network-craftsman/</link>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/blog/network-craftsman/</guid>
+      <guid>https://blog.memlenz.com/blog/network-craftsman/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Pourquoi cette série ? 
     &lt;div id=&#34;pourquoi-cette-série-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -33,10 +33,10 @@
     
     <item>
       <title>Quand le code devient réel : le moment où les développeurs comprennent vraiment ce qu’ils font</title>
-      <link>http://localhost:1313/parcours/developpeurs-comprehension-reelle/</link>
+      <link>https://blog.memlenz.com/parcours/developpeurs-comprehension-reelle/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/parcours/developpeurs-comprehension-reelle/</guid>
+      <guid>https://blog.memlenz.com/parcours/developpeurs-comprehension-reelle/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Quand le code devient réel 
     &lt;div id=&#34;quand-le-code-devient-réel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
