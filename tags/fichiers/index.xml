@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fichiers on </title>
-    <link>https://blog.memlenz.com/tags/fichiers/</link>
+    <link>http://localhost:1313/tags/fichiers/</link>
     <description>Recent content in Fichiers on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/fichiers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Apr 2025 23:09:59 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/fichiers/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Organiser ses scripts Python proprement sur chaque OS</title>
-      <link>https://blog.memlenz.com/blog/python/organiser-ses-scripts/</link>
+      <link>http://localhost:1313/blog/python/organiser-ses-scripts/</link>
       <pubDate>Fri, 25 Apr 2025 23:09:59 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/organiser-ses-scripts/</guid>
+      <guid>http://localhost:1313/blog/python/organiser-ses-scripts/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi organiser ses scripts Python ? 
     &lt;div id=&#34;pourquoi-organiser-ses-scripts-python-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

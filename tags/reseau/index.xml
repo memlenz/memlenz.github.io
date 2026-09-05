@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reseau on </title>
-    <link>https://blog.memlenz.com/tags/reseau/</link>
+    <link>http://localhost:1313/tags/reseau/</link>
     <description>Recent content in Reseau on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/reseau/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/reseau/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Administrer un serveur Linux distant via SSH (cas pratique avec Debian)</title>
-      <link>https://blog.memlenz.com/blog/linux-tweaks/ssh/</link>
+      <link>http://localhost:1313/blog/linux-tweaks/ssh/</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/linux-tweaks/ssh/</guid>
+      <guid>http://localhost:1313/blog/linux-tweaks/ssh/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Administrer un serveur Linux signifie, dans la majorité des cas, ne jamais utiliser d’interface graphique locale. L’accès distant via SSH constitue la méthode standard, robuste et professionnelle.
 Dans cet article, nous simulons la prise en main d’un serveur distant à l’aide d’une machine virtuelle Debian, afin de mettre en place une configuration propre, sécurisée et reproductible.
@@ -34,7 +34,7 @@ Dans cet article, nous simulons la prise en main d’un serveur distant à l’a
     
 &lt;/h1&gt;
 &lt;p&gt;Dans un environnement réel (VPS, serveur dédié, machine en datacenter, infrastructure cloud), vous n’avez généralement :&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.memlenz.com/blog/linux-tweaks/ssh/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/linux-tweaks/ssh/featured.jpg" />
     </item>
     
   </channel>

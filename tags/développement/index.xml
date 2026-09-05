@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Développement on </title>
-    <link>https://blog.memlenz.com/tags/d%C3%A9veloppement/</link>
+    <link>http://localhost:1313/tags/d%C3%A9veloppement/</link>
     <description>Recent content in Développement on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/d%C3%A9veloppement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/d%C3%A9veloppement/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pourquoi le terminal reste l’outil le plus efficace pour coder</title>
-      <link>https://blog.memlenz.com/blog/why-linux/why-terminal/</link>
+      <link>http://localhost:1313/blog/why-linux/why-terminal/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/why-linux/why-terminal/</guid>
+      <guid>http://localhost:1313/blog/why-linux/why-terminal/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Pourquoi le terminal reste l’outil le plus efficace pour coder 
     &lt;div id=&#34;pourquoi-le-terminal-reste-loutil-le-plus-efficace-pour-coder&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -55,21 +55,21 @@
       /outils-dev/vscode-terminal_hu_b337eb0bc79acd2e.jpg  660w,
       /outils-dev/vscode-terminal_hu_59383e8459a61b04.jpg 1280w
     &#34;
-    data-zoom-src=&#34;https://blog.memlenz.com/outils-dev/vscode-terminal.jpg&#34;
-    src=&#34;https://blog.memlenz.com/outils-dev/vscode-terminal.jpg&#34;&gt;
+    data-zoom-src=&#34;http://localhost:1313/outils-dev/vscode-terminal.jpg&#34;
+    src=&#34;http://localhost:1313/outils-dev/vscode-terminal.jpg&#34;&gt;
 
   
 &lt;/figure&gt;
 &lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.memlenz.com/blog/why-linux/why-terminal/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/why-linux/why-terminal/featured.jpg" />
     </item>
     
     <item>
       <title>Créer un Bot Telegram Basique avec Python : Mon Tutoriel et Code Source sur GitHub</title>
-      <link>https://blog.memlenz.com/blog/python/bot-telegram/</link>
+      <link>http://localhost:1313/blog/python/bot-telegram/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/python/bot-telegram/</guid>
+      <guid>http://localhost:1313/blog/python/bot-telegram/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Imaginez un assistant virtuel qui répond à vos commandes, crie en majuscules pour s&amp;rsquo;amuser, et navigue dans des menus interactifs tout ça dans Telegram. C&amp;rsquo;est ce que j&amp;rsquo;ai codé, et je vous montre comment le reproduire !
 &lt;/div&gt;
@@ -90,10 +90,10 @@
     
     <item>
       <title>Why Linux</title>
-      <link>https://blog.memlenz.com/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
+      <link>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</link>
       <pubDate>Sat, 15 Feb 2025 03:36:29 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
+      <guid>http://localhost:1313/blog/why-linux/pourquoi-linux-m-a-fait-gagner/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;1. Le Déclic : Pourquoi Linux M’a Fait Gagner&lt;/strong&gt; 🚀 
     &lt;div id=&#34;1-le-déclic--pourquoi-linux-ma-fait-gagner-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

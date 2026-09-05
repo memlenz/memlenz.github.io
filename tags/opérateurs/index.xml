@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opérateurs on </title>
-    <link>https://blog.memlenz.com/tags/op%C3%A9rateurs/</link>
+    <link>http://localhost:1313/tags/op%C3%A9rateurs/</link>
     <description>Recent content in Opérateurs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2025 18:44:01 +0100</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/op%C3%A9rateurs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Feb 2025 18:44:01 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/op%C3%A9rateurs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Les operateurs en Python</title>
-      <link>https://blog.memlenz.com/courses/python/operateurs/</link>
+      <link>http://localhost:1313/courses/python/operateurs/</link>
       <pubDate>Thu, 27 Feb 2025 18:44:01 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/courses/python/operateurs/</guid>
+      <guid>http://localhost:1313/courses/python/operateurs/</guid>
       <description>&lt;p&gt;En Python, les opérateurs sont des outils essentiels. Ils sont la base pour effectuer des calculs, manipuler des données et prendre des décisions dans ton code. Qu&amp;rsquo;il s&amp;rsquo;agisse d&amp;rsquo;additionner des nombres, de comparer des valeurs, ou de combiner des expressions logiques, tu vas constamment utiliser des opérateurs. Mais attention, ils ne sont pas tous les mêmes ! Python te donne tout un arsenal d’opérateurs pour accomplir différents types d&amp;rsquo;actions, et comprendre comment ils fonctionnent est indispensable pour bien programmer.&lt;/p&gt;</description>
       
     </item>

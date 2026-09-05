@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C on </title>
-    <link>https://blog.memlenz.com/tags/c/</link>
+    <link>http://localhost:1313/tags/c/</link>
     <description>Recent content in C on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.memlenz.com/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/c/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Construire un mini-Wireshark en C : voir ce que voit votre carte réseau</title>
-      <link>https://blog.memlenz.com/blog/network-craftsman/mini-wireshark/</link>
+      <link>http://localhost:1313/blog/network-craftsman/mini-wireshark/</link>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/network-craftsman/mini-wireshark/</guid>
+      <guid>http://localhost:1313/blog/network-craftsman/mini-wireshark/</guid>
       <description>&lt;p&gt;Tout a commencé par une curiosité simple : &lt;strong&gt;comment Wireshark fait-il pour voir tout ce qui transite sur un réseau ?&lt;/strong&gt; Pas juste le trafic de votre navigateur ou de votre terminal — &lt;em&gt;tout&lt;/em&gt;. ARP, ICMP, les paquets des autres machines sur le même réseau local. Ça m&amp;rsquo;a semblé presque magique. Alors j&amp;rsquo;ai décidé de reconstruire une version minimale en C, depuis zéro, pour comprendre vraiment ce qui se passe sous le capot.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.memlenz.com/blog/network-craftsman/mini-wireshark/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/network-craftsman/mini-wireshark/featured.jpg" />
     </item>
     
     <item>
       <title>Les Artisans d&#39;Internet : reconstruire le réseau, un protocole à la fois</title>
-      <link>https://blog.memlenz.com/blog/network-craftsman/</link>
+      <link>http://localhost:1313/blog/network-craftsman/</link>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>https://blog.memlenz.com/blog/network-craftsman/</guid>
+      <guid>http://localhost:1313/blog/network-craftsman/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Pourquoi cette série ? 
     &lt;div id=&#34;pourquoi-cette-série-&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
