@@ -62,6 +62,16 @@
     </item>
     
     <item>
+      <title>Html</title>
+      <link>http://localhost:1313/tags/html/</link>
+      <pubDate>Sat, 05 Sep 2026 10:26:18 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/html/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Osi</title>
       <link>http://localhost:1313/tags/osi/</link>
       <pubDate>Sat, 05 Sep 2026 10:26:18 +0000</pubDate>
@@ -92,11 +102,31 @@
     </item>
     
     <item>
+      <title>Standards</title>
+      <link>http://localhost:1313/tags/standards/</link>
+      <pubDate>Sat, 05 Sep 2026 10:26:18 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/standards/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>TCP/IP</title>
       <link>http://localhost:1313/tags/tcp/ip/</link>
       <pubDate>Sat, 05 Sep 2026 10:26:18 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/tags/tcp/ip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+      <pubDate>Sat, 05 Sep 2026 10:26:18 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
       
     </item>
@@ -727,16 +757,6 @@
       <pubDate>Sun, 02 Nov 2025 22:29:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/tags/moteur-de-recherche/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>http://localhost:1313/tags/web/</link>
-      <pubDate>Sun, 02 Nov 2025 22:29:56 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
       
     </item>
@@ -1472,7 +1492,7 @@
     </item>
     
     <item>
-      <title>Cli</title>
+      <title>CLI</title>
       <link>http://localhost:1313/tags/cli/</link>
       <pubDate>Sun, 13 Apr 2025 04:34:56 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>

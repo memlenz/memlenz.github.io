@@ -31,6 +31,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/blog/network-craftsman/web-standard-html/</loc>
+    <lastmod>2026-09-05T10:26:18+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/blog/network-craftsman/encapsulation-desencapsulation-reseau/</loc>
     <lastmod>2026-09-05T10:26:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
