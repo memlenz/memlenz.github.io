@@ -9,7 +9,57 @@
     <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
     <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
     <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 05 Sep 2026 10:26:18 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2026 10:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Automatisation</title>
+      <link>http://localhost:1313/tags/automatisation/</link>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/automatisation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Développement Web</title>
+      <link>http://localhost:1313/tags/d%C3%A9veloppement-web/</link>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/d%C3%A9veloppement-web/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/tags/portfolio/</link>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/portfolio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Support Informatique</title>
+      <link>http://localhost:1313/tags/support-informatique/</link>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/support-informatique/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Systèmes Et Réseaux</title>
+      <link>http://localhost:1313/tags/syst%C3%A8mes-et-r%C3%A9seaux/</link>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0100</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/syst%C3%A8mes-et-r%C3%A9seaux/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Osi</title>
@@ -322,31 +372,11 @@
     </item>
     
     <item>
-      <title>Administration Système</title>
-      <link>http://localhost:1313/tags/administration-syst%C3%A8me/</link>
-      <pubDate>Sun, 01 Feb 2026 10:00:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/administration-syst%C3%A8me/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Carrière IT</title>
       <link>http://localhost:1313/tags/carri%C3%A8re-it/</link>
       <pubDate>Sun, 01 Feb 2026 10:00:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/tags/carri%C3%A8re-it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Portfolio</title>
-      <link>http://localhost:1313/tags/portfolio/</link>
-      <pubDate>Sun, 01 Feb 2026 10:00:00 +0100</pubDate>
-      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
-      <guid>http://localhost:1313/tags/portfolio/</guid>
       <description></description>
       
     </item>
@@ -802,7 +832,7 @@
     </item>
     
     <item>
-      <title>Open Source</title>
+      <title>Open-Source</title>
       <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
@@ -1067,6 +1097,16 @@
       <pubDate>Thu, 25 Sep 2025 13:30:00 +0100</pubDate>
       <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
       <guid>http://localhost:1313/tags/timezone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Administration Système</title>
+      <link>http://localhost:1313/tags/administration-syst%C3%A8me/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/tags/administration-syst%C3%A8me/</guid>
       <description></description>
       
     </item>
