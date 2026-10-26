@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-13T10:00:00+01:00</lastmod>
+    <lastmod>2026-10-25T10:26:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -19,14 +19,20 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/portfolio/</loc>
-    <lastmod>2026-10-13T10:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-10-25T10:26:18+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-09-05T10:26:18+00:00</lastmod>
+    <loc>http://localhost:1313/blog/network-craftsman/web-standard-css/</loc>
+    <lastmod>2026-10-25T10:26:18+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2026-10-13T10:00:00+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

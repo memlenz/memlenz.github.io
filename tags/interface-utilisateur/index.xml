@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interface Utilisateur on </title>
+    <link>http://localhost:1313/tags/interface-utilisateur/</link>
+    <description>Recent content in Interface Utilisateur on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <managingEditor>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</managingEditor>
+    <webMaster>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</webMaster>
+    <copyright>&amp;copy; 2025 Ayédoun Châ-Fine ADEBI. All Rights Reserved.</copyright>
+    <lastBuildDate>Sun, 25 Oct 2026 10:26:18 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/interface-utilisateur/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CSS : comment le navigateur transforme une structure HTML en interface</title>
+      <link>http://localhost:1313/blog/network-craftsman/web-standard-css/</link>
+      <pubDate>Sun, 25 Oct 2026 10:26:18 +0000</pubDate>
+      <author>achafine@gmail.com (Châ-Fine Ayédoun ADEBI)</author>
+      <guid>http://localhost:1313/blog/network-craftsman/web-standard-css/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;CSS : comment le navigateur transforme une structure HTML en interface 
+    &lt;div id=&#34;css--comment-le-navigateur-transforme-une-structure-html-en-interface&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#css--comment-le-navigateur-transforme-une-structure-html-en-interface&#34; aria-label=&#34;Ancre&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;Une page Web peut contenir des titres, des paragraphes, des liens et des images sans pour autant ressembler à un site professionnel.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/network-craftsman/web-standard-css/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
